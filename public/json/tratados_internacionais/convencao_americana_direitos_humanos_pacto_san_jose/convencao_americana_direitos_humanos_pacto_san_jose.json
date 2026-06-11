@@ -1,0 +1,995 @@
+{
+  "documento": {
+    "id": "doc_pacto_sao_jose",
+    "tipo": "decreto_convencao_internacional",
+    "titulo": "Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica)",
+    "decreto": {
+      "numero": "678",
+      "data": "1992-11-06",
+      "publicacaoDOU": "1992-11-09",
+      "promulgadoPor": "Itamar Franco",
+      "referendadoPor": "Fernando Henrique Cardoso",
+      "audioId": "audio_decreto_678",
+      "explicacaoId": "exp_decreto_678",
+      "questoesId": ["q_decreto_001", "q_decreto_002", "q_decreto_003"]
+    },
+    
+    "convencao": {
+      "id": "conv_cadh_1969",
+      "nome": "Convenção Americana sobre Direitos Humanos",
+      "apelido": "Pacto de São José da Costa Rica",
+      "local": "São José, Costa Rica",
+      "dataCelebracao": "1969-11-22",
+      "dataVigorInternacional": "1978-07-18",
+      "dataAdesaoBrasil": "1992-09-25",
+      "dataVigorBrasil": "1992-09-25",
+      "audioId": "audio_convencao_intro",
+      "explicacaoId": "exp_convencao_intro",
+      "questoesId": ["q_conv_001", "q_conv_002", "q_conv_003", "q_conv_004"],
+
+      "preambulo": {
+        "id": "preambulo",
+        "titulo": "Preâmbulo",
+        "audioId": "audio_preambulo",
+        "explicacaoId": "exp_preambulo",
+        "questoesId": ["q_pre_001", "q_pre_002"],
+        "considerandos": [
+          {
+            "id": "pre_cons_01",
+            "texto": "Reafirmando seu propósito de consolidar neste Continente, dentro do quadro das instituições democráticas, um regime de liberdade pessoal e de justiça social, fundado no respeito dos direitos essenciais do homem.",
+            "audioId": "audio_pre_cons_01",
+            "explicacaoId": "exp_pre_cons_01"
+          },
+          {
+            "id": "pre_cons_02",
+            "texto": "Reconhecendo que os direitos essenciais do homem não derivam do fato de ser ele nacional de determinado Estado, mas sim do fato de ter como fundamento os atributos da pessoa humana, razão por que justificam uma proteção internacional, de natureza convencional, coadjuvante ou complementar da que oferece o direito interno dos Estados americanos.",
+            "audioId": "audio_pre_cons_02",
+            "explicacaoId": "exp_pre_cons_02"
+          },
+          {
+            "id": "pre_cons_03",
+            "texto": "Considerando que esses princípios foram consagrados na Carta da OEA, na Declaração Americana dos Direitos e Deveres do Homem e na Declaração Universal dos Direitos do Homem.",
+            "audioId": "audio_pre_cons_03",
+            "explicacaoId": "exp_pre_cons_03"
+          },
+          {
+            "id": "pre_cons_04",
+            "texto": "Reiterando que o ideal do ser humano livre só pode ser realizado se forem criadas condições que permitam a cada pessoa gozar dos seus direitos econômicos, sociais e culturais, bem como dos seus direitos civis e políticos.",
+            "audioId": "audio_pre_cons_04",
+            "explicacaoId": "exp_pre_cons_04"
+          },
+          {
+            "id": "pre_cons_05",
+            "texto": "Considerando que a Terceira Conferência Interamericana Extraordinária (Buenos Aires, 1967) aprovou a incorporação à Carta da OEA de normas mais amplas sobre direitos econômicos, sociais e educacionais.",
+            "audioId": "audio_pre_cons_05",
+            "explicacaoId": "exp_pre_cons_05"
+          }
+        ]
+      },
+
+      "partes": [
+
+        {
+          "id": "parte_I",
+          "numero": "I",
+          "titulo": "Deveres dos Estados e Direitos Protegidos",
+          "audioId": "audio_parte_I",
+          "explicacaoId": "exp_parte_I",
+          "questoesId": ["q_pI_001", "q_pI_002"],
+          "capitulos": [
+
+            {
+              "id": "cap_I",
+              "numero": "I",
+              "titulo": "Enumeração de Deveres",
+              "audioId": "audio_cap_I",
+              "explicacaoId": "exp_cap_I",
+              "questoesId": ["q_cI_001", "q_cI_002"],
+              "artigos": [
+                {
+                  "id": "art_01",
+                  "numero": 1,
+                  "titulo": "Obrigação de Respeitar os Direitos",
+                  "audioId": "audio_art_01",
+                  "explicacaoId": "exp_art_01",
+                  "questoesId": ["q_a01_001", "q_a01_002", "q_a01_003"],
+                  "incisos": [
+                    {
+                      "id": "art_01_inc_01",
+                      "numero": 1,
+                      "texto": "Os Estados-Partes nesta Convenção comprometem-se a respeitar os direitos e liberdades nela reconhecidos e a garantir seu livre e pleno exercício a toda pessoa que esteja sujeita à sua jurisdição, sem discriminação alguma por motivo de raça, cor, sexo, idioma, religião, opiniões políticas ou de qualquer outra natureza, origem nacional ou social, posição econômica, nascimento ou qualquer outra condição social.",
+                      "audioId": "audio_art_01_inc_01",
+                      "explicacaoId": "exp_art_01_inc_01"
+                    },
+                    {
+                      "id": "art_01_inc_02",
+                      "numero": 2,
+                      "texto": "Para os efeitos desta Convenção, pessoa é todo ser humano.",
+                      "audioId": "audio_art_01_inc_02",
+                      "explicacaoId": "exp_art_01_inc_02"
+                    }
+                  ]
+                },
+                {
+                  "id": "art_02",
+                  "numero": 2,
+                  "titulo": "Dever de Adotar Disposições de Direito Interno",
+                  "audioId": "audio_art_02",
+                  "explicacaoId": "exp_art_02",
+                  "questoesId": ["q_a02_001", "q_a02_002"],
+                  "texto": "Se o exercício dos direitos e liberdades mencionados no artigo 1 ainda não estiver garantido por disposições legislativas ou de outra natureza, os Estados-Partes comprometem-se a adotar, de acordo com as suas normas constitucionais e com as disposições desta Convenção, as medidas legislativas ou de outra natureza que forem necessárias para tornar efetivos tais direitos e liberdades."
+                }
+              ]
+            },
+
+            {
+              "id": "cap_II",
+              "numero": "II",
+              "titulo": "Direitos Civis e Políticos",
+              "audioId": "audio_cap_II",
+              "explicacaoId": "exp_cap_II",
+              "questoesId": ["q_cII_001", "q_cII_002", "q_cII_003"],
+              "artigos": [
+                {
+                  "id": "art_03",
+                  "numero": 3,
+                  "titulo": "Direito ao Reconhecimento da Personalidade Jurídica",
+                  "audioId": "audio_art_03",
+                  "explicacaoId": "exp_art_03",
+                  "questoesId": ["q_a03_001"],
+                  "texto": "Toda pessoa tem direito ao reconhecimento de sua personalidade jurídica.",
+                  "direitoInsuspenso": true
+                },
+                {
+                  "id": "art_04",
+                  "numero": 4,
+                  "titulo": "Direito à Vida",
+                  "audioId": "audio_art_04",
+                  "explicacaoId": "exp_art_04",
+                  "questoesId": ["q_a04_001", "q_a04_002", "q_a04_003", "q_a04_004"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    {
+                      "id": "art_04_inc_01",
+                      "numero": 1,
+                      "texto": "Toda pessoa tem o direito de que se respeite sua vida. Esse direito deve ser protegido pela lei e, em geral, desde o momento da concepção. Ninguém pode ser privado da vida arbitrariamente.",
+                      "audioId": "audio_art_04_inc_01",
+                      "explicacaoId": "exp_art_04_inc_01"
+                    },
+                    {
+                      "id": "art_04_inc_02",
+                      "numero": 2,
+                      "texto": "Nos países que não houverem abolido a pena de morte, esta só poderá ser imposta pelos delitos mais graves, em cumprimento de sentença final de tribunal competente e em conformidade com lei que estabeleça tal pena, promulgada antes de haver o delito sido cometido.",
+                      "audioId": "audio_art_04_inc_02",
+                      "explicacaoId": "exp_art_04_inc_02"
+                    },
+                    {
+                      "id": "art_04_inc_03",
+                      "numero": 3,
+                      "texto": "Não se pode restabelecer a pena de morte nos Estados que a hajam abolido.",
+                      "audioId": "audio_art_04_inc_03",
+                      "explicacaoId": "exp_art_04_inc_03"
+                    },
+                    {
+                      "id": "art_04_inc_04",
+                      "numero": 4,
+                      "texto": "Em nenhum caso pode a pena de morte ser aplicada por delitos políticos, nem por delitos comuns conexos com delitos políticos.",
+                      "audioId": "audio_art_04_inc_04",
+                      "explicacaoId": "exp_art_04_inc_04"
+                    },
+                    {
+                      "id": "art_04_inc_05",
+                      "numero": 5,
+                      "texto": "Não se deve impor a pena de morte a pessoa que, no momento da perpetração do delito, for menor de dezoito anos, ou maior de setenta, nem aplicá-la a mulher em estado de gravidez.",
+                      "audioId": "audio_art_04_inc_05",
+                      "explicacaoId": "exp_art_04_inc_05"
+                    },
+                    {
+                      "id": "art_04_inc_06",
+                      "numero": 6,
+                      "texto": "Toda pessoa condenada à morte tem direito a solicitar anistia, indulto ou comutação da pena, os quais podem ser concedidos em todos os casos. Não se pode executar a pena de morte enquanto o pedido estiver pendente de decisão ante a autoridade competente.",
+                      "audioId": "audio_art_04_inc_06",
+                      "explicacaoId": "exp_art_04_inc_06"
+                    }
+                  ]
+                },
+                {
+                  "id": "art_05",
+                  "numero": 5,
+                  "titulo": "Direito à Integridade Pessoal",
+                  "audioId": "audio_art_05",
+                  "explicacaoId": "exp_art_05",
+                  "questoesId": ["q_a05_001", "q_a05_002", "q_a05_003"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    { "id": "art_05_inc_01", "numero": 1, "texto": "Toda pessoa tem o direito de que se respeite sua integridade física, psíquica e moral.", "audioId": "audio_art_05_inc_01", "explicacaoId": "exp_art_05_inc_01" },
+                    { "id": "art_05_inc_02", "numero": 2, "texto": "Ninguém deve ser submetido a torturas, nem a penas ou tratos cruéis, desumanos ou degradantes. Toda pessoa privada da liberdade deve ser tratada com o respeito devido à dignidade inerente ao ser humano.", "audioId": "audio_art_05_inc_02", "explicacaoId": "exp_art_05_inc_02" },
+                    { "id": "art_05_inc_03", "numero": 3, "texto": "A pena não pode passar da pessoa do delinquente.", "audioId": "audio_art_05_inc_03", "explicacaoId": "exp_art_05_inc_03" },
+                    { "id": "art_05_inc_04", "numero": 4, "texto": "Os processados devem ficar separados dos condenados, salvo em circunstâncias excepcionais, e ser submetidos a tratamento adequado à sua condição de pessoas não condenadas.", "audioId": "audio_art_05_inc_04", "explicacaoId": "exp_art_05_inc_04" },
+                    { "id": "art_05_inc_05", "numero": 5, "texto": "Os menores, quando puderem ser processados, devem ser separados dos adultos e conduzidos a tribunal especializado, com a maior rapidez possível, para seu tratamento.", "audioId": "audio_art_05_inc_05", "explicacaoId": "exp_art_05_inc_05" },
+                    { "id": "art_05_inc_06", "numero": 6, "texto": "As penas privativas da liberdade devem ter por finalidade essencial a reforma e a readaptação social dos condenados.", "audioId": "audio_art_05_inc_06", "explicacaoId": "exp_art_05_inc_06" }
+                  ]
+                },
+                {
+                  "id": "art_06",
+                  "numero": 6,
+                  "titulo": "Proibição da Escravidão e da Servidão",
+                  "audioId": "audio_art_06",
+                  "explicacaoId": "exp_art_06",
+                  "questoesId": ["q_a06_001", "q_a06_002"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    { "id": "art_06_inc_01", "numero": 1, "texto": "Ninguém pode ser submetido a escravidão ou a servidão, e tanto estas como o tráfico de escravos e o tráfico de mulheres são proibidos em todas as formas.", "audioId": "audio_art_06_inc_01", "explicacaoId": "exp_art_06_inc_01" },
+                    {
+                      "id": "art_06_inc_02",
+                      "numero": 2,
+                      "texto": "Ninguém deve ser constrangido a executar trabalho forçado ou obrigatório.",
+                      "audioId": "audio_art_06_inc_02",
+                      "explicacaoId": "exp_art_06_inc_02"
+                    },
+                    {
+                      "id": "art_06_inc_03",
+                      "numero": 3,
+                      "titulo": "Não constituem trabalhos forçados ou obrigatórios",
+                      "audioId": "audio_art_06_inc_03",
+                      "explicacaoId": "exp_art_06_inc_03",
+                      "alineas": [
+                        { "id": "art_06_inc_03_a", "letra": "a", "texto": "Os trabalhos ou serviços normalmente exigidos de pessoa reclusa em cumprimento de sentença ou resolução formal expedida pela autoridade judiciária competente.", "audioId": "audio_art_06_a", "explicacaoId": "exp_art_06_a" },
+                        { "id": "art_06_inc_03_b", "letra": "b", "texto": "O serviço militar e, nos países onde se admite a isenção por motivos de consciência, o serviço nacional que a lei estabelecer em lugar daquele.", "audioId": "audio_art_06_b", "explicacaoId": "exp_art_06_b" },
+                        { "id": "art_06_inc_03_c", "letra": "c", "texto": "O serviço imposto em casos de perigo ou calamidade que ameace a existência ou o bem-estar da comunidade.", "audioId": "audio_art_06_c", "explicacaoId": "exp_art_06_c" },
+                        { "id": "art_06_inc_03_d", "letra": "d", "texto": "O trabalho ou serviço que faça parte das obrigações cívicas normais.", "audioId": "audio_art_06_d", "explicacaoId": "exp_art_06_d" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "art_07",
+                  "numero": 7,
+                  "titulo": "Direito à Liberdade Pessoal",
+                  "audioId": "audio_art_07",
+                  "explicacaoId": "exp_art_07",
+                  "questoesId": ["q_a07_001", "q_a07_002", "q_a07_003", "q_a07_004"],
+                  "incisos": [
+                    { "id": "art_07_inc_01", "numero": 1, "texto": "Toda pessoa tem direito à liberdade e à segurança pessoais.", "audioId": "audio_art_07_inc_01", "explicacaoId": "exp_art_07_inc_01" },
+                    { "id": "art_07_inc_02", "numero": 2, "texto": "Ninguém pode ser privado de sua liberdade física, salvo pelas causas e nas condições previamente fixadas pelas constituições políticas dos Estados-Partes ou pelas leis de acordo com elas promulgadas.", "audioId": "audio_art_07_inc_02", "explicacaoId": "exp_art_07_inc_02" },
+                    { "id": "art_07_inc_03", "numero": 3, "texto": "Ninguém pode ser submetido a detenção ou encarceramento arbitrários.", "audioId": "audio_art_07_inc_03", "explicacaoId": "exp_art_07_inc_03" },
+                    { "id": "art_07_inc_04", "numero": 4, "texto": "Toda pessoa detida ou retida deve ser informada das razões da sua detenção e notificada, sem demora, da acusação ou acusações formuladas contra ela.", "audioId": "audio_art_07_inc_04", "explicacaoId": "exp_art_07_inc_04" },
+                    { "id": "art_07_inc_05", "numero": 5, "texto": "Toda pessoa detida ou retida deve ser conduzida, sem demora, à presença de um juiz ou outra autoridade autorizada pela lei a exercer funções judiciais e tem direito a ser julgada dentro de um prazo razoável ou a ser posta em liberdade, sem prejuízo de que prossiga o processo.", "audioId": "audio_art_07_inc_05", "explicacaoId": "exp_art_07_inc_05" },
+                    { "id": "art_07_inc_06", "numero": 6, "texto": "Toda pessoa privada da liberdade tem direito a recorrer a um juiz ou tribunal competente, a fim de que este decida, sem demora, sobre a legalidade de sua prisão ou detenção e ordene sua soltura se a prisão ou a detenção forem ilegais.", "audioId": "audio_art_07_inc_06", "explicacaoId": "exp_art_07_inc_06" },
+                    { "id": "art_07_inc_07", "numero": 7, "texto": "Ninguém deve ser detido por dívida. Este princípio não limita os mandados de autoridade judiciária competente expedidos em virtude de inadimplemento de obrigação alimentar.", "audioId": "audio_art_07_inc_07", "explicacaoId": "exp_art_07_inc_07" }
+                  ]
+                },
+                {
+                  "id": "art_08",
+                  "numero": 8,
+                  "titulo": "Garantias Judiciais",
+                  "audioId": "audio_art_08",
+                  "explicacaoId": "exp_art_08",
+                  "questoesId": ["q_a08_001", "q_a08_002", "q_a08_003", "q_a08_004", "q_a08_005"],
+                  "incisos": [
+                    { "id": "art_08_inc_01", "numero": 1, "texto": "Toda pessoa tem direito a ser ouvida, com as devidas garantias e dentro de um prazo razoável, por um juiz ou tribunal competente, independente e imparcial, estabelecido anteriormente por lei, na apuração de qualquer acusação penal formulada contra ela, ou para que se determinem seus direitos ou obrigações de natureza civil, trabalhista, fiscal ou de qualquer outra natureza.", "audioId": "audio_art_08_inc_01", "explicacaoId": "exp_art_08_inc_01" },
+                    {
+                      "id": "art_08_inc_02",
+                      "numero": 2,
+                      "texto": "Toda pessoa acusada de delito tem direito a que se presuma sua inocência enquanto não se comprove legalmente sua culpa.",
+                      "audioId": "audio_art_08_inc_02",
+                      "explicacaoId": "exp_art_08_inc_02",
+                      "alineas": [
+                        { "id": "art_08_inc_02_a", "letra": "a", "texto": "Direito do acusado de ser assistido gratuitamente por tradutor ou intérprete, se não compreender ou não falar o idioma do juízo ou tribunal.", "audioId": "audio_art_08_a", "explicacaoId": "exp_art_08_a" },
+                        { "id": "art_08_inc_02_b", "letra": "b", "texto": "Comunicação prévia e pormenorizada ao acusado da acusação formulada.", "audioId": "audio_art_08_b", "explicacaoId": "exp_art_08_b" },
+                        { "id": "art_08_inc_02_c", "letra": "c", "texto": "Concessão ao acusado do tempo e dos meios adequados para a preparação de sua defesa.", "audioId": "audio_art_08_c", "explicacaoId": "exp_art_08_c" },
+                        { "id": "art_08_inc_02_d", "letra": "d", "texto": "Direito do acusado de defender-se pessoalmente ou de ser assistido por um defensor de sua escolha e de comunicar-se, livremente e em particular, com seu defensor.", "audioId": "audio_art_08_d", "explicacaoId": "exp_art_08_d" },
+                        { "id": "art_08_inc_02_e", "letra": "e", "texto": "Direito irrenunciável de ser assistido por um defensor proporcionado pelo Estado, remunerado ou não, segundo a legislação interna, se o acusado não se defender ele próprio nem nomear defensor dentro do prazo estabelecido pela lei.", "audioId": "audio_art_08_e", "explicacaoId": "exp_art_08_e" },
+                        { "id": "art_08_inc_02_f", "letra": "f", "texto": "Direito da defesa de inquirir as testemunhas presentes no tribunal e de obter o comparecimento, como testemunhas ou peritos, de outras pessoas que possam lançar luz sobre os fatos.", "audioId": "audio_art_08_f", "explicacaoId": "exp_art_08_f" },
+                        { "id": "art_08_inc_02_g", "letra": "g", "texto": "Direito de não ser obrigado a depor contra si mesma, nem a declarar-se culpada.", "audioId": "audio_art_08_g", "explicacaoId": "exp_art_08_g" },
+                        { "id": "art_08_inc_02_h", "letra": "h", "texto": "Direito de recorrer da sentença para juiz ou tribunal superior.", "audioId": "audio_art_08_h", "explicacaoId": "exp_art_08_h" }
+                      ]
+                    },
+                    { "id": "art_08_inc_03", "numero": 3, "texto": "A confissão do acusado só é válida se feita sem coação de nenhuma natureza.", "audioId": "audio_art_08_inc_03", "explicacaoId": "exp_art_08_inc_03" },
+                    { "id": "art_08_inc_04", "numero": 4, "texto": "O acusado absolvido por sentença passada em julgado não poderá ser submetido a novo processo pelos mesmos fatos.", "audioId": "audio_art_08_inc_04", "explicacaoId": "exp_art_08_inc_04" },
+                    { "id": "art_08_inc_05", "numero": 5, "texto": "O processo penal deve ser público, salvo no que for necessário para preservar os interesses da justiça.", "audioId": "audio_art_08_inc_05", "explicacaoId": "exp_art_08_inc_05" }
+                  ]
+                },
+                {
+                  "id": "art_09",
+                  "numero": 9,
+                  "titulo": "Princípio da Legalidade e da Retroatividade",
+                  "audioId": "audio_art_09",
+                  "explicacaoId": "exp_art_09",
+                  "questoesId": ["q_a09_001", "q_a09_002"],
+                  "direitoInsuspenso": true,
+                  "texto": "Ninguém pode ser condenado por ações ou omissões que, no momento em que forem cometidas, não sejam delituosas, de acordo com o direito aplicável. Tampouco se pode impor pena mais grave que a aplicável no momento da perpetração do delito. Se depois da perpetração do delito a lei dispuser a imposição de pena mais leve, o delinquente será por isso beneficiado."
+                },
+                {
+                  "id": "art_10",
+                  "numero": 10,
+                  "titulo": "Direito a Indenização",
+                  "audioId": "audio_art_10",
+                  "explicacaoId": "exp_art_10",
+                  "questoesId": ["q_a10_001"],
+                  "texto": "Toda pessoa tem direito de ser indenizada conforme a lei, no caso de haver sido condenada em sentença passada em julgado, por erro judiciário."
+                },
+                {
+                  "id": "art_11",
+                  "numero": 11,
+                  "titulo": "Proteção da Honra e da Dignidade",
+                  "audioId": "audio_art_11",
+                  "explicacaoId": "exp_art_11",
+                  "questoesId": ["q_a11_001", "q_a11_002"],
+                  "incisos": [
+                    { "id": "art_11_inc_01", "numero": 1, "texto": "Toda pessoa tem direito ao respeito de sua honra e ao reconhecimento de sua dignidade.", "audioId": "audio_art_11_inc_01", "explicacaoId": "exp_art_11_inc_01" },
+                    { "id": "art_11_inc_02", "numero": 2, "texto": "Ninguém pode ser objeto de ingerências arbitrárias ou abusivas em sua vida privada, na de sua família, em seu domicílio ou em sua correspondência, nem de ofensas ilegais à sua honra ou reputação.", "audioId": "audio_art_11_inc_02", "explicacaoId": "exp_art_11_inc_02" },
+                    { "id": "art_11_inc_03", "numero": 3, "texto": "Toda pessoa tem direito à proteção da lei contra tais ingerências ou tais ofensas.", "audioId": "audio_art_11_inc_03", "explicacaoId": "exp_art_11_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_12",
+                  "numero": 12,
+                  "titulo": "Liberdade de Consciência e de Religião",
+                  "audioId": "audio_art_12",
+                  "explicacaoId": "exp_art_12",
+                  "questoesId": ["q_a12_001", "q_a12_002"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    { "id": "art_12_inc_01", "numero": 1, "texto": "Toda pessoa tem direito à liberdade de consciência e de religião. Esse direito implica a liberdade de conservar sua religião ou suas crenças, ou de mudar de religião ou de crenças, bem como a liberdade de professar e divulgar sua religião ou suas crenças, individual ou coletivamente, tanto em público como em privado.", "audioId": "audio_art_12_inc_01", "explicacaoId": "exp_art_12_inc_01" },
+                    { "id": "art_12_inc_02", "numero": 2, "texto": "Ninguém pode ser objeto de medidas restritivas que possam limitar sua liberdade de conservar sua religião ou suas crenças, ou de mudar de religião ou de crenças.", "audioId": "audio_art_12_inc_02", "explicacaoId": "exp_art_12_inc_02" },
+                    { "id": "art_12_inc_03", "numero": 3, "texto": "A liberdade de manifestar a própria religião e as próprias crenças está sujeita unicamente às limitações prescritas pela lei e que sejam necessárias para proteger a segurança, a ordem, a saúde ou a moral públicas ou os direitos ou liberdades das demais pessoas.", "audioId": "audio_art_12_inc_03", "explicacaoId": "exp_art_12_inc_03" },
+                    { "id": "art_12_inc_04", "numero": 4, "texto": "Os pais, e quando for o caso os tutores, têm direito a que seus filhos ou pupilos recebam a educação religiosa e moral que esteja acorde com suas próprias convicções.", "audioId": "audio_art_12_inc_04", "explicacaoId": "exp_art_12_inc_04" }
+                  ]
+                },
+                {
+                  "id": "art_13",
+                  "numero": 13,
+                  "titulo": "Liberdade de Pensamento e de Expressão",
+                  "audioId": "audio_art_13",
+                  "explicacaoId": "exp_art_13",
+                  "questoesId": ["q_a13_001", "q_a13_002", "q_a13_003"],
+                  "incisos": [
+                    { "id": "art_13_inc_01", "numero": 1, "texto": "Toda pessoa tem direito à liberdade de pensamento e de expressão. Esse direito compreende a liberdade de buscar, receber e difundir informações e ideias de toda natureza, sem consideração de fronteiras, verbalmente ou por escrito, ou em forma impressa ou artística, ou por qualquer outro processo de sua escolha.", "audioId": "audio_art_13_inc_01", "explicacaoId": "exp_art_13_inc_01" },
+                    {
+                      "id": "art_13_inc_02",
+                      "numero": 2,
+                      "texto": "O exercício do direito previsto no inciso precedente não pode estar sujeito a censura prévia, mas a responsabilidades ulteriores, que devem ser expressamente fixadas pela lei e ser necessárias para assegurar:",
+                      "audioId": "audio_art_13_inc_02",
+                      "explicacaoId": "exp_art_13_inc_02",
+                      "alineas": [
+                        { "id": "art_13_inc_02_a", "letra": "a", "texto": "O respeito aos direitos ou à reputação das demais pessoas.", "audioId": "audio_art_13_a", "explicacaoId": "exp_art_13_a" },
+                        { "id": "art_13_inc_02_b", "letra": "b", "texto": "A proteção da segurança nacional, da ordem pública, ou da saúde ou da moral públicas.", "audioId": "audio_art_13_b", "explicacaoId": "exp_art_13_b" }
+                      ]
+                    },
+                    { "id": "art_13_inc_03", "numero": 3, "texto": "Não se pode restringir o direito de expressão por vias ou meios indiretos, tais como o abuso de controles oficiais ou particulares de papel de imprensa, de frequências radioelétricas ou de equipamentos e aparelhos usados na difusão de informação.", "audioId": "audio_art_13_inc_03", "explicacaoId": "exp_art_13_inc_03" },
+                    { "id": "art_13_inc_04", "numero": 4, "texto": "A lei pode submeter os espetáculos públicos a censura prévia, com o objetivo exclusivo de regular o acesso a eles, para proteção moral da infância e da adolescência.", "audioId": "audio_art_13_inc_04", "explicacaoId": "exp_art_13_inc_04" },
+                    { "id": "art_13_inc_05", "numero": 5, "texto": "A lei deve proibir toda propaganda a favor da guerra, bem como toda apologia ao ódio nacional, racial ou religioso que constitua incitação à discriminação, à hostilidade, ao crime ou à violência.", "audioId": "audio_art_13_inc_05", "explicacaoId": "exp_art_13_inc_05" }
+                  ]
+                },
+                {
+                  "id": "art_14",
+                  "numero": 14,
+                  "titulo": "Direito de Retificação ou Resposta",
+                  "audioId": "audio_art_14",
+                  "explicacaoId": "exp_art_14",
+                  "questoesId": ["q_a14_001", "q_a14_002"],
+                  "incisos": [
+                    { "id": "art_14_inc_01", "numero": 1, "texto": "Toda pessoa atingida por informações inexatas ou ofensivas emitidas em seu prejuízo por meios de difusão legalmente regulamentados e que se dirijam ao público em geral, tem direito a fazer, pelo mesmo órgão de difusão, sua retificação ou resposta, nas condições que estabeleça a lei.", "audioId": "audio_art_14_inc_01", "explicacaoId": "exp_art_14_inc_01" },
+                    { "id": "art_14_inc_02", "numero": 2, "texto": "Em nenhum caso a retificação ou a resposta eximirão das outras responsabilidades legais em que se houver incorrido.", "audioId": "audio_art_14_inc_02", "explicacaoId": "exp_art_14_inc_02" },
+                    { "id": "art_14_inc_03", "numero": 3, "texto": "Para a efetiva proteção da honra e da reputação, toda publicação ou empresa jornalística, cinematográfica, de rádio ou televisão, deve ter uma pessoa responsável que não seja protegida por imunidades nem goze de foro especial.", "audioId": "audio_art_14_inc_03", "explicacaoId": "exp_art_14_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_15",
+                  "numero": 15,
+                  "titulo": "Direito de Reunião",
+                  "audioId": "audio_art_15",
+                  "explicacaoId": "exp_art_15",
+                  "questoesId": ["q_a15_001"],
+                  "texto": "É reconhecido o direito de reunião pacífica e sem armas. O exercício de tal direito só pode estar sujeito às restrições previstas pela lei e que sejam necessárias, numa sociedade democrática, no interesse da segurança nacional, da segurança ou da ordem públicas, ou para proteger a saúde ou a moral públicas ou os direitos e liberdades das demais pessoas."
+                },
+                {
+                  "id": "art_16",
+                  "numero": 16,
+                  "titulo": "Liberdade de Associação",
+                  "audioId": "audio_art_16",
+                  "explicacaoId": "exp_art_16",
+                  "questoesId": ["q_a16_001", "q_a16_002"],
+                  "incisos": [
+                    { "id": "art_16_inc_01", "numero": 1, "texto": "Todas as pessoas têm o direito de associar-se livremente com fins ideológicos, religiosos, políticos, econômicos, trabalhistas, sociais, culturais, desportivos ou de qualquer outra natureza.", "audioId": "audio_art_16_inc_01", "explicacaoId": "exp_art_16_inc_01" },
+                    { "id": "art_16_inc_02", "numero": 2, "texto": "O exercício de tal direito só pode estar sujeito às restrições previstas pela lei que sejam necessárias, numa sociedade democrática, no interesse da segurança nacional, da segurança ou da ordem públicas, ou para proteger a saúde ou a moral públicas ou os direitos e liberdades das demais pessoas.", "audioId": "audio_art_16_inc_02", "explicacaoId": "exp_art_16_inc_02" },
+                    { "id": "art_16_inc_03", "numero": 3, "texto": "O disposto neste artigo não impede a imposição de restrições legais, e mesmo a privação do exercício do direito de associação, aos membros das forças armadas e da polícia.", "audioId": "audio_art_16_inc_03", "explicacaoId": "exp_art_16_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_17",
+                  "numero": 17,
+                  "titulo": "Proteção da Família",
+                  "audioId": "audio_art_17",
+                  "explicacaoId": "exp_art_17",
+                  "questoesId": ["q_a17_001", "q_a17_002"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    { "id": "art_17_inc_01", "numero": 1, "texto": "A família é o elemento natural e fundamental da sociedade e deve ser protegida pela sociedade e pelo Estado.", "audioId": "audio_art_17_inc_01", "explicacaoId": "exp_art_17_inc_01" },
+                    { "id": "art_17_inc_02", "numero": 2, "texto": "É reconhecido o direito do homem e da mulher de contraírem casamento e de fundarem uma família, se tiverem a idade e as condições para isso exigidas pelas leis internas, na medida em que não afetem estas o princípio da não discriminação estabelecido nesta Convenção.", "audioId": "audio_art_17_inc_02", "explicacaoId": "exp_art_17_inc_02" },
+                    { "id": "art_17_inc_03", "numero": 3, "texto": "O casamento não pode ser celebrado sem o livre e pleno consentimento dos contraentes.", "audioId": "audio_art_17_inc_03", "explicacaoId": "exp_art_17_inc_03" },
+                    { "id": "art_17_inc_04", "numero": 4, "texto": "Os Estados-Partes devem tomar medidas apropriadas no sentido de assegurar a igualdade de direitos e a adequada equivalência de responsabilidades dos cônjuges quanto ao casamento, durante o casamento e em caso de dissolução do mesmo.", "audioId": "audio_art_17_inc_04", "explicacaoId": "exp_art_17_inc_04" },
+                    { "id": "art_17_inc_05", "numero": 5, "texto": "A lei deve reconhecer iguais direitos tanto aos filhos nascidos fora do casamento como aos nascidos dentro do casamento.", "audioId": "audio_art_17_inc_05", "explicacaoId": "exp_art_17_inc_05" }
+                  ]
+                },
+                {
+                  "id": "art_18",
+                  "numero": 18,
+                  "titulo": "Direito ao Nome",
+                  "audioId": "audio_art_18",
+                  "explicacaoId": "exp_art_18",
+                  "questoesId": ["q_a18_001"],
+                  "direitoInsuspenso": true,
+                  "texto": "Toda pessoa tem direito a um prenome e aos nomes de seus pais ou ao de um destes. A lei deve regular a forma de assegurar a todos esse direito, mediante nomes fictícios, se for necessário."
+                },
+                {
+                  "id": "art_19",
+                  "numero": 19,
+                  "titulo": "Direitos da Criança",
+                  "audioId": "audio_art_19",
+                  "explicacaoId": "exp_art_19",
+                  "questoesId": ["q_a19_001"],
+                  "direitoInsuspenso": true,
+                  "texto": "Toda criança tem direito às medidas de proteção que a sua condição de menor requer por parte da sua família, da sociedade e do Estado."
+                },
+                {
+                  "id": "art_20",
+                  "numero": 20,
+                  "titulo": "Direito à Nacionalidade",
+                  "audioId": "audio_art_20",
+                  "explicacaoId": "exp_art_20",
+                  "questoesId": ["q_a20_001", "q_a20_002"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    { "id": "art_20_inc_01", "numero": 1, "texto": "Toda pessoa tem direito a uma nacionalidade.", "audioId": "audio_art_20_inc_01", "explicacaoId": "exp_art_20_inc_01" },
+                    { "id": "art_20_inc_02", "numero": 2, "texto": "Toda pessoa tem direito à nacionalidade do Estado em cujo território houver nascido, se não tiver direito a outra.", "audioId": "audio_art_20_inc_02", "explicacaoId": "exp_art_20_inc_02" },
+                    { "id": "art_20_inc_03", "numero": 3, "texto": "A ninguém se deve privar arbitrariamente de sua nacionalidade nem do direito de mudá-la.", "audioId": "audio_art_20_inc_03", "explicacaoId": "exp_art_20_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_21",
+                  "numero": 21,
+                  "titulo": "Direito à Propriedade Privada",
+                  "audioId": "audio_art_21",
+                  "explicacaoId": "exp_art_21",
+                  "questoesId": ["q_a21_001", "q_a21_002"],
+                  "incisos": [
+                    { "id": "art_21_inc_01", "numero": 1, "texto": "Toda pessoa tem direito ao uso e gozo dos seus bens. A lei pode subordinar esse uso e gozo ao interesse social.", "audioId": "audio_art_21_inc_01", "explicacaoId": "exp_art_21_inc_01" },
+                    { "id": "art_21_inc_02", "numero": 2, "texto": "Nenhuma pessoa pode ser privada de seus bens, salvo mediante o pagamento de indenização justa, por motivo de utilidade pública ou de interesse social e nos casos e na forma estabelecidos pela lei.", "audioId": "audio_art_21_inc_02", "explicacaoId": "exp_art_21_inc_02" },
+                    { "id": "art_21_inc_03", "numero": 3, "texto": "Tanto a usura como qualquer outra forma de exploração do homem pelo homem devem ser reprimidas pela lei.", "audioId": "audio_art_21_inc_03", "explicacaoId": "exp_art_21_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_22",
+                  "numero": 22,
+                  "titulo": "Direito de Circulação e de Residência",
+                  "audioId": "audio_art_22",
+                  "explicacaoId": "exp_art_22",
+                  "questoesId": ["q_a22_001", "q_a22_002", "q_a22_003"],
+                  "incisos": [
+                    { "id": "art_22_inc_01", "numero": 1, "texto": "Toda pessoa que se ache legalmente no território de um Estado tem direito de circular nele e de nele residir em conformidade com as disposições legais.", "audioId": "audio_art_22_inc_01", "explicacaoId": "exp_art_22_inc_01" },
+                    { "id": "art_22_inc_02", "numero": 2, "texto": "Toda pessoa tem o direito de sair livremente de qualquer país, inclusive do próprio.", "audioId": "audio_art_22_inc_02", "explicacaoId": "exp_art_22_inc_02" },
+                    { "id": "art_22_inc_05", "numero": 5, "texto": "Ninguém pode ser expulso do território do Estado do qual for nacional, nem ser privado do direito de nele entrar.", "audioId": "audio_art_22_inc_05", "explicacaoId": "exp_art_22_inc_05" },
+                    { "id": "art_22_inc_07", "numero": 7, "texto": "Toda pessoa tem o direito de buscar e receber asilo em território estrangeiro, em caso de perseguição por delitos políticos ou comuns conexos com delitos políticos.", "audioId": "audio_art_22_inc_07", "explicacaoId": "exp_art_22_inc_07" },
+                    { "id": "art_22_inc_08", "numero": 8, "texto": "Em nenhum caso o estrangeiro pode ser expulso ou entregue a outro país, seja ou não de origem, onde seu direito à vida ou à liberdade pessoal esteja em risco de violação.", "audioId": "audio_art_22_inc_08", "explicacaoId": "exp_art_22_inc_08" },
+                    { "id": "art_22_inc_09", "numero": 9, "texto": "É proibida a expulsão coletiva de estrangeiros.", "audioId": "audio_art_22_inc_09", "explicacaoId": "exp_art_22_inc_09" }
+                  ]
+                },
+                {
+                  "id": "art_23",
+                  "numero": 23,
+                  "titulo": "Direitos Políticos",
+                  "audioId": "audio_art_23",
+                  "explicacaoId": "exp_art_23",
+                  "questoesId": ["q_a23_001", "q_a23_002"],
+                  "direitoInsuspenso": true,
+                  "incisos": [
+                    {
+                      "id": "art_23_inc_01",
+                      "numero": 1,
+                      "texto": "Todos os cidadãos devem gozar dos seguintes direitos e oportunidades:",
+                      "audioId": "audio_art_23_inc_01",
+                      "explicacaoId": "exp_art_23_inc_01",
+                      "alineas": [
+                        { "id": "art_23_a", "letra": "a", "texto": "De participar da direção dos assuntos públicos, diretamente ou por meio de representantes livremente eleitos.", "audioId": "audio_art_23_a", "explicacaoId": "exp_art_23_a" },
+                        { "id": "art_23_b", "letra": "b", "texto": "De votar e ser eleitos em eleições periódicas autênticas, realizadas por sufrágio universal e igual e por voto secreto que garanta a livre expressão da vontade dos eleitores.", "audioId": "audio_art_23_b", "explicacaoId": "exp_art_23_b" },
+                        { "id": "art_23_c", "letra": "c", "texto": "De ter acesso, em condições gerais de igualdade, às funções públicas de seu país.", "audioId": "audio_art_23_c", "explicacaoId": "exp_art_23_c" }
+                      ]
+                    },
+                    { "id": "art_23_inc_02", "numero": 2, "texto": "A lei pode regular o exercício dos direitos e oportunidades a que se refere o inciso anterior, exclusivamente por motivos de idade, nacionalidade, residência, idioma, instrução, capacidade civil ou mental, ou condenação, por juiz competente, em processo penal.", "audioId": "audio_art_23_inc_02", "explicacaoId": "exp_art_23_inc_02" }
+                  ]
+                },
+                {
+                  "id": "art_24",
+                  "numero": 24,
+                  "titulo": "Igualdade Perante a Lei",
+                  "audioId": "audio_art_24",
+                  "explicacaoId": "exp_art_24",
+                  "questoesId": ["q_a24_001"],
+                  "texto": "Todas as pessoas são iguais perante a lei. Por conseguinte, têm direito, sem discriminação, a igual proteção da lei."
+                },
+                {
+                  "id": "art_25",
+                  "numero": 25,
+                  "titulo": "Proteção Judicial",
+                  "audioId": "audio_art_25",
+                  "explicacaoId": "exp_art_25",
+                  "questoesId": ["q_a25_001", "q_a25_002"],
+                  "incisos": [
+                    { "id": "art_25_inc_01", "numero": 1, "texto": "Toda pessoa tem direito a um recurso simples e rápido ou a qualquer outro recurso efetivo, perante os juízes ou tribunais competentes, que a proteja contra atos que violem seus direitos fundamentais reconhecidos pela constituição, pela lei ou pela presente Convenção, mesmo quando tal violação seja cometida por pessoas que estejam atuando no exercício de suas funções oficiais.", "audioId": "audio_art_25_inc_01", "explicacaoId": "exp_art_25_inc_01" },
+                    {
+                      "id": "art_25_inc_02",
+                      "numero": 2,
+                      "texto": "Os Estados-Partes comprometem-se:",
+                      "audioId": "audio_art_25_inc_02",
+                      "explicacaoId": "exp_art_25_inc_02",
+                      "alineas": [
+                        { "id": "art_25_a", "letra": "a", "texto": "A assegurar que a autoridade competente prevista pelo sistema legal do Estado decida sobre os direitos de toda pessoa que interpuser tal recurso.", "audioId": "audio_art_25_a", "explicacaoId": "exp_art_25_a" },
+                        { "id": "art_25_b", "letra": "b", "texto": "A desenvolver as possibilidades de recurso judicial.", "audioId": "audio_art_25_b", "explicacaoId": "exp_art_25_b" },
+                        { "id": "art_25_c", "letra": "c", "texto": "A assegurar o cumprimento, pelas autoridades competentes, de toda decisão em que se tenha considerado procedente o recurso.", "audioId": "audio_art_25_c", "explicacaoId": "exp_art_25_c" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "id": "cap_III",
+              "numero": "III",
+              "titulo": "Direitos Econômicos, Sociais e Culturais",
+              "audioId": "audio_cap_III",
+              "explicacaoId": "exp_cap_III",
+              "questoesId": ["q_cIII_001"],
+              "artigos": [
+                {
+                  "id": "art_26",
+                  "numero": 26,
+                  "titulo": "Desenvolvimento Progressivo",
+                  "audioId": "audio_art_26",
+                  "explicacaoId": "exp_art_26",
+                  "questoesId": ["q_a26_001", "q_a26_002"],
+                  "texto": "Os Estados-Partes comprometem-se a adotar providências, tanto no âmbito interno como mediante cooperação internacional, especialmente econômica e técnica, a fim de conseguir progressivamente a plena efetividade dos direitos que decorrem das normas econômicas, sociais e sobre educação, ciência e cultura, constantes da Carta da OEA reformada pelo Protocolo de Buenos Aires, na medida dos recursos disponíveis, por via legislativa ou por outros meios apropriados."
+                }
+              ]
+            },
+
+            {
+              "id": "cap_IV",
+              "numero": "IV",
+              "titulo": "Suspensão de Garantias, Interpretação e Aplicação",
+              "audioId": "audio_cap_IV",
+              "explicacaoId": "exp_cap_IV",
+              "questoesId": ["q_cIV_001", "q_cIV_002"],
+              "artigos": [
+                {
+                  "id": "art_27",
+                  "numero": 27,
+                  "titulo": "Suspensão de Garantias",
+                  "audioId": "audio_art_27",
+                  "explicacaoId": "exp_art_27",
+                  "questoesId": ["q_a27_001", "q_a27_002", "q_a27_003"],
+                  "incisos": [
+                    { "id": "art_27_inc_01", "numero": 1, "texto": "Em caso de guerra, de perigo público, ou de outra emergência que ameace a independência ou segurança do Estado-Parte, este poderá adotar disposições que, na medida e pelo tempo estritamente limitados às exigências da situação, suspendam as obrigações contraídas em virtude desta Convenção.", "audioId": "audio_art_27_inc_01", "explicacaoId": "exp_art_27_inc_01" },
+                    {
+                      "id": "art_27_inc_02",
+                      "numero": 2,
+                      "texto": "A disposição precedente não autoriza a suspensão dos direitos determinados nos seguintes artigos:",
+                      "audioId": "audio_art_27_inc_02",
+                      "explicacaoId": "exp_art_27_inc_02",
+                      "direitosInsuspensiveis": [
+                        { "artigo": 3, "titulo": "Direito ao Reconhecimento da Personalidade Jurídica" },
+                        { "artigo": 4, "titulo": "Direito à Vida" },
+                        { "artigo": 5, "titulo": "Direito à Integridade Pessoal" },
+                        { "artigo": 6, "titulo": "Proibição da Escravidão e Servidão" },
+                        { "artigo": 9, "titulo": "Princípio da Legalidade e da Retroatividade" },
+                        { "artigo": 12, "titulo": "Liberdade de Consciência e de Religião" },
+                        { "artigo": 17, "titulo": "Proteção da Família" },
+                        { "artigo": 18, "titulo": "Direito ao Nome" },
+                        { "artigo": 19, "titulo": "Direitos da Criança" },
+                        { "artigo": 20, "titulo": "Direito à Nacionalidade" },
+                        { "artigo": 23, "titulo": "Direitos Políticos" }
+                      ]
+                    },
+                    { "id": "art_27_inc_03", "numero": 3, "texto": "Todo Estado-Parte que fizer uso do direito de suspensão deverá informar imediatamente os outros Estados-Partes na presente Convenção, por intermédio do Secretário-Geral da OEA, das disposições cuja aplicação haja suspendido, dos motivos determinantes da suspensão e da data em que haja dado por terminada tal suspensão.", "audioId": "audio_art_27_inc_03", "explicacaoId": "exp_art_27_inc_03" }
+                  ]
+                },
+                {
+                  "id": "art_28",
+                  "numero": 28,
+                  "titulo": "Cláusula Federal",
+                  "audioId": "audio_art_28",
+                  "explicacaoId": "exp_art_28",
+                  "questoesId": ["q_a28_001"],
+                  "incisos": [
+                    { "id": "art_28_inc_01", "numero": 1, "texto": "Quando se tratar de um Estado-Parte constituído como Estado federal, o governo nacional do aludido Estado-Parte cumprirá todas as disposições da presente Convenção, relacionadas com as matérias sobre as quais exerce competência legislativa e judicial.", "audioId": "audio_art_28_inc_01", "explicacaoId": "exp_art_28_inc_01" },
+                    { "id": "art_28_inc_02", "numero": 2, "texto": "No tocante às disposições relativas às matérias que correspondem à competência das entidades componentes da federação, o governo nacional deve tomar imediatamente as medidas pertinentes, em conformidade com sua constituição e suas leis, a fim de que as autoridades competentes das referidas entidades possam adotar as disposições cabíveis para o cumprimento desta Convenção.", "audioId": "audio_art_28_inc_02", "explicacaoId": "exp_art_28_inc_02" }
+                  ]
+                },
+                {
+                  "id": "art_29",
+                  "numero": 29,
+                  "titulo": "Normas de Interpretação",
+                  "audioId": "audio_art_29",
+                  "explicacaoId": "exp_art_29",
+                  "questoesId": ["q_a29_001", "q_a29_002"],
+                  "texto": "Nenhuma disposição desta Convenção pode ser interpretada no sentido de:",
+                  "alineas": [
+                    { "id": "art_29_a", "letra": "a", "texto": "Permitir a qualquer dos Estados-Partes, grupo ou pessoa, suprimir o gozo e exercício dos direitos e liberdades reconhecidos na Convenção ou limitá-los em maior medida do que a nela prevista.", "audioId": "audio_art_29_a", "explicacaoId": "exp_art_29_a" },
+                    { "id": "art_29_b", "letra": "b", "texto": "Limitar o gozo e exercício de qualquer direito ou liberdade que possam ser reconhecidos de acordo com as leis de qualquer dos Estados-Partes ou de acordo com outra convenção em que seja parte um dos referidos Estados.", "audioId": "audio_art_29_b", "explicacaoId": "exp_art_29_b" },
+                    { "id": "art_29_c", "letra": "c", "texto": "Excluir outros direitos e garantias que são inerentes ao ser humano ou que decorrem da forma democrática representativa de governo.", "audioId": "audio_art_29_c", "explicacaoId": "exp_art_29_c" },
+                    { "id": "art_29_d", "letra": "d", "texto": "Excluir ou limitar o efeito que possam produzir a Declaração Americana dos Direitos e Deveres do Homem e outros atos internacionais da mesma natureza.", "audioId": "audio_art_29_d", "explicacaoId": "exp_art_29_d" }
+                  ]
+                },
+                {
+                  "id": "art_30",
+                  "numero": 30,
+                  "titulo": "Alcance das Restrições",
+                  "audioId": "audio_art_30",
+                  "explicacaoId": "exp_art_30",
+                  "questoesId": ["q_a30_001"],
+                  "texto": "As restrições permitidas, de acordo com esta Convenção, ao gozo e exercício dos direitos e liberdades nela reconhecidos, não podem ser aplicadas senão de acordo com leis que forem promulgadas por motivo de interesse geral e com o propósito para o qual houverem sido estabelecidas."
+                },
+                {
+                  "id": "art_31",
+                  "numero": 31,
+                  "titulo": "Reconhecimento de Outros Direitos",
+                  "audioId": "audio_art_31",
+                  "explicacaoId": "exp_art_31",
+                  "questoesId": ["q_a31_001"],
+                  "texto": "Poderão ser incluídos no regime de proteção desta Convenção outros direitos e liberdades que forem reconhecidos de acordo com os processos estabelecidos nos artigos 69 e 70."
+                }
+              ]
+            },
+
+            {
+              "id": "cap_V",
+              "numero": "V",
+              "titulo": "Deveres das Pessoas",
+              "audioId": "audio_cap_V",
+              "explicacaoId": "exp_cap_V",
+              "questoesId": ["q_cV_001"],
+              "artigos": [
+                {
+                  "id": "art_32",
+                  "numero": 32,
+                  "titulo": "Correlação entre Deveres e Direitos",
+                  "audioId": "audio_art_32",
+                  "explicacaoId": "exp_art_32",
+                  "questoesId": ["q_a32_001"],
+                  "incisos": [
+                    { "id": "art_32_inc_01", "numero": 1, "texto": "Toda pessoa tem deveres para com a família, a comunidade e a humanidade.", "audioId": "audio_art_32_inc_01", "explicacaoId": "exp_art_32_inc_01" },
+                    { "id": "art_32_inc_02", "numero": 2, "texto": "Os direitos de cada pessoa são limitados pelos direitos dos demais, pela segurança de todos e pelas justas exigências do bem comum, numa sociedade democrática.", "audioId": "audio_art_32_inc_02", "explicacaoId": "exp_art_32_inc_02" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+
+        {
+          "id": "parte_II",
+          "numero": "II",
+          "titulo": "Meios da Proteção",
+          "audioId": "audio_parte_II",
+          "explicacaoId": "exp_parte_II",
+          "questoesId": ["q_pII_001"],
+          "capitulos": [
+            {
+              "id": "cap_VI",
+              "numero": "VI",
+              "titulo": "Órgãos Competentes",
+              "audioId": "audio_cap_VI",
+              "explicacaoId": "exp_cap_VI",
+              "questoesId": ["q_cVI_001"],
+              "artigos": [
+                {
+                  "id": "art_33",
+                  "numero": 33,
+                  "titulo": "Órgãos Competentes",
+                  "audioId": "audio_art_33",
+                  "explicacaoId": "exp_art_33",
+                  "questoesId": ["q_a33_001"],
+                  "orgaos": [
+                    { "id": "org_comissao", "letra": "a", "nome": "Comissão Interamericana de Direitos Humanos", "sigla": "CIDH", "audioId": "audio_org_comissao", "explicacaoId": "exp_org_comissao" },
+                    { "id": "org_corte", "letra": "b", "nome": "Corte Interamericana de Direitos Humanos", "sigla": "CorteIDH", "audioId": "audio_org_corte", "explicacaoId": "exp_org_corte" }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "id": "cap_VII",
+              "numero": "VII",
+              "titulo": "Comissão Interamericana de Direitos Humanos",
+              "audioId": "audio_cap_VII",
+              "explicacaoId": "exp_cap_VII",
+              "questoesId": ["q_cVII_001", "q_cVII_002"],
+              "secoes": [
+                {
+                  "id": "sec_VII_1",
+                  "numero": 1,
+                  "titulo": "Organização",
+                  "audioId": "audio_sec_VII_1",
+                  "explicacaoId": "exp_sec_VII_1",
+                  "questoesId": ["q_sVII1_001"],
+                  "artigos": [
+                    { "id": "art_34", "numero": 34, "titulo": "Composição da Comissão", "audioId": "audio_art_34", "explicacaoId": "exp_art_34", "questoesId": ["q_a34_001"], "texto": "A Comissão Interamericana de Direitos Humanos compor-se-á de sete membros, que deverão ser pessoas de alta autoridade moral e de reconhecido saber em matéria de direitos humanos." },
+                    { "id": "art_35", "numero": 35, "titulo": "Representação", "audioId": "audio_art_35", "explicacaoId": "exp_art_35", "questoesId": ["q_a35_001"], "texto": "A Comissão representa todos os Membros da Organização dos Estados Americanos." },
+                    { "id": "art_36", "numero": 36, "titulo": "Eleição dos Membros", "audioId": "audio_art_36", "explicacaoId": "exp_art_36", "questoesId": ["q_a36_001"], "texto": "Os membros da Comissão serão eleitos a título pessoal, pela Assembleia-Geral da Organização, de uma lista de candidatos propostos pelos governos dos Estados-Membros. Cada governo pode propor até três candidatos." },
+                    { "id": "art_37", "numero": 37, "titulo": "Mandato dos Membros", "audioId": "audio_art_37", "explicacaoId": "exp_art_37", "questoesId": ["q_a37_001"], "texto": "Os membros da Comissão serão eleitos por quatro anos e só poderão ser reeleitos uma vez." },
+                    { "id": "art_38", "numero": 38, "titulo": "Vagas", "audioId": "audio_art_38", "explicacaoId": "exp_art_38", "questoesId": [], "texto": "As vagas que ocorrerem na Comissão, que não se devam à expiração normal do mandato, serão preenchidas pelo Conselho Permanente da Organização." },
+                    { "id": "art_39", "numero": 39, "titulo": "Estatuto", "audioId": "audio_art_39", "explicacaoId": "exp_art_39", "questoesId": [], "texto": "A Comissão elaborará seu estatuto e submetê-lo-á à aprovação da Assembleia-Geral e expedirá seu próprio regulamento." },
+                    { "id": "art_40", "numero": 40, "titulo": "Secretaria", "audioId": "audio_art_40", "explicacaoId": "exp_art_40", "questoesId": [], "texto": "Os serviços de secretaria da Comissão devem ser desempenhados pela unidade funcional especializada que faz parte da Secretaria-Geral da Organização." }
+                  ]
+                },
+                {
+                  "id": "sec_VII_2",
+                  "numero": 2,
+                  "titulo": "Funções",
+                  "audioId": "audio_sec_VII_2",
+                  "explicacaoId": "exp_sec_VII_2",
+                  "questoesId": ["q_sVII2_001", "q_sVII2_002"],
+                  "artigos": [
+                    {
+                      "id": "art_41",
+                      "numero": 41,
+                      "titulo": "Funções da Comissão",
+                      "audioId": "audio_art_41",
+                      "explicacaoId": "exp_art_41",
+                      "questoesId": ["q_a41_001", "q_a41_002"],
+                      "texto": "A Comissão tem a função principal de promover a observância e a defesa dos direitos humanos.",
+                      "atribuicoes": [
+                        { "id": "art_41_a", "letra": "a", "texto": "Estimular a consciência dos direitos humanos nos povos da América.", "audioId": "audio_art_41_a", "explicacaoId": "exp_art_41_a" },
+                        { "id": "art_41_b", "letra": "b", "texto": "Formular recomendações aos governos dos Estados-Membros no sentido de que adotem medidas progressivas em prol dos direitos humanos.", "audioId": "audio_art_41_b", "explicacaoId": "exp_art_41_b" },
+                        { "id": "art_41_c", "letra": "c", "texto": "Preparar os estudos ou relatórios que considerar convenientes para o desempenho de suas funções.", "audioId": "audio_art_41_c", "explicacaoId": "exp_art_41_c" },
+                        { "id": "art_41_d", "letra": "d", "texto": "Solicitar aos governos dos Estados-Membros que lhe proporcionem informações sobre as medidas que adotarem em matéria de direitos humanos.", "audioId": "audio_art_41_d", "explicacaoId": "exp_art_41_d" },
+                        { "id": "art_41_e", "letra": "e", "texto": "Atender às consultas que lhe formularem os Estados-Membros sobre questões relacionadas com os direitos humanos.", "audioId": "audio_art_41_e", "explicacaoId": "exp_art_41_e" },
+                        { "id": "art_41_f", "letra": "f", "texto": "Atuar com respeito às petições e outras comunicações, no exercício de sua autoridade, de conformidade com os artigos 44 a 51 desta Convenção.", "audioId": "audio_art_41_f", "explicacaoId": "exp_art_41_f" },
+                        { "id": "art_41_g", "letra": "g", "texto": "Apresentar um relatório anual à Assembleia-Geral da Organização dos Estados Americanos.", "audioId": "audio_art_41_g", "explicacaoId": "exp_art_41_g" }
+                      ]
+                    },
+                    { "id": "art_42", "numero": 42, "titulo": "Relatórios Econômicos e Sociais", "audioId": "audio_art_42", "explicacaoId": "exp_art_42", "questoesId": [], "texto": "Os Estados-Partes devem remeter à Comissão cópia dos relatórios e estudos que submetem anualmente às Comissões Executivas do Conselho Interamericano." },
+                    { "id": "art_43", "numero": 43, "titulo": "Informações ao Estado", "audioId": "audio_art_43", "explicacaoId": "exp_art_43", "questoesId": ["q_a43_001"], "texto": "Os Estados-Partes obrigam-se a proporcionar à Comissão as informações que esta lhes solicitar sobre a maneira pela qual o seu direito interno assegura a aplicação efetiva de quaisquer disposições desta Convenção.", "observacao": "O Brasil fez declaração interpretativa: os artigos 43 e 48d não incluem o direito automático de visitas in loco da Comissão, dependendo de anuência expressa do Estado." }
+                  ]
+                },
+                {
+                  "id": "sec_VII_3",
+                  "numero": 3,
+                  "titulo": "Competência",
+                  "audioId": "audio_sec_VII_3",
+                  "explicacaoId": "exp_sec_VII_3",
+                  "questoesId": ["q_sVII3_001"],
+                  "artigos": [
+                    { "id": "art_44", "numero": 44, "titulo": "Petições de Particulares", "audioId": "audio_art_44", "explicacaoId": "exp_art_44", "questoesId": ["q_a44_001"], "texto": "Qualquer pessoa ou grupo de pessoas, ou entidade não governamental legalmente reconhecida em um ou mais Estados-Membros da Organização, pode apresentar à Comissão petições que contenham denúncias ou queixas de violação desta Convenção por um Estado-Parte." },
+                    { "id": "art_45", "numero": 45, "titulo": "Comunicações entre Estados", "audioId": "audio_art_45", "explicacaoId": "exp_art_45", "questoesId": ["q_a45_001"], "texto": "Todo Estado-Parte pode declarar que reconhece a competência da Comissão para receber e examinar as comunicações em que um Estado-Parte alegue haver outro Estado-Parte incorrido em violações dos direitos humanos." },
+                    { "id": "art_46", "numero": 46, "titulo": "Requisitos de Admissibilidade", "audioId": "audio_art_46", "explicacaoId": "exp_art_46", "questoesId": ["q_a46_001", "q_a46_002"], "texto": "Para que uma petição ou comunicação seja admitida pela Comissão, será necessário: esgotamento dos recursos internos; apresentação dentro do prazo de seis meses; matéria não pendente em outro processo internacional; e identificação do peticionário." },
+                    { "id": "art_47", "numero": 47, "titulo": "Inadmissibilidade", "audioId": "audio_art_47", "explicacaoId": "exp_art_47", "questoesId": ["q_a47_001"], "texto": "A Comissão declarará inadmissível toda petição ou comunicação quando: não preencher os requisitos do art. 46; não expuser fatos que caracterizem violação; for manifestamente infundada; ou for substancialmente reprodução de petição anterior." }
+                  ]
+                },
+                {
+                  "id": "sec_VII_4",
+                  "numero": 4,
+                  "titulo": "Processo",
+                  "audioId": "audio_sec_VII_4",
+                  "explicacaoId": "exp_sec_VII_4",
+                  "questoesId": ["q_sVII4_001", "q_sVII4_002"],
+                  "artigos": [
+                    { "id": "art_48", "numero": 48, "titulo": "Procedimento da Comissão", "audioId": "audio_art_48", "explicacaoId": "exp_art_48", "questoesId": ["q_a48_001"], "observacao": "O Brasil fez declaração interpretativa: o art. 48d não inclui direito automático de visitas in loco, dependendo de anuência expressa do Estado." },
+                    { "id": "art_49", "numero": 49, "titulo": "Solução Amistosa", "audioId": "audio_art_49", "explicacaoId": "exp_art_49", "questoesId": ["q_a49_001"], "texto": "Se se houver chegado a uma solução amistosa, a Comissão redigirá um relatório que será encaminhado ao peticionário e aos Estados-Partes e transmitido para publicação ao Secretário-Geral da OEA." },
+                    { "id": "art_50", "numero": 50, "titulo": "Relatório da Comissão", "audioId": "audio_art_50", "explicacaoId": "exp_art_50", "questoesId": ["q_a50_001"], "texto": "Se não se chegar a uma solução, a Comissão redigirá um relatório no qual exporá os fatos e suas conclusões. O relatório será encaminhado aos Estados interessados, aos quais não será facultado publicá-lo." },
+                    { "id": "art_51", "numero": 51, "titulo": "Publicação do Relatório", "audioId": "audio_art_51", "explicacaoId": "exp_art_51", "questoesId": ["q_a51_001"], "texto": "Se no prazo de três meses o assunto não houver sido solucionado ou submetido à Corte, a Comissão poderá emitir, pelo voto da maioria absoluta dos seus membros, sua opinião e conclusões sobre a questão." }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "id": "cap_VIII",
+              "numero": "VIII",
+              "titulo": "Corte Interamericana de Direitos Humanos",
+              "audioId": "audio_cap_VIII",
+              "explicacaoId": "exp_cap_VIII",
+              "questoesId": ["q_cVIII_001", "q_cVIII_002"],
+              "secoes": [
+                {
+                  "id": "sec_VIII_1",
+                  "numero": 1,
+                  "titulo": "Organização",
+                  "audioId": "audio_sec_VIII_1",
+                  "explicacaoId": "exp_sec_VIII_1",
+                  "questoesId": ["q_sVIII1_001"],
+                  "artigos": [
+                    { "id": "art_52", "numero": 52, "titulo": "Composição da Corte", "audioId": "audio_art_52", "explicacaoId": "exp_art_52", "questoesId": ["q_a52_001"], "texto": "A Corte compor-se-á de sete juízes, nacionais dos Estados-Membros da Organização, eleitos a título pessoal dentre juristas da mais alta autoridade moral, de reconhecida competência em matéria de direitos humanos. Não deve haver dois juízes da mesma nacionalidade." },
+                    { "id": "art_53", "numero": 53, "titulo": "Eleição dos Juízes", "audioId": "audio_art_53", "explicacaoId": "exp_art_53", "questoesId": ["q_a53_001"], "texto": "Os juízes da Corte serão eleitos, em votação secreta e pelo voto da maioria absoluta dos Estados-Partes na Convenção, na Assembleia-Geral da Organização." },
+                    { "id": "art_54", "numero": 54, "titulo": "Mandato dos Juízes", "audioId": "audio_art_54", "explicacaoId": "exp_art_54", "questoesId": ["q_a54_001"], "texto": "Os juízes da Corte serão eleitos por um período de seis anos e só poderão ser reeleitos uma vez." },
+                    { "id": "art_55", "numero": 55, "titulo": "Juízes Ad Hoc", "audioId": "audio_art_55", "explicacaoId": "exp_art_55", "questoesId": ["q_a55_001"], "texto": "Se um dos juízes chamados a conhecer do caso for de nacionalidade de um dos Estados-Partes, outro Estado-Parte no caso poderá designar uma pessoa de sua escolha para integrar a Corte na qualidade de juiz ad hoc." },
+                    { "id": "art_56", "numero": 56, "titulo": "Quórum", "audioId": "audio_art_56", "explicacaoId": "exp_art_56", "questoesId": ["q_a56_001"], "texto": "O quórum para as deliberações da Corte é constituído por cinco juízes." },
+                    { "id": "art_57", "numero": 57, "titulo": "Participação da Comissão", "audioId": "audio_art_57", "explicacaoId": "exp_art_57", "questoesId": ["q_a57_001"], "texto": "A Comissão comparecerá em todos os casos perante a Corte." },
+                    { "id": "art_58", "numero": 58, "titulo": "Sede da Corte", "audioId": "audio_art_58", "explicacaoId": "exp_art_58", "questoesId": [], "texto": "A Corte terá sua sede no lugar que for determinado, na Assembleia-Geral da Organização, pelos Estados-Partes na Convenção." },
+                    { "id": "art_59", "numero": 59, "titulo": "Secretaria da Corte", "audioId": "audio_art_59", "explicacaoId": "exp_art_59", "questoesId": [], "texto": "A Secretaria da Corte será por esta estabelecida e funcionará sob a direção do Secretário da Corte." },
+                    { "id": "art_60", "numero": 60, "titulo": "Estatuto e Regimento", "audioId": "audio_art_60", "explicacaoId": "exp_art_60", "questoesId": [], "texto": "A Corte elaborará seu estatuto e submetê-lo-á à aprovação da Assembleia-Geral e expedirá seu regimento." }
+                  ]
+                },
+                {
+                  "id": "sec_VIII_2",
+                  "numero": 2,
+                  "titulo": "Competência e Funções",
+                  "audioId": "audio_sec_VIII_2",
+                  "explicacaoId": "exp_sec_VIII_2",
+                  "questoesId": ["q_sVIII2_001", "q_sVIII2_002"],
+                  "artigos": [
+                    { "id": "art_61", "numero": 61, "titulo": "Legitimidade", "audioId": "audio_art_61", "explicacaoId": "exp_art_61", "questoesId": ["q_a61_001"], "texto": "Somente os Estados-Partes e a Comissão têm direito de submeter caso à decisão da Corte. Para que a Corte possa conhecer de qualquer caso, é necessário que sejam esgotados os processos previstos nos artigos 48 a 50." },
+                    { "id": "art_62", "numero": 62, "titulo": "Reconhecimento da Competência", "audioId": "audio_art_62", "explicacaoId": "exp_art_62", "questoesId": ["q_a62_001"], "texto": "Todo Estado-Parte pode declarar que reconhece como obrigatória, de pleno direito e sem convenção especial, a competência da Corte em todos os casos relativos à interpretação ou aplicação desta Convenção." },
+                    { "id": "art_63", "numero": 63, "titulo": "Medidas de Reparação e Provisórias", "audioId": "audio_art_63", "explicacaoId": "exp_art_63", "questoesId": ["q_a63_001", "q_a63_002"], "texto": "Quando decidir que houve violação, a Corte determinará que se assegure ao prejudicado o gozo do seu direito violado. Determinará também a reparação das consequências e o pagamento de indenização justa. Em casos de extrema gravidade e urgência poderá tomar medidas provisórias." },
+                    { "id": "art_64", "numero": 64, "titulo": "Pareceres Consultivos", "audioId": "audio_art_64", "explicacaoId": "exp_art_64", "questoesId": ["q_a64_001"], "texto": "Os Estados-Membros da Organização poderão consultar a Corte sobre a interpretação desta Convenção ou de outros tratados concernentes à proteção dos direitos humanos nos Estados americanos." },
+                    { "id": "art_65", "numero": 65, "titulo": "Relatório à Assembleia-Geral", "audioId": "audio_art_65", "explicacaoId": "exp_art_65", "questoesId": ["q_a65_001"], "texto": "A Corte submeterá à consideração da Assembleia-Geral da Organização, em cada período ordinário de sessões, um relatório sobre suas atividades no ano anterior, indicando os casos em que um Estado não tenha dado cumprimento a suas sentenças." }
+                  ]
+                },
+                {
+                  "id": "sec_VIII_3",
+                  "numero": 3,
+                  "titulo": "Processo",
+                  "audioId": "audio_sec_VIII_3",
+                  "explicacaoId": "exp_sec_VIII_3",
+                  "questoesId": ["q_sVIII3_001"],
+                  "artigos": [
+                    { "id": "art_66", "numero": 66, "titulo": "Fundamentação da Sentença", "audioId": "audio_art_66", "explicacaoId": "exp_art_66", "questoesId": ["q_a66_001"], "texto": "A sentença da Corte deve ser fundamentada. Se a sentença não expressar no todo ou em parte a opinião unânime dos juízes, qualquer deles terá direito a que se agregue à sentença o seu voto dissidente ou individual." },
+                    { "id": "art_67", "numero": 67, "titulo": "Definitividade da Sentença", "audioId": "audio_art_67", "explicacaoId": "exp_art_67", "questoesId": ["q_a67_001"], "texto": "A sentença da Corte será definitiva e inapelável. Em caso de divergência sobre o sentido ou alcance da sentença, a Corte interpretá-la-á, a pedido de qualquer das partes, desde que o pedido seja apresentado dentro de noventa dias a partir da data da notificação da sentença." },
+                    { "id": "art_68", "numero": 68, "titulo": "Cumprimento da Sentença", "audioId": "audio_art_68", "explicacaoId": "exp_art_68", "questoesId": ["q_a68_001"], "texto": "Os Estados-Partes na Convenção comprometem-se a cumprir a decisão da Corte em todo caso em que forem partes. A parte da sentença que determinar indenização compensatória poderá ser executada no país respectivo pelo processo interno vigente para a execução de sentenças contra o Estado." },
+                    { "id": "art_69", "numero": 69, "titulo": "Notificação da Sentença", "audioId": "audio_art_69", "explicacaoId": "exp_art_69", "questoesId": [], "texto": "A sentença da Corte deve ser notificada às partes no caso e transmitida aos Estados-Partes na Convenção." }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "id": "cap_IX",
+              "numero": "IX",
+              "titulo": "Disposições Comuns",
+              "audioId": "audio_cap_IX",
+              "explicacaoId": "exp_cap_IX",
+              "questoesId": ["q_cIX_001"],
+              "artigos": [
+                { "id": "art_70", "numero": 70, "titulo": "Imunidades e Privilégios", "audioId": "audio_art_70", "explicacaoId": "exp_art_70", "questoesId": ["q_a70_001"], "texto": "Os juízes da Corte e os membros da Comissão gozam, desde o momento de sua eleição e enquanto durar o seu mandato, das imunidades reconhecidas aos agentes diplomáticos pelo Direito Internacional." },
+                { "id": "art_71", "numero": 71, "titulo": "Incompatibilidades", "audioId": "audio_art_71", "explicacaoId": "exp_art_71", "questoesId": [], "texto": "Os cargos de juiz da Corte ou de membro da Comissão são incompatíveis com outras atividades que possam afetar sua independência ou imparcialidade." },
+                { "id": "art_72", "numero": 72, "titulo": "Remuneração", "audioId": "audio_art_72", "explicacaoId": "exp_art_72", "questoesId": [], "texto": "Os juízes da Corte e os membros da Comissão perceberão honorários e despesas de viagem na forma e nas condições que determinarem os seus estatutos." },
+                { "id": "art_73", "numero": 73, "titulo": "Sanções", "audioId": "audio_art_73", "explicacaoId": "exp_art_73", "questoesId": ["q_a73_001"], "texto": "Somente por solicitação da Comissão ou da Corte, conforme o caso, cabe à Assembleia-Geral da Organização resolver sobre as sanções aplicáveis aos membros da Comissão ou aos juízes da Corte. Para expedir uma resolução, será necessária maioria de dois terços dos votos dos Estados-Membros." }
+              ]
+            }
+          ]
+        },
+
+        {
+          "id": "parte_III",
+          "numero": "III",
+          "titulo": "Disposições Gerais e Transitórias",
+          "audioId": "audio_parte_III",
+          "explicacaoId": "exp_parte_III",
+          "questoesId": ["q_pIII_001"],
+          "capitulos": [
+            {
+              "id": "cap_X",
+              "numero": "X",
+              "titulo": "Assinatura, Ratificação, Reserva, Emenda, Protocolo e Denúncia",
+              "audioId": "audio_cap_X",
+              "explicacaoId": "exp_cap_X",
+              "questoesId": ["q_cX_001"],
+              "artigos": [
+                { "id": "art_74", "numero": 74, "titulo": "Assinatura e Ratificação", "audioId": "audio_art_74", "explicacaoId": "exp_art_74", "questoesId": ["q_a74_001"], "texto": "Esta Convenção fica aberta à assinatura e à ratificação ou adesão de todos os Estados-Membros da OEA. Entrará em vigor logo que onze Estados houverem depositado os seus respectivos instrumentos." },
+                { "id": "art_75", "numero": 75, "titulo": "Reservas", "audioId": "audio_art_75", "explicacaoId": "exp_art_75", "questoesId": ["q_a75_001"], "texto": "Esta Convenção só pode ser objeto de reservas em conformidade com as disposições da Convenção de Viena sobre Direito dos Tratados, assinada em 23 de maio de 1969." },
+                { "id": "art_76", "numero": 76, "titulo": "Emendas", "audioId": "audio_art_76", "explicacaoId": "exp_art_76", "questoesId": [], "texto": "Qualquer Estado-Parte, diretamente, e a Comissão ou a Corte, por intermédio do Secretário-Geral, podem submeter à Assembleia-Geral proposta de emenda a esta Convenção." },
+                { "id": "art_77", "numero": 77, "titulo": "Protocolos Adicionais", "audioId": "audio_art_77", "explicacaoId": "exp_art_77", "questoesId": ["q_a77_001"], "texto": "Qualquer Estado-Parte e a Comissão podem submeter à consideração dos Estados-Partes reunidos na Assembleia-Geral, projetos de protocolos adicionais a esta Convenção, com a finalidade de incluir progressivamente outros direitos e liberdades." },
+                { "id": "art_78", "numero": 78, "titulo": "Denúncia", "audioId": "audio_art_78", "explicacaoId": "exp_art_78", "questoesId": ["q_a78_001"], "texto": "Os Estados-Partes poderão denunciar esta Convenção depois de expirado um prazo de cinco anos, a partir da data de entrada em vigor da mesma e mediante aviso prévio de um ano." }
+              ]
+            },
+            {
+              "id": "cap_XI",
+              "numero": "XI",
+              "titulo": "Disposições Transitórias",
+              "audioId": "audio_cap_XI",
+              "explicacaoId": "exp_cap_XI",
+              "questoesId": [],
+              "secoes": [
+                {
+                  "id": "sec_XI_1",
+                  "numero": 1,
+                  "titulo": "Comissão Interamericana de Direitos Humanos",
+                  "audioId": "audio_sec_XI_1",
+                  "explicacaoId": "exp_sec_XI_1",
+                  "questoesId": [],
+                  "artigos": [
+                    { "id": "art_79", "numero": 79, "titulo": "Candidatos à Comissão", "audioId": "audio_art_79", "explicacaoId": "exp_art_79", "questoesId": [], "texto": "Ao entrar em vigor esta Convenção, o Secretário-Geral pedirá por escrito a cada Estado-Membro que apresente, dentro de noventa dias, seus candidatos a membro da Comissão." },
+                    { "id": "art_80", "numero": 80, "titulo": "Eleição Inicial da Comissão", "audioId": "audio_art_80", "explicacaoId": "exp_art_80", "questoesId": [], "texto": "A eleição dos membros da Comissão far-se-á dentre os candidatos que figurem na lista, por votação secreta da Assembleia-Geral, e serão declarados eleitos os candidatos que obtiverem maior número de votos e a maioria absoluta." }
+                  ]
+                },
+                {
+                  "id": "sec_XI_2",
+                  "numero": 2,
+                  "titulo": "Corte Interamericana de Direitos Humanos",
+                  "audioId": "audio_sec_XI_2",
+                  "explicacaoId": "exp_sec_XI_2",
+                  "questoesId": [],
+                  "artigos": [
+                    { "id": "art_81", "numero": 81, "titulo": "Candidatos à Corte", "audioId": "audio_art_81", "explicacaoId": "exp_art_81", "questoesId": [], "texto": "Ao entrar em vigor esta Convenção, o Secretário-Geral solicitará por escrito a cada Estado-Parte que apresente, dentro de noventa dias, seus candidatos a juiz da Corte Interamericana de Direitos Humanos." },
+                    { "id": "art_82", "numero": 82, "titulo": "Eleição Inicial da Corte", "audioId": "audio_art_82", "explicacaoId": "exp_art_82", "questoesId": [], "texto": "A eleição dos juízes da Corte far-se-á dentre os candidatos que figurem na lista, por votação secreta dos Estados-Partes, na Assembleia-Geral, e serão declarados eleitos os candidatos que obtiverem maior número de votos e a maioria absoluta." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+
+      "declaracoesEReservas": {
+        "id": "decl_reservas",
+        "audioId": "audio_decl_reservas",
+        "explicacaoId": "exp_decl_reservas",
+        "questoesId": ["q_dr_001"],
+        "itens": [
+          {
+            "id": "decl_chile",
+            "pais": "Chile",
+            "tipo": "declaracao",
+            "texto": "A Delegação do Chile apõe sua assinatura a esta Convenção, sujeita à sua posterior aprovação parlamentar e ratificação, em conformidade com as normas constitucionais vigentes.",
+            "audioId": "audio_decl_chile",
+            "explicacaoId": "exp_decl_chile"
+          },
+          {
+            "id": "decl_equador",
+            "pais": "Equador",
+            "tipo": "declaracao",
+            "texto": "A Delegação do Equador tem a honra de assinar a Convenção Americana sobre Direitos Humanos, deixando a salvo a faculdade geral constante da mesma Convenção que deixa aos governos a liberdade de ratificá-la.",
+            "audioId": "audio_decl_equador",
+            "explicacaoId": "exp_decl_equador"
+          },
+          {
+            "id": "reserva_uruguai",
+            "pais": "Uruguai",
+            "tipo": "reserva",
+            "texto": "O artigo 80, parágrafo 2, da Constituição da República Oriental do Uruguai, estabelece que se suspende a cidadania pela condição de legalmente processado em causa criminal. Essa limitação ao exercício dos direitos do artigo 23 não está prevista no parágrafo 2 do referido artigo 23.",
+            "audioId": "audio_reserva_uruguai",
+            "explicacaoId": "exp_reserva_uruguai"
+          },
+          {
+            "id": "decl_brasil",
+            "pais": "Brasil",
+            "tipo": "declaracao_interpretativa",
+            "data": "1992-09-25",
+            "texto": "O Governo do Brasil entende que os artigos 43 e 48, alínea 'd', não incluem o direito automático de visitas e inspeções in loco da Comissão Interamericana de Direitos Humanos, as quais dependerão da anuência expressa do Estado.",
+            "artigosAfetados": [43, "48d"],
+            "audioId": "audio_decl_brasil",
+            "explicacaoId": "exp_decl_brasil",
+            "questoesId": ["q_decl_br_001", "q_decl_br_002"]
+          }
+        ]
+      }
+    }
+  },
+
+  "metadados": {
+    "versao": "1.0.0",
+    "criadoEm": "2026-06-10",
+    "totalArtigos": 82,
+    "totalIncisos": 112,
+    "totalAlineas": 34,
+    "totalDireitosInsuspensiveis": 11,
+    "totalQuestoes": 142,
+    "totalAudios": 198,
+    "totalExplicacoes": 198,
+    "estrutura": {
+      "partes": 3,
+      "capitulos": 11,
+      "secoes": 8
+    },
+    "convencoesDeNomenclatura": {
+      "audioId": "Prefixo 'audio_' + identificador do elemento",
+      "explicacaoId": "Prefixo 'exp_' + identificador do elemento",
+      "questoesId": "Array com prefixo 'q_' + código do artigo/seção + '_' + sequencial 3 dígitos",
+      "artigoId": "Prefixo 'art_' + número com zero à esquerda (2 dígitos)",
+      "incisoId": "Id do artigo pai + '_inc_' + número com zero à esquerda",
+      "alineaId": "Id do inciso pai + '_' + letra"
+    }
+  }
+}

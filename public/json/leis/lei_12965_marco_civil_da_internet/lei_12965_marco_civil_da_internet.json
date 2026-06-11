@@ -1,0 +1,1057 @@
+{
+    "id": "Lei_12965_Marco_Civil_da_Internet",
+    "titulo": "Lei 12965 Marco Civil da Internet",
+    "apelido": "Lei 12965 Marco Civil da Internet.",
+    "sigla": "",
+    "fonte": "Lei_12965_Marco_Civil_da_Internet.txt",
+    "fonteHtmlLocal": "leis/Lei_12965_Marco_Civil_da_Internet/l12965.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 12.965, DE 23 DE ABRIL DE 2014",
+            "linha": 1
+        },
+        {
+            "texto": "Estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil.",
+            "linha": 3
+        },
+        {
+            "texto": "A PRESIDENTA DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+            "linha": 5
+        },
+        {
+            "texto": "CAPÍTULO I",
+            "linha": 7
+        },
+        {
+            "texto": "DISPOSIÇÕES PRELIMINARES",
+            "linha": 8
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 10,
+            "artigos": [
+                {
+                    "numero": "1º",
+                    "rotulo": "Art. 1º",
+                    "linha": 10,
+                    "caput": "Esta Lei estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil e determina as diretrizes para atuação da União, dos Estados, do Distrito Federal e dos Municípios em relação à matéria."
+                },
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 14,
+                    "caput": "A disciplina do uso da internet no Brasil tem como fundamento o respeito à liberdade de expressão, bem como:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 16,
+                            "texto": "o reconhecimento da escala mundial da rede;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 18,
+                            "texto": "os direitos humanos, o desenvolvimento da personalidade e o exercício da cidadania em meios digitais;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 20,
+                            "texto": "a pluralidade e a diversidade;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 22,
+                            "texto": "a abertura e a colaboração;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 24,
+                            "texto": "a livre iniciativa, a livre concorrência e a defesa do consumidor; e"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 26,
+                            "texto": "a finalidade social da rede."
+                        }
+                    ],
+                    "rubrica": "(Rejeitada)",
+                    "linhaRubrica": 12
+                },
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 28,
+                    "caput": "A disciplina do uso da internet no Brasil tem os seguintes princípios:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 46,
+                            "texto": "Os princípios expressos nesta Lei não excluem outros previstos no ordenamento jurídico pátrio relacionados à matéria ou nos tratados internacionais em que a República Federativa do Brasil seja parte."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 30,
+                            "texto": "garantia da liberdade de expressão, comunicação e manifestação de pensamento, nos termos da Constituição Federal;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 32,
+                            "texto": "proteção da privacidade;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 34,
+                            "texto": "proteção dos dados pessoais, na forma da lei;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 36,
+                            "texto": "preservação e garantia da neutralidade de rede;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 38,
+                            "texto": "preservação da estabilidade, segurança e funcionalidade da rede, por meio de medidas técnicas compatíveis com os padrões internacionais e pelo estímulo ao uso de boas práticas;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 40,
+                            "texto": "responsabilização dos agentes de acordo com suas atividades, nos termos da lei;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 42,
+                            "texto": "preservação da natureza participativa da rede;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 44,
+                            "texto": "liberdade dos modelos de negócios promovidos na internet, desde que não conflitem com os demais princípios estabelecidos nesta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "4º",
+                    "rotulo": "Art. 4º",
+                    "linha": 48,
+                    "caput": "A disciplina do uso da internet no Brasil tem por objetivo a promoção:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 50,
+                            "texto": "do direito de acesso à internet a todos;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 52,
+                            "texto": "do acesso à informação, ao conhecimento e à participação na vida cultural e na condução dos assuntos públicos;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 54,
+                            "texto": "da inovação e do fomento à ampla difusão de novas tecnologias e modelos de uso e acesso; e"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 56,
+                            "texto": "da adesão a padrões tecnológicos abertos que permitam a comunicação, a acessibilidade e a interoperabilidade entre aplicações e bases de dados."
+                        }
+                    ]
+                },
+                {
+                    "numero": "5º",
+                    "rotulo": "Art. 5º",
+                    "linha": 58,
+                    "caput": "Para os efeitos desta Lei, considera-se:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 60,
+                            "texto": "internet: o sistema constituído do conjunto de protocolos lógicos, estruturado em escala mundial para uso público e irrestrito, com a finalidade de possibilitar a comunicação de dados entre terminais por meio de diferentes redes;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 62,
+                            "texto": "terminal: o computador ou qualquer dispositivo que se conecte à internet;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 64,
+                            "texto": "endereço de protocolo de internet (endereço IP): o código atribuído a um terminal de uma rede para permitir sua identificação, definido segundo parâmetros internacionais;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 66,
+                            "texto": "administrador de sistema autônomo: a pessoa física ou jurídica que administra blocos de endereço IP específicos e o respectivo sistema autônomo de roteamento, devidamente cadastrada no ente nacional responsável pelo registro e distribuição de endereços IP geograficamente referentes ao País;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 68,
+                            "texto": "conexão à internet: a habilitação de um terminal para envio e recebimento de pacotes de dados pela internet, mediante a atribuição ou autenticação de um endereço IP;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 70,
+                            "texto": "registro de conexão: o conjunto de informações referentes à data e hora de início e término de uma conexão à internet, sua duração e o endereço IP utilizado pelo terminal para o envio e recebimento de pacotes de dados;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 74,
+                            "texto": "aplicações de internet: o conjunto de funcionalidades que podem ser acessadas por meio de um terminal conectado à internet; e",
+                            "rubrica": "(Rejeitada)",
+                            "linhaRubrica": 72
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 78,
+                            "texto": "registros de acesso a aplicações de internet: o conjunto de informações referentes à data e hora de uso de uma determinada aplicação de internet a partir de um determinado endereço IP. (Rejeitada) (Rejeitada)",
+                            "rubrica": "(Rejeitada)",
+                            "linhaRubrica": 76
+                        }
+                    ]
+                },
+                {
+                    "numero": "6º",
+                    "rotulo": "Art. 6º",
+                    "linha": 86,
+                    "caput": "Na interpretação desta Lei serão levados em conta, além dos fundamentos, princípios e objetivos previstos, a natureza da internet, seus usos e costumes particulares e sua importância para a promoção do desenvolvimento humano, econômico, social e cultural.",
+                    "rubrica": "(Rejeitada)",
+                    "linhaRubrica": 84
+                }
+            ]
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO II",
+            "linha": 88,
+            "artigos": [
+                {
+                    "numero": "7º",
+                    "rotulo": "Art. 7º",
+                    "linha": 94,
+                    "caput": "O acesso à internet é essencial ao exercício da cidadania, e ao usuário são assegurados os seguintes direitos:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 96,
+                            "texto": "inviolabilidade da intimidade e da vida privada, sua proteção e indenização pelo dano material ou moral decorrente de sua violação;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 98,
+                            "texto": "inviolabilidade e sigilo do fluxo de suas comunicações pela internet, salvo por ordem judicial, na forma da lei;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 100,
+                            "texto": "inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem judicial;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 102,
+                            "texto": "não suspensão da conexão à internet, salvo por débito diretamente decorrente de sua utilização;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 104,
+                            "texto": "manutenção da qualidade contratada da conexão à internet;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 106,
+                            "texto": "informações claras e completas constantes dos contratos de prestação de serviços, com detalhamento sobre o regime de proteção aos registros de conexão e aos registros de acesso a aplicações de internet, bem como sobre práticas de gerenciamento da rede que possam afetar sua qualidade;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 108,
+                            "texto": "não fornecimento a terceiros de seus dados pessoais, inclusive registros de conexão, e de acesso a aplicações de internet, salvo mediante consentimento livre, expresso e informado ou nas hipóteses previstas em lei;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 110,
+                            "texto": "informações claras e completas sobre coleta, uso, armazenamento, tratamento e proteção de seus dados pessoais, que somente poderão ser utilizados para finalidades que:",
+                            "alineas": [
+                                {
+                                    "letra": "a",
+                                    "rotulo": "a)",
+                                    "linha": 112,
+                                    "texto": "justifiquem sua coleta;"
+                                },
+                                {
+                                    "letra": "b",
+                                    "rotulo": "b)",
+                                    "linha": 114,
+                                    "texto": "não sejam vedadas pela legislação; e"
+                                },
+                                {
+                                    "letra": "c",
+                                    "rotulo": "c)",
+                                    "linha": 116,
+                                    "texto": "estejam especificadas nos contratos de prestação de serviços ou em termos de uso de aplicações de internet;"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 118,
+                            "texto": "consentimento expresso sobre coleta, uso, armazenamento e tratamento de dados pessoais, que deverá ocorrer de forma destacada das demais cláusulas contratuais;"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 120,
+                            "texto": "exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet, a seu requerimento, ao término da relação entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei e na que dispõe sobre a proteção de dados pessoais; (Redação dada pela Lei nº 13.709, de 2018) (Vigência)"
+                        },
+                        {
+                            "numero": "XI",
+                            "rotulo": "XI",
+                            "linha": 122,
+                            "texto": "publicidade e clareza de eventuais políticas de uso dos provedores de conexão à internet e de aplicações de internet;"
+                        },
+                        {
+                            "numero": "XII",
+                            "rotulo": "XII",
+                            "linha": 124,
+                            "texto": "acessibilidade, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, nos termos da lei; e"
+                        },
+                        {
+                            "numero": "XIII",
+                            "rotulo": "XIII",
+                            "linha": 126,
+                            "texto": "aplicação das normas de proteção e defesa do consumidor nas relações de consumo realizadas na internet."
+                        }
+                    ],
+                    "rubrica": "(Rejeitada)",
+                    "linhaRubrica": 92
+                },
+                {
+                    "numero": "8º",
+                    "rotulo": "Art. 8º",
+                    "linha": 128,
+                    "caput": "A garantia do direito à privacidade e à liberdade de expressão nas comunicações é condição para o pleno exercício do direito de acesso à internet.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 130,
+                            "texto": "São nulas de pleno direito as cláusulas contratuais que violem o disposto no caput, tais como aquelas que:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 132,
+                                    "texto": "impliquem ofensa à inviolabilidade e ao sigilo das comunicações privadas, pela internet; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 134,
+                                    "texto": "em contrato de adesão, não ofereçam como alternativa ao contratante a adoção do foro brasileiro para solução de controvérsias decorrentes de serviços prestados no Brasil. (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DOS DIREITOS E GARANTIAS DOS USUÁRIOS",
+            "linhaTitulo": 89
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO III",
+            "linha": 242,
+            "artigos": [
+                {
+                    "numero": "9º",
+                    "rotulo": "Art. 9º",
+                    "linha": 248,
+                    "caput": "O responsável pela transmissão, comutação ou roteamento tem o dever de tratar de forma isonômica quaisquer pacotes de dados, sem distinção por conteúdo, origem e destino, serviço, terminal ou aplicação.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 250,
+                            "texto": "A discriminação ou degradação do tráfego será regulamentada nos termos das atribuições privativas do Presidente da República previstas no inciso IV do art. 84 da Constituição Federal, para a fiel execução desta Lei, ouvidos o Comitê Gestor da Internet e a Agência Nacional de Telecomunicações, e somente poderá decorrer de:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 252,
+                                    "texto": "requisitos técnicos indispensáveis à prestação adequada dos serviços e aplicações; e"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 254,
+                                    "texto": "priorização de serviços de emergência."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 256,
+                            "texto": "Na hipótese de discriminação ou degradação do tráfego prevista no § 1º , o responsável mencionado no caput deve:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 258,
+                                    "texto": "abster-se de causar dano aos usuários, na forma do art. 927 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 260,
+                                    "texto": "agir com proporcionalidade, transparência e isonomia;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 262,
+                                    "texto": "informar previamente de modo transparente, claro e suficientemente descritivo aos seus usuários sobre as práticas de gerenciamento e mitigação de tráfego adotadas, inclusive as relacionadas à segurança da rede; e"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 264,
+                                    "texto": "oferecer serviços em condições comerciais não discriminatórias e abster-se de praticar condutas anticoncorrenciais."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 266,
+                            "texto": "Na provisão de conexão à internet, onerosa ou gratuita, bem como na transmissão, comutação ou roteamento, é vedado bloquear, monitorar, filtrar ou analisar o conteúdo dos pacotes de dados, respeitado o disposto neste artigo. Seção II"
+                        }
+                    ],
+                    "rubrica": "Da Neutralidade de Rede",
+                    "linhaRubrica": 246
+                },
+                {
+                    "numero": "10",
+                    "rotulo": "Art. 10.",
+                    "linha": 271,
+                    "caput": "A guarda e a disponibilização dos registros de conexão e de acesso a aplicações de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicações privadas, devem atender à preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 273,
+                            "texto": "O provedor responsável pela guarda somente será obrigado a disponibilizar os registros mencionados no caput, de forma autônoma ou associados a dados pessoais ou a outras informações que possam contribuir para a identificação do usuário ou do terminal, mediante ordem judicial, na forma do disposto na Seção IV deste Capítulo, respeitado o disposto no art. 7º ."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 275,
+                            "texto": "O conteúdo das comunicações privadas somente poderá ser disponibilizado mediante ordem judicial, nas hipóteses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7º ."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 277,
+                            "texto": "O disposto no caput não impede o acesso aos dados cadastrais que informem qualificação pessoal, filiação e endereço, na forma da lei, pelas autoridades administrativas que detenham competência legal para a sua requisição."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 279,
+                            "texto": "As medidas e os procedimentos de segurança e de sigilo devem ser informados pelo responsável pela provisão de serviços de forma clara e atender a padrões definidos em regulamento, respeitado seu direito de confidencialidade quanto a segredos empresariais."
+                        }
+                    ],
+                    "rubrica": "Da Proteção aos Registros, aos Dados Pessoais e às Comunicações Privadas",
+                    "linhaRubrica": 269
+                },
+                {
+                    "numero": "11",
+                    "rotulo": "Art. 11.",
+                    "linha": 281,
+                    "caput": "Em qualquer operação de coleta, armazenamento, guarda e tratamento de registros, de dados pessoais ou de comunicações por provedores de conexão e de aplicações de internet em que pelo menos um desses atos ocorra em território nacional, deverão ser obrigatoriamente respeitados a legislação brasileira e os direitos à privacidade, à proteção dos dados pessoais e ao sigilo das comunicações privadas e dos registros.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 283,
+                            "texto": "O disposto no caput aplica-se aos dados coletados em território nacional e ao conteúdo das comunicações, desde que pelo menos um dos terminais esteja localizado no Brasil."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 287,
+                            "texto": "O disposto no caput aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou pelo menos uma integrante do mesmo grupo econômico possua estabelecimento no Brasil.",
+                            "rubrica": "(Rejeitada)",
+                            "linhaRubrica": 285
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 289,
+                            "texto": "Os provedores de conexão e de aplicações de internet deverão prestar, na forma da regulamentação, informações que permitam a verificação quanto ao cumprimento da legislação brasileira referente à coleta, à guarda, ao armazenamento ou ao tratamento de dados, bem como quanto ao respeito à privacidade e ao sigilo de comunicações."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 291,
+                            "texto": "Decreto regulamentará o procedimento para apuração de infrações ao disposto neste artigo.  (Rejeitada)  (Rejeitada)  (Rejeitada)  (Rejeitada)  (Rejeitada)"
+                        }
+                    ]
+                },
+                {
+                    "numero": "12",
+                    "rotulo": "Art. 12.",
+                    "linha": 305,
+                    "caput": "Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações às normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, às seguintes sanções, aplicadas de forma isolada ou cumulativa:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 315,
+                            "texto": "Tratando-se de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata o caput sua filial, sucursal, escritório ou estabelecimento situado no País. Subseção I"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 307,
+                            "texto": "advertência, com indicação de prazo para adoção de medidas corretivas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 309,
+                            "texto": "multa de até 10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício, excluídos os tributos, considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 311,
+                            "texto": "suspensão temporária das atividades que envolvam os atos previstos no art. 11; ou"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 313,
+                            "texto": "proibição de exercício das atividades que envolvam os atos previstos no art. 11."
+                        }
+                    ],
+                    "rubrica": " (Rejeitada)",
+                    "linhaRubrica": 303
+                },
+                {
+                    "numero": "13",
+                    "rotulo": "Art. 13.",
+                    "linha": 320,
+                    "caput": "Na provisão de conexão à internet, cabe ao administrador de sistema autônomo respectivo o dever de manter os registros de conexão, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 1 (um) ano, nos termos do regulamento.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 322,
+                            "texto": "A responsabilidade pela manutenção dos registros de conexão não poderá ser transferida a terceiros."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 324,
+                            "texto": "A autoridade policial ou administrativa ou o Ministério Público poderá requerer cautelarmente que os registros de conexão sejam guardados por prazo superior ao previsto no caput."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 326,
+                            "texto": "Na hipótese do § 2º , a autoridade requerente terá o prazo de 60 (sessenta) dias, contados a partir do requerimento, para ingressar com o pedido de autorização judicial de acesso aos registros previstos no caput."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 328,
+                            "texto": "O provedor responsável pela guarda dos registros deverá manter sigilo em relação ao requerimento previsto no § 2º , que perderá sua eficácia caso o pedido de autorização judicial seja indeferido ou não tenha sido protocolado no prazo previsto no § 3º ."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 330,
+                            "texto": "Em qualquer hipótese, a disponibilização ao requerente dos registros de que trata este artigo deverá ser precedida de autorização judicial, conforme disposto na Seção IV deste Capítulo."
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 332,
+                            "texto": "Na aplicação de sanções pelo descumprimento ao disposto neste artigo, serão considerados a natureza e a gravidade da infração, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência. Subseção II"
+                        }
+                    ],
+                    "rubrica": "Da Guarda de Registros de Conexão",
+                    "linhaRubrica": 318
+                },
+                {
+                    "numero": "14",
+                    "rotulo": "Art. 14.",
+                    "linha": 337,
+                    "caput": "Na provisão de conexão, onerosa ou gratuita, é vedado guardar os registros de acesso a aplicações de internet. Subseção III",
+                    "rubrica": "Da Guarda de Registros de Acesso a Aplicações de Internet na Provisão de Conexão",
+                    "linhaRubrica": 335
+                },
+                {
+                    "numero": "15",
+                    "rotulo": "Art. 15.",
+                    "linha": 342,
+                    "caput": "O provedor de aplicações de internet constituído na forma de pessoa jurídica e que exerça essa atividade de forma organizada, profissionalmente e com fins econômicos deverá manter os respectivos registros de acesso a aplicações de internet, sob sigilo, em ambiente controlado e de segurança, pelo prazo de 6 (seis) meses, nos termos do regulamento.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 344,
+                            "texto": "Ordem judicial poderá obrigar, por tempo certo, os provedores de aplicações de internet que não estão sujeitos ao disposto no caput a guardarem registros de acesso a aplicações de internet, desde que se trate de registros relativos a fatos específicos em período determinado."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 346,
+                            "texto": "A autoridade policial ou administrativa ou o Ministério Público poderão requerer cautelarmente a qualquer provedor de aplicações de internet que os registros de acesso a aplicações de internet sejam guardados, inclusive por prazo superior ao previsto no caput, observado o disposto nos §§ 3º e 4º do art. 13."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 348,
+                            "texto": "Em qualquer hipótese, a disponibilização ao requerente dos registros de que trata este artigo deverá ser precedida de autorização judicial, conforme disposto na Seção IV deste Capítulo."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 350,
+                            "texto": "Na aplicação de sanções pelo descumprimento ao disposto neste artigo, serão considerados a natureza e a gravidade da infração, os danos dela resultantes, eventual vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência."
+                        }
+                    ],
+                    "rubrica": "Da Guarda de Registros de Acesso a Aplicações de Internet na Provisão de Aplicações",
+                    "linhaRubrica": 340
+                },
+                {
+                    "numero": "16",
+                    "rotulo": "Art. 16.",
+                    "linha": 352,
+                    "caput": "Na provisão de aplicações de internet, onerosa ou gratuita, é vedada a guarda:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 354,
+                            "texto": "dos registros de acesso a outras aplicações de internet sem que o titular dos dados tenha consentido previamente, respeitado o disposto no art. 7º ; ou"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 356,
+                            "texto": "de dados pessoais que sejam excessivos em relação à finalidade para a qual foi dado consentimento pelo seu titular, exceto nas hipóteses previstas na Lei que dispõe sobre a proteção de dados pessoais.  "
+                        }
+                    ]
+                },
+                {
+                    "numero": "17",
+                    "rotulo": "Art. 17.",
+                    "linha": 358,
+                    "caput": "Ressalvadas as hipóteses previstas nesta Lei, a opção por não guardar os registros de acesso a aplicações de internet não implica responsabilidade sobre danos decorrentes do uso desses serviços por terceiros. Seção III"
+                },
+                {
+                    "numero": "18",
+                    "rotulo": "Art. 18.",
+                    "linha": 363,
+                    "caput": "O provedor de conexão à internet não será responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros.",
+                    "rubrica": "Da Responsabilidade por Danos Decorrentes de Conteúdo Gerado por Terceiros",
+                    "linhaRubrica": 361
+                },
+                {
+                    "numero": "19",
+                    "rotulo": "Art. 19.",
+                    "linha": 365,
+                    "caput": "Com o intuito de assegurar a liberdade de expressão e impedir a censura, o provedor de aplicações de internet somente poderá ser responsabilizado civilmente por danos decorrentes de conteúdo gerado por terceiros se, após ordem judicial específica, não tomar as providências para, no âmbito e nos limites técnicos do seu serviço e dentro do prazo assinalado, tornar indisponível o conteúdo apontado como infringente, ressalvadas as disposições legais em contrário.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 367,
+                            "texto": "A ordem judicial de que trata o caput deverá conter, sob pena de nulidade, identificação clara e específica do conteúdo apontado como infringente, que permita a localização inequívoca do material."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 369,
+                            "texto": "A aplicação do disposto neste artigo para infrações a direitos de autor ou a direitos conexos depende de previsão legal específica, que deverá respeitar a liberdade de expressão e demais garantias previstas no art. 5º da Constituição Federal."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 371,
+                            "texto": "As causas que versem sobre ressarcimento por danos decorrentes de conteúdos disponibilizados na internet relacionados à honra, à reputação ou a direitos de personalidade, bem como sobre a indisponibilização desses conteúdos por provedores de aplicações de internet, poderão ser apresentadas perante os juizados especiais."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 373,
+                            "texto": "O juiz, inclusive no procedimento previsto no § 3º , poderá antecipar, total ou parcialmente, os efeitos da tutela pretendida no pedido inicial, existindo prova inequívoca do fato e considerado o interesse da coletividade na disponibilização do conteúdo na internet, desde que presentes os requisitos de verossimilhança da alegação do autor e de fundado receio de dano irreparável ou de difícil reparação."
+                        }
+                    ]
+                },
+                {
+                    "numero": "20",
+                    "rotulo": "Art. 20.",
+                    "linha": 375,
+                    "caput": "Sempre que tiver informações de contato do usuário diretamente responsável pelo conteúdo a que se refere o art. 19, caberá ao provedor de aplicações de internet comunicar-lhe os motivos e informações relativos à indisponibilização de conteúdo, com informações que permitam o contraditório e a ampla defesa em juízo, salvo expressa previsão legal ou expressa determinação judicial fundamentada em contrário.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 377,
+                            "texto": "Quando solicitado pelo usuário que disponibilizou o conteúdo tornado indisponível, o provedor de aplicações de internet que exerce essa atividade de forma organizada, profissionalmente e com fins econômicos substituirá o conteúdo tornado indisponível pela motivação ou pela ordem judicial que deu fundamento à indisponibilização."
+                        }
+                    ]
+                },
+                {
+                    "numero": "21",
+                    "rotulo": "Art. 21.",
+                    "linha": 379,
+                    "caput": "O provedor de aplicações de internet que disponibilize conteúdo gerado por terceiros será responsabilizado subsidiariamente pela violação da intimidade decorrente da divulgação, sem autorização de seus participantes, de imagens, de vídeos ou de outros materiais contendo cenas de nudez ou de atos sexuais de caráter privado quando, após o recebimento de notificação pelo participante ou seu representante legal, deixar de promover, de forma diligente, no âmbito e nos limites técnicos do seu serviço, a indisponibilização desse conteúdo.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 381,
+                            "texto": "A notificação prevista no caput deverá conter, sob pena de nulidade, elementos que permitam a identificação específica do material apontado como violador da intimidade do participante e a verificação da legitimidade para apresentação do pedido. Seção IV"
+                        }
+                    ]
+                },
+                {
+                    "numero": "22",
+                    "rotulo": "Art. 22.",
+                    "linha": 386,
+                    "caput": "A parte interessada poderá, com o propósito de formar conjunto probatório em processo judicial cível ou penal, em caráter incidental ou autônomo, requerer ao juiz que ordene ao responsável pela guarda o fornecimento de registros de conexão ou de registros de acesso a aplicações de internet.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 388,
+                            "texto": "Sem prejuízo dos demais requisitos legais, o requerimento deverá conter, sob pena de inadmissibilidade:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 390,
+                                    "texto": "fundados indícios da ocorrência do ilícito;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 392,
+                                    "texto": "justificativa motivada da utilidade dos registros solicitados para fins de investigação ou instrução probatória; e"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 394,
+                                    "texto": "período ao qual se referem os registros."
+                                }
+                            ]
+                        }
+                    ],
+                    "rubrica": "Da Requisição Judicial de Registros",
+                    "linhaRubrica": 384
+                },
+                {
+                    "numero": "23",
+                    "rotulo": "Art. 23.",
+                    "linha": 396,
+                    "caput": "Cabe ao juiz tomar as providências necessárias à garantia do sigilo das informações recebidas e à preservação da intimidade, da vida privada, da honra e da imagem do usuário, podendo determinar segredo de justiça, inclusive quanto aos pedidos de guarda de registro."
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET",
+            "linhaTitulo": 243
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IV",
+            "linha": 398,
+            "artigos": [
+                {
+                    "numero": "24",
+                    "rotulo": "Art. 24.",
+                    "linha": 401,
+                    "caput": "Constituem diretrizes para a atuação da União, dos Estados, do Distrito Federal e dos Municípios no desenvolvimento da internet no Brasil:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 403,
+                            "texto": "estabelecimento de mecanismos de governança multiparticipativa, transparente, colaborativa e democrática, com a participação do governo, do setor empresarial, da sociedade civil e da comunidade acadêmica;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 405,
+                            "texto": "promoção da racionalização da gestão, expansão e uso da internet, com participação do Comitê Gestor da internet no Brasil;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 407,
+                            "texto": "promoção da racionalização e da interoperabilidade tecnológica dos serviços de governo eletrônico, entre os diferentes Poderes e âmbitos da Federação, para permitir o intercâmbio de informações e a celeridade de procedimentos;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 409,
+                            "texto": "promoção da interoperabilidade entre sistemas e terminais diversos, inclusive entre os diferentes âmbitos federativos e diversos setores da sociedade;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 411,
+                            "texto": "adoção preferencial de tecnologias, padrões e formatos abertos e livres;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 413,
+                            "texto": "publicidade e disseminação de dados e informações públicos, de forma aberta e estruturada;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 415,
+                            "texto": "otimização da infraestrutura das redes e estímulo à implantação de centros de armazenamento, gerenciamento e disseminação de dados no País, promovendo a qualidade técnica, a inovação e a difusão das aplicações de internet, sem prejuízo à abertura, à neutralidade e à natureza participativa;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 417,
+                            "texto": "desenvolvimento de ações e programas de capacitação para uso da internet;"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 419,
+                            "texto": "promoção da cultura e da cidadania; e"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 421,
+                            "texto": "prestação de serviços públicos de atendimento ao cidadão de forma integrada, eficiente, simplificada e por múltiplos canais de acesso, inclusive remotos."
+                        }
+                    ]
+                },
+                {
+                    "numero": "25",
+                    "rotulo": "Art. 25.",
+                    "linha": 423,
+                    "caput": "As aplicações de internet de entes do poder público devem buscar:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 425,
+                            "texto": "compatibilidade dos serviços de governo eletrônico com diversos terminais, sistemas operacionais e aplicativos para seu acesso;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 427,
+                            "texto": "acessibilidade a todos os interessados, independentemente de suas capacidades físico-motoras, perceptivas, sensoriais, intelectuais, mentais, culturais e sociais, resguardados os aspectos de sigilo e restrições administrativas e legais;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 429,
+                            "texto": "compatibilidade tanto com a leitura humana quanto com o tratamento automatizado das informações;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 431,
+                            "texto": "facilidade de uso dos serviços de governo eletrônico; e"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 433,
+                            "texto": "fortalecimento da participação social nas políticas públicas."
+                        }
+                    ]
+                },
+                {
+                    "numero": "26",
+                    "rotulo": "Art. 26.",
+                    "linha": 435,
+                    "caput": "O cumprimento do dever constitucional do Estado na prestação da educação, em todos os níveis de ensino, inclui a capacitação, integrada a outras práticas educacionais, para o uso seguro, consciente e responsável da internet como ferramenta para o exercício da cidadania, a promoção da cultura e o desenvolvimento tecnológico."
+                },
+                {
+                    "numero": "27",
+                    "rotulo": "Art. 27.",
+                    "linha": 437,
+                    "caput": "As iniciativas públicas de fomento à cultura digital e de promoção da internet como ferramenta social devem:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 439,
+                            "texto": "promover a inclusão digital;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 441,
+                            "texto": "buscar reduzir as desigualdades, sobretudo entre as diferentes regiões do País, no acesso às tecnologias da informação e comunicação e no seu uso; e"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 443,
+                            "texto": "fomentar a produção e circulação de conteúdo nacional."
+                        }
+                    ]
+                },
+                {
+                    "numero": "28",
+                    "rotulo": "Art. 28.",
+                    "linha": 445,
+                    "caput": "O Estado deve, periodicamente, formular e fomentar estudos, bem como fixar metas, estratégias, planos e cronogramas, referentes ao uso e desenvolvimento da internet no País. (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada) (Rejeitada)"
+                }
+            ],
+            "titulo": "DA ATUAÇÃO DO PODER PÚBLICO",
+            "linhaTitulo": 399
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO V",
+            "linha": 467,
+            "artigos": [
+                {
+                    "numero": "29",
+                    "rotulo": "Art. 29.",
+                    "linha": 470,
+                    "caput": "O usuário terá a opção de livre escolha na utilização de programa de computador em seu terminal para exercício do controle parental de conteúdo entendido por ele como impróprio a seus filhos menores, desde que respeitados os princípios desta Lei e da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 472,
+                            "texto": "Cabe ao poder público, em conjunto com os provedores de conexão e de aplicações de internet e a sociedade civil, promover a educação e fornecer informações sobre o uso dos programas de computador previstos no caput, bem como para a definição de boas práticas para a inclusão digital de crianças e adolescentes."
+                        }
+                    ]
+                },
+                {
+                    "numero": "30",
+                    "rotulo": "Art. 30.",
+                    "linha": 474,
+                    "caput": "A defesa dos interesses e dos direitos estabelecidos nesta Lei poderá ser exercida em juízo, individual ou coletivamente, na forma da lei."
+                },
+                {
+                    "numero": "31",
+                    "rotulo": "Art. 31.",
+                    "linha": 476,
+                    "caput": "Até a entrada em vigor da lei específica prevista no § 2º do art. 19, a responsabilidade do provedor de aplicações de internet por danos decorrentes de conteúdo gerado por terceiros, quando se tratar de infração a direitos de autor ou a direitos conexos, continuará a ser disciplinada pela legislação autoral vigente aplicável na data da entrada em vigor desta Lei."
+                },
+                {
+                    "numero": "32",
+                    "rotulo": "Art. 32.",
+                    "linha": 478,
+                    "caput": "Esta Lei entra em vigor após decorridos 60 (sessenta) dias de sua publicação oficial."
+                }
+            ],
+            "titulo": "DISPOSIÇÕES FINAIS",
+            "linhaTitulo": 468
+        },
+        {
+            "tipo": "fecho",
+            "linha": 480,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília, 23 de abril de 2014; 193º da Independência e 126º da República.",
+                    "linha": 480
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "DILMA ROUSSEFF",
+                    "linha": 482
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "José Eduardo Cardozo",
+                    "linha": 483
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Miriam Belchior",
+                    "linha": 484
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Paulo Bernardo Silva",
+                    "linha": 485
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Clélio Campolina Diniz",
+                    "linha": 486
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 24.4.2014",
+                    "linha": 488
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "*",
+                    "linha": 490
+                }
+            ]
+        }
+    ]
+}

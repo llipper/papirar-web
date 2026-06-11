@@ -1,0 +1,2851 @@
+{
+    "id": "Lei_11343_Drogas",
+    "titulo": "Lei 11343 Drogas",
+    "apelido": "Lei 11343 Drogas.",
+    "sigla": "",
+    "fonte": "Lei_11343_Drogas.txt",
+    "fonteHtmlLocal": "leis/Lei_11343_Drogas/l11343.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 11.343, DE 23 DE AGOSTO DE 2006",
+            "linha": 1
+        },
+        {
+            "texto": "Institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas; define crimes e dá outras providências.",
+            "linha": 3
+        },
+        {
+            "texto": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+            "linha": 4
+        },
+        {
+            "texto": "TÍTULO I",
+            "linha": 6
+        },
+        {
+            "texto": "DISPOSIÇÕES PRELIMINARES",
+            "linha": 7
+        },
+        {
+            "texto": "Art. 1º Esta Lei institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes.",
+            "linha": 8
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 12,
+            "artigos": [
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 12,
+                    "caput": "Ficam proibidas, em todo o território nacional, as drogas, bem como o plantio, a cultura, a colheita e a exploração de vegetais e substratos dos quais possam ser extraídas ou produzidas drogas, ressalvada a hipótese de autorização legal ou regulamentar, bem como o que estabelece a Convenção de Viena, das Nações Unidas, sobre Substâncias Psicotrópicas, de 1971, a respeito de plantas de uso estritamente ritualístico-religioso.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 14,
+                            "texto": "Pode a União autorizar o plantio, a cultura e a colheita dos vegetais referidos no caput deste artigo, exclusivamente para fins medicinais ou científicos, em local e prazo predeterminados, mediante fiscalização, respeitadas as ressalvas supramencionadas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO II",
+            "linha": 16,
+            "divisoes": [
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO I",
+                    "linha": 28,
+                    "artigos": [
+                        {
+                            "numero": "4º",
+                            "rotulo": "Art. 4º",
+                            "linha": 30,
+                            "caput": "São princípios do Sisnad:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 32,
+                                    "texto": "o respeito aos direitos fundamentais da pessoa humana, especialmente quanto à sua autonomia e à sua liberdade;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 34,
+                                    "texto": "o respeito à diversidade e às especificidades populacionais existentes;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 36,
+                                    "texto": "a promoção dos valores éticos, culturais e de cidadania do povo brasileiro, reconhecendo-os como fatores de proteção para o uso indevido de drogas e outros comportamentos correlacionados;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 38,
+                                    "texto": "a promoção de consensos nacionais, de ampla participação social, para o estabelecimento dos fundamentos e estratégias do Sisnad;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 40,
+                                    "texto": "a promoção da responsabilidade compartilhada entre Estado e Sociedade, reconhecendo a importância da participação social nas atividades do Sisnad;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 42,
+                                    "texto": "o reconhecimento da intersetorialidade dos fatores correlacionados com o uso indevido de drogas, com a sua produção não autorizada e o seu tráfico ilícito;"
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 44,
+                                    "texto": "a integração das estratégias nacionais e internacionais de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao seu tráfico ilícito;"
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 46,
+                                    "texto": "a articulação com os órgãos do Ministério Público e dos Poderes Legislativo e Judiciário visando à cooperação mútua nas atividades do Sisnad;"
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 48,
+                                    "texto": "a adoção de abordagem multidisciplinar que reconheça a interdependência e a natureza complementar das atividades de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas, repressão da produção não autorizada e do tráfico ilícito de drogas;"
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 50,
+                                    "texto": "a observância do equilíbrio entre as atividades de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao seu tráfico ilícito, visando a garantir a estabilidade e o bem-estar social;"
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 52,
+                                    "texto": "a observância às orientações e normas emanadas do Conselho Nacional Antidrogas - Conad."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "Art. 5º",
+                            "linha": 54,
+                            "caput": "O Sisnad tem os seguintes objetivos:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 56,
+                                    "texto": "contribuir para a inclusão social do cidadão, visando a torná-lo menos vulnerável a assumir comportamentos de risco para o uso indevido de drogas, seu tráfico ilícito e outros comportamentos correlacionados;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 58,
+                                    "texto": "promover a construção e a socialização do conhecimento sobre drogas no país;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 60,
+                                    "texto": "promover a integração entre as políticas de prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas e de repressão à sua produção não autorizada e ao tráfico ilícito e as políticas públicas setoriais dos órgãos do Poder Executivo da União, Distrito Federal, Estados e Municípios;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 62,
+                                    "texto": "assegurar as condições para a coordenação, a integração e a articulação das atividades de que trata o art. 3º desta Lei."
+                                }
+                            ]
+                        }
+                    ],
+                    "titulo": "DOS PRINCÍPIOS E DOS OBJETIVOS DO SIS TEMA NACIONAL DE POLÍTICAS PÚBLICAS SOBRE DROGAS",
+                    "linhaTitulo": 29
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO II",
+                    "linha": 64,
+                    "artigos": [
+                        {
+                            "numero": "6º",
+                            "rotulo": "Art. 6º",
+                            "linha": 76,
+                            "caput": "(VETADO)",
+                            "rubrica": "Da Composição do Sistema Nacional de Políticas Públicas sobre Drogas",
+                            "linhaRubrica": 74
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "Art. 7º",
+                            "linha": 78,
+                            "caput": "A organização do Sisnad assegura a orientação central e a execução descentralizada das atividades realizadas em seu âmbito, nas esferas federal, distrital, estadual e municipal e se constitui matéria definida no regulamento desta Lei."
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "Art. 7º",
+                            "linha": 80,
+                            "caput": "-A. (VETADO). "
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 82,
+                            "caput": "(VETADO) Seção II "
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 90,
+                            "caput": "-A. Compete à União: ",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 92,
+                                    "texto": "formular e coordenar a execução da Política Nacional sobre Drogas; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 94,
+                                    "texto": "elaborar o Plano Nacional de Políticas sobre Drogas, em parceria com Estados, Distrito Federal, Municípios e a sociedade; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 96,
+                                    "texto": "coordenar o Sisnad; "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 98,
+                                    "texto": "estabelecer diretrizes sobre a organização e funcionamento do Sisnad e suas normas de referência; "
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 100,
+                                    "texto": "elaborar objetivos, ações estratégicas, metas, prioridades, indicadores e definir formas de financiamento e gestão das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 102,
+                                    "texto": "(VETADO); "
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 104,
+                                    "texto": "(VETADO); "
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 106,
+                                    "texto": "promover a integração das políticas sobre drogas com os Estados, o Distrito Federal e os Municípios; "
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 108,
+                                    "texto": "financiar, com Estados, Distrito Federal e Municípios, a execução das políticas sobre drogas, observadas as obrigações dos integrantes do Sisnad; "
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 110,
+                                    "texto": "estabelecer formas de colaboração com Estados, Distrito Federal e Municípios para a execução das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 112,
+                                    "texto": "garantir publicidade de dados e informações sobre repasses de recursos para financiamento das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "XII",
+                                    "rotulo": "XII",
+                                    "linha": 114,
+                                    "texto": "sistematizar e divulgar os dados estatísticos nacionais de prevenção, tratamento, acolhimento, reinserção social e econômica e repressão ao tráfico ilícito de drogas; "
+                                },
+                                {
+                                    "numero": "XIII",
+                                    "rotulo": "XIII",
+                                    "linha": 116,
+                                    "texto": "adotar medidas de enfretamento aos crimes transfronteiriços; e "
+                                },
+                                {
+                                    "numero": "XIV",
+                                    "rotulo": "XIV",
+                                    "linha": 118,
+                                    "texto": "estabelecer uma política nacional de controle de fronteiras, visando a coibir o ingresso de drogas no País. "
+                                }
+                            ],
+                            "rubrica": "Das Competências",
+                            "linhaRubrica": 88
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 120,
+                            "caput": "-B . (VETADO). "
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 122,
+                            "caput": "-C. (VETADO). "
+                        }
+                    ],
+                    "itens": [
+                        {
+                            "tipo": "texto",
+                            "texto": "DO SISTEMA NACIONAL DE POLÍTICAS PÚBLICAS SOBRE DROGAS"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": "Seção I"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": ""
+                        }
+                    ],
+                    "titulo": "",
+                    "linhaTitulo": 66
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO II-A",
+                    "linha": 124,
+                    "artigos": [
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 136,
+                            "caput": "-D. São objetivos do Plano Nacional de Políticas sobre Drogas, dentre outros: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 162,
+                                    "texto": "O plano de que trata o caput terá duração de 5 (cinco) anos a contar de sua aprovação."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 164,
+                                    "texto": "O poder público deverá dar a mais ampla divulgação ao conteúdo do Plano Nacional de Políticas sobre Drogas. Seção II "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 138,
+                                    "texto": "promover a interdisciplinaridade e integração dos programas, ações, atividades e projetos dos órgãos e entidades públicas e privadas nas áreas de saúde, educação, trabalho, assistência social, previdência social, habitação, cultura, desporto e lazer, visando à prevenção do uso de drogas, atenção e reinserção social dos usuários ou dependentes de drogas; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 140,
+                                    "texto": "viabilizar a ampla participação social na formulação, implementação e avaliação das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 142,
+                                    "texto": "priorizar programas, ações, atividades e projetos articulados com os estabelecimentos de ensino, com a sociedade e com a família para a prevenção do uso de drogas; "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 144,
+                                    "texto": "ampliar as alternativas de inserção social e econômica do usuário ou dependente de drogas, promovendo programas que priorizem a melhoria de sua escolarização e a qualificação profissional; "
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 146,
+                                    "texto": "promover o acesso do usuário ou dependente de drogas a todos os serviços públicos; "
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 148,
+                                    "texto": "estabelecer diretrizes para garantir a efetividade dos programas, ações e projetos das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 150,
+                                    "texto": "fomentar a criação de serviço de atendimento telefônico com orientações e informações para apoio aos usuários ou dependentes de drogas; "
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 152,
+                                    "texto": "articular programas, ações e projetos de incentivo ao emprego, renda e capacitação para o trabalho, com objetivo de promover a inserção profissional da pessoa que haja cumprido o plano individual de atendimento nas fases de tratamento ou acolhimento; "
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 154,
+                                    "texto": "promover formas coletivas de organização para o trabalho, redes de economia solidária e o cooperativismo, como forma de promover autonomia ao usuário ou dependente de drogas egresso de tratamento ou acolhimento, observando-se as especificidades regionais; "
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 156,
+                                    "texto": "propor a formulação de políticas públicas que conduzam à efetivação das diretrizes e princípios previstos no art. 22; "
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 158,
+                                    "texto": "articular as instâncias de saúde, assistência social e de justiça no enfrentamento ao abuso de drogas; e "
+                                },
+                                {
+                                    "numero": "XII",
+                                    "rotulo": "XII",
+                                    "linha": 160,
+                                    "texto": "promover estudos e avaliação dos resultados das políticas sobre drogas. "
+                                }
+                            ],
+                            "rubrica": "Do Plano Nacional de Políticas sobre Drogas",
+                            "linhaRubrica": 134
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 172,
+                            "caput": "-E. Os conselhos de políticas sobre drogas, constituídos por Estados, Distrito Federal e Municípios, terão os seguintes objetivos: ",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 174,
+                                    "texto": "auxiliar na elaboração de políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 176,
+                                    "texto": "colaborar com os órgãos governamentais no planejamento e na execução das políticas sobre drogas, visando à efetividade das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 178,
+                                    "texto": "propor a celebração de instrumentos de cooperação, visando à elaboração de programas, ações, atividades e projetos voltados à prevenção, tratamento, acolhimento, reinserção social e econômica e repressão ao tráfico ilícito de drogas; "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 180,
+                                    "texto": "promover a realização de estudos, com o objetivo de subsidiar o planejamento das políticas sobre drogas; "
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 182,
+                                    "texto": "propor políticas públicas que permitam a integração e a participação do usuário ou dependente de drogas no processo social, econômico, político e cultural no respectivo ente federado; e "
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 184,
+                                    "texto": "desenvolver outras atividades relacionadas às políticas sobre drogas em consonância com o Sisnad e com os respectivos planos.  Seção III "
+                                }
+                            ],
+                            "rubrica": "Dos Conselhos de Políticas sobre Drogas",
+                            "linhaRubrica": 170
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "Art. 8º",
+                            "linha": 192,
+                            "caput": "-F. (VETADO). ",
+                            "rubrica": "Dos Membros dos Conselhos de Políticas sobre Drogas",
+                            "linhaRubrica": 190
+                        }
+                    ],
+                    "itens": [
+                        {
+                            "tipo": "texto",
+                            "texto": "DA FORMULAÇÃO DAS POLÍTICAS SOBRE DROGAS"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": "Seção I"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": ""
+                        }
+                    ],
+                    "titulo": "",
+                    "linhaTitulo": 126
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO III",
+                    "linha": 194,
+                    "artigos": [
+                        {
+                            "numero": "9º",
+                            "rotulo": "Art. 9º",
+                            "linha": 196,
+                            "caput": "(VETADO)"
+                        },
+                        {
+                            "numero": "10",
+                            "rotulo": "Art. 10.",
+                            "linha": 198,
+                            "caput": "(VETADO)"
+                        },
+                        {
+                            "numero": "11",
+                            "rotulo": "Art. 11.",
+                            "linha": 200,
+                            "caput": "(VETADO)"
+                        },
+                        {
+                            "numero": "12",
+                            "rotulo": "Art. 12.",
+                            "linha": 202,
+                            "caput": "(VETADO)"
+                        },
+                        {
+                            "numero": "13",
+                            "rotulo": "Art. 13.",
+                            "linha": 204,
+                            "caput": "(VETADO)"
+                        },
+                        {
+                            "numero": "14",
+                            "rotulo": "Art. 14.",
+                            "linha": 206,
+                            "caput": "(VETADO)"
+                        }
+                    ],
+                    "titulo": "(VETADO)",
+                    "linhaTitulo": 195
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO IV",
+                    "linha": 208,
+                    "artigos": [
+                        {
+                            "numero": "15",
+                            "rotulo": "Art. 15.",
+                            "linha": 214,
+                            "caput": "(VETADO)",
+                            "rubrica": "DO ACOMPANHAMENTO E DA AVALIAÇÃO DAS POLÍTICAS SOBRE DROGAS",
+                            "linhaRubrica": 212
+                        },
+                        {
+                            "numero": "16",
+                            "rotulo": "Art. 16.",
+                            "linha": 216,
+                            "caput": "As instituições com atuação nas áreas da atenção à saúde e da assistência social que atendam usuários ou dependentes de drogas devem comunicar ao órgão competente do respectivo sistema municipal de saúde os casos atendidos e os óbitos ocorridos, preservando a identidade das pessoas, conforme orientações emanadas da União."
+                        },
+                        {
+                            "numero": "17",
+                            "rotulo": "Art. 17.",
+                            "linha": 218,
+                            "caput": "Os dados estatísticos nacionais de repressão ao tráfico ilícito de drogas integrarão sistema de informações do Poder Executivo."
+                        }
+                    ],
+                    "titulo": "",
+                    "linhaTitulo": 210
+                }
+            ],
+            "artigos": [
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 18,
+                    "caput": "O Sisnad tem a finalidade de articular, integrar, organizar e coordenar as atividades relacionadas com:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 24,
+                            "texto": "Entende-se por Sisnad o conjunto ordenado de princípios, regras, critérios e recursos materiais e humanos que envolvem as políticas, planos, programas, ações e projetos sobre drogas, incluindo-se nele, por adesão, os Sistemas de Políticas Públicas sobre Drogas dos Estados, Distrito Federal e Municípios. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 26,
+                            "texto": "O Sisnad atuará em articulação com o Sistema Único de Saúde - SUS, e com o Sistema Único de Assistência Social - SUAS. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 20,
+                            "texto": "a prevenção do uso indevido, a atenção e a reinserção social de usuários e dependentes de drogas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 22,
+                            "texto": "a repressão da produção não autorizada e do tráfico ilícito de drogas."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DO SIS TEMA NACIONAL DE POLÍTICAS PÚBLICAS SOBRE DROGAS",
+            "linhaTitulo": 17
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO III",
+            "linha": 220,
+            "divisoes": [
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO I",
+                    "linha": 222,
+                    "artigos": [
+                        {
+                            "numero": "18",
+                            "rotulo": "Art. 18.",
+                            "linha": 230,
+                            "caput": "Constituem atividades de prevenção do uso indevido de drogas, para efeito desta Lei, aquelas direcionadas para a redução dos fatores de vulnerabilidade e risco e para a promoção e o fortalecimento dos fatores de proteção.",
+                            "rubrica": "Das Diretrizes",
+                            "linhaRubrica": 228
+                        },
+                        {
+                            "numero": "19",
+                            "rotulo": "Art. 19.",
+                            "linha": 232,
+                            "caput": "As atividades de prevenção do uso indevido de drogas devem observar os seguintes princípios e diretrizes:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 260,
+                                    "texto": "As atividades de prevenção do uso indevido de drogas dirigidas à criança e ao adolescente deverão estar em consonância com as diretrizes emanadas pelo Conselho Nacional dos Direitos da Criança e do Adolescente - Conanda. Seção II "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 234,
+                                    "texto": "o reconhecimento do uso indevido de drogas como fator de interferência na qualidade de vida do indivíduo e na sua relação com a comunidade à qual pertence;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 236,
+                                    "texto": "a adoção de conceitos objetivos e de fundamentação científica como forma de orientar as ações dos serviços públicos comunitários e privados e de evitar preconceitos e estigmatização das pessoas e dos serviços que as atendam;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 238,
+                                    "texto": "o fortalecimento da autonomia e da responsabilidade individual em relação ao uso indevido de drogas;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 240,
+                                    "texto": "o compartilhamento de responsabilidades e a colaboração mútua com as instituições do setor privado e com os diversos segmentos sociais, incluindo usuários e dependentes de drogas e respectivos familiares, por meio do estabelecimento de parcerias;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 242,
+                                    "texto": "a adoção de estratégias preventivas diferenciadas e adequadas às especificidades socioculturais das diversas populações, bem como das diferentes drogas utilizadas;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 244,
+                                    "texto": "o reconhecimento do “não-uso”, do “retardamento do uso” e da redução de riscos como resultados desejáveis das atividades de natureza preventiva, quando da definição dos objetivos a serem alcançados;"
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 246,
+                                    "texto": "o tratamento especial dirigido às parcelas mais vulneráveis da população, levando em consideração as suas necessidades específicas;"
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 248,
+                                    "texto": "a articulação entre os serviços e organizações que atuam em atividades de prevenção do uso indevido de drogas e a rede de atenção a usuários e dependentes de drogas e respectivos familiares;"
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 250,
+                                    "texto": "o investimento em alternativas esportivas, culturais, artísticas, profissionais, entre outras, como forma de inclusão social e de melhoria da qualidade de vida;"
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 252,
+                                    "texto": "o estabelecimento de políticas de formação continuada na área da prevenção do uso indevido de drogas para profissionais de educação nos 3 (três) níveis de ensino;"
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 254,
+                                    "texto": "a implantação de projetos pedagógicos de prevenção do uso indevido de drogas, nas instituições de ensino público e privado, alinhados às Diretrizes Curriculares Nacionais e aos conhecimentos relacionados a drogas;"
+                                },
+                                {
+                                    "numero": "XII",
+                                    "rotulo": "XII",
+                                    "linha": 256,
+                                    "texto": "a observância das orientações e normas emanadas do Conad;"
+                                },
+                                {
+                                    "numero": "XIII",
+                                    "rotulo": "XIII",
+                                    "linha": 258,
+                                    "texto": "o alinhamento às diretrizes dos órgãos de controle social de políticas setoriais específicas."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "19-A",
+                            "rotulo": "Art. 19-A.",
+                            "linha": 268,
+                            "caput": "Fica instituída a Semana Nacional de Políticas sobre Drogas, comemorada anualmente, na quarta semana de junho. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 270,
+                                    "texto": "No período de que trata o caput , serão intensificadas as ações de: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 272,
+                                            "texto": "difusão de informações sobre os problemas decorrentes do uso de drogas; "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 274,
+                                            "texto": "promoção de eventos para o debate público sobre as políticas sobre drogas; "
+                                        },
+                                        {
+                                            "numero": "III",
+                                            "rotulo": "III",
+                                            "linha": 276,
+                                            "texto": "difusão de boas práticas de prevenção, tratamento, acolhimento e reinserção social e econômica de usuários de drogas; "
+                                        },
+                                        {
+                                            "numero": "IV",
+                                            "rotulo": "IV",
+                                            "linha": 278,
+                                            "texto": "divulgação de iniciativas, ações e campanhas de prevenção do uso indevido de drogas; "
+                                        },
+                                        {
+                                            "numero": "V",
+                                            "rotulo": "V",
+                                            "linha": 280,
+                                            "texto": "mobilização da comunidade para a participação nas ações de prevenção e enfrentamento às drogas; "
+                                        },
+                                        {
+                                            "numero": "VI",
+                                            "rotulo": "VI",
+                                            "linha": 282,
+                                            "texto": "mobilização dos sistemas de ensino previstos na Lei nº 9.394, de 20 de dezembro de 1996 - Lei de Diretrizes e Bases da Educação Nacional , na realização de atividades de prevenção ao uso de drogas. "
+                                        }
+                                    ]
+                                }
+                            ],
+                            "rubrica": "Da Semana Nacional de Políticas Sobre Drogas",
+                            "linhaRubrica": 266
+                        }
+                    ],
+                    "itens": [
+                        {
+                            "tipo": "texto",
+                            "texto": "Seção I"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": ""
+                        }
+                    ],
+                    "titulo": "DA PREVENÇÃO",
+                    "linhaTitulo": 223
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO II",
+                    "linha": 284,
+                    "titulo": "DAS ATIVIDADES DE ATENÇÃO E DE REINSERÇÃO SOCIAL DE USUÁRIOS O U DEPENDENTES DE DROGAS",
+                    "linhaTitulo": 285
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO II",
+                    "linha": 286,
+                    "artigos": [
+                        {
+                            "numero": "20",
+                            "rotulo": "Art. 20.",
+                            "linha": 298,
+                            "caput": "Constituem atividades de atenção ao usuário e dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas que visem à melhoria da qualidade de vida e à redução dos riscos e dos danos associados ao uso de drogas.",
+                            "rubrica": "Disposições Gerais",
+                            "linhaRubrica": 296
+                        },
+                        {
+                            "numero": "21",
+                            "rotulo": "Art. 21.",
+                            "linha": 300,
+                            "caput": "Constituem atividades de reinserção social do usuário ou do dependente de drogas e respectivos familiares, para efeito desta Lei, aquelas direcionadas para sua integração ou reintegração em redes sociais."
+                        },
+                        {
+                            "numero": "22",
+                            "rotulo": "Art. 22.",
+                            "linha": 302,
+                            "caput": "As atividades de atenção e as de reinserção social do usuário e do dependente de drogas e respectivos familiares devem observar os seguintes princípios e diretrizes:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 304,
+                                    "texto": "respeito ao usuário e ao dependente de drogas, independentemente de quaisquer condições, observados os direitos fundamentais da pessoa humana, os princípios e diretrizes do Sistema Único de Saúde e da Política Nacional de Assistência Social;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 306,
+                                    "texto": "a adoção de estratégias diferenciadas de atenção e reinserção social do usuário e do dependente de drogas e respectivos familiares que considerem as suas peculiaridades socioculturais;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 308,
+                                    "texto": "definição de projeto terapêutico individualizado, orientado para a inclusão social e para a redução de riscos e de danos sociais e à saúde;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 310,
+                                    "texto": "atenção ao usuário ou dependente de drogas e aos respectivos familiares, sempre que possível, de forma multidisciplinar e por equipes multiprofissionais;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 312,
+                                    "texto": "observância das orientações e normas emanadas do Conad;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 314,
+                                    "texto": "o alinhamento às diretrizes dos órgãos de controle social de políticas setoriais específicas."
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 316,
+                                    "texto": "estímulo à capacitação técnica e profissional; "
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 318,
+                                    "texto": "efetivação de políticas de reinserção social voltadas à educação continuada e ao trabalho; "
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 320,
+                                    "texto": "observância do plano individual de atendimento na forma do art. 23-B desta Lei; "
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 322,
+                                    "texto": "orientação adequada ao usuário ou dependente de drogas quanto às consequências lesivas do uso de drogas, ainda que ocasional.  Seção II "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "22-A",
+                            "rotulo": "Art. 22-A.",
+                            "linha": 330,
+                            "caput": "As pessoas atendidas por órgãos integrantes do Sisnad terão atendimento nos programas de educação profissional e tecnológica, educação de jovens e adultos e alfabetização.  Seção III ",
+                            "rubrica": "Da Educação na Reinserção Social e Econômica",
+                            "linhaRubrica": 328
+                        },
+                        {
+                            "numero": "22-B",
+                            "rotulo": "Art. 22-B.",
+                            "linha": 338,
+                            "caput": "(VETADO). Seção IV ",
+                            "rubrica": "Do Trabalho na Reinserção Social e Econômica",
+                            "linhaRubrica": 336
+                        },
+                        {
+                            "numero": "23",
+                            "rotulo": "Art. 23.",
+                            "linha": 346,
+                            "caput": "As redes dos serviços de saúde da União, dos Estados, do Distrito Federal, dos Municípios desenvolverão programas de atenção ao usuário e ao dependente de drogas, respeitadas as diretrizes do Ministério da Saúde e os princípios explicitados no art. 22 desta Lei, obrigatória a previsão orçamentária adequada.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 348,
+                                    "texto": "Será criada estratégia específica de assistência multiprofissional e interdisciplinar às mulheres usuárias e dependentes de álcool, em especial às gestantes e às puérperas, em consonância com os princípios da universalidade e da integralidade e com o disposto nos incisos I, II, III, IV, IX e X do caput do art. 22 desta Lei. "
+                                }
+                            ],
+                            "rubrica": "Do Tratamento do Usuário ou Dependente de Drogas",
+                            "linhaRubrica": 344
+                        },
+                        {
+                            "numero": "23-A",
+                            "rotulo": "Art. 23-A.",
+                            "linha": 350,
+                            "caput": "O tratamento do usuário ou dependente de drogas deverá ser ordenado em uma rede de atenção à saúde, com prioridade para as modalidades de tratamento ambulatorial, incluindo excepcionalmente formas de internação em unidades de saúde e hospitais gerais nos termos de normas dispostas pela União e articuladas com os serviços de assistência social e em etapas que permitam: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 360,
+                                    "texto": "Caberá à União dispor sobre os protocolos técnicos de tratamento, em âmbito nacional. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 362,
+                                    "texto": "A internação de dependentes de drogas somente será realizada em unidades de saúde ou hospitais gerais, dotados de equipes multidisciplinares e deverá ser obrigatoriamente autorizada por médico devidamente registrado no Conselho Regional de Medicina - CRM do Estado onde se localize o estabelecimento no qual se dará a internação. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 364,
+                                    "texto": "São considerados 2 (dois) tipos de internação: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 366,
+                                            "texto": "internação voluntária: aquela que se dá com o consentimento do dependente de drogas; "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 368,
+                                            "texto": "internação involuntária: aquela que se dá, sem o consentimento do dependente, a pedido de familiar ou do responsável legal ou, na absoluta falta deste, de servidor público da área de saúde, da assistência social ou dos órgãos públicos integrantes do Sisnad, com exceção de servidores da área de segurança pública, que constate a existência de motivos que justifiquem a medida. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 370,
+                                    "texto": "A internação voluntária: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 372,
+                                            "texto": "deverá ser precedida de declaração escrita da pessoa solicitante de que optou por este regime de tratamento; "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 374,
+                                            "texto": "seu término dar-se-á por determinação do médico responsável ou por solicitação escrita da pessoa que deseja interromper o tratamento. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 376,
+                                    "texto": "A internação involuntária: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 378,
+                                            "texto": "deve ser realizada após a formalização da decisão por médico responsável; "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 380,
+                                            "texto": "será indicada depois da avaliação sobre o tipo de droga utilizada, o padrão de uso e na hipótese comprovada da impossibilidade de utilização de outras alternativas terapêuticas previstas na rede de atenção à saúde; "
+                                        },
+                                        {
+                                            "numero": "III",
+                                            "rotulo": "III",
+                                            "linha": 382,
+                                            "texto": "perdurará apenas pelo tempo necessário à desintoxicação, no prazo máximo de 90 (noventa) dias, tendo seu término determinado pelo médico responsável; "
+                                        },
+                                        {
+                                            "numero": "IV",
+                                            "rotulo": "IV",
+                                            "linha": 384,
+                                            "texto": "a família ou o representante legal poderá, a qualquer tempo, requerer ao médico a interrupção do tratamento. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 386,
+                                    "texto": "A internação, em qualquer de suas modalidades, só será indicada quando os recursos extra-hospitalares se mostrarem insuficientes. "
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 388,
+                                    "texto": "Todas as internações e altas de que trata esta Lei deverão ser informadas, em, no máximo, de 72 (setenta e duas) horas, ao Ministério Público, à Defensoria Pública e a outros órgãos de fiscalização, por meio de sistema informatizado único, na forma do regulamento desta Lei. "
+                                },
+                                {
+                                    "numero": "8º",
+                                    "rotulo": "§ 8º",
+                                    "linha": 390,
+                                    "texto": "É garantido o sigilo das informações disponíveis no sistema referido no § 7º e o acesso será permitido apenas às pessoas autorizadas a conhecê-las, sob pena de responsabilidade. "
+                                },
+                                {
+                                    "numero": "9º",
+                                    "rotulo": "§ 9º",
+                                    "linha": 392,
+                                    "texto": "É vedada a realização de qualquer modalidade de internação nas comunidades terapêuticas acolhedoras. "
+                                },
+                                {
+                                    "numero": "10",
+                                    "rotulo": "§ 10",
+                                    "linha": 394,
+                                    "texto": ". O planejamento e a execução do projeto terapêutico individual deverão observar, no que couber, o previsto na Lei nº 10.216, de 6 de abril de 2001 , que dispõe sobre a proteção e os direitos das pessoas portadoras de transtornos mentais e redireciona o modelo assistencial em saúde mental.  Seção V "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 352,
+                                    "texto": "articular a atenção com ações preventivas que atinjam toda a população; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 354,
+                                    "texto": "orientar-se por protocolos técnicos predefinidos, baseados em evidências científicas, oferecendo atendimento individualizado ao usuário ou dependente de drogas com abordagem preventiva e, sempre que indicado, ambulatorial; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 356,
+                                    "texto": "preparar para a reinserção social e econômica, respeitando as habilidades e projetos individuais por meio de programas que articulem educação, capacitação para o trabalho, esporte, cultura e acompanhamento individualizado; e "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 358,
+                                    "texto": "acompanhar os resultados pelo SUS, Suas e Sisnad, de forma articulada. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "23-B",
+                            "rotulo": "Art. 23-B.",
+                            "linha": 402,
+                            "caput": ". O atendimento ao usuário ou dependente de drogas na rede de atenção à saúde dependerá de: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 408,
+                                    "texto": "A avaliação prévia da equipe técnica subsidiará a elaboração e execução do projeto terapêutico individual a ser adotado, levantando no mínimo: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 410,
+                                            "texto": "o tipo de droga e o padrão de seu uso; e "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 412,
+                                            "texto": "o risco à saúde física e mental do usuário ou dependente de drogas ou das pessoas com as quais convive. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 414,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 416,
+                                    "texto": "O PIA deverá contemplar a participação dos familiares ou responsáveis, os quais têm o dever de contribuir com o processo, sendo esses, no caso de crianças e adolescentes, passíveis de responsabilização civil, administrativa e criminal, nos termos da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente . "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 418,
+                                    "texto": "O PIA será inicialmente elaborado sob a responsabilidade da equipe técnica do primeiro projeto terapêutico que atender o usuário ou dependente de drogas e será atualizado ao longo das diversas fases do atendimento. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 420,
+                                    "texto": "Constarão do plano individual, no mínimo: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 422,
+                                            "texto": "os resultados da avaliação multidisciplinar; "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 424,
+                                            "texto": "os objetivos declarados pelo atendido; "
+                                        },
+                                        {
+                                            "numero": "III",
+                                            "rotulo": "III",
+                                            "linha": 426,
+                                            "texto": "a previsão de suas atividades de integração social ou capacitação profissional; "
+                                        },
+                                        {
+                                            "numero": "IV",
+                                            "rotulo": "IV",
+                                            "linha": 428,
+                                            "texto": "atividades de integração e apoio à família; "
+                                        },
+                                        {
+                                            "numero": "V",
+                                            "rotulo": "V",
+                                            "linha": 430,
+                                            "texto": "formas de participação da família para efetivo cumprimento do plano individual; "
+                                        },
+                                        {
+                                            "numero": "VI",
+                                            "rotulo": "VI",
+                                            "linha": 432,
+                                            "texto": "designação do projeto terapêutico mais adequado para o cumprimento do previsto no plano; e "
+                                        },
+                                        {
+                                            "numero": "VII",
+                                            "rotulo": "VII",
+                                            "linha": 434,
+                                            "texto": "as medidas específicas de atenção à saúde do atendido. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 436,
+                                    "texto": "O PIA será elaborado no prazo de até 30 (trinta) dias da data do ingresso no atendimento. "
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 438,
+                                    "texto": "As informações produzidas na avaliação e as registradas no plano individual de atendimento são consideradas sigilosas. "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 404,
+                                    "texto": "avaliação prévia por equipe técnica multidisciplinar e multissetorial; e "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 406,
+                                    "texto": "elaboração de um Plano Individual de Atendimento - PIA. "
+                                }
+                            ],
+                            "rubrica": "Do Plano Individual de Atendimento",
+                            "linhaRubrica": 400
+                        },
+                        {
+                            "numero": "24",
+                            "rotulo": "Art. 24.",
+                            "linha": 440,
+                            "caput": "A União, os Estados, o Distrito Federal e os Municípios poderão conceder benefícios às instituições privadas que desenvolverem programas de reinserção no mercado de trabalho, do usuário e do dependente de drogas encaminhados por órgão oficial."
+                        },
+                        {
+                            "numero": "25",
+                            "rotulo": "Art. 25.",
+                            "linha": 442,
+                            "caput": "As instituições da sociedade civil, sem fins lucrativos, com atuação nas áreas da atenção à saúde e da assistência social, que atendam usuários ou dependentes de drogas poderão receber recursos do Funad, condicionados à sua disponibilidade orçamentária e financeira."
+                        },
+                        {
+                            "numero": "26",
+                            "rotulo": "Art. 26.",
+                            "linha": 444,
+                            "caput": "O usuário e o dependente de drogas que, em razão da prática de infração penal, estiverem cumprindo pena privativa de liberdade ou submetidos a medida de segurança, têm garantidos os serviços de atenção à sua saúde, definidos pelo respectivo sistema penitenciário. Seção VI "
+                        },
+                        {
+                            "numero": "26-A",
+                            "rotulo": "Art. 26-A.",
+                            "linha": 452,
+                            "caput": "O acolhimento do usuário ou dependente de drogas na comunidade terapêutica acolhedora caracteriza-se por: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 466,
+                                    "texto": "Não são elegíveis para o acolhimento as pessoas com comprometimentos biológicos e psicológicos de natureza grave que mereçam atenção médico-hospitalar contínua ou de emergência, caso em que deverão ser encaminhadas à rede de saúde. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 468,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 470,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 472,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 474,
+                                    "texto": "(VETADO). "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 454,
+                                    "texto": "oferta de projetos terapêuticos ao usuário ou dependente de drogas que visam à abstinência; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 456,
+                                    "texto": "adesão e permanência voluntária, formalizadas por escrito, entendida como uma etapa transitória para a reinserção social e econômica do usuário ou dependente de drogas; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 458,
+                                    "texto": "ambiente residencial, propício à formação de vínculos, com a convivência entre os pares, atividades práticas de valor educativo e a promoção do desenvolvimento pessoal, vocacionada para acolhimento ao usuário ou dependente de drogas em vulnerabilidade social; "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 460,
+                                    "texto": "avaliação médica prévia; "
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 462,
+                                    "texto": "elaboração de plano individual de atendimento na forma do art. 23-B desta Lei; e "
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 464,
+                                    "texto": "vedação de isolamento físico do usuário ou dependente de drogas. "
+                                }
+                            ],
+                            "rubrica": "Do Acolhimento em Comunidade Terapêutica Acolhedora",
+                            "linhaRubrica": 450
+                        }
+                    ],
+                    "itens": [
+                        {
+                            "tipo": "texto",
+                            "texto": "DAS ATIVIDADES DE PREVENÇÃO, TRATAMENTO, ACOLHIMENTO E DE REINSERÇÃO SOCIAL E ECONÔMICA DE USUÁRIOS OU DEPENDENTES DE DROGAS"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": "Seção I"
+                        },
+                        {
+                            "tipo": "texto",
+                            "texto": ""
+                        }
+                    ],
+                    "titulo": "",
+                    "linhaTitulo": 288
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO III",
+                    "linha": 476,
+                    "artigos": [
+                        {
+                            "numero": "27",
+                            "rotulo": "Art. 27.",
+                            "linha": 478,
+                            "caput": "As penas previstas neste Capítulo poderão ser aplicadas isolada ou cumulativamente, bem como substituídas a qualquer tempo, ouvidos o Ministério Público e o defensor. "
+                        },
+                        {
+                            "numero": "28",
+                            "rotulo": "Art. 28.",
+                            "linha": 480,
+                            "caput": "Quem adquirir, guardar, tiver em depósito, transportar ou trouxer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar será submetido às seguintes penas:",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 488,
+                                    "texto": "Às mesmas medidas submete-se quem, para seu consumo pessoal, semeia, cultiva ou colhe plantas destinadas à preparação de pequena quantidade de substância ou produto capaz de causar dependência física ou psíquica."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 490,
+                                    "texto": "Para determinar se a droga destinava-se a consumo pessoal, o juiz atenderá à natureza e à quantidade da substância apreendida, ao local e às condições em que se desenvolveu a ação, às circunstâncias sociais e pessoais, bem como à conduta e aos antecedentes do agente."
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 492,
+                                    "texto": "As penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 5 (cinco) meses."
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 494,
+                                    "texto": "Em caso de reincidência, as penas previstas nos incisos II e III do caput deste artigo serão aplicadas pelo prazo máximo de 10 (dez) meses."
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 496,
+                                    "texto": "A prestação de serviços à comunidade será cumprida em programas comunitários, entidades educacionais ou assistenciais, hospitais, estabelecimentos congêneres, públicos ou privados sem fins lucrativos, que se ocupem, preferencialmente, da prevenção do consumo ou da recuperação de usuários e dependentes de drogas."
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 498,
+                                    "texto": "Para garantia do cumprimento das medidas educativas a que se refere o caput, nos incisos I, II e III, a que injustificadamente se recuse o agente, poderá o juiz submetê-lo, sucessivamente a:",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 500,
+                                            "texto": "admoestação verbal;"
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 502,
+                                            "texto": "multa."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 504,
+                                    "texto": "O juiz determinará ao Poder Público que coloque à disposição do infrator, gratuitamente, estabelecimento de saúde, preferencialmente ambulatorial, para tratamento especializado."
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 482,
+                                    "texto": "advertência sobre os efeitos das drogas;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 484,
+                                    "texto": "prestação de serviços à comunidade;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 486,
+                                    "texto": "medida educativa de comparecimento a programa ou curso educativo."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "29",
+                            "rotulo": "Art. 29.",
+                            "linha": 506,
+                            "caput": "Na imposição da medida educativa a que se refere o inciso II do § 6º do art. 28, o juiz, atendendo à reprovabilidade da conduta, fixará o número de dias-multa, em quantidade nunca inferior a 40 (quarenta) nem superior a 100 (cem), atribuindo depois a cada um, segundo a capacidade econômica do agente, o valor de um trinta avos até 3 (três) vezes o valor do maior salário mínimo.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 508,
+                                    "texto": "Os valores decorrentes da imposição da multa a que se refere o § 6º do art. 28 serão creditados à conta do Fundo Nacional Antidrogas."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "30",
+                            "rotulo": "Art. 30.",
+                            "linha": 510,
+                            "caput": "Prescrevem em 2 (dois) anos a imposição e a execução das penas, observado, no tocante à interrupção do prazo, o disposto nos arts. 107 e seguintes do Código Penal."
+                        }
+                    ],
+                    "titulo": "DOS CRIMES E DAS PENAS",
+                    "linhaTitulo": 477
+                }
+            ],
+            "titulo": "DAS ATIVIDADES DE PREVENÇÃO DO USO INDEVIDO, ATENÇÃO E REINSERÇÃO SOCIAL DE USUÁRIOS E DEPENDENTES DE DROGAS",
+            "linhaTitulo": 221
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO IV",
+            "linha": 512,
+            "divisoes": [
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO I",
+                    "linha": 514,
+                    "artigos": [
+                        {
+                            "numero": "31",
+                            "rotulo": "Art. 31.",
+                            "linha": 516,
+                            "caput": "É indispensável a licença prévia da autoridade competente para produzir, extrair, fabricar, transformar, preparar, possuir, manter em depósito, importar, exportar, reexportar, remeter, transportar, expor, oferecer, vender, comprar, trocar, ceder ou adquirir, para qualquer fim, drogas ou matéria-prima destinada à sua preparação, observadas as demais exigências legais."
+                        },
+                        {
+                            "numero": "32",
+                            "rotulo": "Art. 32.",
+                            "linha": 521,
+                            "caput": "As plantações ilícitas serão imediatamente destruídas pelo delegado de polícia na forma do art. 50-A, que recolherá quantidade suficiente para exame pericial, de tudo lavrando auto de levantamento das condições encontradas, com a delimitação do local, asseguradas as medidas necessárias para a preservação da prova. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 523,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 525,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 527,
+                                    "texto": "Em caso de ser utilizada a queimada para destruir a plantação, observar-se-á, além das cautelas necessárias à proteção ao meio ambiente, o disposto no Decreto nº 2.661, de 8 de julho de 1998, no que couber, dispensada a autorização prévia do órgão próprio do Sistema Nacional do Meio Ambiente - Sisnama."
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 529,
+                                    "texto": "As glebas cultivadas com plantações ilícitas serão expropriadas, conforme o disposto no art. 243 da Constituição Federal, de acordo com a legislação em vigor."
+                                }
+                            ]
+                        }
+                    ],
+                    "titulo": "DISPOSIÇÕES GERAIS",
+                    "linhaTitulo": 515
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO II",
+                    "linha": 531,
+                    "artigos": [
+                        {
+                            "numero": "33",
+                            "rotulo": "Art. 33.",
+                            "linha": 533,
+                            "caput": "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 537,
+                                    "texto": "Nas mesmas penas incorre quem:",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 539,
+                                            "texto": "importa, exporta, remete, produz, fabrica, adquire, vende, expõe à venda, oferece, fornece, tem em depósito, transporta, traz consigo ou guarda, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, matéria-prima, insumo ou produto químico destinado à preparação de drogas;"
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 541,
+                                            "texto": "semeia, cultiva ou faz a colheita, sem autorização ou em desacordo com determinação legal ou regulamentar, de plantas que se constituam em matéria-prima para a preparação de drogas;"
+                                        },
+                                        {
+                                            "numero": "III",
+                                            "rotulo": "III",
+                                            "linha": 543,
+                                            "texto": "utiliza local ou bem de qualquer natureza de que tem a propriedade, posse, administração, guarda ou vigilância, ou consente que outrem dele se utilize, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar, para o tráfico ilícito de drogas."
+                                        },
+                                        {
+                                            "numero": "IV",
+                                            "rotulo": "IV",
+                                            "linha": 545,
+                                            "texto": "vende ou entrega drogas ou matéria-prima, insumo ou produto químico destinado à preparação de drogas, sem autorização ou em desacordo com a determinação legal ou regulamentar, a agente policial disfarçado, quando presentes elementos probatórios razoáveis de conduta criminal preexistente. "
+                                        }
+                                    ],
+                                    "rubrica": "Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.",
+                                    "linhaRubrica": 535
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 547,
+                                    "texto": "Induzir, instigar ou auxiliar alguém ao uso indevido de droga: "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 551,
+                                    "texto": "Oferecer droga, eventualmente e sem objetivo de lucro, a pessoa de seu relacionamento, para juntos a consumirem:",
+                                    "rubrica": "Pena - detenção, de 1 (um) a 3 (três) anos, e multa de 100 (cem) a 300 (trezentos) dias-multa.",
+                                    "linhaRubrica": 549
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 555,
+                                    "texto": "Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa. ",
+                                    "rubrica": "Pena - detenção, de 6 (seis) meses a 1 (um) ano, e pagamento de 700 (setecentos) a 1.500 (mil e quinhentos) dias-multa, sem prejuízo das penas previstas no art. 28.",
+                                    "linhaRubrica": 553
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "34",
+                            "rotulo": "Art. 34.",
+                            "linha": 557,
+                            "caput": "Fabricar, adquirir, utilizar, transportar, oferecer, vender, distribuir, entregar a qualquer título, possuir, guardar ou fornecer, ainda que gratuitamente, maquinário, aparelho, instrumento ou qualquer objeto destinado à fabricação, preparação, produção ou transformação de drogas, sem autorização ou em desacordo com determinação legal ou regulamentar:"
+                        },
+                        {
+                            "numero": "35",
+                            "rotulo": "Art. 35.",
+                            "linha": 561,
+                            "caput": "Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 565,
+                                    "texto": "Nas mesmas penas do caput deste artigo incorre quem se associa para a prática reiterada do crime definido no art. 36 desta Lei.",
+                                    "rubrica": "Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.",
+                                    "linhaRubrica": 563
+                                }
+                            ],
+                            "rubrica": "Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 1.200 (mil e duzentos) a 2.000 (dois mil) dias-multa.",
+                            "linhaRubrica": 559
+                        },
+                        {
+                            "numero": "36",
+                            "rotulo": "Art. 36.",
+                            "linha": 567,
+                            "caput": "Financiar ou custear a prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:"
+                        },
+                        {
+                            "numero": "37",
+                            "rotulo": "Art. 37.",
+                            "linha": 571,
+                            "caput": "Colaborar, como informante, com grupo, organização ou associação destinados à prática de qualquer dos crimes previstos nos arts. 33, caput e § 1º , e 34 desta Lei:",
+                            "rubrica": "Pena - reclusão, de 8 (oito) a 20 (vinte) anos, e pagamento de 1.500 (mil e quinhentos) a 4.000 (quatro mil) dias-multa.",
+                            "linhaRubrica": 569
+                        },
+                        {
+                            "numero": "38",
+                            "rotulo": "Art. 38.",
+                            "linha": 575,
+                            "caput": "Prescrever ou ministrar, culposamente, drogas, sem que delas necessite o paciente, ou fazê-lo em doses excessivas ou em desacordo com determinação legal ou regulamentar:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 579,
+                                    "texto": "O juiz comunicará a condenação ao Conselho Federal da categoria profissional a que pertença o agente.",
+                                    "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e pagamento de 50 (cinqüenta) a 200 (duzentos) dias-multa.",
+                                    "linhaRubrica": 577
+                                }
+                            ],
+                            "rubrica": "Pena - reclusão, de 2 (dois) a 6 (seis) anos, e pagamento de 300 (trezentos) a 700 (setecentos) dias-multa.",
+                            "linhaRubrica": 573
+                        },
+                        {
+                            "numero": "39",
+                            "rotulo": "Art. 39.",
+                            "linha": 581,
+                            "caput": "Conduzir embarcação ou aeronave após o consumo de drogas, expondo a dano potencial a incolumidade de outrem:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 585,
+                                    "texto": "As penas de prisão e multa, aplicadas cumulativamente com as demais, serão de 4 (quatro) a 6 (seis) anos e de 400 (quatrocentos) a 600 (seiscentos) dias-multa, se o veículo referido no caput deste artigo for de transporte coletivo de passageiros.",
+                                    "rubrica": "Pena - detenção, de 6 (seis) meses a 3 (três) anos, além da apreensão do veículo, cassação da habilitação respectiva ou proibição de obtê-la, pelo mesmo prazo da pena privativa de liberdade aplicada, e pagamento de 200 (duzentos) a 400 (quatrocentos) dias-multa.",
+                                    "linhaRubrica": 583
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "40",
+                            "rotulo": "Art. 40.",
+                            "linha": 587,
+                            "caput": "As penas previstas nos arts. 33 a 37 desta Lei são aumentadas de um sexto a dois terços, se:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 589,
+                                    "texto": "a natureza, a procedência da substância ou do produto apreendido e as circunstâncias do fato evidenciarem a transnacionalidade do delito;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 591,
+                                    "texto": "o agente praticar o crime prevalecendo-se de função pública ou no desempenho de missão de educação, poder familiar, guarda ou vigilância;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 593,
+                                    "texto": "a infração tiver sido cometida nas dependências ou imediações de estabelecimentos prisionais, de ensino ou hospitalares, de sedes de entidades estudantis, sociais, culturais, recreativas, esportivas, ou beneficentes, de locais de trabalho coletivo, de recintos onde se realizem espetáculos ou diversões de qualquer natureza, de serviços de tratamento de dependentes de drogas ou de reinserção social, de unidades militares ou policiais ou em transportes públicos;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 595,
+                                    "texto": "o crime tiver sido praticado com violência, grave ameaça, emprego de arma de fogo, ou qualquer processo de intimidação difusa ou coletiva;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 597,
+                                    "texto": "caracterizado o tráfico entre Estados da Federação ou entre estes e o Distrito Federal;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 599,
+                                    "texto": "sua prática envolver ou visar a atingir criança ou adolescente ou a quem tenha, por qualquer motivo, diminuída ou suprimida a capacidade de entendimento e determinação;"
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 601,
+                                    "texto": "o agente financiar ou custear a prática do crime."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "40-A",
+                            "rotulo": "Art. 40-A.",
+                            "linha": 603,
+                            "caput": "As penas previstas nos arts. 33 a 37 desta Lei serão aplicadas em dobro se o crime tiver sido praticado por integrante de organização criminosa ultraviolenta, grupo paramilitar ou milícia privada, no contexto da atuação ou para a consecução das condutas previstas no art. 2º da lei que institui o marco legal do combate ao crime organizado no Brasil. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 605,
+                                    "texto": "Aplica-se a pena do concurso material prevista no art. 69 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), se o crime tiver sido praticado com o emprego de arma de fogo, independentemente de o seu uso estar diretamente ligado ao comércio ilícito de entorpecentes ou de o artefato ter sido utilizado para assegurar o sucesso da mercancia. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "41",
+                            "rotulo": "Art. 41.",
+                            "linha": 607,
+                            "caput": "O indiciado ou acusado que colaborar voluntariamente com a investigação policial e o processo criminal na identificação dos demais co-autores ou partícipes do crime e na recuperação total ou parcial do produto do crime, no caso de condenação, terá pena reduzida de um terço a dois terços."
+                        },
+                        {
+                            "numero": "42",
+                            "rotulo": "Art. 42.",
+                            "linha": 609,
+                            "caput": "O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente."
+                        },
+                        {
+                            "numero": "43",
+                            "rotulo": "Art. 43.",
+                            "linha": 611,
+                            "caput": "Na fixação da multa a que se referem os arts. 33 a 39 desta Lei, o juiz, atendendo ao que dispõe o art. 42 desta Lei, determinará o número de dias-multa, atribuindo a cada um, segundo as condições econômicas dos acusados, valor não inferior a um trinta avos nem superior a 5 (cinco) vezes o maior salário-mínimo.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 613,
+                                    "texto": "As multas, que em caso de concurso de crimes serão impostas sempre cumulativamente, podem ser aumentadas até o décuplo se, em virtude da situação econômica do acusado, considerá-las o juiz ineficazes, ainda que aplicadas no máximo."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "44",
+                            "rotulo": "Art. 44.",
+                            "linha": 615,
+                            "caput": "Os crimes previstos nos arts. 33, caput e § 1º , e 34 a 37 desta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória, vedada a conversão de suas penas em restritivas de direitos.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 617,
+                                    "texto": "Nos crimes previstos no caput deste artigo, dar-se-á o livramento condicional após o cumprimento de dois terços da pena, vedada sua concessão ao reincidente específico."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "45",
+                            "rotulo": "Art. 45.",
+                            "linha": 619,
+                            "caput": "É isento de pena o agente que, em razão da dependência, ou sob o efeito, proveniente de caso fortuito ou força maior, de droga, era, ao tempo da ação ou da omissão, qualquer que tenha sido a infração penal praticada, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 621,
+                                    "texto": "Quando absolver o agente, reconhecendo, por força pericial, que este apresentava, à época do fato previsto neste artigo, as condições referidas no caput deste artigo, poderá determinar o juiz, na sentença, o seu encaminhamento para tratamento médico adequado."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "46",
+                            "rotulo": "Art. 46.",
+                            "linha": 623,
+                            "caput": "As penas podem ser reduzidas de um terço a dois terços se, por força das circunstâncias previstas no art. 45 desta Lei, o agente não possuía, ao tempo da ação ou da omissão, a plena capacidade de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento."
+                        },
+                        {
+                            "numero": "47",
+                            "rotulo": "Art. 47.",
+                            "linha": 625,
+                            "caput": "Na sentença condenatória, o juiz, com base em avaliação que ateste a necessidade de encaminhamento do agente para tratamento, realizada por profissional de saúde com competência específica na forma da lei, determinará que a tal se proceda, observado o disposto no art. 26 desta Lei."
+                        }
+                    ],
+                    "titulo": "DOS CRIMES",
+                    "linhaTitulo": 532
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO III",
+                    "linha": 627,
+                    "artigos": [
+                        {
+                            "numero": "48",
+                            "rotulo": "Art. 48.",
+                            "linha": 629,
+                            "caput": "O procedimento relativo aos processos por crimes definidos neste Título rege-se pelo disposto neste Capítulo, aplicando-se, subsidiariamente, as disposições do Código de Processo Penal e da Lei de Execução Penal.",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 631,
+                                    "texto": "O agente de qualquer das condutas previstas no art. 28 desta Lei, salvo se houver concurso com os crimes previstos nos arts. 33 a 37 desta Lei, será processado e julgado na forma dos arts. 60 e seguintes da Lei nº 9.099, de 26 de setembro de 1995, que dispõe sobre os Juizados Especiais Criminais."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 633,
+                                    "texto": "Tratando-se da conduta prevista no art. 28 desta Lei, não se imporá prisão em flagrante, devendo o autor do fato ser imediatamente encaminhado ao juízo competente ou, na falta deste, assumir o compromisso de a ele comparecer, lavrando-se termo circunstanciado e providenciando-se as requisições dos exames e perícias necessários."
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 635,
+                                    "texto": "Se ausente a autoridade judicial, as providências previstas no § 2º deste artigo serão tomadas de imediato pela autoridade policial, no local em que se encontrar, vedada a detenção do agente. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 637,
+                                    "texto": "Concluídos os procedimentos de que trata o § 2º deste artigo, o agente será submetido a exame de corpo de delito, se o requerer ou se a autoridade de polícia judiciária entender conveniente, e em seguida liberado."
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 639,
+                                    "texto": "Para os fins do disposto no art. 76 da Lei nº 9.099, de 1995, que dispõe sobre os Juizados Especiais Criminais, o Ministério Público poderá propor a aplicação imediata de pena prevista no art. 28 desta Lei, a ser especificada na proposta."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "49",
+                            "rotulo": "Art. 49.",
+                            "linha": 641,
+                            "caput": "Tratando-se de condutas tipificadas nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o juiz, sempre que as circunstâncias o recomendem, empregará os instrumentos protetivos de colaboradores e testemunhas previstos na Lei nº 9.807, de 13 de julho de 1999. Seção I"
+                        },
+                        {
+                            "numero": "50",
+                            "rotulo": "Art. 50.",
+                            "linha": 645,
+                            "caput": "Ocorrendo prisão em flagrante, a autoridade de polícia judiciária fará, imediatamente, comunicação ao juiz competente, remetendo-lhe cópia do auto lavrado, do qual será dada vista ao órgão do Ministério Público, em 24 (vinte e quatro) horas.",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 647,
+                                    "texto": "Para efeito da lavratura do auto de prisão em flagrante e estabelecimento da materialidade do delito, é suficiente o laudo de constatação da natureza e quantidade da droga, firmado por perito oficial ou, na falta deste, por pessoa idônea."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 649,
+                                    "texto": "O perito que subscrever o laudo a que se refere o § 1º deste artigo não ficará impedido de participar da elaboração do laudo definitivo."
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 651,
+                                    "texto": "Recebida cópia do auto de prisão em flagrante, o juiz, no prazo de 10 (dez) dias, certificará a regularidade formal do laudo de constatação e determinará a destruição das drogas apreendidas, guardando-se amostra necessária à realização do laudo definitivo. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 653,
+                                    "texto": "A destruição das drogas será executada pelo delegado de polícia competente no prazo de 15 (quinze) dias na presença do Ministério Público e da autoridade sanitária. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 655,
+                                    "texto": "O local será vistoriado antes e depois de efetivada a destruição das drogas referida no § 3º , sendo lavrado auto circunstanciado pelo delegado de polícia, certificando-se neste a destruição total delas. "
+                                }
+                            ],
+                            "rubrica": "Da Investigação",
+                            "linhaRubrica": 644
+                        },
+                        {
+                            "numero": "50-A",
+                            "rotulo": "Art. 50-A.",
+                            "linha": 658,
+                            "caput": "A destruição das drogas apreendidas sem a ocorrência de prisão em flagrante será feita por incineração, no prazo máximo de 30 (trinta) dias contados da data da apreensão, guardando-se amostra necessária à realização do laudo definitivo. "
+                        },
+                        {
+                            "numero": "51",
+                            "rotulo": "Art. 51.",
+                            "linha": 660,
+                            "caput": "O inquérito policial será concluído no prazo de 30 (trinta) dias, se o indiciado estiver preso, e de 90 (noventa) dias, quando solto.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 662,
+                                    "texto": "Os prazos a que se refere este artigo podem ser duplicados pelo juiz, ouvido o Ministério Público, mediante pedido justificado da autoridade de polícia judiciária."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "52",
+                            "rotulo": "Art. 52.",
+                            "linha": 664,
+                            "caput": "Findos os prazos a que se refere o art. 51 desta Lei, a autoridade de polícia judiciária, remetendo os autos do inquérito ao juízo:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 670,
+                                    "texto": "A remessa dos autos far-se-á sem prejuízo de diligências complementares:",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 672,
+                                            "texto": "necessárias ou úteis à plena elucidação do fato, cujo resultado deverá ser encaminhado ao juízo competente até 3 (três) dias antes da audiência de instrução e julgamento;"
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 674,
+                                            "texto": "necessárias ou úteis à indicação dos bens, direitos e valores de que seja titular o agente, ou que figurem em seu nome, cujo resultado deverá ser encaminhado ao juízo competente até 3 (três) dias antes da audiência de instrução e julgamento."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 666,
+                                    "texto": "relatará sumariamente as circunstâncias do fato, justificando as razões que a levaram à classificação do delito, indicando a quantidade e natureza da substância ou do produto apreendido, o local e as condições em que se desenvolveu a ação criminosa, as circunstâncias da prisão, a conduta, a qualificação e os antecedentes do agente; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 668,
+                                    "texto": "requererá sua devolução para a realização de diligências necessárias."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "53",
+                            "rotulo": "Art. 53.",
+                            "linha": 676,
+                            "caput": "Em qualquer fase da persecução criminal relativa aos crimes previstos nesta Lei, são permitidos, além dos previstos em lei, mediante autorização judicial e ouvido o Ministério Público, os seguintes procedimentos investigatórios:",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 682,
+                                    "texto": "Na hipótese do inciso II deste artigo, a autorização será concedida desde que sejam conhecidos o itinerário provável e a identificação dos agentes do delito ou de colaboradores. Seção II"
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 678,
+                                    "texto": "a infiltração por agentes de polícia, em tarefas de investigação, constituída pelos órgãos especializados pertinentes;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 680,
+                                    "texto": "a não-atuação policial sobre os portadores de drogas, seus precursores químicos ou outros produtos utilizados em sua produção, que se encontrem no território brasileiro, com a finalidade de identificar e responsabilizar maior número de integrantes de operações de tráfico e distribuição, sem prejuízo da ação penal cabível."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "54",
+                            "rotulo": "Art. 54.",
+                            "linha": 686,
+                            "caput": "Recebidos em juízo os autos do inquérito policial, de Comissão Parlamentar de Inquérito ou peças de informação, dar-se-á vista ao Ministério Público para, no prazo de 10 (dez) dias, adotar uma das seguintes providências:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 688,
+                                    "texto": "requerer o arquivamento;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 690,
+                                    "texto": "requisitar as diligências que entender necessárias;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 692,
+                                    "texto": "oferecer denúncia, arrolar até 5 (cinco) testemunhas e requerer as demais provas que entender pertinentes."
+                                }
+                            ],
+                            "rubrica": "Da Instrução Criminal",
+                            "linhaRubrica": 685
+                        },
+                        {
+                            "numero": "55",
+                            "rotulo": "Art. 55.",
+                            "linha": 694,
+                            "caput": "Oferecida a denúncia, o juiz ordenará a notificação do acusado para oferecer defesa prévia, por escrito, no prazo de 10 (dez) dias.",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 696,
+                                    "texto": "Na resposta, consistente em defesa preliminar e exceções, o acusado poderá argüir preliminares e invocar todas as razões de defesa, oferecer documentos e justificações, especificar as provas que pretende produzir e, até o número de 5 (cinco), arrolar testemunhas."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 698,
+                                    "texto": "As exceções serão processadas em apartado, nos termos dos arts. 95 a 113 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal."
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 700,
+                                    "texto": "Se a resposta não for apresentada no prazo, o juiz nomeará defensor para oferecê-la em 10 (dez) dias, concedendo-lhe vista dos autos no ato de nomeação."
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 702,
+                                    "texto": "Apresentada a defesa, o juiz decidirá em 5 (cinco) dias."
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 704,
+                                    "texto": "Se entender imprescindível, o juiz, no prazo máximo de 10 (dez) dias, determinará a apresentação do preso, realização de diligências, exames e perícias."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "56",
+                            "rotulo": "Art. 56.",
+                            "linha": 706,
+                            "caput": "Recebida a denúncia, o juiz designará dia e hora para a audiência de instrução e julgamento, ordenará a citação pessoal do acusado, a intimação do Ministério Público, do assistente, se for o caso, e requisitará os laudos periciais.",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 708,
+                                    "texto": "Tratando-se de condutas tipificadas como infração do disposto nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o juiz, ao receber a denúncia, poderá decretar o afastamento cautelar do denunciado de suas atividades, se for funcionário público, comunicando ao órgão respectivo."
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 710,
+                                    "texto": "A audiência a que se refere o caput deste artigo será realizada dentro dos 30 (trinta) dias seguintes ao recebimento da denúncia, salvo se determinada a realização de avaliação para atestar dependência de drogas, quando se realizará em 90 (noventa) dias."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "57",
+                            "rotulo": "Art. 57.",
+                            "linha": 712,
+                            "caput": "Na audiência de instrução e julgamento, após o interrogatório do acusado e a inquirição das testemunhas, será dada a palavra, sucessivamente, ao representante do Ministério Público e ao defensor do acusado, para sustentação oral, pelo prazo de 20 (vinte) minutos para cada um, prorrogável por mais 10 (dez), a critério do juiz.",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 714,
+                                    "texto": "Após proceder ao interrogatório, o juiz indagará das partes se restou algum fato para ser esclarecido, formulando as perguntas correspondentes se o entender pertinente e relevante."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "58",
+                            "rotulo": "Art. 58.",
+                            "linha": 716,
+                            "caput": "Encerrados os debates, proferirá o juiz sentença de imediato, ou o fará em 10 (dez) dias, ordenando que os autos para isso lhe sejam conclusos.",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 718,
+                                    "texto": ""
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 720,
+                                    "texto": ""
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "59",
+                            "rotulo": "Art. 59.",
+                            "linha": 722,
+                            "caput": "Nos crimes previstos nos arts. 33, caput e § 1º , e 34 a 37 desta Lei, o réu não poderá apelar sem recolher-se à prisão, salvo se for primário e de bons antecedentes, assim reconhecido na sentença condenatória."
+                        }
+                    ],
+                    "titulo": "DO PROCEDIMENTO PENAL",
+                    "linhaTitulo": 628
+                },
+                {
+                    "tipo": "capitulo",
+                    "rotulo": "CAPÍTULO IV",
+                    "linha": 724,
+                    "artigos": [
+                        {
+                            "numero": "60",
+                            "rotulo": "Art. 60.",
+                            "linha": 731,
+                            "caput": "O juiz, a requerimento do Ministério Público ou do assistente de acusação, ou mediante representação da autoridade de polícia judiciária, poderá decretar, no curso do inquérito ou da ação penal, a apreensão e outras medidas assecuratórias nos casos em que haja suspeita de que os bens, direitos ou valores sejam produto do crime ou constituam proveito dos crimes previstos nesta Lei, procedendo-se na forma dos arts. 125 e seguintes do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal . ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 733,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 735,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 737,
+                                    "texto": "Na hipótese do art. 366 do Decreto-Lei nº 3.689, de 3 de outubro de 1941 - Código de Processo Penal , o juiz poderá determinar a prática de atos necessários à conservação dos bens, direitos ou valores. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 739,
+                                    "texto": "A ordem de apreensão ou sequestro de bens, direitos ou valores poderá ser suspensa pelo juiz, ouvido o Ministério Público, quando a sua execução imediata puder comprometer as investigações. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 741,
+                                    "texto": "Decretadas quaisquer das medidas previstas no caput deste artigo, o juiz facultará ao acusado que, no prazo de 5 (cinco) dias, apresente provas, ou requeira a produção delas, acerca da origem lícita do bem ou do valor objeto da decisão, exceto no caso de veículo apreendido em transporte de droga ilícita. "
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 743,
+                                    "texto": "Provada a origem lícita do bem ou do valor, o juiz decidirá por sua liberação, exceto no caso de veículo apreendido em transporte de droga ilícita, cuja destinação observará o disposto nos arts. 61 e 62 desta Lei, ressalvado o direito de terceiro de boa-fé. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "60-A",
+                            "rotulo": "Art. 60-A.",
+                            "linha": 745,
+                            "caput": "Se as medidas assecuratórias de que trata o art. 60 desta Lei recaírem sobre moeda estrangeira, títulos, valores mobiliários ou cheques emitidos como ordem de pagamento, será determinada, imediatamente, a sua conversão em moeda nacional. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 747,
+                                    "texto": "A moeda estrangeira apreendida em espécie deve ser encaminhada a instituição financeira, ou equiparada, para alienação na forma prevista pelo Conselho Monetário Nacional. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 749,
+                                    "texto": "Na hipótese de impossibilidade da alienação a que se refere o § 1º deste artigo, a moeda estrangeira será custodiada pela instituição financeira até decisão sobre o seu destino. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 751,
+                                    "texto": "Após a decisão sobre o destino da moeda estrangeira a que se refere o § 2º deste artigo, caso seja verificada a inexistência de valor de mercado, seus espécimes poderão ser destruídos ou doados à representação diplomática do país de origem. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 753,
+                                    "texto": "Os valores relativos às apreensões feitas antes da data de entrada em vigor da Medida Provisória nº 885, de 17 de junho de 2019, e que estejam custodiados nas dependências do Banco Central do Brasil devem ser transferidos à Caixa Econômica Federal, no prazo de 360 (trezentos e sessenta) dias, para que se proceda à alienação ou custódia, de acordo com o previsto nesta Lei. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "61",
+                            "rotulo": "Art. 61.",
+                            "linha": 758,
+                            "caput": "A apreensão de veículos, embarcações, aeronaves e quaisquer outros meios de transporte e dos maquinários, utensílios, instrumentos e objetos de qualquer natureza utilizados para a prática, habitual ou não, dos crimes definidos nesta Lei será imediatamente comunicada pela autoridade de polícia judiciária responsável pela investigação ao juízo competente. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 760,
+                                    "texto": "O juiz, no prazo de 30 (trinta) dias contado da comunicação de que trata o caput , determinará a alienação dos bens apreendidos, excetuadas as armas, que serão recolhidas na forma da legislação específica. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 762,
+                                    "texto": "A alienação será realizada em autos apartados, dos quais constará a exposição sucinta do nexo de instrumentalidade entre o delito e os bens apreendidos, a descrição e especificação dos objetos, as informações sobre quem os tiver sob custódia e o local em que se encontrem. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 764,
+                                    "texto": "O juiz determinará a avaliação dos bens apreendidos, que será realizada por oficial de justiça, no prazo de 5 (cinco) dias a contar da autuação, ou, caso sejam necessários conhecimentos especializados, por avaliador nomeado pelo juiz, em prazo não superior a 10 (dez) dias. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 766,
+                                    "texto": "Feita a avaliação, o juiz intimará o órgão gestor do Funad, o Ministério Público e o interessado para se manifestarem no prazo de 5 (cinco) dias e, dirimidas eventuais divergências, homologará o valor atribuído aos bens. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 768,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 773,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 775,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "8º",
+                                    "rotulo": "§ 8º",
+                                    "linha": 777,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "9º",
+                                    "rotulo": "§ 9º",
+                                    "linha": 779,
+                                    "texto": "O Ministério Público deve fiscalizar o cumprimento da regra estipulada no § 1º deste artigo. "
+                                },
+                                {
+                                    "numero": "10",
+                                    "rotulo": "§ 10",
+                                    "linha": 781,
+                                    "texto": ". Aplica-se a todos os tipos de bens confiscados a regra estabelecida no § 1º deste artigo. "
+                                },
+                                {
+                                    "numero": "11",
+                                    "rotulo": "§ 11",
+                                    "linha": 783,
+                                    "texto": ". Os bens móveis e imóveis devem ser vendidos por meio de hasta pública, preferencialmente por meio eletrônico, assegurada a venda pelo maior lance, por preço não inferior a 50% (cinquenta por cento) do valor da avaliação judicial. "
+                                },
+                                {
+                                    "numero": "12",
+                                    "rotulo": "§ 12",
+                                    "linha": 785,
+                                    "texto": ". O juiz ordenará às secretarias de fazenda e aos órgãos de registro e controle que efetuem as averbações necessárias, tão logo tenha conhecimento da apreensão. "
+                                },
+                                {
+                                    "numero": "13",
+                                    "rotulo": "§ 13",
+                                    "linha": 787,
+                                    "texto": ". Na alienação de veículos, embarcações ou aeronaves, a autoridade de trânsito ou o órgão congênere competente para o registro, bem como as secretarias de fazenda, devem proceder à regularização dos bens no prazo de 30 (trinta) dias, ficando o arrematante isento do pagamento de multas, encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário. "
+                                },
+                                {
+                                    "numero": "14",
+                                    "rotulo": "§ 14",
+                                    "linha": 789,
+                                    "texto": ". Eventuais multas, encargos ou tributos pendentes de pagamento não podem ser cobrados do arrematante ou do órgão público alienante como condição para regularização dos bens. "
+                                },
+                                {
+                                    "numero": "15",
+                                    "rotulo": "§ 15",
+                                    "linha": 791,
+                                    "texto": ". Na hipótese de que trata o § 13 deste artigo, a autoridade de trânsito ou o órgão congênere competente para o registro poderá emitir novos identificadores dos bens. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "62",
+                            "rotulo": "Art. 62.",
+                            "linha": 794,
+                            "caput": "Comprovado o interesse público na utilização de quaisquer dos bens de que trata o art. 61, os órgãos de polícia judiciária, militar e rodoviária poderão deles fazer uso, sob sua responsabilidade e com o objetivo de sua conservação, mediante autorização judicial, ouvido o Ministério Público e garantida a prévia avaliação dos respectivos bens. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 797,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 799,
+                                    "texto": "-A. O juízo deve cientificar o órgão gestor do Funad para que, em 10 (dez) dias, avalie a existência do interesse público mencionado no caput deste artigo e indique o órgão que deve receber o bem. "
+                                },
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 801,
+                                    "texto": "-B. Têm prioridade, para os fins do § 1º-A deste artigo, os órgãos de segurança pública que participaram das ações de investigação ou repressão ao crime que deu causa à medida. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 804,
+                                    "texto": "A autorização judicial de uso de bens deverá conter a descrição do bem e a respectiva avaliação e indicar o órgão responsável por sua utilização. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 807,
+                                    "texto": "O órgão responsável pela utilização do bem deverá enviar ao juiz periodicamente, ou a qualquer momento quando por este solicitado, informações sobre seu estado de conservação. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 810,
+                                    "texto": "Quando a autorização judicial recair sobre veículos, embarcações ou aeronaves, o juiz ordenará à autoridade ou ao órgão de registro e controle a expedição de certificado provisório de registro e licenciamento em favor do órgão ao qual tenha deferido o uso ou custódia, ficando este livre do pagamento de multas, encargos e tributos anteriores à decisão de utilização do bem até o trânsito em julgado da decisão que decretar o seu perdimento em favor da União. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 813,
+                                    "texto": "Na hipótese de levantamento, se houver indicação de que os bens utilizados na forma deste artigo sofreram depreciação superior àquela esperada em razão do transcurso do tempo e do uso, poderá o interessado requerer nova avaliação judicial. "
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 816,
+                                    "texto": "Constatada a depreciação de que trata o § 5º, o ente federado ou a entidade que utilizou o bem indenizará o detentor ou proprietário dos bens. "
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 819,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "8º",
+                                    "rotulo": "§ 8º",
+                                    "linha": 822,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "9º",
+                                    "rotulo": "§ 9º",
+                                    "linha": 825,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "10",
+                                    "rotulo": "§ 10",
+                                    "linha": 828,
+                                    "texto": ". . "
+                                },
+                                {
+                                    "numero": "11",
+                                    "rotulo": "§ 11",
+                                    "linha": 831,
+                                    "texto": ". . "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "62-A",
+                            "rotulo": "Art. 62-A.",
+                            "linha": 833,
+                            "caput": "O depósito, em dinheiro, de valores referentes ao produto da alienação ou a numerários apreendidos ou que tenham sido convertidos deve ser efetuado na Caixa Econômica Federal, por meio de documento de arrecadação destinado a essa finalidade. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 835,
+                                    "texto": "Os depósitos a que se refere o caput deste artigo devem ser transferidos, pela Caixa Econômica Federal, para a conta única do Tesouro Nacional, independentemente de qualquer formalidade, no prazo de 24 (vinte e quatro) horas, contado do momento da realização do depósito, onde ficarão à disposição do Funad. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 839,
+                                    "texto": "Na hipótese de decretação do seu perdimento em favor da União, o valor do depósito será transformado em pagamento definitivo, respeitados os direitos de eventuais lesados e de terceiros de boa-fé. ",
+                                    "rubrica": "",
+                                    "linhaRubrica": 837
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 841,
+                                    "texto": "Os valores devolvidos pela Caixa Econômica Federal, por decisão judicial, devem ser efetuados como anulação de receita do Funad no exercício em que ocorrer a devolução. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 843,
+                                    "texto": "A Caixa Econômica Federal deve manter o controle dos valores depositados ou devolvidos. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "63",
+                            "rotulo": "Art. 63.",
+                            "linha": 846,
+                            "caput": "Ao proferir a sentença, o juiz decidirá sobre: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 853,
+                                    "texto": "Os bens, direitos ou valores apreendidos em decorrência dos crimes tipificados nesta Lei ou objeto de medidas assecuratórias, após decretado seu perdimento em favor da União, serão revertidos diretamente ao Funad. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 856,
+                                    "texto": "O juiz remeterá ao órgão gestor do Funad relação dos bens, direitos e valores declarados perdidos, indicando o local em que se encontram e a entidade ou o órgão em cujo poder estejam, para os fins de sua destinação nos termos da legislação vigente. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 859,
+                                    "texto": ". "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 861,
+                                    "texto": "Transitada em julgado a sentença condenatória, o juiz do processo, de ofício ou a requerimento do Ministério Público, remeterá à Senad relação dos bens, direitos e valores declarados perdidos em favor da União, indicando, quanto aos bens, o local em que se encontram e a entidade ou o órgão em cujo poder estejam, para os fins de sua destinação nos termos da legislação vigente."
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 863,
+                                    "texto": "-A. Antes de encaminhar os bens ao órgão gestor do Funad, o juíz deve: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 865,
+                                            "texto": "ordenar às secretarias de fazenda e aos órgãos de registro e controle que efetuem as averbações necessárias, caso não tenham sido realizadas quando da apreensão; e "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 867,
+                                            "texto": "determinar, no caso de imóveis, o registro de propriedade em favor da União no cartório de registro de imóveis competente, nos termos do caput e do parágrafo único do art. 243 da Constituição Federal, afastada a responsabilidade de terceiros prevista no inciso VI do caput do art. 134 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), bem como determinar à Secretaria de Coordenação e Governança do Patrimônio da União a incorporação e entrega do imóvel, tornando-o livre e desembaraçado de quaisquer ônus para sua destinação. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 869,
+                                    "texto": "(VETADO). "
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 871,
+                                    "texto": "Na hipótese do inciso II do caput , decorridos 360 (trezentos e sessenta) dias do trânsito em julgado e do conhecimento da sentença pelo interessado, os bens apreendidos, os que tenham sido objeto de medidas assecuratórias ou os valores depositados que não forem reclamados serão revertidos ao Funad. "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 848,
+                                    "texto": "o perdimento do produto, bem, direito ou valor apreendido ou objeto de medidas assecuratórias; e "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 850,
+                                    "texto": "o levantamento dos valores depositados em conta remunerada e a liberação dos bens utilizados nos termos do art. 62. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "63-A",
+                            "rotulo": "Art. 63-A.",
+                            "linha": 873,
+                            "caput": "Nenhum pedido de restituição será conhecido sem o comparecimento pessoal do acusado, podendo o juiz determinar a prática de atos necessários à conservação de bens, direitos ou valores. "
+                        },
+                        {
+                            "numero": "63-B",
+                            "rotulo": "Art. 63-B.",
+                            "linha": 875,
+                            "caput": "O juiz determinará a liberação total ou parcial dos bens, direitos e objeto de medidas assecuratórias quando comprovada a licitude de sua origem, mantendo-se a constrição dos bens, direitos e valores necessários e suficientes à reparação dos danos e ao pagamento de prestações pecuniárias, multas e custas decorrentes da infração penal. "
+                        },
+                        {
+                            "numero": "63-C",
+                            "rotulo": "Art. 63-C.",
+                            "linha": 878,
+                            "caput": "Compete à Senad, do Ministério da Justiça e Segurança Pública, proceder à destinação dos bens apreendidos e não leiloados em caráter cautelar, cujo perdimento seja decretado em favor da União, por meio das seguintes modalidades: ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 894,
+                                    "texto": "A alienação por meio de licitação deve ser realizada na modalidade leilão, para bens móveis e imóveis, independentemente do valor de avaliação, isolado ou global, de bem ou de lotes, assegurada a venda pelo maior lance, por preço não inferior a 50% (cinquenta por cento) do valor da avaliação. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 896,
+                                    "texto": "O edital do leilão a que se refere o § 1º deste artigo será amplamente divulgado em jornais de grande circulação e em sítios eletrônicos oficiais, principalmente no Município em que será realizado, dispensada a publicação em diário oficial. "
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 898,
+                                    "texto": "Nas alienações realizadas por meio de sistema eletrônico da administração pública, a publicidade dada pelo sistema substituirá a publicação em diário oficial e em jornais de grande circulação. "
+                                },
+                                {
+                                    "numero": "4º",
+                                    "rotulo": "§ 4º",
+                                    "linha": 900,
+                                    "texto": "Na alienação de imóveis, o arrematante fica livre do pagamento de encargos e tributos anteriores, sem prejuízo de execução fiscal em relação ao antigo proprietário. "
+                                },
+                                {
+                                    "numero": "5º",
+                                    "rotulo": "§ 5º",
+                                    "linha": 902,
+                                    "texto": "Na alienação de veículos, embarcações ou aeronaves deverão ser observadas as disposições dos §§ 13 e 15 do art. 61 desta Lei. "
+                                },
+                                {
+                                    "numero": "6º",
+                                    "rotulo": "§ 6º",
+                                    "linha": 904,
+                                    "texto": "Aplica-se às alienações de que trata este artigo a proibição relativa à cobrança de multas, encargos ou tributos prevista no § 14 do art. 61 desta Lei. "
+                                },
+                                {
+                                    "numero": "7º",
+                                    "rotulo": "§ 7º",
+                                    "linha": 906,
+                                    "texto": "A Senad, do Ministério da Justiça e Segurança Pública, pode celebrar convênios ou instrumentos congêneres com órgãos e entidades da União, dos Estados, do Distrito Federal ou dos Municípios, bem como com comunidades terapêuticas acolhedoras, a fim de dar imediato cumprimento ao estabelecido neste artigo. "
+                                },
+                                {
+                                    "numero": "8º",
+                                    "rotulo": "§ 8º",
+                                    "linha": 908,
+                                    "texto": "Observados os procedimentos licitatórios previstos em lei, fica autorizada a contratação da iniciativa privada para a execução das ações de avaliação, de administração e de alienação dos bens a que se refere esta Lei. "
+                                }
+                            ],
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 880,
+                                    "texto": "alienação, mediante: ",
+                                    "alineas": [
+                                        {
+                                            "letra": "a",
+                                            "rotulo": "a)",
+                                            "linha": 882,
+                                            "texto": "licitação; "
+                                        },
+                                        {
+                                            "letra": "b",
+                                            "rotulo": "b)",
+                                            "linha": 884,
+                                            "texto": "doação com encargo a entidades ou órgãos públicos, bem como a comunidades terapêuticas acolhedoras que contribuam para o alcance das finalidades do Funad; ou "
+                                        },
+                                        {
+                                            "letra": "c",
+                                            "rotulo": "c)",
+                                            "linha": 886,
+                                            "texto": "venda direta, observado o disposto no inciso II do caput do art. 24 da Lei nº 8.666, de 21 de junho de 1993; "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 888,
+                                    "texto": "incorporação ao patrimônio de órgão da administração pública, observadas as finalidades do Funad; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 890,
+                                    "texto": "destruição; ou "
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 892,
+                                    "texto": "inutilização. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "63-D",
+                            "rotulo": "Art. 63-D.",
+                            "linha": 910,
+                            "caput": "Compete ao Ministério da Justiça e Segurança Pública regulamentar os procedimentos relativos à administração, à preservação e à destinação dos recursos provenientes de delitos e atos ilícitos e estabelecer os valores abaixo dos quais se deve proceder à sua destruição ou inutilização. "
+                        },
+                        {
+                            "numero": "63-E",
+                            "rotulo": "Art. 63-E.",
+                            "linha": 912,
+                            "caput": "O produto da alienação dos bens apreendidos ou confiscados será revertido integralmente ao Funad, nos termos do parágrafo único do art. 243 da Constituição Federal, vedada a sub-rogação sobre o valor da arrematação para saldar eventuais multas, encargos ou tributos pendentes de pagamento. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "único",
+                                    "rotulo": "Parágrafo único",
+                                    "linha": 914,
+                                    "texto": "O disposto no caput deste artigo não prejudica o ajuizamento de execução fiscal em relação aos antigos devedores. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "63-F",
+                            "rotulo": "Art. 63-F.",
+                            "linha": 916,
+                            "caput": "Na hipótese de condenação por infrações às quais esta Lei comine pena máxima superior a 6 (seis) anos de reclusão, poderá ser decretada a perda, como produto ou proveito do crime, dos bens correspondentes à diferença entre o valor do patrimônio do condenado e aquele compatível com o seu rendimento lícito. ",
+                            "paragrafos": [
+                                {
+                                    "numero": "1º",
+                                    "rotulo": "§ 1º",
+                                    "linha": 918,
+                                    "texto": "A decretação da perda prevista no caput deste artigo fica condicionada à existência de elementos probatórios que indiquem conduta criminosa habitual, reiterada ou profissional do condenado ou sua vinculação a organização criminosa. "
+                                },
+                                {
+                                    "numero": "2º",
+                                    "rotulo": "§ 2º",
+                                    "linha": 920,
+                                    "texto": "Para efeito da perda prevista no caput deste artigo, entende-se por patrimônio do condenado todos os bens: ",
+                                    "incisos": [
+                                        {
+                                            "numero": "I",
+                                            "rotulo": "I",
+                                            "linha": 922,
+                                            "texto": "de sua titularidade, ou sobre os quais tenha domínio e benefício direto ou indireto, na data da infração penal, ou recebidos posteriormente; e "
+                                        },
+                                        {
+                                            "numero": "II",
+                                            "rotulo": "II",
+                                            "linha": 924,
+                                            "texto": "transferidos a terceiros a título gratuito ou mediante contraprestação irrisória, a partir do início da atividade criminal. "
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "3º",
+                                    "rotulo": "§ 3º",
+                                    "linha": 926,
+                                    "texto": "O condenado poderá demonstrar a inexistência da incompatibilidade ou a procedência lícita do patrimônio. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "64",
+                            "rotulo": "Art. 64.",
+                            "linha": 928,
+                            "caput": "A União, por intermédio da Senad, poderá firmar convênio com os Estados, com o Distrito Federal e com organismos orientados para a prevenção do uso indevido de drogas, a atenção e a reinserção social de usuários ou dependentes e a atuação na repressão à produção não autorizada e ao tráfico ilícito de drogas, com vistas na liberação de equipamentos e de recursos por ela arrecadados, para a implantação e execução de programas relacionados à questão das drogas."
+                        }
+                    ],
+                    "titulo": "DA APREENSÃO, ARRECADAÇÃO E DESTINAÇÃO DE BENS DO ACUSADO",
+                    "linhaTitulo": 725
+                }
+            ],
+            "titulo": "DA REPRESSÃO À PRODUÇÃO NÃO AUTORIZADA E AO TRÁFICO ILÍCITO DE DROGAS",
+            "linhaTitulo": 513
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO V",
+            "linha": 930,
+            "artigos": [
+                {
+                    "numero": "65",
+                    "rotulo": "Art. 65.",
+                    "linha": 932,
+                    "caput": "De conformidade com os princípios da não-intervenção em assuntos internos, da igualdade jurídica e do respeito à integridade territorial dos Estados e às leis e aos regulamentos nacionais em vigor, e observado o espírito das Convenções das Nações Unidas e outros instrumentos jurídicos internacionais relacionados à questão das drogas, de que o Brasil é parte, o governo brasileiro prestará, quando solicitado, cooperação a outros países e organismos internacionais e, quando necessário, deles solicitará a colaboração, nas áreas de:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 934,
+                            "texto": "intercâmbio de informações sobre legislações, experiências, projetos e programas voltados para atividades de prevenção do uso indevido, de atenção e de reinserção social de usuários e dependentes de drogas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 936,
+                            "texto": "intercâmbio de inteligência policial sobre produção e tráfico de drogas e delitos conexos, em especial o tráfico de armas, a lavagem de dinheiro e o desvio de precursores químicos;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 938,
+                            "texto": "intercâmbio de informações policiais e judiciais sobre produtores e traficantes de drogas e seus precursores químicos."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DA COOPERAÇÃO INTERNACIONAL",
+            "linhaTitulo": 931
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO V-A",
+            "linha": 940,
+            "artigos": [
+                {
+                    "numero": "65-A",
+                    "rotulo": "Art. 65-A.",
+                    "linha": 946,
+                    "caput": ". (VETADO). ",
+                    "rubrica": "DO FINANCIAMENTO DAS POLÍTICAS SOBRE DROGAS",
+                    "linhaRubrica": 944
+                }
+            ],
+            "titulo": "",
+            "linhaTitulo": 942
+        },
+        {
+            "tipo": "titulo",
+            "rotulo": "TÍTULO VI",
+            "linha": 947,
+            "artigos": [
+                {
+                    "numero": "66",
+                    "rotulo": "Art. 66.",
+                    "linha": 949,
+                    "caput": "Para fins do disposto no parágrafo único do art. 1º desta Lei, até que seja atualizada a terminologia da lista mencionada no preceito, denominam-se drogas substâncias entorpecentes, psicotrópicas, precursoras e outras sob controle especial, da Portaria SVS/MS nº 344, de 12 de maio de 1998."
+                },
+                {
+                    "numero": "67",
+                    "rotulo": "Art. 67.",
+                    "linha": 951,
+                    "caput": "A liberação dos recursos previstos na Lei nº 7.560, de 19 de dezembro de 1986, em favor de Estados e do Distrito Federal, dependerá de sua adesão e respeito às diretrizes básicas contidas nos convênios firmados e do fornecimento de dados necessários à atualização do sistema previsto no art. 17 desta Lei, pelas respectivas polícias judiciárias."
+                },
+                {
+                    "numero": "67-A",
+                    "rotulo": "Art. 67-A.",
+                    "linha": 953,
+                    "caput": "Os gestores e entidades que recebam recursos públicos para execução das políticas sobre drogas deverão garantir o acesso às suas instalações, à documentação e a todos os elementos necessários à efetiva fiscalização pelos órgãos competentes. "
+                },
+                {
+                    "numero": "68",
+                    "rotulo": "Art. 68.",
+                    "linha": 955,
+                    "caput": "A União, os Estados, o Distrito Federal e os Municípios poderão criar estímulos fiscais e outros, destinados às pessoas físicas e jurídicas que colaborem na prevenção do uso indevido de drogas, atenção e reinserção social de usuários e dependentes e na repressão da produção não autorizada e do tráfico ilícito de drogas."
+                },
+                {
+                    "numero": "69",
+                    "rotulo": "Art. 69.",
+                    "linha": 957,
+                    "caput": "No caso de falência ou liquidação extrajudicial de empresas ou estabelecimentos hospitalares, de pesquisa, de ensino, ou congêneres, assim como nos serviços de saúde que produzirem, venderem, adquirirem, consumirem, prescreverem ou fornecerem drogas ou de qualquer outro em que existam essas substâncias ou produtos, incumbe ao juízo perante o qual tramite o feito:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 965,
+                            "texto": "Da licitação para alienação de substâncias ou produtos não proscritos referidos no inciso II do caput deste artigo, só podem participar pessoas jurídicas regularmente habilitadas na área de saúde ou de pesquisa científica que comprovem a destinação lícita a ser dada ao produto a ser arrematado."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 967,
+                            "texto": "Ressalvada a hipótese de que trata o § 3º deste artigo, o produto não arrematado será, ato contínuo à hasta pública, destruído pela autoridade sanitária, na presença dos Conselhos Estaduais sobre Drogas e do Ministério Público."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 969,
+                            "texto": "Figurando entre o praceado e não arrematadas especialidades farmacêuticas em condições de emprego terapêutico, ficarão elas depositadas sob a guarda do Ministério da Saúde, que as destinará à rede pública de saúde."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 959,
+                            "texto": "determinar, imediatamente à ciência da falência ou liquidação, sejam lacradas suas instalações;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 961,
+                            "texto": "ordenar à autoridade sanitária competente a urgente adoção das medidas necessárias ao recebimento e guarda, em depósito, das drogas arrecadadas;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 963,
+                            "texto": "dar ciência ao órgão do Ministério Público, para acompanhar o feito."
+                        }
+                    ]
+                },
+                {
+                    "numero": "70",
+                    "rotulo": "Art. 70.",
+                    "linha": 971,
+                    "caput": "O processo e o julgamento dos crimes previstos nos arts. 33 a 37 desta Lei, se caracterizado ilícito transnacional, são da competência da Justiça Federal.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 973,
+                            "texto": "Os crimes praticados nos Municípios que não sejam sede de vara federal serão processados e julgados na vara federal da circunscrição respectiva."
+                        }
+                    ]
+                },
+                {
+                    "numero": "71",
+                    "rotulo": "Art. 71.",
+                    "linha": 975,
+                    "caput": "(VETADO)"
+                },
+                {
+                    "numero": "72",
+                    "rotulo": "Art. 72.",
+                    "linha": 979,
+                    "caput": "Encerrado o processo criminal ou arquivado o inquérito policial, o juiz, de ofício, mediante representação da autoridade de polícia judiciária, ou a requerimento do Ministério Público, determinará a destruição das amostras guardadas para contraprova, certificando nos autos. "
+                },
+                {
+                    "numero": "73",
+                    "rotulo": "Art. 73.",
+                    "linha": 982,
+                    "caput": "A União poderá estabelecer convênios com os Estados e o com o Distrito Federal, visando à prevenção e repressão do tráfico ilícito e do uso indevido de drogas, e com os Municípios, com o objetivo de prevenir o uso indevido delas e de possibilitar a atenção e reinserção social de usuários e dependentes de drogas. "
+                },
+                {
+                    "numero": "74",
+                    "rotulo": "Art. 74.",
+                    "linha": 984,
+                    "caput": "Esta Lei entra em vigor 45 (quarenta e cinco) dias após a sua publicação."
+                },
+                {
+                    "numero": "75",
+                    "rotulo": "Art. 75.",
+                    "linha": 986,
+                    "caput": "Revogam-se a Lei nº 6.368, de 21 de outubro de 1976, e a Lei nº 10.409, de 11 de janeiro de 2002."
+                }
+            ],
+            "titulo": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+            "linhaTitulo": 948
+        },
+        {
+            "tipo": "fecho",
+            "linha": 988,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília, 23 de agosto de 2006; 185º da Independência e 118º da República.",
+                    "linha": 988
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "LUIZ INÁCIO LULA DA SILVA",
+                    "linha": 990
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Márcio Thomaz Bastos",
+                    "linha": 992
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Guido Mantega",
+                    "linha": 994
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Jorge Armando Felix",
+                    "linha": 996
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 24.8.2006",
+                    "linha": 998
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "*",
+                    "linha": 1000
+                }
+            ]
+        }
+    ]
+}

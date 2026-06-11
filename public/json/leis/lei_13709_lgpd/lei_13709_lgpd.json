@@ -1,0 +1,3177 @@
+{
+    "id": "Lei_13709_LGPD",
+    "titulo": "Lei 13709 LGPD",
+    "apelido": "Lei 13709 LGPD.",
+    "sigla": "",
+    "fonte": "Lei_13709_LGPD.txt",
+    "fonteHtmlLocal": "leis/Lei_13709_LGPD/l13709.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 13.709, DE 14 DE AGOSTO DE 2018",
+            "linha": 1
+        },
+        {
+            "texto": "Lei Geral de Proteção de Dados Pessoais (LGPD).  Vigência",
+            "linha": 4
+        },
+        {
+            "texto": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+            "linha": 6
+        },
+        {
+            "texto": "CAPÍTULO I",
+            "linha": 8
+        },
+        {
+            "texto": "DISPOSIÇÕES PRELIMINARES",
+            "linha": 9
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 11,
+            "artigos": [
+                {
+                    "numero": "1º",
+                    "rotulo": "Art. 1º",
+                    "linha": 11,
+                    "caput": "Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 13,
+                            "texto": "As normas gerais contidas nesta Lei são de interesse nacional e devem ser observadas pela União, Estados, Distrito Federal e Municípios.  Vigência"
+                        }
+                    ]
+                },
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 15,
+                    "caput": "A disciplina da proteção de dados pessoais tem como fundamentos:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 17,
+                            "texto": "o respeito à privacidade;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 19,
+                            "texto": "a autodeterminação informativa;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 21,
+                            "texto": "a liberdade de expressão, de informação, de comunicação e de opinião;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 23,
+                            "texto": "a inviolabilidade da intimidade, da honra e da imagem;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 25,
+                            "texto": "o desenvolvimento econômico e tecnológico e a inovação;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 27,
+                            "texto": "a livre iniciativa, a livre concorrência e a defesa do consumidor; e"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 29,
+                            "texto": "os direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exercício da cidadania pelas pessoas naturais."
+                        }
+                    ]
+                },
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 31,
+                    "caput": "Esta Lei aplica-se a qualquer operação de tratamento realizada por pessoa natural ou por pessoa jurídica de direito público ou privado, independentemente do meio, do país de sua sede ou do país onde estejam localizados os dados, desde que:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 40,
+                            "texto": "Consideram-se coletados no território nacional os dados pessoais cujo titular nele se encontre no momento da coleta."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 42,
+                            "texto": "Excetua-se do disposto no inciso I deste artigo o tratamento de dados previsto no inciso IV do caput do art. 4º desta Lei."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 33,
+                            "texto": "a operação de tratamento seja realizada no território nacional;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 36,
+                            "texto": "a atividade de tratamento tenha por objetivo a oferta ou o fornecimento de bens ou serviços ou o tratamento de dados de indivíduos localizados no território nacional; ou  Vigência"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 38,
+                            "texto": "os dados pessoais objeto do tratamento tenham sido coletados no território nacional."
+                        }
+                    ]
+                },
+                {
+                    "numero": "4º",
+                    "rotulo": "Art. 4º",
+                    "linha": 44,
+                    "caput": "Esta Lei não se aplica ao tratamento de dados pessoais:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 66,
+                            "texto": "O tratamento de dados pessoais previsto no inciso III será regido por legislação específica, que deverá prever medidas proporcionais e estritamente necessárias ao atendimento do interesse público, observados o devido processo legal, os princípios gerais de proteção e os direitos do titular previstos nesta Lei."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 68,
+                            "texto": "É vedado o tratamento dos dados a que se refere o inciso III do caput deste artigo por pessoa de direito privado, exceto em procedimentos sob tutela de pessoa jurídica de direito público, que serão objeto de informe específico à autoridade nacional e que deverão observar a limitação imposta no § 4º deste artigo."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 70,
+                            "texto": "A autoridade nacional emitirá opiniões técnicas ou recomendações referentes às exceções previstas no inciso III do caput deste artigo e deverá solicitar aos responsáveis relatórios de impacto à proteção de dados pessoais."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 72,
+                            "texto": "Em nenhum caso a totalidade dos dados pessoais de banco de dados de que trata o inciso III do caput deste artigo poderá ser tratada por pessoa de direito privado, salvo por aquela que possua capital integralmente constituído pelo poder público.  Vigência"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 46,
+                            "texto": "realizado por pessoa natural para fins exclusivamente particulares e não econômicos;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 48,
+                            "texto": "realizado para fins exclusivamente:",
+                            "alineas": [
+                                {
+                                    "letra": "a",
+                                    "rotulo": "a)",
+                                    "linha": 50,
+                                    "texto": "jornalístico e artísticos; ou"
+                                },
+                                {
+                                    "letra": "b",
+                                    "rotulo": "b)",
+                                    "linha": 52,
+                                    "texto": "acadêmicos, aplicando-se a esta hipótese os arts. 7º e 11 desta Lei;"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 54,
+                            "texto": "realizado para fins exclusivos de:",
+                            "alineas": [
+                                {
+                                    "letra": "a",
+                                    "rotulo": "a)",
+                                    "linha": 56,
+                                    "texto": "segurança pública;"
+                                },
+                                {
+                                    "letra": "b",
+                                    "rotulo": "b)",
+                                    "linha": 58,
+                                    "texto": "defesa nacional;"
+                                },
+                                {
+                                    "letra": "c",
+                                    "rotulo": "c)",
+                                    "linha": 60,
+                                    "texto": "segurança do Estado; ou"
+                                },
+                                {
+                                    "letra": "d",
+                                    "rotulo": "d)",
+                                    "linha": 62,
+                                    "texto": "atividades de investigação e repressão de infrações penais; ou"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 64,
+                            "texto": "provenientes de fora do território nacional e que não sejam objeto de comunicação, uso compartilhado de dados com agentes de tratamento brasileiros ou objeto de transferência internacional de dados com outro país que não o de proveniência, desde que o país de proveniência proporcione grau de proteção de dados pessoais adequado ao previsto nesta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "5º",
+                    "rotulo": "Art. 5º",
+                    "linha": 74,
+                    "caput": "Para os fins desta Lei, considera-se:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 76,
+                            "texto": "dado pessoal: informação relacionada a pessoa natural identificada ou identificável;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 78,
+                            "texto": "dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 80,
+                            "texto": "dado anonimizado: dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 82,
+                            "texto": "banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou físico;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 84,
+                            "texto": "titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 86,
+                            "texto": "controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 88,
+                            "texto": "operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 91,
+                            "texto": "encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Agência Nacional de Proteção de Dados (ANPD); "
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 93,
+                            "texto": "agentes de tratamento: o controlador e o operador;"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 95,
+                            "texto": "tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;"
+                        },
+                        {
+                            "numero": "XI",
+                            "rotulo": "XI",
+                            "linha": 97,
+                            "texto": "anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;"
+                        },
+                        {
+                            "numero": "XII",
+                            "rotulo": "XII",
+                            "linha": 99,
+                            "texto": "consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;"
+                        },
+                        {
+                            "numero": "XIII",
+                            "rotulo": "XIII",
+                            "linha": 101,
+                            "texto": "bloqueio: suspensão temporária de qualquer operação de tratamento, mediante guarda do dado pessoal ou do banco de dados;"
+                        },
+                        {
+                            "numero": "XIV",
+                            "rotulo": "XIV",
+                            "linha": 103,
+                            "texto": "eliminação: exclusão de dado ou de conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;"
+                        },
+                        {
+                            "numero": "XV",
+                            "rotulo": "XV",
+                            "linha": 105,
+                            "texto": "transferência internacional de dados: transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o país seja membro;"
+                        },
+                        {
+                            "numero": "XVI",
+                            "rotulo": "XVI",
+                            "linha": 107,
+                            "texto": "uso compartilhado de dados: comunicação, difusão, transferência internacional, interconexão de dados pessoais ou tratamento compartilhado de bancos de dados pessoais por órgãos e entidades públicos no cumprimento de suas competências legais, ou entre esses e entes privados, reciprocamente, com autorização específica, para uma ou mais modalidades de tratamento permitidas por esses entes públicos, ou entre entes privados;"
+                        },
+                        {
+                            "numero": "XVII",
+                            "rotulo": "XVII",
+                            "linha": 109,
+                            "texto": "relatório de impacto à proteção de dados pessoais: documentação do controlador que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco;"
+                        },
+                        {
+                            "numero": "XVIII",
+                            "rotulo": "XVIII",
+                            "linha": 112,
+                            "texto": "órgão de pesquisa: órgão ou entidade da administração pública direta ou indireta ou pessoa jurídica de direito privado sem fins lucrativos legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou em seu objetivo social ou estatutário a pesquisa básica ou aplicada de caráter histórico, científico, tecnológico ou estatístico; e  Vigência"
+                        },
+                        {
+                            "numero": "XIX",
+                            "rotulo": "XIX",
+                            "linha": 114,
+                            "texto": "autoridade nacional: entidade da administração pública responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "6º",
+                    "rotulo": "Art. 6º",
+                    "linha": 116,
+                    "caput": "As atividades de tratamento de dados pessoais deverão observar a boa-fé e os seguintes princípios:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 118,
+                            "texto": "finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 120,
+                            "texto": "adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo com o contexto do tratamento;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 122,
+                            "texto": "necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 124,
+                            "texto": "livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 126,
+                            "texto": "qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 128,
+                            "texto": "transparência: garantia, aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 130,
+                            "texto": "segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 132,
+                            "texto": "prevenção: adoção de medidas para prevenir a ocorrência de danos em virtude do tratamento de dados pessoais;"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 134,
+                            "texto": "não discriminação: impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos;"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 136,
+                            "texto": "responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO II",
+            "linha": 138,
+            "artigos": [
+                {
+                    "numero": "7º",
+                    "rotulo": "Art. 7º",
+                    "linha": 144,
+                    "caput": "O tratamento de dados pessoais somente poderá ser realizado nas seguintes hipóteses:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 166,
+                            "texto": ". "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 168,
+                            "texto": ".  Vigência"
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 170,
+                            "texto": "O tratamento de dados pessoais cujo acesso é público deve considerar a finalidade, a boa-fé e o interesse público que justificaram sua disponibilização."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 172,
+                            "texto": "É dispensada a exigência do consentimento previsto no caput deste artigo para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do titular e os princípios previstos nesta Lei."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 174,
+                            "texto": "O controlador que obteve o consentimento referido no inciso I do caput deste artigo que necessitar comunicar ou compartilhar dados pessoais com outros controladores deverá obter consentimento específico do titular para esse fim, ressalvadas as hipóteses de dispensa do consentimento previstas nesta Lei."
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 176,
+                            "texto": "A eventual dispensa da exigência do consentimento não desobriga os agentes de tratamento das demais obrigações previstas nesta Lei, especialmente da observância dos princípios gerais e da garantia dos direitos do titular."
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "§ 7º",
+                            "linha": 178,
+                            "texto": "O tratamento posterior dos dados pessoais a que se referem os §§ 3º e 4º deste artigo poderá ser realizado para novas finalidades, desde que observados os propósitos legítimos e específicos para o novo tratamento e a preservação dos direitos do titular, assim como os fundamentos e os princípios previstos nesta Lei.  Vigência"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 146,
+                            "texto": "mediante o fornecimento de consentimento pelo titular;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 148,
+                            "texto": "para o cumprimento de obrigação legal ou regulatória pelo controlador;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 150,
+                            "texto": "pela administração pública, para o tratamento e uso compartilhado de dados necessários à execução de políticas públicas previstas em leis e regulamentos ou respaldadas em contratos, convênios ou instrumentos congêneres, observadas as disposições do Capítulo IV desta Lei;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 152,
+                            "texto": "para a realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 154,
+                            "texto": "quando necessário para a execução de contrato ou de procedimentos preliminares relacionados a contrato do qual seja parte o titular, a pedido do titular dos dados;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 156,
+                            "texto": "para o exercício regular de direitos em processo judicial, administrativo ou arbitral, esse último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 158,
+                            "texto": "para a proteção da vida ou da incolumidade física do titular ou de terceiro;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 160,
+                            "texto": "para a tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária;  Vigência"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 162,
+                            "texto": "quando necessário para atender aos interesses legítimos do controlador ou de terceiro, exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais; ou"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 164,
+                            "texto": "para a proteção do crédito, inclusive quanto ao disposto na legislação pertinente."
+                        }
+                    ],
+                    "rubrica": "Dos Requisitos para o Tratamento de Dados Pessoais",
+                    "linhaRubrica": 142
+                },
+                {
+                    "numero": "8º",
+                    "rotulo": "Art. 8º",
+                    "linha": 180,
+                    "caput": "O consentimento previsto no inciso I do art. 7º desta Lei deverá ser fornecido por escrito ou por outro meio que demonstre a manifestação de vontade do titular.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 182,
+                            "texto": "Caso o consentimento seja fornecido por escrito, esse deverá constar de cláusula destacada das demais cláusulas contratuais."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 184,
+                            "texto": "Cabe ao controlador o ônus da prova de que o consentimento foi obtido em conformidade com o disposto nesta Lei."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 186,
+                            "texto": "É vedado o tratamento de dados pessoais mediante vício de consentimento."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 188,
+                            "texto": "O consentimento deverá referir-se a finalidades determinadas, e as autorizações genéricas para o tratamento de dados pessoais serão nulas."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 190,
+                            "texto": "O consentimento pode ser revogado a qualquer momento mediante manifestação expressa do titular, por procedimento gratuito e facilitado, ratificados os tratamentos realizados sob amparo do consentimento anteriormente manifestado enquanto não houver requerimento de eliminação, nos termos do inciso VI do caput do art. 18 desta Lei."
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 192,
+                            "texto": "Em caso de alteração de informação referida nos incisos I, II, III ou V do art. 9º desta Lei, o controlador deverá informar ao titular, com destaque de forma específica do teor das alterações, podendo o titular, nos casos em que o seu consentimento é exigido, revogá-lo caso discorde da alteração."
+                        }
+                    ]
+                },
+                {
+                    "numero": "9º",
+                    "rotulo": "Art. 9º",
+                    "linha": 194,
+                    "caput": "O titular tem direito ao acesso facilitado às informações sobre o tratamento de seus dados, que deverão ser disponibilizadas de forma clara, adequada e ostensiva acerca de, entre outras características previstas em regulamentação para o atendimento do princípio do livre acesso:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 210,
+                            "texto": "Na hipótese em que o consentimento é requerido, esse será considerado nulo caso as informações fornecidas ao titular tenham conteúdo enganoso ou abusivo ou não tenham sido apresentadas previamente com transparência, de forma clara e inequívoca."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 212,
+                            "texto": "Na hipótese em que o consentimento é requerido, se houver mudanças da finalidade para o tratamento de dados pessoais não compatíveis com o consentimento original, o controlador deverá informar previamente o titular sobre as mudanças de finalidade, podendo o titular revogar o consentimento, caso discorde das alterações."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 214,
+                            "texto": "Quando o tratamento de dados pessoais for condição para o fornecimento de produto ou de serviço ou para o exercício de direito, o titular será informado com destaque sobre esse fato e sobre os meios pelos quais poderá exercer os direitos do titular elencados no art. 18 desta Lei."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 196,
+                            "texto": "finalidade específica do tratamento;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 198,
+                            "texto": "forma e duração do tratamento, observados os segredos comercial e industrial;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 200,
+                            "texto": "identificação do controlador;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 202,
+                            "texto": "informações de contato do controlador;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 204,
+                            "texto": "informações acerca do uso compartilhado de dados pelo controlador e a finalidade;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 206,
+                            "texto": "responsabilidades dos agentes que realizarão o tratamento; e"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 208,
+                            "texto": "direitos do titular, com menção explícita aos direitos contidos no art. 18 desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "10",
+                    "rotulo": "Art. 10.",
+                    "linha": 216,
+                    "caput": "O legítimo interesse do controlador somente poderá fundamentar tratamento de dados pessoais para finalidades legítimas, consideradas a partir de situações concretas, que incluem, mas não se limitam a:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 222,
+                            "texto": "Quando o tratamento for baseado no legítimo interesse do controlador, somente os dados pessoais estritamente necessários para a finalidade pretendida poderão ser tratados."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 224,
+                            "texto": "O controlador deverá adotar medidas para garantir a transparência do tratamento de dados baseado em seu legítimo interesse."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 226,
+                            "texto": "A autoridade nacional poderá solicitar ao controlador relatório de impacto à proteção de dados pessoais, quando o tratamento tiver como fundamento seu interesse legítimo, observados os segredos comercial e industrial. Seção II"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 218,
+                            "texto": "apoio e promoção de atividades do controlador; e"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 220,
+                            "texto": "proteção, em relação ao titular, do exercício regular de seus direitos ou prestação de serviços que o beneficiem, respeitadas as legítimas expectativas dele e os direitos e liberdades fundamentais, nos termos desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "11",
+                    "rotulo": "Art. 11.",
+                    "linha": 231,
+                    "caput": "O tratamento de dados pessoais sensíveis somente poderá ocorrer nas seguintes hipóteses:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 251,
+                            "texto": "Aplica-se o disposto neste artigo a qualquer tratamento de dados pessoais que revele dados pessoais sensíveis e que possa causar dano ao titular, ressalvado o disposto em legislação específica."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 253,
+                            "texto": "Nos casos de aplicação do disposto nas alíneas “a” e “b” do inciso II do caput deste artigo pelos órgãos e pelas entidades públicas, será dada publicidade à referida dispensa de consentimento, nos termos do inciso I do caput do art. 23 desta Lei."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 255,
+                            "texto": "A comunicação ou o uso compartilhado de dados pessoais sensíveis entre controladores com objetivo de obter vantagem econômica poderá ser objeto de vedação ou de regulamentação por parte da autoridade nacional, ouvidos os órgãos setoriais do Poder Público, no âmbito de suas competências."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 257,
+                            "texto": "É vedada a comunicação ou o uso compartilhado entre controladores de dados pessoais sensíveis referentes à saúde com objetivo de obter vantagem econômica, exceto nas hipóteses relativas a prestação de serviços de saúde, de assistência farmacêutica e de assistência à saúde, desde que observado o § 5º deste artigo, incluídos os serviços auxiliares de diagnose e terapia, em benefício dos interesses dos titulares de dados, e para permitir:  Vigência",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 259,
+                                    "texto": "a portabilidade de dados quando solicitada pelo titular; ou  Vigência"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 261,
+                                    "texto": "as transações financeiras e administrativas resultantes do uso e da prestação dos serviços de que trata este parágrafo.  Vigência"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 263,
+                            "texto": "É vedado às operadoras de planos privados de assistência à saúde o tratamento de dados de saúde para a prática de seleção de riscos na contratação de qualquer modalidade, assim como na contratação e exclusão de beneficiários.  Vigência"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 233,
+                            "texto": "quando o titular ou seu responsável legal consentir, de forma específica e destacada, para finalidades específicas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 235,
+                            "texto": "sem fornecimento de consentimento do titular, nas hipóteses em que for indispensável para:",
+                            "alineas": [
+                                {
+                                    "letra": "a",
+                                    "rotulo": "a)",
+                                    "linha": 237,
+                                    "texto": "cumprimento de obrigação legal ou regulatória pelo controlador;"
+                                },
+                                {
+                                    "letra": "b",
+                                    "rotulo": "b)",
+                                    "linha": 239,
+                                    "texto": "tratamento compartilhado de dados necessários à execução, pela administração pública, de políticas públicas previstas em leis ou regulamentos;"
+                                },
+                                {
+                                    "letra": "c",
+                                    "rotulo": "c)",
+                                    "linha": 241,
+                                    "texto": "realização de estudos por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais sensíveis;"
+                                },
+                                {
+                                    "letra": "d",
+                                    "rotulo": "d)",
+                                    "linha": 243,
+                                    "texto": "exercício regular de direitos, inclusive em contrato e em processo judicial, administrativo e arbitral, este último nos termos da Lei nº 9.307, de 23 de setembro de 1996 (Lei de Arbitragem) ;"
+                                },
+                                {
+                                    "letra": "e",
+                                    "rotulo": "e)",
+                                    "linha": 245,
+                                    "texto": "proteção da vida ou da incolumidade física do titular ou de terceiro;"
+                                },
+                                {
+                                    "letra": "f",
+                                    "rotulo": "f)",
+                                    "linha": 247,
+                                    "texto": "tutela da saúde, exclusivamente, em procedimento realizado por profissionais de saúde, serviços de saúde ou autoridade sanitária; ou  Vigência"
+                                },
+                                {
+                                    "letra": "g",
+                                    "rotulo": "g)",
+                                    "linha": 249,
+                                    "texto": "garantia da prevenção à fraude e à segurança do titular, nos processos de identificação e autenticação de cadastro em sistemas eletrônicos, resguardados os direitos mencionados no art. 9º desta Lei e exceto no caso de prevalecerem direitos e liberdades fundamentais do titular que exijam a proteção dos dados pessoais."
+                                }
+                            ]
+                        }
+                    ],
+                    "rubrica": "Do Tratamento de Dados Pessoais Sensíveis",
+                    "linhaRubrica": 229
+                },
+                {
+                    "numero": "12",
+                    "rotulo": "Art. 12.",
+                    "linha": 265,
+                    "caput": "Os dados anonimizados não serão considerados dados pessoais para os fins desta Lei, salvo quando o processo de anonimização ao qual foram submetidos for revertido, utilizando exclusivamente meios próprios, ou quando, com esforços razoáveis, puder ser revertido.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 267,
+                            "texto": "A determinação do que seja razoável deve levar em consideração fatores objetivos, tais como custo e tempo necessários para reverter o processo de anonimização, de acordo com as tecnologias disponíveis, e a utilização exclusiva de meios próprios."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 269,
+                            "texto": "Poderão ser igualmente considerados como dados pessoais, para os fins desta Lei, aqueles utilizados para formação do perfil comportamental de determinada pessoa natural, se identificada."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 271,
+                            "texto": "A autoridade nacional poderá dispor sobre padrões e técnicas utilizados em processos de anonimização e realizar verificações acerca de sua segurança, ouvido o Conselho Nacional de Proteção de Dados Pessoais."
+                        }
+                    ]
+                },
+                {
+                    "numero": "13",
+                    "rotulo": "Art. 13.",
+                    "linha": 273,
+                    "caput": "Na realização de estudos em saúde pública, os órgãos de pesquisa poderão ter acesso a bases de dados pessoais, que serão tratados exclusivamente dentro do órgão e estritamente para a finalidade de realização de estudos e pesquisas e mantidos em ambiente controlado e seguro, conforme práticas de segurança previstas em regulamento específico e que incluam, sempre que possível, a anonimização ou pseudonimização dos dados, bem como considerem os devidos padrões éticos relacionados a estudos e pesquisas.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 275,
+                            "texto": "A divulgação dos resultados ou de qualquer excerto do estudo ou da pesquisa de que trata o caput deste artigo em nenhuma hipótese poderá revelar dados pessoais."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 277,
+                            "texto": "O órgão de pesquisa será o responsável pela segurança da informação prevista no caput deste artigo, não permitida, em circunstância alguma, a transferência dos dados a terceiro."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 279,
+                            "texto": "O acesso aos dados de que trata este artigo será objeto de regulamentação por parte da autoridade nacional e das autoridades da área de saúde e sanitárias, no âmbito de suas competências."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 281,
+                            "texto": "Para os efeitos deste artigo, a pseudonimização é o tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro. Seção III"
+                        }
+                    ]
+                },
+                {
+                    "numero": "14",
+                    "rotulo": "Art. 14.",
+                    "linha": 286,
+                    "caput": "O tratamento de dados pessoais de crianças e de adolescentes deverá ser realizado em seu melhor interesse, nos termos deste artigo e da legislação pertinente.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 288,
+                            "texto": "O tratamento de dados pessoais de crianças deverá ser realizado com o consentimento específico e em destaque dado por pelo menos um dos pais ou pelo responsável legal."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 290,
+                            "texto": "No tratamento de dados de que trata o § 1º deste artigo, os controladores deverão manter pública a informação sobre os tipos de dados coletados, a forma de sua utilização e os procedimentos para o exercício dos direitos a que se refere o art. 18 desta Lei."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 292,
+                            "texto": "Poderão ser coletados dados pessoais de crianças sem o consentimento a que se refere o § 1º deste artigo quando a coleta for necessária para contatar os pais ou o responsável legal, utilizados uma única vez e sem armazenamento, ou para sua proteção, e em nenhum caso poderão ser repassados a terceiro sem o consentimento de que trata o § 1º deste artigo."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 294,
+                            "texto": "Os controladores não deverão condicionar a participação dos titulares de que trata o § 1º deste artigo em jogos, aplicações de internet ou outras atividades ao fornecimento de informações pessoais além das estritamente necessárias à atividade."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 296,
+                            "texto": "O controlador deve realizar todos os esforços razoáveis para verificar que o consentimento a que se refere o § 1º deste artigo foi dado pelo responsável pela criança, consideradas as tecnologias disponíveis."
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 298,
+                            "texto": "As informações sobre o tratamento de dados referidas neste artigo deverão ser fornecidas de maneira simples, clara e acessível, consideradas as características físico-motoras, perceptivas, sensoriais, intelectuais e mentais do usuário, com uso de recursos audiovisuais quando adequado, de forma a proporcionar a informação necessária aos pais ou ao responsável legal e adequada ao entendimento da criança. Seção IV"
+                        }
+                    ],
+                    "rubrica": "Do Tratamento de Dados Pessoais de Crianças e de Adolescentes",
+                    "linhaRubrica": 284
+                },
+                {
+                    "numero": "15",
+                    "rotulo": "Art. 15.",
+                    "linha": 303,
+                    "caput": "O término do tratamento de dados pessoais ocorrerá nas seguintes hipóteses:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 305,
+                            "texto": "verificação de que a finalidade foi alcançada ou de que os dados deixaram de ser necessários ou pertinentes ao alcance da finalidade específica almejada;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 307,
+                            "texto": "fim do período de tratamento;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 309,
+                            "texto": "comunicação do titular, inclusive no exercício de seu direito de revogação do consentimento conforme disposto no § 5º do art. 8º desta Lei, resguardado o interesse público; ou"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 311,
+                            "texto": "determinação da autoridade nacional, quando houver violação ao disposto nesta Lei."
+                        }
+                    ],
+                    "rubrica": "Do Término do Tratamento de Dados",
+                    "linhaRubrica": 301
+                },
+                {
+                    "numero": "16",
+                    "rotulo": "Art. 16.",
+                    "linha": 313,
+                    "caput": "Os dados pessoais serão eliminados após o término de seu tratamento, no âmbito e nos limites técnicos das atividades, autorizada a conservação para as seguintes finalidades:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 315,
+                            "texto": "cumprimento de obrigação legal ou regulatória pelo controlador;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 317,
+                            "texto": "estudo por órgão de pesquisa, garantida, sempre que possível, a anonimização dos dados pessoais;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 319,
+                            "texto": "transferência a terceiro, desde que respeitados os requisitos de tratamento de dados dispostos nesta Lei; ou"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 321,
+                            "texto": "uso exclusivo do controlador, vedado seu acesso por terceiro, e desde que anonimizados os dados."
+                        }
+                    ]
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DO TRATAMENTO DE DADOS PESSOAIS",
+            "linhaTitulo": 139
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO III",
+            "linha": 323,
+            "artigos": [
+                {
+                    "numero": "17",
+                    "rotulo": "Art. 17.",
+                    "linha": 326,
+                    "caput": "Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e garantidos os direitos fundamentais de liberdade, de intimidade e de privacidade, nos termos desta Lei."
+                },
+                {
+                    "numero": "18",
+                    "rotulo": "Art. 18.",
+                    "linha": 328,
+                    "caput": "O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 349,
+                            "texto": "O titular dos dados pessoais tem o direito de peticionar em relação aos seus dados contra o controlador perante a autoridade nacional."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 351,
+                            "texto": "O titular pode opor-se a tratamento realizado com fundamento em uma das hipóteses de dispensa de consentimento, em caso de descumprimento ao disposto nesta Lei."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 353,
+                            "texto": "Os direitos previstos neste artigo serão exercidos mediante requerimento expresso do titular ou de representante legalmente constituído, a agente de tratamento."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 355,
+                            "texto": "Em caso de impossibilidade de adoção imediata da providência de que trata o § 3º deste artigo, o controlador enviará ao titular resposta em que poderá:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 357,
+                                    "texto": "comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 359,
+                                    "texto": "indicar as razões de fato ou de direito que impedem a adoção imediata da providência."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 361,
+                            "texto": "O requerimento referido no § 3º deste artigo será atendido sem custos para o titular, nos prazos e nos termos previstos em regulamento."
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 363,
+                            "texto": "O responsável deverá informar, de maneira imediata, aos agentes de tratamento com os quais tenha realizado uso compartilhado de dados a correção, a eliminação, a anonimização ou o bloqueio dos dados, para que repitam idêntico procedimento, exceto nos casos em que esta comunicação seja comprovadamente impossível ou implique esforço desproporcional.  Vigência"
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "§ 7º",
+                            "linha": 365,
+                            "texto": "A portabilidade dos dados pessoais a que se refere o inciso V do caput deste artigo não inclui dados que já tenham sido anonimizados pelo controlador."
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "§ 8º",
+                            "linha": 367,
+                            "texto": "O direito a que se refere o § 1º deste artigo também poderá ser exercido perante os organismos de defesa do consumidor."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 330,
+                            "texto": "confirmação da existência de tratamento;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 332,
+                            "texto": "acesso aos dados;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 334,
+                            "texto": "correção de dados incompletos, inexatos ou desatualizados;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 336,
+                            "texto": "anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto nesta Lei;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 339,
+                            "texto": "portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial;  Vigência"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 341,
+                            "texto": "eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 desta Lei;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 343,
+                            "texto": "informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 345,
+                            "texto": "informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa;"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 347,
+                            "texto": "revogação do consentimento, nos termos do § 5º do art. 8º desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "19",
+                    "rotulo": "Art. 19.",
+                    "linha": 369,
+                    "caput": "A confirmação de existência ou o acesso a dados pessoais serão providenciados, mediante requisição do titular:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 375,
+                            "texto": "Os dados pessoais serão armazenados em formato que favoreça o exercício do direito de acesso."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 377,
+                            "texto": "As informações e os dados poderão ser fornecidos, a critério do titular:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 379,
+                                    "texto": "por meio eletrônico, seguro e idôneo para esse fim; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 381,
+                                    "texto": "sob forma impressa."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 383,
+                            "texto": "Quando o tratamento tiver origem no consentimento do titular ou em contrato, o titular poderá solicitar cópia eletrônica integral de seus dados pessoais, observados os segredos comercial e industrial, nos termos de regulamentação da autoridade nacional, em formato que permita a sua utilização subsequente, inclusive em outras operações de tratamento."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 385,
+                            "texto": "A autoridade nacional poderá dispor de forma diferenciada acerca dos prazos previstos nos incisos I e II do caput deste artigo para os setores específicos."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 371,
+                            "texto": "em formato simplificado, imediatamente; ou"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 373,
+                            "texto": "por meio de declaração clara e completa, que indique a origem dos dados, a inexistência de registro, os critérios utilizados e a finalidade do tratamento, observados os segredos comercial e industrial, fornecida no prazo de até 15 (quinze) dias, contado da data do requerimento do titular."
+                        }
+                    ]
+                },
+                {
+                    "numero": "20",
+                    "rotulo": "Art. 20.",
+                    "linha": 388,
+                    "caput": "O titular dos dados tem direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses, incluídas as decisões destinadas a definir o seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.  Vigência",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 390,
+                            "texto": "O controlador deverá fornecer, sempre que solicitadas, informações claras e adequadas a respeito dos critérios e dos procedimentos utilizados para a decisão automatizada, observados os segredos comercial e industrial."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 392,
+                            "texto": "Em caso de não oferecimento de informações de que trata o § 1º deste artigo baseado na observância de segredo comercial e industrial, a autoridade nacional poderá realizar auditoria para verificação de aspectos discriminatórios em tratamento automatizado de dados pessoais."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 394,
+                            "texto": "(VETADO).  Vigência"
+                        }
+                    ]
+                },
+                {
+                    "numero": "21",
+                    "rotulo": "Art. 21.",
+                    "linha": 396,
+                    "caput": "Os dados pessoais referentes ao exercício regular de direitos pelo titular não podem ser utilizados em seu prejuízo."
+                },
+                {
+                    "numero": "22",
+                    "rotulo": "Art. 22.",
+                    "linha": 398,
+                    "caput": "A defesa dos interesses e dos direitos dos titulares de dados poderá ser exercida em juízo, individual ou coletivamente, na forma do disposto na legislação pertinente, acerca dos instrumentos de tutela individual e coletiva."
+                }
+            ],
+            "titulo": "DOS DIREITOS DO TITULAR",
+            "linhaTitulo": 324
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IV",
+            "linha": 400,
+            "artigos": [
+                {
+                    "numero": "23",
+                    "rotulo": "Art. 23.",
+                    "linha": 406,
+                    "caput": "O tratamento de dados pessoais pelas pessoas jurídicas de direito público referidas no parágrafo único do art. 1º da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) , deverá ser realizado para o atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de executar as competências legais ou cumprir as atribuições legais do serviço público, desde que:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 416,
+                            "texto": "A autoridade nacional poderá dispor sobre as formas de publicidade das operações de tratamento."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 418,
+                            "texto": "O disposto nesta Lei não dispensa as pessoas jurídicas mencionadas no caput deste artigo de instituir as autoridades de que trata a Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) ."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 420,
+                            "texto": "Os prazos e procedimentos para exercício dos direitos do titular perante o Poder Público observarão o disposto em legislação específica, em especial as disposições constantes da Lei nº 9.507, de 12 de novembro de 1997 (Lei do Habeas Data) , da Lei nº 9.784, de 29 de janeiro de 1999 (Lei Geral do Processo Administrativo) , e da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) ."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 422,
+                            "texto": "Os serviços notariais e de registro exercidos em caráter privado, por delegação do Poder Público, terão o mesmo tratamento dispensado às pessoas jurídicas referidas no caput deste artigo, nos termos desta Lei."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 424,
+                            "texto": "Os órgãos notariais e de registro devem fornecer acesso aos dados por meio eletrônico para a administração pública, tendo em vista as finalidades de que trata o caput deste artigo."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 408,
+                            "texto": "sejam informadas as hipóteses em que, no exercício de suas competências, realizam o tratamento de dados pessoais, fornecendo informações claras e atualizadas sobre a previsão legal, a finalidade, os procedimentos e as práticas utilizadas para a execução dessas atividades, em veículos de fácil acesso, preferencialmente em seus sítios eletrônicos;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 410,
+                            "texto": "(VETADO); e"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 412,
+                            "texto": "seja indicado um encarregado quando realizarem operações de tratamento de dados pessoais, nos termos do art. 39 desta Lei; e  Vigência"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 414,
+                            "texto": "(VETADO).  Vigência"
+                        }
+                    ],
+                    "rubrica": "Das Regras",
+                    "linhaRubrica": 404
+                },
+                {
+                    "numero": "24",
+                    "rotulo": "Art. 24.",
+                    "linha": 426,
+                    "caput": "As empresas públicas e as sociedades de economia mista que atuam em regime de concorrência, sujeitas ao disposto no art. 173 da Constituição Federal , terão o mesmo tratamento dispensado às pessoas jurídicas de direito privado particulares, nos termos desta Lei.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 428,
+                            "texto": "As empresas públicas e as sociedades de economia mista, quando estiverem operacionalizando políticas públicas e no âmbito da execução delas, terão o mesmo tratamento dispensado aos órgãos e às entidades do Poder Público, nos termos deste Capítulo."
+                        }
+                    ]
+                },
+                {
+                    "numero": "25",
+                    "rotulo": "Art. 25.",
+                    "linha": 430,
+                    "caput": "Os dados deverão ser mantidos em formato interoperável e estruturado para o uso compartilhado, com vistas à execução de políticas públicas, à prestação de serviços públicos, à descentralização da atividade pública e à disseminação e ao acesso das informações pelo público em geral."
+                },
+                {
+                    "numero": "26",
+                    "rotulo": "Art. 26.",
+                    "linha": 432,
+                    "caput": "O uso compartilhado de dados pessoais pelo Poder Público deve atender a finalidades específicas de execução de políticas públicas e atribuição legal pelos órgãos e pelas entidades públicas, respeitados os princípios de proteção de dados pessoais elencados no art. 6º desta Lei.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 434,
+                            "texto": "É vedado ao Poder Público transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 436,
+                                    "texto": "em casos de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim específico e determinado, observado o disposto na Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) ;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 438,
+                                    "texto": "(VETADO);"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 441,
+                                    "texto": "nos casos em que os dados forem acessíveis publicamente, observadas as disposições desta Lei."
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 443,
+                                    "texto": "quando houver previsão legal ou a transferência for respaldada em contratos, convênios ou instrumentos congêneres; ou "
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 445,
+                                    "texto": "na hipótese de a transferência dos dados objetivar exclusivamente a prevenção de fraudes e irregularidades, ou proteger e resguardar a segurança e a integridade do titular dos dados, desde que vedado o tratamento para outras finalidades.  Vigência"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 447,
+                            "texto": "Os contratos e convênios de que trata o § 1º deste artigo deverão ser comunicados à autoridade nacional."
+                        }
+                    ]
+                },
+                {
+                    "numero": "27",
+                    "rotulo": "Art. 27.",
+                    "linha": 450,
+                    "caput": "A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de direito público a pessoa de direito privado será informado à autoridade nacional e dependerá de consentimento do titular, exceto:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 458,
+                            "texto": "A informação à autoridade nacional de que trata o caput deste artigo será objeto de regulamentação.  Vigência"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 452,
+                            "texto": "nas hipóteses de dispensa de consentimento previstas nesta Lei;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 454,
+                            "texto": "nos casos de uso compartilhado de dados, em que será dada publicidade nos termos do inciso I do caput do art. 23 desta Lei; ou"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 456,
+                            "texto": "nas exceções constantes do § 1º do art. 26 desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "28",
+                    "rotulo": "Art. 28.",
+                    "linha": 460,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "29",
+                    "rotulo": "Art. 29.",
+                    "linha": 463,
+                    "caput": "A autoridade nacional poderá solicitar, a qualquer momento, aos órgãos e às entidades do poder público a realização de operações de tratamento de dados pessoais, informações específicas sobre o âmbito e a natureza dos dados e outros detalhes do tratamento realizado e poderá emitir parecer técnico complementar para garantir o cumprimento desta Lei.  Vigência"
+                },
+                {
+                    "numero": "30",
+                    "rotulo": "Art. 30.",
+                    "linha": 465,
+                    "caput": "A autoridade nacional poderá estabelecer normas complementares para as atividades de comunicação e de uso compartilhado de dados pessoais. Seção II"
+                },
+                {
+                    "numero": "31",
+                    "rotulo": "Art. 31.",
+                    "linha": 470,
+                    "caput": "Quando houver infração a esta Lei em decorrência do tratamento de dados pessoais por órgãos públicos, a autoridade nacional poderá enviar informe com medidas cabíveis para fazer cessar a violação.",
+                    "rubrica": "Da Responsabilidade",
+                    "linhaRubrica": 468
+                },
+                {
+                    "numero": "32",
+                    "rotulo": "Art. 32.",
+                    "linha": 472,
+                    "caput": "A autoridade nacional poderá solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de dados pessoais e sugerir a adoção de padrões e de boas práticas para os tratamentos de dados pessoais pelo Poder Público."
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DO TRATAMENTO DE DADOS PESSOAIS PELO PODER PÚBLICO",
+            "linhaTitulo": 401
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO V",
+            "linha": 474,
+            "artigos": [
+                {
+                    "numero": "33",
+                    "rotulo": "Art. 33.",
+                    "linha": 477,
+                    "caput": "A transferência internacional de dados pessoais somente é permitida nos seguintes casos:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 505,
+                            "texto": "Para os fins do inciso I deste artigo, as pessoas jurídicas de direito público referidas no parágrafo único do art. 1º da Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação) , no âmbito de suas competências legais, e responsáveis, no âmbito de suas atividades, poderão requerer à autoridade nacional a avaliação do nível de proteção a dados pessoais conferido por país ou organismo internacional."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 479,
+                            "texto": "para países ou organismos internacionais que proporcionem grau de proteção de dados pessoais adequado ao previsto nesta Lei;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 481,
+                            "texto": "quando o controlador oferecer e comprovar garantias de cumprimento dos princípios, dos direitos do titular e do regime de proteção de dados previstos nesta Lei, na forma de:",
+                            "alineas": [
+                                {
+                                    "letra": "a",
+                                    "rotulo": "a)",
+                                    "linha": 483,
+                                    "texto": "cláusulas contratuais específicas para determinada transferência;"
+                                },
+                                {
+                                    "letra": "b",
+                                    "rotulo": "b)",
+                                    "linha": 485,
+                                    "texto": "cláusulas-padrão contratuais;"
+                                },
+                                {
+                                    "letra": "c",
+                                    "rotulo": "c)",
+                                    "linha": 487,
+                                    "texto": "normas corporativas globais;"
+                                },
+                                {
+                                    "letra": "d",
+                                    "rotulo": "d)",
+                                    "linha": 489,
+                                    "texto": "selos, certificados e códigos de conduta regularmente emitidos;"
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 491,
+                            "texto": "quando a transferência for necessária para a cooperação jurídica internacional entre órgãos públicos de inteligência, de investigação e de persecução, de acordo com os instrumentos de direito internacional;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 493,
+                            "texto": "quando a transferência for necessária para a proteção da vida ou da incolumidade física do titular ou de terceiro;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 495,
+                            "texto": "quando a autoridade nacional autorizar a transferência;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 497,
+                            "texto": "quando a transferência resultar em compromisso assumido em acordo de cooperação internacional;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 499,
+                            "texto": "quando a transferência for necessária para a execução de política pública ou atribuição legal do serviço público, sendo dada publicidade nos termos do inciso I do caput do art. 23 desta Lei;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 501,
+                            "texto": "quando o titular tiver fornecido o seu consentimento específico e em destaque para a transferência, com informação prévia sobre o caráter internacional da operação, distinguindo claramente esta de outras finalidades; ou"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 503,
+                            "texto": "quando necessário para atender as hipóteses previstas nos incisos II, V e VI do art. 7º desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "34",
+                    "rotulo": "Art. 34.",
+                    "linha": 507,
+                    "caput": "O nível de proteção de dados do país estrangeiro ou do organismo internacional mencionado no inciso I do caput do art. 33 desta Lei será avaliado pela autoridade nacional, que levará em consideração:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 509,
+                            "texto": "as normas gerais e setoriais da legislação em vigor no país de destino ou no organismo internacional;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 511,
+                            "texto": "a natureza dos dados;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 513,
+                            "texto": "a observância dos princípios gerais de proteção de dados pessoais e direitos dos titulares previstos nesta Lei;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 515,
+                            "texto": "a adoção de medidas de segurança previstas em regulamento;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 517,
+                            "texto": "a existência de garantias judiciais e institucionais para o respeito aos direitos de proteção de dados pessoais; e"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 519,
+                            "texto": "outras circunstâncias específicas relativas à transferência."
+                        }
+                    ]
+                },
+                {
+                    "numero": "35",
+                    "rotulo": "Art. 35.",
+                    "linha": 521,
+                    "caput": "A definição do conteúdo de cláusulas-padrão contratuais, bem como a verificação de cláusulas contratuais específicas para uma determinada transferência, normas corporativas globais ou selos, certificados e códigos de conduta, a que se refere o inciso II do caput do art. 33 desta Lei, será realizada pela autoridade nacional.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 523,
+                            "texto": "Para a verificação do disposto no caput deste artigo, deverão ser considerados os requisitos, as condições e as garantias mínimas para a transferência que observem os direitos, as garantias e os princípios desta Lei."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 525,
+                            "texto": "Na análise de cláusulas contratuais, de documentos ou de normas corporativas globais submetidas à aprovação da autoridade nacional, poderão ser requeridas informações suplementares ou realizadas diligências de verificação quanto às operações de tratamento, quando necessário."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 527,
+                            "texto": "A autoridade nacional poderá designar organismos de certificação para a realização do previsto no caput deste artigo, que permanecerão sob sua fiscalização nos termos definidos em regulamento."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 529,
+                            "texto": "Os atos realizados por organismo de certificação poderão ser revistos pela autoridade nacional e, caso em desconformidade com esta Lei, submetidos a revisão ou anulados."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 531,
+                            "texto": "As garantias suficientes de observância dos princípios gerais de proteção e dos direitos do titular referidas no caput deste artigo serão também analisadas de acordo com as medidas técnicas e organizacionais adotadas pelo operador, de acordo com o previsto nos §§ 1º e 2º do art. 46 desta Lei."
+                        }
+                    ]
+                },
+                {
+                    "numero": "36",
+                    "rotulo": "Art. 36.",
+                    "linha": 533,
+                    "caput": "As alterações nas garantias apresentadas como suficientes de observância dos princípios gerais de proteção e dos direitos do titular referidas no inciso II do art. 33 desta Lei deverão ser comunicadas à autoridade nacional."
+                }
+            ],
+            "titulo": "DA TRANSFERÊNCIA INTERNACIONAL DE DADOS",
+            "linhaTitulo": 475
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VI",
+            "linha": 535,
+            "artigos": [
+                {
+                    "numero": "37",
+                    "rotulo": "Art. 37.",
+                    "linha": 541,
+                    "caput": "O controlador e o operador devem manter registro das operações de tratamento de dados pessoais que realizarem, especialmente quando baseado no legítimo interesse.",
+                    "rubrica": "Do Controlador e do Operador",
+                    "linhaRubrica": 539
+                },
+                {
+                    "numero": "38",
+                    "rotulo": "Art. 38.",
+                    "linha": 543,
+                    "caput": "A autoridade nacional poderá determinar ao controlador que elabore relatório de impacto à proteção de dados pessoais, inclusive de dados sensíveis, referente a suas operações de tratamento de dados, nos termos de regulamento, observados os segredos comercial e industrial.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 545,
+                            "texto": "Observado o disposto no caput deste artigo, o relatório deverá conter, no mínimo, a descrição dos tipos de dados coletados, a metodologia utilizada para a coleta e para a garantia da segurança das informações e a análise do controlador com relação a medidas, salvaguardas e mecanismos de mitigação de risco adotados."
+                        }
+                    ]
+                },
+                {
+                    "numero": "39",
+                    "rotulo": "Art. 39.",
+                    "linha": 547,
+                    "caput": "O operador deverá realizar o tratamento segundo as instruções fornecidas pelo controlador, que verificará a observância das próprias instruções e das normas sobre a matéria."
+                },
+                {
+                    "numero": "40",
+                    "rotulo": "Art. 40.",
+                    "linha": 549,
+                    "caput": "A autoridade nacional poderá dispor sobre padrões de interoperabilidade para fins de portabilidade, livre acesso aos dados e segurança, assim como sobre o tempo de guarda dos registros, tendo em vista especialmente a necessidade e a transparência. Seção II"
+                },
+                {
+                    "numero": "41",
+                    "rotulo": "Art. 41.",
+                    "linha": 554,
+                    "caput": "O controlador deverá indicar encarregado pelo tratamento de dados pessoais.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 556,
+                            "texto": "A identidade e as informações de contato do encarregado deverão ser divulgadas publicamente, de forma clara e objetiva, preferencialmente no sítio eletrônico do controlador."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 558,
+                            "texto": "As atividades do encarregado consistem em:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 560,
+                                    "texto": "aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar providências;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 562,
+                                    "texto": "receber comunicações da autoridade nacional e adotar providências;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 564,
+                                    "texto": "orientar os funcionários e os contratados da entidade a respeito das práticas a serem tomadas em relação à proteção de dados pessoais; e"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 566,
+                                    "texto": "executar as demais atribuições determinadas pelo controlador ou estabelecidas em normas complementares."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 568,
+                            "texto": "A autoridade nacional poderá estabelecer normas complementares sobre a definição e as atribuições do encarregado, inclusive hipóteses de dispensa da necessidade de sua indicação, conforme a natureza e o porte da entidade ou o volume de operações de tratamento de dados."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 570,
+                            "texto": "(VETADO).  Vigência Seção III"
+                        }
+                    ],
+                    "rubrica": "Do Encarregado pelo Tratamento de Dados Pessoais",
+                    "linhaRubrica": 552
+                },
+                {
+                    "numero": "42",
+                    "rotulo": "Art. 42.",
+                    "linha": 575,
+                    "caput": "O controlador ou o operador que, em razão do exercício de atividade de tratamento de dados pessoais, causar a outrem dano patrimonial, moral, individual ou coletivo, em violação à legislação de proteção de dados pessoais, é obrigado a repará-lo.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 577,
+                            "texto": "A fim de assegurar a efetiva indenização ao titular dos dados:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 579,
+                                    "texto": "o operador responde solidariamente pelos danos causados pelo tratamento quando descumprir as obrigações da legislação de proteção de dados ou quando não tiver seguido as instruções lícitas do controlador, hipótese em que o operador equipara-se ao controlador, salvo nos casos de exclusão previstos no art. 43 desta Lei;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 581,
+                                    "texto": "os controladores que estiverem diretamente envolvidos no tratamento do qual decorreram danos ao titular dos dados respondem solidariamente, salvo nos casos de exclusão previstos no art. 43 desta Lei."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 583,
+                            "texto": "O juiz, no processo civil, poderá inverter o ônus da prova a favor do titular dos dados quando, a seu juízo, for verossímil a alegação, houver hipossuficiência para fins de produção de prova ou quando a produção de prova pelo titular resultar-lhe excessivamente onerosa."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 585,
+                            "texto": "As ações de reparação por danos coletivos que tenham por objeto a responsabilização nos termos do caput deste artigo podem ser exercidas coletivamente em juízo, observado o disposto na legislação pertinente."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 587,
+                            "texto": "Aquele que reparar o dano ao titular tem direito de regresso contra os demais responsáveis, na medida de sua participação no evento danoso."
+                        }
+                    ],
+                    "rubrica": "Da Responsabilidade e do Ressarcimento de Danos",
+                    "linhaRubrica": 573
+                },
+                {
+                    "numero": "43",
+                    "rotulo": "Art. 43.",
+                    "linha": 589,
+                    "caput": "Os agentes de tratamento só não serão responsabilizados quando provarem:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 591,
+                            "texto": "que não realizaram o tratamento de dados pessoais que lhes é atribuído;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 593,
+                            "texto": "que, embora tenham realizado o tratamento de dados pessoais que lhes é atribuído, não houve violação à legislação de proteção de dados; ou"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 595,
+                            "texto": "que o dano é decorrente de culpa exclusiva do titular dos dados ou de terceiro."
+                        }
+                    ]
+                },
+                {
+                    "numero": "44",
+                    "rotulo": "Art. 44.",
+                    "linha": 597,
+                    "caput": "O tratamento de dados pessoais será irregular quando deixar de observar a legislação ou quando não fornecer a segurança que o titular dele pode esperar, consideradas as circunstâncias relevantes, entre as quais:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 605,
+                            "texto": "Responde pelos danos decorrentes da violação da segurança dos dados o controlador ou o operador que, ao deixar de adotar as medidas de segurança previstas no art. 46 desta Lei, der causa ao dano."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 599,
+                            "texto": "o modo pelo qual é realizado;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 601,
+                            "texto": "o resultado e os riscos que razoavelmente dele se esperam;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 603,
+                            "texto": "as técnicas de tratamento de dados pessoais disponíveis à época em que foi realizado."
+                        }
+                    ]
+                },
+                {
+                    "numero": "45",
+                    "rotulo": "Art. 45.",
+                    "linha": 607,
+                    "caput": "As hipóteses de violação do direito do titular no âmbito das relações de consumo permanecem sujeitas às regras de responsabilidade previstas na legislação pertinente."
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DOS AGENTES DE TRATAMENTO DE DADOS PESSOAIS",
+            "linhaTitulo": 536
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VII",
+            "linha": 609,
+            "artigos": [
+                {
+                    "numero": "46",
+                    "rotulo": "Art. 46.",
+                    "linha": 615,
+                    "caput": "Os agentes de tratamento devem adotar medidas de segurança, técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou qualquer forma de tratamento inadequado ou ilícito.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 617,
+                            "texto": "A autoridade nacional poderá dispor sobre padrões técnicos mínimos para tornar aplicável o disposto no caput deste artigo, considerados a natureza das informações tratadas, as características específicas do tratamento e o estado atual da tecnologia, especialmente no caso de dados pessoais sensíveis, assim como os princípios previstos no caput do art. 6º desta Lei."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 619,
+                            "texto": "As medidas de que trata o caput deste artigo deverão ser observadas desde a fase de concepção do produto ou do serviço até a sua execução."
+                        }
+                    ],
+                    "rubrica": "Da Segurança e do Sigilo de Dados",
+                    "linhaRubrica": 613
+                },
+                {
+                    "numero": "47",
+                    "rotulo": "Art. 47.",
+                    "linha": 621,
+                    "caput": "Os agentes de tratamento ou qualquer outra pessoa que intervenha em uma das fases do tratamento obriga-se a garantir a segurança da informação prevista nesta Lei em relação aos dados pessoais, mesmo após o seu término."
+                },
+                {
+                    "numero": "48",
+                    "rotulo": "Art. 48.",
+                    "linha": 623,
+                    "caput": "O controlador deverá comunicar à autoridade nacional e ao titular a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 625,
+                            "texto": "A comunicação será feita em prazo razoável, conforme definido pela autoridade nacional, e deverá mencionar, no mínimo:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 627,
+                                    "texto": "a descrição da natureza dos dados pessoais afetados;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 629,
+                                    "texto": "as informações sobre os titulares envolvidos;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 631,
+                                    "texto": "a indicação das medidas técnicas e de segurança utilizadas para a proteção dos dados, observados os segredos comercial e industrial;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 633,
+                                    "texto": "os riscos relacionados ao incidente;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 635,
+                                    "texto": "os motivos da demora, no caso de a comunicação não ter sido imediata; e"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 637,
+                                    "texto": "as medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 639,
+                            "texto": "A autoridade nacional verificará a gravidade do incidente e poderá, caso necessário para a salvaguarda dos direitos dos titulares, determinar ao controlador a adoção de providências, tais como:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 641,
+                                    "texto": "ampla divulgação do fato em meios de comunicação; e"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 643,
+                                    "texto": "medidas para reverter ou mitigar os efeitos do incidente."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 645,
+                            "texto": "No juízo de gravidade do incidente, será avaliada eventual comprovação de que foram adotadas medidas técnicas adequadas que tornem os dados pessoais afetados ininteligíveis, no âmbito e nos limites técnicos de seus serviços, para terceiros não autorizados a acessá-los."
+                        }
+                    ]
+                },
+                {
+                    "numero": "49",
+                    "rotulo": "Art. 49.",
+                    "linha": 647,
+                    "caput": "Os sistemas utilizados para o tratamento de dados pessoais devem ser estruturados de forma a atender aos requisitos de segurança, aos padrões de boas práticas e de governança e aos princípios gerais previstos nesta Lei e às demais normas regulamentares. Seção II"
+                },
+                {
+                    "numero": "50",
+                    "rotulo": "Art. 50.",
+                    "linha": 652,
+                    "caput": "Os controladores e operadores, no âmbito de suas competências, pelo tratamento de dados pessoais, individualmente ou por meio de associações, poderão formular regras de boas práticas e de governança que estabeleçam as condições de organização, o regime de funcionamento, os procedimentos, incluindo reclamações e petições de titulares, as normas de segurança, os padrões técnicos, as obrigações específicas para os diversos envolvidos no tratamento, as ações educativas, os mecanismos internos de supervisão e de mitigação de riscos e outros aspectos relacionados ao tratamento de dados pessoais.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 654,
+                            "texto": "Ao estabelecer regras de boas práticas, o controlador e o operador levarão em consideração, em relação ao tratamento e aos dados, a natureza, o escopo, a finalidade e a probabilidade e a gravidade dos riscos e dos benefícios decorrentes de tratamento de dados do titular."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 656,
+                            "texto": "Na aplicação dos princípios indicados nos incisos VII e VIII do caput do art. 6º desta Lei, o controlador, observados a estrutura, a escala e o volume de suas operações, bem como a sensibilidade dos dados tratados e a probabilidade e a gravidade dos danos para os titulares dos dados, poderá:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 658,
+                                    "texto": "implementar programa de governança em privacidade que, no mínimo:",
+                                    "alineas": [
+                                        {
+                                            "letra": "a",
+                                            "rotulo": "a)",
+                                            "linha": 660,
+                                            "texto": "demonstre o comprometimento do controlador em adotar processos e políticas internas que assegurem o cumprimento, de forma abrangente, de normas e boas práticas relativas à proteção de dados pessoais;"
+                                        },
+                                        {
+                                            "letra": "b",
+                                            "rotulo": "b)",
+                                            "linha": 662,
+                                            "texto": "seja aplicável a todo o conjunto de dados pessoais que estejam sob seu controle, independentemente do modo como se realizou sua coleta;"
+                                        },
+                                        {
+                                            "letra": "c",
+                                            "rotulo": "c)",
+                                            "linha": 664,
+                                            "texto": "seja adaptado à estrutura, à escala e ao volume de suas operações, bem como à sensibilidade dos dados tratados;"
+                                        },
+                                        {
+                                            "letra": "d",
+                                            "rotulo": "d)",
+                                            "linha": 666,
+                                            "texto": "estabeleça políticas e salvaguardas adequadas com base em processo de avaliação sistemática de impactos e riscos à privacidade;"
+                                        },
+                                        {
+                                            "letra": "e",
+                                            "rotulo": "e)",
+                                            "linha": 668,
+                                            "texto": "tenha o objetivo de estabelecer relação de confiança com o titular, por meio de atuação transparente e que assegure mecanismos de participação do titular;"
+                                        },
+                                        {
+                                            "letra": "f",
+                                            "rotulo": "f)",
+                                            "linha": 670,
+                                            "texto": "esteja integrado a sua estrutura geral de governança e estabeleça e aplique mecanismos de supervisão internos e externos;"
+                                        },
+                                        {
+                                            "letra": "g",
+                                            "rotulo": "g)",
+                                            "linha": 672,
+                                            "texto": "conte com planos de resposta a incidentes e remediação; e"
+                                        },
+                                        {
+                                            "letra": "h",
+                                            "rotulo": "h)",
+                                            "linha": 674,
+                                            "texto": "seja atualizado constantemente com base em informações obtidas a partir de monitoramento contínuo e avaliações periódicas;"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 676,
+                                    "texto": "demonstrar a efetividade de seu programa de governança em privacidade quando apropriado e, em especial, a pedido da autoridade nacional ou de outra entidade responsável por promover o cumprimento de boas práticas ou códigos de conduta, os quais, de forma independente, promovam o cumprimento desta Lei."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 678,
+                            "texto": "As regras de boas práticas e de governança deverão ser publicadas e atualizadas periodicamente e poderão ser reconhecidas e divulgadas pela autoridade nacional."
+                        }
+                    ],
+                    "rubrica": "Das Boas Práticas e da Governança",
+                    "linhaRubrica": 650
+                },
+                {
+                    "numero": "51",
+                    "rotulo": "Art. 51.",
+                    "linha": 680,
+                    "caput": "A autoridade nacional estimulará a adoção de padrões técnicos que facilitem o controle pelos titulares dos seus dados pessoais."
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DA SEGURANÇA E DAS BOAS PRÁTICAS",
+            "linhaTitulo": 610
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VIII",
+            "linha": 682,
+            "artigos": [
+                {
+                    "numero": "52",
+                    "rotulo": "Art. 52.",
+                    "linha": 688,
+                    "caput": "Os agentes de tratamento de dados, em razão das infrações cometidas às normas previstas nesta Lei, ficam sujeitos às seguintes sanções administrativas aplicáveis pela autoridade nacional: (Vigência)",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 720,
+                            "texto": "As sanções serão aplicadas após procedimento administrativo que possibilite a oportunidade da ampla defesa, de forma gradativa, isolada ou cumulativa, de acordo com as peculiaridades do caso concreto e considerados os seguintes parâmetros e critérios:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 722,
+                                    "texto": "a gravidade e a natureza das infrações e dos direitos pessoais afetados;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 724,
+                                    "texto": "a boa-fé do infrator;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 726,
+                                    "texto": "a vantagem auferida ou pretendida pelo infrator;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 728,
+                                    "texto": "a condição econômica do infrator;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 730,
+                                    "texto": "a reincidência;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 732,
+                                    "texto": "o grau do dano;"
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 734,
+                                    "texto": "a cooperação do infrator;"
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 736,
+                                    "texto": "a adoção reiterada e demonstrada de mecanismos e procedimentos internos capazes de minimizar o dano, voltados ao tratamento seguro e adequado de dados, em consonância com o disposto no inciso II do § 2º do art. 48 desta Lei;"
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 738,
+                                    "texto": "a adoção de política de boas práticas e governança;"
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 740,
+                                    "texto": "a pronta adoção de medidas corretivas; e"
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 742,
+                                    "texto": "a proporcionalidade entre a gravidade da falta e a intensidade da sanção."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 744,
+                            "texto": "O disposto neste artigo não substitui a aplicação de sanções administrativas, civis ou penais definidas na Lei nº 8.078, de 11 de setembro de 1990, e em legislação específica.  Vigência"
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 746,
+                            "texto": "O disposto nos incisos I, IV, V, VI, X, XI e XII do caput deste artigo poderá ser aplicado às entidades e aos órgãos públicos, sem prejuízo do disposto na Lei nº 8.112, de 11 de dezembro de 1990, na Lei nº 8.429, de 2 de junho de 1992, e na Lei nº 12.527, de 18 de novembro de 2011. "
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 748,
+                            "texto": "No cálculo do valor da multa de que trata o inciso II do caput deste artigo, a autoridade nacional poderá considerar o faturamento total da empresa ou grupo de empresas, quando não dispuser do valor do faturamento no ramo de atividade empresarial em que ocorreu a infração, definido pela autoridade nacional, ou quando o valor for apresentado de forma incompleta ou não for demonstrado de forma inequívoca e idônea."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 750,
+                            "texto": "O produto da arrecadação das multas aplicadas pela ANPD, inscritas ou não em dívida ativa, será destinado ao Fundo de Defesa de Direitos Difusos de que tratam o art. 13 da Lei nº 7.347, de 24 de julho de 1985, e a Lei nº 9.008, de 21 de março de 1995. "
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 754,
+                            "texto": "As sanções previstas nos incisos X, XI e XII do caput deste artigo serão aplicadas: ",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 756,
+                                    "texto": "somente após já ter sido imposta ao menos 1 (uma) das sanções de que tratam os incisos II, III, IV, V e VI do caput deste artigo para o mesmo caso concreto; e "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 758,
+                                    "texto": "em caso de controladores submetidos a outros órgãos e entidades com competências sancionatórias, ouvidos esses órgãos. "
+                                }
+                            ],
+                            "rubrica": "(Promulgação partes vetadas)",
+                            "linhaRubrica": 752
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "§ 7º",
+                            "linha": 760,
+                            "texto": "Os vazamentos individuais ou os acessos não autorizados de que trata o caput do art. 46 desta Lei poderão ser objeto de conciliação direta entre controlador e titular e, caso não haja acordo, o controlador estará sujeito à aplicação das penalidades de que trata este artigo.  Vigência"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 690,
+                            "texto": "advertência, com indicação de prazo para adoção de medidas corretivas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 692,
+                            "texto": "multa simples, de até 2% (dois por cento) do faturamento da pessoa jurídica de direito privado, grupo ou conglomerado no Brasil no seu último exercício, excluídos os tributos, limitada, no total, a R$ 50.000.000,00 (cinquenta milhões de reais) por infração;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 694,
+                            "texto": "multa diária, observado o limite total a que se refere o inciso II;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 696,
+                            "texto": "publicização da infração após devidamente apurada e confirmada a sua ocorrência;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 698,
+                            "texto": "bloqueio dos dados pessoais a que se refere a infração até a sua regularização;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 700,
+                            "texto": "eliminação dos dados pessoais a que se refere a infração;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 702,
+                            "texto": "(VETADO);"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 704,
+                            "texto": "(VETADO);"
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 706,
+                            "texto": "(VETADO). (Promulgação partes vetadas) (Promulgação partes vetadas)"
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 714,
+                            "texto": "suspensão parcial do funcionamento do banco de dados a que se refere a infração pelo período máximo de 6 (seis) meses, prorrogável por igual período, até a regularização da atividade de tratamento pelo controlador; ",
+                            "rubrica": "(Promulgação partes vetadas)",
+                            "linhaRubrica": 712
+                        },
+                        {
+                            "numero": "XI",
+                            "rotulo": "XI",
+                            "linha": 716,
+                            "texto": "suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a infração pelo período máximo de 6 (seis) meses, prorrogável por igual período; "
+                        },
+                        {
+                            "numero": "XII",
+                            "rotulo": "XII",
+                            "linha": 718,
+                            "texto": "proibição parcial ou total do exercício de atividades relacionadas a tratamento de dados. "
+                        }
+                    ],
+                    "rubrica": "Das Sanções Administrativas",
+                    "linhaRubrica": 686
+                },
+                {
+                    "numero": "53",
+                    "rotulo": "Art. 53.",
+                    "linha": 762,
+                    "caput": "A autoridade nacional definirá, por meio de regulamento próprio sobre sanções administrativas a infrações a esta Lei, que deverá ser objeto de consulta pública, as metodologias que orientarão o cálculo do valor-base das sanções de multa. ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 764,
+                            "texto": "As metodologias a que se refere o caput deste artigo devem ser previamente publicadas, para ciência dos agentes de tratamento, e devem apresentar objetivamente as formas e dosimetrias para o cálculo do valor-base das sanções de multa, que deverão conter fundamentação detalhada de todos os seus elementos, demonstrando a observância dos critérios previstos nesta Lei."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 766,
+                            "texto": "O regulamento de sanções e metodologias correspondentes deve estabelecer as circunstâncias e as condições para a adoção de multa simples ou diária."
+                        }
+                    ]
+                },
+                {
+                    "numero": "54",
+                    "rotulo": "Art. 54.",
+                    "linha": 768,
+                    "caput": "O valor da sanção de multa diária aplicável às infrações a esta Lei deve observar a gravidade da falta e a extensão do dano ou prejuízo causado e ser fundamentado pela autoridade nacional.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 770,
+                            "texto": "A intimação da sanção de multa diária deverá conter, no mínimo, a descrição da obrigação imposta, o prazo razoável e estipulado pelo órgão para o seu cumprimento e o valor da multa diária a ser aplicada pelo seu descumprimento. "
+                        }
+                    ]
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DA FISCALIZAÇÃO",
+            "linhaTitulo": 683
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IX",
+            "linha": 776,
+            "artigos": [
+                {
+                    "numero": "55",
+                    "rotulo": "Art. 55.",
+                    "linha": 786,
+                    "caput": "(VETADO).  ",
+                    "rubrica": "Da Agência Nacional de Proteção de Dados",
+                    "linhaRubrica": 784
+                },
+                {
+                    "numero": "55-A",
+                    "rotulo": "Art. 55-A.",
+                    "linha": 794,
+                    "caput": "Fica criada a Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, dotada de autonomia funcional, técnica, decisória, administrativa e financeira, com patrimônio próprio e com sede e foro no Distrito Federal, nos termos da Lei nº 13.848, de 25 de junho de 2019. ",
+                    "rubrica": "",
+                    "linhaRubrica": 792
+                },
+                {
+                    "numero": "55-C",
+                    "rotulo": "Art. 55-C.",
+                    "linha": 798,
+                    "caput": "A ANPD é composta de: ",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 800,
+                            "texto": "Conselho Diretor, órgão máximo de direção; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 802,
+                            "texto": "Conselho Nacional de Proteção de Dados Pessoais e da Privacidade; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 804,
+                            "texto": "Corregedoria; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 806,
+                            "texto": "Ouvidoria; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 808,
+                            "texto": "(revogado); "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 810,
+                            "texto": "A - Procuradoria; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 812,
+                            "texto": "B - Auditoria; e "
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 814,
+                            "texto": "unidades administrativas e unidades especializadas. "
+                        }
+                    ],
+                    "rubrica": "",
+                    "linhaRubrica": 796
+                },
+                {
+                    "numero": "55-D",
+                    "rotulo": "Art. 55-D.",
+                    "linha": 816,
+                    "caput": "O Conselho Diretor da ANPD será composto de 5 (cinco) diretores, incluído o Diretor-Presidente. ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 818,
+                            "texto": "Os membros do Conselho Diretor da ANPD serão escolhidos pelo Presidente da República e por ele nomeados, após aprovação pelo Senado Federal, nos termos da alínea ‘f’ do inciso III do art. 52 da Constituição Federal, e ocuparão cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS, no mínimo, de nível 5. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 820,
+                            "texto": "Os membros do Conselho Diretor serão escolhidos dentre brasileiros que tenham reputação ilibada, nível superior de educação e elevado conceito no campo de especialidade dos cargos para os quais serão nomeados. "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 822,
+                            "texto": "O mandato dos membros do Conselho Diretor será de 4 (quatro) anos. "
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 824,
+                            "texto": "Os mandatos dos primeiros membros do Conselho Diretor nomeados serão de 2 (dois), de 3 (três), de 4 (quatro), de 5 (cinco) e de 6 (seis) anos, conforme estabelecido no ato de nomeação. "
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 826,
+                            "texto": "Na hipótese de vacância do cargo no curso do mandato de membro do Conselho Diretor, o prazo remanescente será completado pelo sucessor. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-E",
+                    "rotulo": "Art. 55-E.",
+                    "linha": 828,
+                    "caput": "Os membros do Conselho Diretor somente perderão seus cargos em virtude de renúncia, condenação judicial transitada em julgado ou pena de demissão decorrente de processo administrativo disciplinar. ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 830,
+                            "texto": "Nos termos do caput deste artigo, cabe ao Ministro de Estado Chefe da Casa Civil da Presidência da República instaurar o processo administrativo disciplinar, que será conduzido por comissão especial constituída por servidores públicos federais estáveis. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 832,
+                            "texto": "Compete ao Presidente da República determinar o afastamento preventivo, somente quando assim recomendado pela comissão especial de que trata o § 1º deste artigo, e proferir o julgamento. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-F",
+                    "rotulo": "Art. 55-F.",
+                    "linha": 834,
+                    "caput": "Aplica-se aos membros do Conselho Diretor, após o exercício do cargo, o disposto no art. 6º da Lei nº 12.813, de 16 de maio de 2013. ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 836,
+                            "texto": "A infração ao disposto no caput deste artigo caracteriza ato de improbidade administrativa. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-G",
+                    "rotulo": "Art. 55-G.",
+                    "linha": 838,
+                    "caput": "Ato do Presidente da República disporá sobre a estrutura regimental da ANPD. ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 840,
+                            "texto": "Até a data de entrada em vigor de sua estrutura regimental, a ANPD receberá o apoio técnico e administrativo da Casa Civil da Presidência da República para o exercício de suas atividades. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 842,
+                            "texto": "O Conselho Diretor disporá sobre o regimento interno da ANPD. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-H",
+                    "rotulo": "Art. 55-H.",
+                    "linha": 844,
+                    "caput": "Os cargos em comissão e as funções de confiança da ANPD serão remanejados de outros órgãos e entidades do Poder Executivo federal. "
+                },
+                {
+                    "numero": "55-I",
+                    "rotulo": "Art. 55-I.",
+                    "linha": 846,
+                    "caput": "Os ocupantes dos cargos em comissão e das funções de confiança da ANPD serão indicados pelo Conselho Diretor e nomeados ou designados pelo Diretor-Presidente. "
+                },
+                {
+                    "numero": "55-J",
+                    "rotulo": "Art. 55-J.",
+                    "linha": 848,
+                    "caput": "Compete à ANPD: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 898,
+                            "texto": "Ao impor condicionantes administrativas ao tratamento de dados pessoais por agente de tratamento privado, sejam eles limites, encargos ou sujeições, a ANPD deve observar a exigência de mínima intervenção, assegurados os fundamentos, os princípios e os direitos dos titulares previstos no art. 170 da Constituição Federal e nesta Lei. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 900,
+                            "texto": "Os regulamentos e as normas editados pela ANPD devem ser precedidos de consulta e audiência públicas, bem como de análises de impacto regulatório. "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 902,
+                            "texto": "A ANPD e os órgãos e entidades públicos responsáveis pela regulação de setores específicos da atividade econômica e governamental devem coordenar suas atividades, nas correspondentes esferas de atuação, com vistas a assegurar o cumprimento de suas atribuições com a maior eficiência e promover o adequado funcionamento dos setores regulados, conforme legislação específica, e o tratamento de dados pessoais, na forma desta Lei. "
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 904,
+                            "texto": "A ANPD manterá fórum permanente de comunicação, inclusive por meio de cooperação técnica, com órgãos e entidades da administração pública responsáveis pela regulação de setores específicos da atividade econômica e governamental, a fim de facilitar as competências regulatória, fiscalizatória e punitiva da ANPD. "
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 906,
+                            "texto": "No exercício das competências de que trata o caput deste artigo, a autoridade competente deverá zelar pela preservação do segredo empresarial e do sigilo das informações, nos termos da lei. "
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 908,
+                            "texto": "As reclamações colhidas conforme o disposto no inciso V do caput deste artigo poderão ser analisadas de forma agregada, e as eventuais providências delas decorrentes poderão ser adotadas de forma padronizada. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 850,
+                            "texto": "zelar pela proteção dos dados pessoais, nos termos da legislação; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 852,
+                            "texto": "zelar pela observância dos segredos comercial e industrial, observada a proteção de dados pessoais e do sigilo das informações quando protegido por lei ou quando a quebra do sigilo violar os fundamentos do art. 2º desta Lei; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 854,
+                            "texto": "elaborar diretrizes para a Política Nacional de Proteção de Dados Pessoais e da Privacidade; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 856,
+                            "texto": "fiscalizar e aplicar sanções em caso de tratamento de dados realizado em descumprimento à legislação, mediante processo administrativo que assegure o contraditório, a ampla defesa e o direito de recurso; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 858,
+                            "texto": "apreciar petições de titular contra controlador após comprovada pelo titular a apresentação de reclamação ao controlador não solucionada no prazo estabelecido em regulamentação; "
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 860,
+                            "texto": "promover na população o conhecimento das normas e das políticas públicas sobre proteção de dados pessoais e das medidas de segurança; "
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 862,
+                            "texto": "promover e elaborar estudos sobre as práticas nacionais e internacionais de proteção de dados pessoais e privacidade; "
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 864,
+                            "texto": "estimular a adoção de padrões para serviços e produtos que facilitem o exercício de controle dos titulares sobre seus dados pessoais, os quais deverão levar em consideração as especificidades das atividades e o porte dos responsáveis; "
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 866,
+                            "texto": "promover ações de cooperação com autoridades de proteção de dados pessoais de outros países, de natureza internacional ou transnacional; "
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 868,
+                            "texto": "dispor sobre as formas de publicidade das operações de tratamento de dados pessoais, respeitados os segredos comercial e industrial; "
+                        },
+                        {
+                            "numero": "XI",
+                            "rotulo": "XI",
+                            "linha": 870,
+                            "texto": "solicitar, a qualquer momento, às entidades do poder público que realizem operações de tratamento de dados pessoais informe específico sobre o âmbito, a natureza dos dados e os demais detalhes do tratamento realizado, com a possibilidade de emitir parecer técnico complementar para garantir o cumprimento desta Lei; "
+                        },
+                        {
+                            "numero": "XII",
+                            "rotulo": "XII",
+                            "linha": 872,
+                            "texto": "elaborar relatórios de gestão anuais acerca de suas atividades; "
+                        },
+                        {
+                            "numero": "XIII",
+                            "rotulo": "XIII",
+                            "linha": 874,
+                            "texto": "editar regulamentos e procedimentos sobre proteção de dados pessoais e privacidade, bem como sobre relatórios de impacto à proteção de dados pessoais para os casos em que o tratamento representar alto risco à garantia dos princípios gerais de proteção de dados pessoais previstos nesta Lei; "
+                        },
+                        {
+                            "numero": "XIV",
+                            "rotulo": "XIV",
+                            "linha": 876,
+                            "texto": "ouvir os agentes de tratamento e a sociedade em matérias de interesse relevante e prestar contas sobre suas atividades e planejamento; "
+                        },
+                        {
+                            "numero": "XV",
+                            "rotulo": "XV",
+                            "linha": 878,
+                            "texto": "arrecadar e aplicar suas receitas e publicar, no relatório de gestão a que se refere o inciso XII do caput deste artigo, o detalhamento de suas receitas e despesas; "
+                        },
+                        {
+                            "numero": "XVI",
+                            "rotulo": "XVI",
+                            "linha": 880,
+                            "texto": "realizar auditorias, ou determinar sua realização, no âmbito da atividade de fiscalização de que trata o inciso IV e com a devida observância do disposto no inciso II do caput deste artigo, sobre o tratamento de dados pessoais efetuado pelos agentes de tratamento, incluído o poder público; "
+                        },
+                        {
+                            "numero": "XVII",
+                            "rotulo": "XVII",
+                            "linha": 882,
+                            "texto": "celebrar, a qualquer momento, compromisso com agentes de tratamento para eliminar irregularidade, incerteza jurídica ou situação contenciosa no âmbito de processos administrativos, de acordo com o previsto no Decreto-Lei nº 4.657, de 4 de setembro de 1942; "
+                        },
+                        {
+                            "numero": "XVIII",
+                            "rotulo": "XVIII",
+                            "linha": 884,
+                            "texto": "editar normas, orientações e procedimentos simplificados e diferenciados, inclusive quanto aos prazos, para que microempresas e empresas de pequeno porte, bem como iniciativas empresariais de caráter incremental ou disruptivo que se autodeclarem startups ou empresas de inovação, possam adequar-se a esta Lei; "
+                        },
+                        {
+                            "numero": "XIX",
+                            "rotulo": "XIX",
+                            "linha": 886,
+                            "texto": "garantir que o tratamento de dados de idosos seja efetuado de maneira simples, clara, acessível e adequada ao seu entendimento, nos termos desta Lei e da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso); "
+                        },
+                        {
+                            "numero": "XX",
+                            "rotulo": "XX",
+                            "linha": 888,
+                            "texto": "deliberar, na esfera administrativa, em caráter terminativo, sobre a interpretação desta Lei, as suas competências e os casos omissos; "
+                        },
+                        {
+                            "numero": "XXI",
+                            "rotulo": "XXI",
+                            "linha": 890,
+                            "texto": "comunicar às autoridades competentes as infrações penais das quais tiver conhecimento; "
+                        },
+                        {
+                            "numero": "XXII",
+                            "rotulo": "XXII",
+                            "linha": 892,
+                            "texto": "comunicar aos órgãos de controle interno o descumprimento do disposto nesta Lei por órgãos e entidades da administração pública federal; "
+                        },
+                        {
+                            "numero": "XXIII",
+                            "rotulo": "XXIII",
+                            "linha": 894,
+                            "texto": "articular-se com as autoridades reguladoras públicas para exercer suas competências em setores específicos de atividades econômicas e governamentais sujeitas à regulação; e "
+                        },
+                        {
+                            "numero": "XXIV",
+                            "rotulo": "XXIV",
+                            "linha": 896,
+                            "texto": "implementar mecanismos simplificados, inclusive por meio eletrônico, para o registro de reclamações sobre o tratamento de dados pessoais em desconformidade com esta Lei. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-K",
+                    "rotulo": "Art. 55-K.",
+                    "linha": 910,
+                    "caput": "A aplicação das sanções previstas nesta Lei compete exclusivamente à ANPD, e suas competências prevalecerão, no que se refere à proteção de dados pessoais, sobre as competências correlatas de outras entidades ou órgãos da administração pública. ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 912,
+                            "texto": "A ANPD articulará sua atuação com outros órgãos e entidades com competências sancionatórias e normativas afetas ao tema de proteção de dados pessoais e será o órgão central de interpretação desta Lei e do estabelecimento de normas e diretrizes para a sua implementação. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-L",
+                    "rotulo": "Art. 55-L.",
+                    "linha": 914,
+                    "caput": "Constituem receitas da ANPD: ",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 916,
+                            "texto": "as dotações, consignadas no orçamento geral da União, os créditos especiais, os créditos adicionais, as transferências e os repasses que lhe forem conferidos; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 918,
+                            "texto": "as doações, os legados, as subvenções e outros recursos que lhe forem destinados; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 920,
+                            "texto": "os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 922,
+                            "texto": "os valores apurados em aplicações no mercado financeiro das receitas previstas neste artigo; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 924,
+                            "texto": "(VETADO); "
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 926,
+                            "texto": "os recursos provenientes de acordos, convênios ou contratos celebrados com entidades, organismos ou empresas, públicos ou privados, nacionais ou internacionais; "
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 928,
+                            "texto": "o produto da venda de publicações, material técnico, dados e informações, inclusive para fins de licitação pública. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "55-M",
+                    "rotulo": "Art. 55-M.",
+                    "linha": 930,
+                    "caput": "Constituem o patrimônio da ANPD os bens e os direitos: ",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 932,
+                            "texto": "que lhe forem transferidos pelos órgãos da Presidência da República; e "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 934,
+                            "texto": "que venha a adquirir ou a incorporar. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "56",
+                    "rotulo": "Art. 56.",
+                    "linha": 936,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "5",
+                    "rotulo": "Art. 5.",
+                    "linha": 938,
+                    "caput": "7. (VETADO). Seção II"
+                },
+                {
+                    "numero": "58",
+                    "rotulo": "Art. 58.",
+                    "linha": 943,
+                    "caput": "(VETADO).",
+                    "rubrica": "Do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade",
+                    "linhaRubrica": 941
+                },
+                {
+                    "numero": "58-A",
+                    "rotulo": "Art. 58-A.",
+                    "linha": 945,
+                    "caput": "O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade será composto de 23 (vinte e três) representantes, titulares e suplentes, dos seguintes órgãos: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 969,
+                            "texto": "Os representantes serão designados por ato do Presidente da República, permitida a delegação. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 971,
+                            "texto": "Os representantes de que tratam os incisos I, II, III, IV, V e VI do caput deste artigo e seus suplentes serão indicados pelos titulares dos respectivos órgãos e entidades da administração pública. "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 973,
+                            "texto": "Os representantes de que tratam os incisos VII, VIII, IX, X e XI do caput deste artigo e seus suplentes: ",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 975,
+                                    "texto": "serão indicados na forma de regulamento; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 977,
+                                    "texto": "não poderão ser membros do Comitê Gestor da Internet no Brasil; "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 979,
+                                    "texto": "terão mandato de 2 (dois) anos, permitida 1 (uma) recondução. "
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 981,
+                            "texto": "A participação no Conselho Nacional de Proteção de Dados Pessoais e da Privacidade será considerada prestação de serviço público relevante, não remunerada. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 947,
+                            "texto": "5 (cinco) do Poder Executivo federal; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 949,
+                            "texto": "1 (um) do Senado Federal; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 951,
+                            "texto": "1 (um) da Câmara dos Deputados; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 953,
+                            "texto": "1 (um) do Conselho Nacional de Justiça; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 955,
+                            "texto": "1 (um) do Conselho Nacional do Ministério Público; "
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 957,
+                            "texto": "1 (um) do Comitê Gestor da Internet no Brasil; "
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 959,
+                            "texto": "3 (três) de entidades da sociedade civil com atuação relacionada a proteção de dados pessoais; "
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 961,
+                            "texto": "3 (três) de instituições científicas, tecnológicas e de inovação; "
+                        },
+                        {
+                            "numero": "IX",
+                            "rotulo": "IX",
+                            "linha": 963,
+                            "texto": "3 (três) de confederações sindicais representativas das categorias econômicas do setor produtivo; "
+                        },
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 965,
+                            "texto": "2 (dois) de entidades representativas do setor empresarial relacionado à área de tratamento de dados pessoais; e "
+                        },
+                        {
+                            "numero": "XI",
+                            "rotulo": "XI",
+                            "linha": 967,
+                            "texto": "2 (dois) de entidades representativas do setor laboral. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "58-B",
+                    "rotulo": "Art. 58-B.",
+                    "linha": 983,
+                    "caput": "Compete ao Conselho Nacional de Proteção de Dados Pessoais e da Privacidade: ",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 985,
+                            "texto": "propor diretrizes estratégicas e fornecer subsídios para a elaboração da Política Nacional de Proteção de Dados Pessoais e da Privacidade e para a atuação da ANPD; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 987,
+                            "texto": "elaborar relatórios anuais de avaliação da execução das ações da Política Nacional de Proteção de Dados Pessoais e da Privacidade; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 989,
+                            "texto": "sugerir ações a serem realizadas pela ANPD; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 991,
+                            "texto": "elaborar estudos e realizar debates e audiências públicas sobre a proteção de dados pessoais e da privacidade; e "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 993,
+                            "texto": "disseminar o conhecimento sobre a proteção de dados pessoais e da privacidade à população. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "59",
+                    "rotulo": "Art. 59.",
+                    "linha": 995,
+                    "caput": "(VETADO)."
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE’"
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "",
+            "linhaTitulo": 778
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO X",
+            "linha": 997,
+            "artigos": [
+                {
+                    "numero": "60",
+                    "rotulo": "Art. 60.",
+                    "linha": 1000,
+                    "caput": "A Lei nº 12.965, de 23 de abril de 2014 (Marco Civil da Internet) , passa a vigorar com as seguintes alterações: Vigência",
+                    "incisos": [
+                        {
+                            "numero": "X",
+                            "rotulo": "X",
+                            "linha": 1006,
+                            "texto": "exclusão definitiva dos dados pessoais que tiver fornecido a determinada aplicação de internet, a seu requerimento, ao término da relação entre as partes, ressalvadas as hipóteses de guarda obrigatória de registros previstas nesta Lei e na que dispõe sobre a proteção de dados pessoais; ” (NR)",
+                            "rubrica": "“Art. 7º",
+                            "linhaRubrica": 1002
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 1014,
+                            "texto": "de dados pessoais que sejam excessivos em relação à finalidade para a qual foi dado consentimento pelo seu titular, exceto nas hipóteses previstas na Lei que dispõe sobre a proteção de dados pessoais.” (NR)",
+                            "rubrica": "“Art. 16.",
+                            "linhaRubrica": 1010
+                        }
+                    ]
+                },
+                {
+                    "numero": "61",
+                    "rotulo": "Art. 61.",
+                    "linha": 1016,
+                    "caput": "A empresa estrangeira será notificada e intimada de todos os atos processuais previstos nesta Lei, independentemente de procuração ou de disposição contratual ou estatutária, na pessoa do agente ou representante ou pessoa responsável por sua filial, agência, sucursal, estabelecimento ou escritório instalado no Brasil."
+                },
+                {
+                    "numero": "62",
+                    "rotulo": "Art. 62.",
+                    "linha": 1018,
+                    "caput": "A autoridade nacional e o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), no âmbito de suas competências, editarão regulamentos específicos para o acesso a dados tratados pela União para o cumprimento do disposto no § 2º do art. 9º da Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional) , e aos referentes ao Sistema Nacional de Avaliação da Educação Superior (Sinaes), de que trata a Lei nº 10.861, de 14 de abril de 2004 ."
+                },
+                {
+                    "numero": "63",
+                    "rotulo": "Art. 63.",
+                    "linha": 1020,
+                    "caput": "A autoridade nacional estabelecerá normas sobre a adequação progressiva de bancos de dados constituídos até a data de entrada em vigor desta Lei, consideradas a complexidade das operações de tratamento e a natureza dos dados."
+                },
+                {
+                    "numero": "64",
+                    "rotulo": "Art. 64.",
+                    "linha": 1022,
+                    "caput": "Os direitos e princípios expressos nesta Lei não excluem outros previstos no ordenamento jurídico pátrio relacionados à matéria ou nos tratados internacionais em que a República Federativa do Brasil seja parte."
+                },
+                {
+                    "numero": "65",
+                    "rotulo": "Art. 65.",
+                    "linha": 1024,
+                    "caput": "Esta Lei entra em vigor: ",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 1026,
+                            "texto": "dia 28 de dezembro de 2018, quanto aos arts. 55-A, 55-B, 55-C, 55-D, 55-E, 55-F, 55-G, 55-H, 55-I, 55-J, 55-K, 55-L, 58-A e 58-B; e "
+                        },
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 1028,
+                            "texto": "A – dia 1º de agosto de 2021, quanto aos arts. 52, 53 e 54; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 1032,
+                            "texto": "24 (vinte e quatro) meses após a data de sua publicação, quanto aos demais artigos. ",
+                            "rubrica": "(Convertida na Lei nº 14.058, de 2020)",
+                            "linhaRubrica": 1030
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+            "linhaTitulo": 998
+        },
+        {
+            "tipo": "fecho",
+            "linha": 1034,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília , 14 de agosto de 2018; 197º da Independência e 130º da República.",
+                    "linha": 1034
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "MICHEL TEMER",
+                    "linha": 1036
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Torquato Jardim",
+                    "linha": 1038
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Aloysio Nunes Ferreira Filho",
+                    "linha": 1040
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Eduardo Refinetti Guardia",
+                    "linha": 1042
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Esteves Pedro Colnago Junior",
+                    "linha": 1044
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Gilberto Magalhães Occhi",
+                    "linha": 1046
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Gilberto Kassab",
+                    "linha": 1048
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Wagner de Campos Rosário",
+                    "linha": 1050
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Gustavo do Vale Rocha",
+                    "linha": 1052
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Ilan Goldfajn",
+                    "linha": 1054
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Raul Jungmann",
+                    "linha": 1056
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Eliseu Padilha",
+                    "linha": 1058
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 15.8.2018, e republicado parcialmente em 15.8.2018 - Edição extra",
+                    "linha": 1060
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "*",
+                    "linha": 1062
+                }
+            ]
+        }
+    ]
+}

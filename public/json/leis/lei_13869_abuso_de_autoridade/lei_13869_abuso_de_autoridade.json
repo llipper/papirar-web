@@ -1,0 +1,1020 @@
+{
+    "id": "Lei_13869_Abuso_de_Autoridade",
+    "titulo": "Lei 13869 Abuso de Autoridade",
+    "apelido": "Lei 13869 Abuso de Autoridade.",
+    "sigla": "",
+    "fonte": "Lei_13869_Abuso_de_Autoridade.txt",
+    "fonteHtmlLocal": "leis/Lei_13869_Abuso_de_Autoridade/l13869.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019",
+            "linha": 1
+        },
+        {
+            "texto": "Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+            "linha": 3
+        },
+        {
+            "texto": "O PRESIDENTE DA REPÚBLICA",
+            "linha": 5
+        },
+        {
+            "texto": "Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+            "linha": 7
+        },
+        {
+            "texto": "CAPÍTULO I",
+            "linha": 9
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 13,
+            "artigos": [
+                {
+                    "numero": "1º",
+                    "rotulo": "Art. 1º",
+                    "linha": 13,
+                    "caput": "Esta Lei define os crimes de abuso de autoridade, cometidos por agente público, servidor ou não, que, no exercício de suas funções ou a pretexto de exercê-las, abuse do poder que lhe tenha sido atribuído.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 15,
+                            "texto": "As condutas descritas nesta Lei constituem crime de abuso de autoridade quando praticadas pelo agente com a finalidade específica de prejudicar outrem ou beneficiar a si mesmo ou a terceiro, ou, ainda, por mero capricho ou satisfação pessoal."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 17,
+                            "texto": "A divergência na interpretação de lei ou na avaliação de fatos e provas não configura abuso de autoridade."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO II",
+            "linha": 19,
+            "artigos": [
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 23,
+                    "caput": "É sujeito ativo do crime de abuso de autoridade qualquer agente público, servidor ou não, da administração direta, indireta ou fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal, dos Municípios e de Território, compreendendo, mas não se limitando a:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 37,
+                            "texto": "Reputa-se agente público, para os efeitos desta Lei, todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, emprego ou função em órgão ou entidade abrangidos pelo caput deste artigo."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 25,
+                            "texto": "servidores públicos e militares ou pessoas a eles equiparadas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 27,
+                            "texto": "membros do Poder Legislativo;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 29,
+                            "texto": "membros do Poder Executivo;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 31,
+                            "texto": "membros do Poder Judiciário;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 33,
+                            "texto": "membros do Ministério Público;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 35,
+                            "texto": "membros dos tribunais ou conselhos de contas."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DOS SUJEITOS DO CRIME",
+            "linhaTitulo": 21
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO III",
+            "linha": 39,
+            "artigos": [
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 44,
+                    "caput": "Os crimes previstos nesta Lei são de ação penal pública incondicionada. (Promulgação partes vetadas)",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 46,
+                            "texto": "Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 48,
+                            "texto": "A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DA AÇÃO PENAL",
+            "linhaTitulo": 41
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IV",
+            "linha": 50,
+            "artigos": [
+                {
+                    "numero": "4º",
+                    "rotulo": "Art. 4º",
+                    "linha": 58,
+                    "caput": "São efeitos da condenação:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 66,
+                            "texto": "Os efeitos previstos nos incisos II e III do caput deste artigo são condicionados à ocorrência de reincidência em crime de abuso de autoridade e não são automáticos, devendo ser declarados motivadamente na sentença. Seção II"
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 60,
+                            "texto": "tornar certa a obrigação de indenizar o dano causado pelo crime, devendo o juiz, a requerimento do ofendido, fixar na sentença o valor mínimo para reparação dos danos causados pela infração, considerando os prejuízos por ele sofridos;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 62,
+                            "texto": "a inabilitação para o exercício de cargo, mandato ou função pública, pelo período de 1 (um) a 5 (cinco) anos;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 64,
+                            "texto": "a perda do cargo, do mandato ou da função pública."
+                        }
+                    ],
+                    "rubrica": "Dos Efeitos da Condenação",
+                    "linhaRubrica": 56
+                },
+                {
+                    "numero": "5º",
+                    "rotulo": "Art. 5º",
+                    "linha": 72,
+                    "caput": "As penas restritivas de direitos substitutivas das privativas de liberdade previstas nesta Lei são:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 80,
+                            "texto": "As penas restritivas de direitos podem ser aplicadas autônoma ou cumulativamente."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 74,
+                            "texto": "prestação de serviços à comunidade ou a entidades públicas;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 76,
+                            "texto": "suspensão do exercício do cargo, da função ou do mandato, pelo prazo de 1 (um) a 6 (seis) meses, com a perda dos vencimentos e das vantagens;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 78,
+                            "texto": "(VETADO)."
+                        }
+                    ],
+                    "rubrica": "Das Penas Restritivas de Direitos",
+                    "linhaRubrica": 70
+                }
+            ],
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Seção I"
+                }
+            ],
+            "titulo": "DOS EFEITOS DA CONDENAÇÃO E DAS PENAS RESTRITIVAS DE DIREITOS",
+            "linhaTitulo": 52
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO V",
+            "linha": 82,
+            "artigos": [
+                {
+                    "numero": "6º",
+                    "rotulo": "Art. 6º",
+                    "linha": 88,
+                    "caput": "As penas previstas nesta Lei serão aplicadas independentemente das sanções de natureza civil ou administrativa cabíveis.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 90,
+                            "texto": "As notícias de crimes previstos nesta Lei que descreverem falta funcional serão informadas à autoridade competente com vistas à apuração."
+                        }
+                    ]
+                },
+                {
+                    "numero": "7º",
+                    "rotulo": "Art. 7º",
+                    "linha": 92,
+                    "caput": "As responsabilidades civil e administrativa são independentes da criminal, não se podendo mais questionar sobre a existência ou a autoria do fato quando essas questões tenham sido decididas no juízo criminal."
+                },
+                {
+                    "numero": "8º",
+                    "rotulo": "Art. 8º",
+                    "linha": 94,
+                    "caput": "Faz coisa julgada em âmbito cível, assim como no administrativo-disciplinar, a sentença penal que reconhecer ter sido o ato praticado em estado de necessidade, em legítima defesa, em estrito cumprimento de dever legal ou no exercício regular de direito."
+                }
+            ],
+            "titulo": "DAS SANÇÕES DE NATUREZA CIVIL E ADMINISTRATIVA",
+            "linhaTitulo": 84
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VI",
+            "linha": 96,
+            "artigos": [
+                {
+                    "numero": "9º",
+                    "rotulo": "Art. 9º",
+                    "linha": 101,
+                    "caput": "Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais: (Promulgação partes vetadas)",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 105,
+                            "texto": "Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 107,
+                                    "texto": "relaxar a prisão manifestamente ilegal;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 109,
+                                    "texto": "substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 111,
+                                    "texto": "deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’"
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 103
+                        }
+                    ]
+                },
+                {
+                    "numero": "10",
+                    "rotulo": "Art. 10.",
+                    "linha": 113,
+                    "caput": "Decretar a condução coercitiva de testemunha ou investigado manifestamente descabida ou sem prévia intimação de comparecimento ao juízo:"
+                },
+                {
+                    "numero": "11",
+                    "rotulo": "Art. 11.",
+                    "linha": 117,
+                    "caput": "(VETADO).",
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                    "linhaRubrica": 115
+                },
+                {
+                    "numero": "12",
+                    "rotulo": "Art. 12.",
+                    "linha": 119,
+                    "caput": "Deixar injustificadamente de comunicar prisão em flagrante à autoridade judiciária no prazo legal:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 123,
+                            "texto": "Incorre na mesma pena quem:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 125,
+                                    "texto": "deixa de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 127,
+                                    "texto": "deixa de comunicar, imediatamente, a prisão de qualquer pessoa e o local onde se encontra à sua família ou à pessoa por ela indicada;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 129,
+                                    "texto": "deixa de entregar ao preso, no prazo de 24 (vinte e quatro) horas, a nota de culpa, assinada pela autoridade, com o motivo da prisão e os nomes do condutor e das testemunhas;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 131,
+                                    "texto": "prolonga a execução de pena privativa de liberdade, de prisão temporária, de prisão preventiva, de medida de segurança ou de internação, deixando, sem motivo justo e excepcionalíssimo, de executar o alvará de soltura imediatamente após recebido ou de promover a soltura do preso quando esgotado o prazo judicial ou legal."
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 121
+                        }
+                    ]
+                },
+                {
+                    "numero": "13",
+                    "rotulo": "Art. 13.",
+                    "linha": 133,
+                    "caput": "Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 135,
+                            "texto": "exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 137,
+                            "texto": "submeter-se a situação vexatória ou a constrangimento não autorizado em lei;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 140,
+                            "texto": "produzir prova contra si mesmo ou contra terceiro: (Promulgação partes vetadas)"
+                        }
+                    ]
+                },
+                {
+                    "numero": "14",
+                    "rotulo": "Art. 14.",
+                    "linha": 144,
+                    "caput": "(VETADO).",
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência.",
+                    "linhaRubrica": 142
+                },
+                {
+                    "numero": "15",
+                    "rotulo": "Art. 15.",
+                    "linha": 146,
+                    "caput": "Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 151,
+                            "texto": "Incorre na mesma pena quem prossegue com o interrogatório: (Promulgação partes vetadas)",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 153,
+                                    "texto": "de pessoa que tenha decidido exercer o direito ao silêncio; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 155,
+                                    "texto": "de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono."
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 148
+                        }
+                    ]
+                },
+                {
+                    "numero": "15-A",
+                    "rotulo": "Art. 15-A.",
+                    "linha": 159,
+                    "caput": "Submeter a vítima de infração penal ou a testemunha de crimes violentos a procedimentos desnecessários, repetitivos ou invasivos, que a leve a reviver, sem estrita necessidade: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 167,
+                            "texto": "Se o agente público permitir que terceiro intimide a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena aumentada de 2/3 (dois terços). ",
+                            "rubrica": "Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa. ",
+                            "linhaRubrica": 165
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 169,
+                            "texto": "Se o agente público intimidar a vítima de crimes violentos, gerando indevida revitimização, aplica-se a pena em dobro. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 161,
+                            "texto": "a situação de violência; ou "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 163,
+                            "texto": "outras situações potencialmente geradoras de sofrimento ou estigmatização: "
+                        }
+                    ],
+                    "rubrica": "Violência Institucional ",
+                    "linhaRubrica": 157
+                },
+                {
+                    "numero": "16",
+                    "rotulo": "Art. 16.",
+                    "linha": 172,
+                    "caput": "Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão: (Promulgação partes vetadas)",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 176,
+                            "texto": "Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 174
+                        }
+                    ]
+                },
+                {
+                    "numero": "17",
+                    "rotulo": "Art. 17.",
+                    "linha": 178,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "18",
+                    "rotulo": "Art. 18.",
+                    "linha": 180,
+                    "caput": "Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações:"
+                },
+                {
+                    "numero": "19",
+                    "rotulo": "Art. 19.",
+                    "linha": 184,
+                    "caput": "Impedir ou retardar, injustificadamente, o envio de pleito de preso à autoridade judiciária competente para a apreciação da legalidade de sua prisão ou das circunstâncias de sua custódia:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 188,
+                            "texto": "Incorre na mesma pena o magistrado que, ciente do impedimento ou da demora, deixa de tomar as providências tendentes a saná-lo ou, não sendo competente para decidir sobre a prisão, deixa de enviar o pedido à autoridade judiciária que o seja.",
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 186
+                        }
+                    ],
+                    "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                    "linhaRubrica": 182
+                },
+                {
+                    "numero": "20",
+                    "rotulo": "Art. 20.",
+                    "linha": 191,
+                    "caput": "Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado: (Promulgação partes vetadas)",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 195,
+                            "texto": "Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 193
+                        }
+                    ]
+                },
+                {
+                    "numero": "21",
+                    "rotulo": "Art. 21.",
+                    "linha": 197,
+                    "caput": "Manter presos de ambos os sexos na mesma cela ou espaço de confinamento:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 201,
+                            "texto": "Incorre na mesma pena quem mantém, na mesma cela, criança ou adolescente na companhia de maior de idade ou em ambiente inadequado, observado o disposto na Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente).",
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 199
+                        }
+                    ]
+                },
+                {
+                    "numero": "22",
+                    "rotulo": "Art. 22.",
+                    "linha": 203,
+                    "caput": "Invadir ou adentrar, clandestina ou astuciosamente, ou à revelia da vontade do ocupante, imóvel alheio ou suas dependências, ou nele permanecer nas mesmas condições, sem determinação judicial ou fora das condições estabelecidas em lei:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 207,
+                            "texto": "Incorre na mesma pena, na forma prevista no caput deste artigo, quem:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 209,
+                                    "texto": "coage alguém, mediante violência ou grave ameaça, a franquear-lhe o acesso a imóvel ou suas dependências;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 211,
+                                    "texto": "(VETADO);"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 213,
+                                    "texto": "cumpre mandado de busca e apreensão domiciliar após as 21h (vinte e uma horas) ou antes das 5h (cinco horas)."
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 205
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 215,
+                            "texto": "Não haverá crime se o ingresso for para prestar socorro, ou quando houver fundados indícios que indiquem a necessidade do ingresso em razão de situação de flagrante delito ou de desastre."
+                        }
+                    ]
+                },
+                {
+                    "numero": "23",
+                    "rotulo": "Art. 23.",
+                    "linha": 217,
+                    "caput": "Inovar artificiosamente, no curso de diligência, de investigação ou de processo, o estado de lugar, de coisa ou de pessoa, com o fim de eximir-se de responsabilidade ou de responsabilizar criminalmente alguém ou agravar-lhe a responsabilidade:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 221,
+                            "texto": "Incorre na mesma pena quem pratica a conduta com o intuito de:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 223,
+                                    "texto": "eximir-se de responsabilidade civil ou administrativa por excesso praticado no curso de diligência;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 225,
+                                    "texto": "omitir dados ou informações ou divulgar dados ou informações incompletos para desviar o curso da investigação, da diligência ou do processo."
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 219
+                        }
+                    ]
+                },
+                {
+                    "numero": "24",
+                    "rotulo": "Art. 24.",
+                    "linha": 227,
+                    "caput": "Constranger, sob violência ou grave ameaça, funcionário ou empregado de instituição hospitalar pública ou privada a admitir para tratamento pessoa cujo óbito já tenha ocorrido, com o fim de alterar local ou momento de crime, prejudicando sua apuração:"
+                },
+                {
+                    "numero": "25",
+                    "rotulo": "Art. 25.",
+                    "linha": 231,
+                    "caput": "Proceder à obtenção de prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 235,
+                            "texto": "Incorre na mesma pena quem faz uso de prova, em desfavor do investigado ou fiscalizado, com prévio conhecimento de sua ilicitude.",
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 233
+                        }
+                    ],
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, além da pena correspondente à violência.",
+                    "linhaRubrica": 229
+                },
+                {
+                    "numero": "26",
+                    "rotulo": "Art. 26.",
+                    "linha": 237,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "27",
+                    "rotulo": "Art. 27.",
+                    "linha": 239,
+                    "caput": "Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa:  ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 243,
+                            "texto": "Não há crime quando se tratar de sindicância ou investigação preliminar sumária, devidamente justificada.",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 241
+                        }
+                    ]
+                },
+                {
+                    "numero": "28",
+                    "rotulo": "Art. 28.",
+                    "linha": 245,
+                    "caput": "Divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado:"
+                },
+                {
+                    "numero": "29",
+                    "rotulo": "Art. 29.",
+                    "linha": 249,
+                    "caput": "Prestar informação falsa sobre procedimento judicial, policial, fiscal ou administrativo com o fim de prejudicar interesse de investigado:  ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 253,
+                            "texto": "(VETADO).",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 251
+                        }
+                    ],
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                    "linhaRubrica": 247
+                },
+                {
+                    "numero": "30",
+                    "rotulo": "Art. 30.",
+                    "linha": 256,
+                    "caput": "Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente: (Promulgação partes vetadas)"
+                },
+                {
+                    "numero": "31",
+                    "rotulo": "Art. 31.",
+                    "linha": 260,
+                    "caput": "Estender injustificadamente a investigação, procrastinando-a em prejuízo do investigado ou fiscalizado:  ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 264,
+                            "texto": "Incorre na mesma pena quem, inexistindo prazo para execução ou conclusão de procedimento, o estende de forma imotivada, procrastinando-o em prejuízo do investigado ou do fiscalizado.",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 262
+                        }
+                    ],
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                    "linhaRubrica": 258
+                },
+                {
+                    "numero": "32",
+                    "rotulo": "Art. 32.",
+                    "linha": 267,
+                    "caput": "Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível: (Promulgação partes vetadas)"
+                },
+                {
+                    "numero": "33",
+                    "rotulo": "Art. 33.",
+                    "linha": 271,
+                    "caput": "Exigir informação ou cumprimento de obrigação, inclusive o dever de fazer ou de não fazer, sem expresso amparo legal:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 275,
+                            "texto": "Incorre na mesma pena quem se utiliza de cargo ou função pública ou invoca a condição de agente público para se eximir de obrigação legal ou para obter vantagem ou privilégio indevido.",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 273
+                        }
+                    ],
+                    "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                    "linhaRubrica": 269
+                },
+                {
+                    "numero": "34",
+                    "rotulo": "Art. 34.",
+                    "linha": 277,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "35",
+                    "rotulo": "Art. 35.",
+                    "linha": 279,
+                    "caput": "(VETADO)."
+                },
+                {
+                    "numero": "36",
+                    "rotulo": "Art. 36.",
+                    "linha": 281,
+                    "caput": "Decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la:"
+                },
+                {
+                    "numero": "37",
+                    "rotulo": "Art. 37.",
+                    "linha": 285,
+                    "caput": "Demorar demasiada e injustificadamente no exame de processo de que tenha requerido vista em órgão colegiado, com o intuito de procrastinar seu andamento ou retardar o julgamento:",
+                    "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                    "linhaRubrica": 283
+                },
+                {
+                    "numero": "38",
+                    "rotulo": "Art. 38.",
+                    "linha": 290,
+                    "caput": "Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação: (Promulgação partes vetadas) Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                    "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                    "linhaRubrica": 287
+                }
+            ],
+            "titulo": "DOS CRIMES E DAS PENAS",
+            "linhaTitulo": 98
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VII",
+            "linha": 294,
+            "artigos": [
+                {
+                    "numero": "39",
+                    "rotulo": "Art. 39.",
+                    "linha": 298,
+                    "caput": "Aplicam-se ao processo e ao julgamento dos delitos previstos nesta Lei, no que couber, as disposições do Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), e da Lei nº 9.099, de 26 de setembro de 1995."
+                }
+            ],
+            "titulo": "DO PROCEDIMENTO",
+            "linhaTitulo": 296
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VIII",
+            "linha": 300,
+            "artigos": [
+                {
+                    "numero": "40",
+                    "rotulo": "Art. 40.",
+                    "linha": 304,
+                    "caput": "O art. 2º da Lei nº 7.960, de 21 de dezembro de 1989, passa a vigorar com a seguinte redação:",
+                    "paragrafos": [
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 310,
+                            "texto": "-A O mandado de prisão conterá necessariamente o período de duração da prisão temporária estabelecido no caput deste artigo, bem como o dia em que o preso deverá ser libertado.",
+                            "rubrica": "“Art.2º",
+                            "linhaRubrica": 306
+                        },
+                        {
+                            "numero": "7º",
+                            "rotulo": "§ 7º",
+                            "linha": 314,
+                            "texto": "Decorrido o prazo contido no mandado de prisão, a autoridade responsável pela custódia deverá, independentemente de nova ordem da autoridade judicial, pôr imediatamente o preso em liberdade, salvo se já tiver sido comunicada da prorrogação da prisão temporária ou da decretação da prisão preventiva."
+                        },
+                        {
+                            "numero": "8º",
+                            "rotulo": "§ 8º",
+                            "linha": 316,
+                            "texto": "Inclui-se o dia do cumprimento do mandado de prisão no cômputo do prazo de prisão temporária.” (NR)"
+                        }
+                    ]
+                },
+                {
+                    "numero": "41",
+                    "rotulo": "Art. 41.",
+                    "linha": 318,
+                    "caput": "O art. 10 da Lei nº 9.296, de 24 de julho de 1996, passa a vigorar com a seguinte redação: “Art. 10. Constitui crime realizar interceptação de comunicações telefônicas, de informática ou telemática, promover escuta ambiental ou quebrar segredo da Justiça, sem autorização judicial ou com objetivos não autorizados em lei:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 324,
+                            "texto": "Incorre na mesma pena a autoridade judicial que determina a execução de conduta prevista no caput deste artigo com objetivo não autorizado em lei.” (NR)",
+                            "rubrica": "Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 322
+                        }
+                    ]
+                },
+                {
+                    "numero": "42",
+                    "rotulo": "Art. 42.",
+                    "linha": 326,
+                    "caput": "A Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), passa a vigorar acrescida do seguinte art. 227-A:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 330,
+                            "texto": "A perda do cargo, do mandato ou da função, nesse caso, independerá da pena aplicada na reincidência.”",
+                            "rubrica": "“Art. 227-A Os efeitos da condenação prevista no inciso I do caput do art. 92 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para os crimes previstos nesta Lei, praticados por servidores públicos com abuso de autoridade, são condicionados à ocorrência de reincidência.",
+                            "linhaRubrica": 328
+                        }
+                    ]
+                },
+                {
+                    "numero": "43",
+                    "rotulo": "Art. 43.",
+                    "linha": 333,
+                    "caput": "A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B: (Promulgação partes vetadas) ‘Art. 7º-B Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:"
+                },
+                {
+                    "numero": "44",
+                    "rotulo": "Art. 44.",
+                    "linha": 339,
+                    "caput": "Revogam-se a Lei nº 4.898, de 9 de dezembro de 1965, e o § 2º do art. 150 e o art. 350, ambos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal).",
+                    "rubrica": "Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.’”",
+                    "linhaRubrica": 337
+                },
+                {
+                    "numero": "45",
+                    "rotulo": "Art. 45.",
+                    "linha": 341,
+                    "caput": "Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação oficial. Brasília, 5 de setembro de 2019; 198o da Independência e 131o da República. JAIR MESSIAS BOLSONARO Sérgio Moro Wagner de Campos Rosário Jorge Antonio de Oliveira Francisco André Luiz de Almeida Mendonça Este texto não substitui o publicado no DOU de 5.9.2019 - Edição extra-A e retificado em 18.9.2019 Brasão das Armas Nacionais da República Federativa do Brasil Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos LEI Nº 13.869, DE 5 DE SETEMBRO DE 2019 Dispõe sobre os crimes de abuso de autoridade; altera a Lei nº 7.960, de 21 de dezembro de 1989, a Lei nº 9.296, de 24 de julho de 1996, a Lei nº 8.069, de 13 de julho de 1990, e a Lei nº 8.906, de 4 de julho de 1994; e revoga a Lei nº 4.898, de 9 de dezembro de 1965, e dispositivos do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal). O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu promulgo, nos termos do parágrafo 5o do art. 66 da Constituição Federal, as seguintes partes vetadas da Lei no 13.869, de 5 de setembro de 2019: “CAPÍTULO III"
+                },
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 383,
+                    "caput": "Os crimes previstos nesta Lei são de ação penal pública incondicionada.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 385,
+                            "texto": "Será admitida ação privada se a ação penal pública não for intentada no prazo legal, cabendo ao Ministério Público aditar a queixa, repudiá-la e oferecer denúncia substitutiva, intervir em todos os termos do processo, fornecer elementos de prova, interpor recurso e, a todo tempo, no caso de negligência do querelante, retomar a ação como parte principal."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 387,
+                            "texto": "A ação privada subsidiária será exercida no prazo de 6 (seis) meses, contado da data em que se esgotar o prazo para oferecimento da denúncia.” “CAPÍTULO VI DOS CRIMES E DAS PENAS ‘Art. 9º Decretar medida de privação da liberdade em manifesta desconformidade com as hipóteses legais:"
+                        },
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 396,
+                            "texto": "Incorre na mesma pena a autoridade judiciária que, dentro de prazo razoável, deixar de:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 398,
+                                    "texto": "relaxar a prisão manifestamente ilegal;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 400,
+                                    "texto": "substituir a prisão preventiva por medida cautelar diversa ou de conceder liberdade provisória, quando manifestamente cabível;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 402,
+                                    "texto": "deferir liminar ou ordem de habeas corpus, quando manifestamente cabível.’"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 408,
+                                    "texto": "produzir prova contra si mesmo ou contra terceiro: ’",
+                                    "rubrica": "‘Art. 13. Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a:",
+                                    "linhaRubrica": 404
+                                }
+                            ],
+                            "rubrica": "Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+                            "linhaRubrica": 394
+                        },
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 416,
+                            "texto": "Incorre na mesma pena quem prossegue com o interrogatório:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 418,
+                                    "texto": "de pessoa que tenha decidido exercer o direito ao silêncio; ou"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 420,
+                                    "texto": "de pessoa que tenha optado por ser assistida por advogado ou defensor público, sem a presença de seu patrono.’ ‘Art. 16. Deixar de identificar-se ou identificar-se falsamente ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão:"
+                                }
+                            ],
+                            "rubrica": "‘Art. 15. Constranger a depor, sob ameaça de prisão, pessoa que, em razão de função, ministério, ofício ou profissão, deva guardar segredo ou resguardar sigilo:",
+                            "linhaRubrica": 412
+                        },
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 426,
+                            "texto": "Incorre na mesma pena quem, como responsável por interrogatório em sede de procedimento investigatório de infração penal, deixa de identificar-se ao preso ou atribui a si mesmo falsa identidade, cargo ou função.’ ‘Art. 20. Impedir, sem justa causa, a entrevista pessoal e reservada do preso com seu advogado:",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 424
+                        },
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 432,
+                            "texto": "Incorre na mesma pena quem impede o preso, o réu solto ou o investigado de entrevistar-se pessoal e reservadamente com seu advogado ou defensor, por prazo razoável, antes de audiência judicial, e de sentar-se ao seu lado e com ele comunicar-se durante a audiência, salvo no curso de interrogatório ou no caso de audiência realizada por videoconferência.’ ‘Art. 30. Dar início ou proceder à persecução penal, civil ou administrativa sem justa causa fundamentada ou contra quem sabe inocente: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.’ ‘Art. 32. Negar ao interessado, seu defensor ou advogado acesso aos autos de investigação preliminar, ao termo circunstanciado, ao inquérito ou a qualquer outro procedimento investigatório de infração penal, civil ou administrativa, assim como impedir a obtenção de cópias, ressalvado o acesso a peças relativas a diligências em curso, ou que indiquem a realização de diligências futuras, cujo sigilo seja imprescindível: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’ ‘Art. 38. Antecipar o responsável pelas investigações, por meio de comunicação, inclusive rede social, atribuição de culpa, antes de concluídas as apurações e formalizada a acusação: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.’” “CAPÍTULO VIII",
+                            "rubrica": "Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+                            "linhaRubrica": 430
+                        }
+                    ],
+                    "rubrica": "DA AÇÃO PENAL",
+                    "linhaRubrica": 381
+                },
+                {
+                    "numero": "43",
+                    "rotulo": "Art. 43.",
+                    "linha": 451,
+                    "caput": "A Lei nº 8.906, de 4 de julho de 1994, passa a vigorar acrescida do seguinte art. 7º-B:",
+                    "rubrica": "DISPOSIÇÕES FINAIS",
+                    "linhaRubrica": 447
+                }
+            ],
+            "titulo": "DISPOSIÇÕES FINAIS",
+            "linhaTitulo": 302
+        },
+        {
+            "tipo": "fecho",
+            "linha": 453,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "‘Art. 7º-B Constitui crime violar direito ou prerrogativa de advogado previstos nos incisos II, III, IV e V do caput do art. 7º desta Lei:",
+                    "linha": 453
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.’”",
+                    "linha": 455
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília, 27 de setembro de 2019; 198o da Independência e 131o da República.",
+                    "linha": 457
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "JAIR MESSIAS BOLSONARO",
+                    "linha": 459
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 27.9.2019 - Edição extra - A",
+                    "linha": 461
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "*",
+                    "linha": 463
+                }
+            ]
+        }
+    ]
+}

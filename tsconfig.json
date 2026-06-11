@@ -30,6 +30,6 @@
     "**/*.mts",
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts"
-  ],
+, "app/lei/[slug]/page.tsx.bak"  ],
   "exclude": ["node_modules"]
 }

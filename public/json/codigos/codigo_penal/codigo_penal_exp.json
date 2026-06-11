@@ -1,0 +1,734 @@
+[
+  {
+    "id": "exp_art_01",
+    "artigo": "Art. 1º",
+    "rubrica": "Anterioridade da Lei",
+    "textoLegal": "Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal.",
+    "explicacao": {
+      "titulo": "O que significa?",
+      "texto": "O Estado somente pode punir alguém quando já existia uma lei definindo aquela conduta como crime e já existia uma lei estabelecendo qual seria a pena. Ninguém pode ser punido por uma lei criada depois do fato praticado."
+    },
+    "divisao": [
+      {
+        "titulo": "1ª parte",
+        "trecho": "Não há crime sem lei anterior que o defina.",
+        "explicacao": "Uma conduta só pode ser considerada crime se uma lei já a definir como criminosa antes de sua prática.",
+        "exemplo": {
+          "situacao": "Hoje não existe lei proibindo o uso de determinado equipamento eletrônico. João utiliza esse equipamento em janeiro. Em março é criada uma lei tornando esse uso crime.",
+          "pergunta": "João pode ser preso pelo que fez em janeiro?",
+          "resposta": "Não. Quando praticou o ato, não existia lei tornando aquela conduta criminosa."
+        }
+      },
+      {
+        "titulo": "2ª parte",
+        "trecho": "Não há pena sem prévia cominação legal.",
+        "explicacao": "Além de existir uma lei definindo o crime, também deve existir uma lei estabelecendo a pena. O juiz não pode criar punições por conta própria.",
+        "exemplo": {
+          "situacao": "Uma lei prevê que determinada conduta será punida com reclusão de 2 a 5 anos.",
+          "resposta": "O juiz pode aplicar uma pena dentro desse intervalo, mas não pode impor 10 anos apenas por considerar o fato mais grave."
+        }
+      }
+    ],
+    "exemploCotidiano": {
+      "titulo": "Exemplo do dia a dia",
+      "situacao": [
+        "Na segunda-feira não existe regra proibindo boné.",
+        "Na terça-feira Pedro vai à escola usando boné.",
+        "Na quarta-feira a escola cria uma regra proibindo boné e decide puni-lo pelo ocorrido na terça."
+      ],
+      "conclusao": "Isso seria injusto. Primeiro cria-se a regra; depois ela pode ser aplicada. No Direito Penal ocorre da mesma forma."
+    },
+    "principio": {
+      "nome": "Princípio da Legalidade (ou da Reserva Legal)",
+      "resumo": "Sem lei, não existe crime. Sem lei, não existe pena."
+    },
+    "questaoConcurso": {
+      "titulo": "Exemplo de concurso",
+      "situacao": "Carlos praticou uma conduta em janeiro. Em março foi publicada uma lei transformando essa conduta em crime. Em abril ele é denunciado.",
+      "resposta": "Carlos não pode ser condenado, pois quando praticou o fato ainda não existia lei incriminadora."
+    },
+    "pegadinha": {
+      "afirmacao": "Não há crime sem costume anterior.",
+      "gabarito": "Errado",
+      "explicacao": "O costume pode auxiliar na interpretação da lei, mas não cria crimes nem penas. Somente a lei pode fazê-lo."
+    },
+    "bizu": {
+      "frases": [
+        "Primeiro a lei, depois o crime.",
+        "Lei primeiro, punição depois."
+      ],
+      "mnemônico": {
+        "sigla": "LAP",
+        "significado": {
+          "L": "Lei",
+          "A": "Anterior",
+          "P": "Pena prevista"
+        },
+        "resumo": "Se não houver Lei Anterior Prevendo, não existe crime nem pena."
+      }
+    }
+  },
+  {
+    "id": "exp_art_02",
+    "artigo": "Art. 2º",
+    "rubrica": "Lei Penal no Tempo",
+    "textoLegal": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória.",
+    "paragrafoUnico": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores, ainda que decididos por sentença condenatória transitada em julgado.",
+    "explicacao": {
+      "titulo": "O que significa?",
+      "texto": "Uma lei nova pode beneficiar quem praticou um crime no passado. Se uma lei deixar de considerar determinada conduta como crime, ninguém mais poderá ser punido por ela. Além disso, se a nova lei reduzir a pena ou criar uma situação mais favorável ao acusado, ela também será aplicada aos fatos antigos. A lei penal mais benéfica pode voltar no tempo para beneficiar o agente."
+    },
+    "divisao": [
+      {
+        "titulo": "1ª parte",
+        "trecho": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime...",
+        "explicacao": "Se uma lei nova elimina um crime, esse fato deixa de ser criminoso. Quem ainda está sendo processado ou cumprindo pena será beneficiado. Essa situação é conhecida como abolitio criminis.",
+        "exemplo": {
+          "situacao": "Uma lei considera determinada conduta como crime. Maria pratica essa conduta e é condenada. Alguns anos depois, uma nova lei revoga esse crime.",
+          "pergunta": "Maria continuará presa?",
+          "resposta": "Não. Como a conduta deixou de ser crime, a execução da pena deve parar e os efeitos penais da condenação deixam de existir."
+        }
+      },
+      {
+        "titulo": "Continuação",
+        "trecho": "...cessando em virtude dela a execução e os efeitos penais da sentença condenatória.",
+        "explicacao": "Não basta deixar de aplicar novas condenações. Quem já estava cumprindo pena também é beneficiado.",
+        "exemplo": {
+          "situacao": "Carlos foi condenado a 3 anos de prisão. Após cumprir apenas 1 ano, uma nova lei elimina esse crime do Código Penal.",
+          "pergunta": "Carlos continuará preso?",
+          "resposta": "Não. A execução da pena deve cessar imediatamente."
+        }
+      },
+      {
+        "titulo": "Parágrafo único",
+        "trecho": "A lei posterior, que de qualquer modo favorecer o agente, aplica-se aos fatos anteriores...",
+        "explicacao": "Mesmo que o fato continue sendo crime, a lei nova será aplicada se for mais favorável.",
+        "beneficios": [
+          "Reduzir a pena.",
+          "Diminuir uma multa.",
+          "Criar uma causa de diminuição.",
+          "Beneficiar o condenado de qualquer outra forma."
+        ],
+        "exemplo": {
+          "situacao": "Pedro praticou um crime cuja pena era de 4 a 8 anos. Depois, uma nova lei altera a pena para 2 a 5 anos.",
+          "pergunta": "Qual lei será aplicada?",
+          "resposta": "A nova lei, por ser mais benéfica ao acusado."
+        }
+      },
+      {
+        "titulo": "Continuação do parágrafo único",
+        "trecho": "...ainda que decididos por sentença condenatória transitada em julgado.",
+        "explicacao": "Mesmo quando o processo já terminou definitivamente, a lei mais benéfica continua sendo aplicada.",
+        "exemplo": {
+          "situacao": "Ana foi condenada definitivamente em 2022. Em 2025 surge uma lei reduzindo a pena daquele crime.",
+          "pergunta": "Ana pode ser beneficiada?",
+          "resposta": "Sim. Mesmo existindo sentença transitada em julgado, a lei penal mais favorável retroage."
+        }
+      }
+    ],
+    "exemploCotidiano": {
+      "titulo": "Exemplo do dia a dia",
+      "situacao": [
+        "Hoje existe uma regra dizendo que atrasar 5 minutos gera multa de R$ 100.",
+        "João atrasou e recebeu a multa.",
+        "No mês seguinte, a empresa muda a regra e decide que atrasos de até 10 minutos não serão mais punidos."
+      ],
+      "pergunta": "Seria justo manter a multa de João?",
+      "conclusao": "Não. Como a nova regra é mais favorável, ela beneficia quem estava naquela situação. No Direito Penal funciona de forma semelhante."
+    },
+    "principios": [
+      {
+        "nome": "Abolitio criminis",
+        "descricao": "Ocorre quando uma lei deixa de considerar determinada conduta como crime."
+      },
+      {
+        "nome": "Retroatividade da lei penal mais benéfica",
+        "descricao": "A lei nova que favorece o agente volta no tempo para beneficiá-lo."
+      }
+    ],
+    "resumo": "Lei mais grave não volta. Lei mais benéfica volta.",
+    "questaoConcurso": {
+      "titulo": "Exemplo de concurso",
+      "situacao": "Lucas foi condenado por um crime em 2023. Em 2025, uma nova lei reduz a pena desse crime. A sentença já transitou em julgado.",
+      "resposta": "Lucas tem direito à aplicação da nova lei, pois ela é mais favorável ao condenado."
+    },
+    "pegadinhas": [
+      {
+        "afirmacao": "A lei penal posterior nunca pode atingir fatos anteriores.",
+        "gabarito": "Errado",
+        "explicacao": "A regra é que a lei não retroage. A exceção ocorre quando a lei posterior for mais benéfica ao agente."
+      },
+      {
+        "afirmacao": "A sentença transitada em julgado impede a aplicação da lei mais benéfica.",
+        "gabarito": "Errado",
+        "explicacao": "Mesmo após o trânsito em julgado, a lei mais favorável continua sendo aplicada."
+      }
+    ],
+    "bizu": {
+      "frases": [
+        "Lei boa volta. Lei ruim não volta.",
+        "Se favorece o réu, retroage."
+      ],
+      "mnemonico": {
+        "sigla": "BAR",
+        "significado": {
+          "B": "Beneficia",
+          "A": "Aplica aos fatos antigos",
+          "R": "Retroage"
+        },
+        "resumo": "Se a nova lei Beneficia, ela Aplica-se aos fatos antigos e Retroage, mesmo após sentença definitiva."
+      }
+    }
+  },
+  {
+  "id": "exp_art_03",
+  "artigo": "Art. 3º",
+  "rubrica": "Lei Excepcional ou Temporária",
+  "textoLegal": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.",
+  "explicacao": {
+    "titulo": "O que significa?",
+    "texto": "Algumas leis são criadas para valer apenas por um determinado período ou durante uma situação específica. Mesmo depois que essa lei deixa de existir, ela continua sendo aplicada aos fatos que aconteceram enquanto estava em vigor. Quem praticou o fato durante sua vigência continua respondendo por ele."
+  },
+  "divisao": [
+    {
+      "titulo": "Lei temporária",
+      "trecho": "É a lei que já nasce com data certa para começar e terminar.",
+      "explicacao": "Possui um prazo previamente definido e continua sendo aplicada aos fatos praticados durante sua vigência, mesmo após deixar de existir.",
+      "exemplo": {
+        "situacao": "Uma lei é criada para valer apenas durante um grande evento esportivo, do dia 1º de julho ao dia 31 de julho. João pratica um crime previsto nessa lei no dia 15 de julho. Em agosto, a lei deixa de existir.",
+        "pergunta": "João será punido?",
+        "resposta": "Sim. Ele praticou o fato enquanto a lei estava em vigor."
+      }
+    },
+    {
+      "titulo": "Lei excepcional",
+      "trecho": "É a lei criada para enfrentar uma situação extraordinária.",
+      "explicacao": "Não possui uma data fixa para terminar. Ela permanece vigente enquanto existir a situação que justificou sua criação.",
+      "exemplo": {
+        "situacao": "Uma enchente atinge diversas cidades. O governo cria uma lei excepcional aumentando a proteção contra desvios de doações destinadas às vítimas. Maria pratica esse crime durante a calamidade. Meses depois, a situação é normalizada e a lei deixa de valer.",
+        "pergunta": "Maria será punida?",
+        "resposta": "Sim. O fato ocorreu durante a vigência da lei excepcional."
+      }
+    },
+    {
+      "titulo": "Continuação do artigo",
+      "trecho": "Embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram...",
+      "explicacao": "Mesmo que termine o prazo da lei temporária ou desapareça a situação que justificou a lei excepcional, ela continua sendo aplicada aos fatos praticados durante sua vigência.",
+      "exemplo": {
+        "situacao": "Uma lei temporária vale apenas durante o mês de dezembro. Carlos pratica o crime em 20 de dezembro. Seu julgamento acontece em fevereiro do ano seguinte, quando a lei já não existe mais.",
+        "pergunta": "Carlos responderá pelo crime?",
+        "resposta": "Sim. O importante é que o fato aconteceu enquanto a lei estava em vigor."
+      }
+    }
+  ],
+  "exemploCotidiano": {
+    "titulo": "Exemplo do dia a dia",
+    "situacao": [
+      "Durante uma grande reforma, um condomínio cria uma regra temporária proibindo estacionar na garagem principal.",
+      "Pedro estaciona no local durante a reforma.",
+      "Uma semana depois, a reforma termina e a regra deixa de existir."
+    ],
+    "pergunta": "Pedro pode dizer que não deve ser punido porque a regra acabou?",
+    "conclusao": "Não. Quando ele estacionou, a regra estava valendo. No Direito Penal funciona da mesma forma."
+  },
+  "principio": {
+    "nome": "Ultratividade da lei excepcional ou temporária",
+    "descricao": "A lei deixa de estar em vigor, mas continua produzindo efeitos para os fatos praticados enquanto ela existia."
+  },
+  "resumo": "A lei acaba, mas continua valendo para o passado.",
+  "questaoConcurso": {
+    "titulo": "Exemplo de concurso",
+    "situacao": "Uma lei temporária prevê determinado crime entre janeiro e junho. Lucas pratica a conduta em maio. Em julho a lei perde a vigência. O processo é julgado em setembro.",
+    "resposta": "Lucas poderá ser condenado, pois a lei temporária continua sendo aplicada aos fatos praticados durante sua vigência."
+  },
+  "pegadinhas": [
+    {
+      "afirmacao": "A lei temporária deixa de produzir qualquer efeito após o término de sua vigência.",
+      "gabarito": "Errado",
+      "explicacao": "Ela continua sendo aplicada aos fatos praticados enquanto estava em vigor."
+    },
+    {
+      "afirmacao": "A lei excepcional é revogada e beneficia automaticamente quem praticou o fato.",
+      "gabarito": "Errado",
+      "explicacao": "Ela possui ultratividade, ou seja, continua sendo aplicada aos fatos ocorridos durante sua vigência."
+    }
+  ],
+  "bizu": {
+    "frases": [
+      "Acabou a lei, mas não acabou a responsabilidade.",
+      "Praticou durante a vigência, responde por ela."
+    ],
+    "mnemonico": {
+      "sigla": "VIGE",
+      "significado": {
+        "VI": "Vigência do fato é o que importa",
+        "GE": "Gerou responsabilidade"
+      },
+      "resumo": "Se o fato aconteceu durante a vigência, a lei continua sendo aplicada, mesmo depois de deixar de existir."
+    }
+  }
+},
+{
+  "id": "exp_art_04",
+  "artigo": "Art. 4º",
+  "rubrica": "Tempo do Crime",
+  "textoLegal": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado.",
+  "explicacao": {
+    "titulo": "O que significa?",
+    "texto": "Para o Direito Penal, o crime é considerado praticado no momento em que a pessoa age ou deixa de agir. Não importa se o resultado acontece dias, meses ou anos depois. O que vale é o momento da ação ou da omissão."
+  },
+  "divisao": [
+    {
+      "titulo": "1ª parte",
+      "trecho": "Considera-se praticado o crime no momento da ação ou omissão...",
+      "explicacao": "O tempo do crime é o instante em que o agente pratica a conduta. Pode ser uma ação (fazer alguma coisa) ou uma omissão (deixar de fazer algo quando tinha obrigação).",
+      "exemplo": {
+        "situacao": "João efetua um disparo contra Carlos no dia 10 de janeiro. Carlos é levado ao hospital.",
+        "pergunta": "Quando ocorreu o tempo do crime?",
+        "resposta": "No dia 10 de janeiro, quando João praticou a ação."
+      }
+    },
+    {
+      "titulo": "2ª parte",
+      "trecho": "...ainda que outro seja o momento do resultado.",
+      "explicacao": "Mesmo que o resultado aconteça depois, o tempo do crime continua sendo o momento da ação ou da omissão.",
+      "exemplo": {
+        "situacao": "João atira em Carlos no dia 10 de janeiro. Carlos permanece internado e falece no dia 20 de janeiro.",
+        "pergunta": "Qual é o tempo do crime?",
+        "resposta": "Dia 10 de janeiro. O resultado ocorreu depois, mas o Código Penal considera o momento da ação."
+      }
+    },
+    {
+      "titulo": "Exemplo com omissão",
+      "trecho": "Omissão como marco temporal do crime.",
+      "explicacao": "Quando o agente tinha o dever jurídico de agir e não age, o tempo do crime é o momento dessa omissão.",
+      "exemplo": {
+        "situacao": "Um salva-vidas tem obrigação de socorrer uma criança que está se afogando. Podendo agir, decide não fazer nada. A criança morre horas depois.",
+        "pergunta": "Qual é o tempo do crime?",
+        "resposta": "O momento em que o salva-vidas deixou de agir. A omissão é o marco temporal do crime."
+      }
+    }
+  ],
+  "exemploCotidiano": {
+    "titulo": "Exemplo do dia a dia",
+    "situacao": [
+      "Um aluno envia uma mensagem ofensiva em um grupo da escola na segunda-feira.",
+      "A vítima só lê a mensagem na terça-feira."
+    ],
+    "pergunta": "Quando o fato foi praticado?",
+    "conclusao": "Na segunda-feira, quando a mensagem foi enviada. No Direito Penal ocorre o mesmo: considera-se o momento da ação, não o momento em que o resultado aparece."
+  },
+  "teoria": {
+    "nome": "Teoria da Atividade",
+    "descricao": "O tempo do crime é o momento da ação ou da omissão. Não importa quando ocorre o resultado."
+  },
+  "questaoConcurso": {
+    "titulo": "Exemplo de concurso",
+    "situacao": "Em 10 de maio, Pedro pratica uma conduta criminosa. Em 15 de maio entra em vigor uma lei mais severa. O resultado do crime acontece em 20 de maio.",
+    "pergunta": "Qual lei será aplicada?",
+    "resposta": "Será aplicada a lei vigente em 10 de maio, pois o Código Penal considera praticado o crime no momento da ação ou omissão."
+  },
+  "pegadinhas": [
+    {
+      "afirmacao": "O tempo do crime é o momento em que ocorre o resultado.",
+      "gabarito": "Errado",
+      "explicacao": "O Código Penal adotou a Teoria da Atividade, considerando o momento da ação ou da omissão."
+    },
+    {
+      "afirmacao": "Se a vítima morrer dias depois, o tempo do crime passa a ser a data da morte.",
+      "gabarito": "Errado",
+      "explicacao": "O tempo do crime continua sendo o momento da conduta do agente."
+    }
+  ],
+  "bizu": {
+    "frases": [
+      "Agiu hoje, crime é hoje.",
+      "Vale a ação, não o resultado."
+    ],
+    "mnemonico": {
+      "sigla": "AAR",
+      "significado": {
+        "A": "Ação",
+        "A2": "Atividade",
+        "R": "Resultado não altera o tempo"
+      },
+      "resumo": "Se lembrar de AAR, lembrará que o Código Penal adota a Teoria da Atividade: o crime é considerado praticado no momento da ação ou da omissão, mesmo que o resultado aconteça depois."
+    }
+  }
+},
+{
+  "id": "exp_art_05",
+  "artigo": "Art. 5º",
+  "rubrica": "Territorialidade",
+  "textoLegal": "Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.",
+  "paragrafos": [
+    {
+      "rotulo": "§ 1º",
+      "texto": "Para os efeitos penais, consideram-se como extensão do território nacional as embarcações e aeronaves brasileiras, de natureza pública ou a serviço do governo brasileiro onde quer que se encontrem, bem como as aeronaves e as embarcações brasileiras, mercantes ou de propriedade privada, que se achem, respectivamente, no espaço aéreo correspondente ou em alto-mar."
+    },
+    {
+      "rotulo": "§ 2º",
+      "texto": "É também aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada, achando-se aquelas em pouso no território nacional ou em voo no espaço aéreo correspondente, e estas em porto ou mar territorial do Brasil."
+    }
+  ],
+  "explicacao": {
+    "titulo": "O que significa?",
+    "texto": "A regra geral é que todo crime cometido no território brasileiro será julgado pela lei brasileira. Essa regra respeita convenções, tratados e regras de direito internacional. Além disso, determinadas aeronaves e embarcações são consideradas extensão do território nacional, mesmo quando estão fora do Brasil."
+  },
+  "divisao": [
+    {
+      "titulo": "Caput",
+      "trecho": "Aplica-se a lei brasileira... ao crime cometido no território nacional.",
+      "explicacao": "Todo crime praticado no Brasil, em regra, será julgado pela lei brasileira, independentemente da nacionalidade do autor ou da vítima.",
+      "exemplo": {
+        "situacao": "Um turista argentino pratica um furto em Fortaleza.",
+        "pergunta": "Qual lei será aplicada?",
+        "resposta": "A lei brasileira, pois o crime aconteceu no território nacional."
+      }
+    },
+    {
+      "titulo": "Continuação",
+      "trecho": "...sem prejuízo de convenções, tratados e regras de direito internacional.",
+      "explicacao": "Existem situações especiais reguladas por tratados internacionais e regras de direito internacional, que devem ser respeitadas pelo Brasil.",
+      "exemplo": {
+        "situacao": "Um diplomata estrangeiro pratica um crime no Brasil.",
+        "resposta": "Em razão das regras de direito internacional e da imunidade diplomática, podem existir tratamentos específicos previstos em tratados."
+      }
+    },
+    {
+      "titulo": "§ 1º",
+      "trecho": "Consideram-se como extensão do território nacional...",
+      "explicacao": "Algumas aeronaves e embarcações são tratadas como se fossem território brasileiro.",
+      "subdivisoes": [
+        {
+          "titulo": "Embarcações e aeronaves públicas",
+          "explicacao": "São consideradas território brasileiro onde quer que estejam.",
+          "exemplo": {
+            "situacao": "Um militar pratica um crime dentro de um navio da Marinha brasileira em águas internacionais.",
+            "pergunta": "Qual lei será aplicada?",
+            "resposta": "A lei brasileira, pois o navio é considerado extensão do território nacional."
+          }
+        },
+        {
+          "titulo": "Embarcações e aeronaves privadas brasileiras",
+          "explicacao": "São consideradas território brasileiro quando estiverem no espaço aéreo correspondente ou em alto-mar.",
+          "exemplo": {
+            "situacao": "Durante uma viagem internacional, um passageiro pratica um crime dentro de um avião brasileiro que sobrevoa o oceano.",
+            "pergunta": "Qual lei será aplicada?",
+            "resposta": "A lei brasileira, pois o avião brasileiro é extensão do território nacional nessa situação."
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "§ 2º",
+      "trecho": "É também aplicável a lei brasileira aos crimes praticados a bordo de aeronaves ou embarcações estrangeiras de propriedade privada...",
+      "explicacao": "Mesmo sendo estrangeiras, determinadas aeronaves e embarcações estarão sujeitas à lei brasileira quando estiverem em território, espaço aéreo ou águas brasileiras.",
+      "exemplos": [
+        {
+          "situacao": "Um passageiro agride outro dentro de um avião particular francês estacionado em São Paulo.",
+          "pergunta": "Qual lei será aplicada?",
+          "resposta": "A lei brasileira, pois o avião está em pouso no território nacional."
+        },
+        {
+          "situacao": "Um crime ocorre dentro de um navio particular italiano atracado no Porto de Santos.",
+          "pergunta": "Qual lei será aplicada?",
+          "resposta": "A lei brasileira, pois o navio está em porto brasileiro."
+        }
+      ]
+    }
+  ],
+  "exemploCotidiano": {
+    "titulo": "Exemplo do dia a dia",
+    "situacao": [
+      "Imagine um condomínio.",
+      "Quem entra nele deve obedecer às regras do condomínio, independentemente da cidade ou do país de onde veio.",
+      "Se um visitante descumpre uma regra dentro do condomínio, aplicam-se as regras daquele local."
+    ],
+    "conclusao": "No Direito Penal acontece o mesmo: quem pratica um crime no território brasileiro, em regra, está sujeito à lei brasileira."
+  },
+  "principio": {
+    "nome": "Princípio da Territorialidade",
+    "descricao": "Crime cometido no Brasil = aplica-se a lei brasileira.",
+    "observacao": "Trata-se de territorialidade temperada, pois admite exceções previstas em tratados e no direito internacional."
+  },
+  "questaoConcurso": {
+    "titulo": "Exemplo de concurso",
+    "situacao": "Um cidadão canadense pratica um roubo durante uma viagem ao Brasil.",
+    "pergunta": "Qual legislação será aplicada?",
+    "resposta": "A lei brasileira, pois o crime foi cometido no território nacional."
+  },
+  "pegadinhas": [
+    {
+      "afirmacao": "Somente brasileiros estão sujeitos à lei penal brasileira quando o crime ocorre no Brasil.",
+      "gabarito": "Errado",
+      "explicacao": "Qualquer pessoa, brasileira ou estrangeira, responde pela lei brasileira se praticar crime no território nacional."
+    },
+    {
+      "afirmacao": "Um navio da Marinha brasileira deixa de ser território brasileiro quando está em águas internacionais.",
+      "gabarito": "Errado",
+      "explicacao": "Embarcações e aeronaves públicas brasileiras são extensão do território nacional onde quer que estejam."
+    },
+    {
+      "afirmacao": "Um avião particular estrangeiro pousado no Brasil nunca está sujeito à lei brasileira.",
+      "gabarito": "Errado",
+      "explicacao": "Se estiver em pouso no território nacional ou voando no espaço aéreo correspondente, aplica-se a lei brasileira."
+    }
+  ],
+  "bizu": {
+    "frases": [
+      "Crime no Brasil, lei do Brasil.",
+      "Pisou no Brasil, aplica a lei brasileira."
+    ],
+    "mnemonico": {
+      "sigla": "TEA",
+      "significado": {
+        "T": "Território nacional",
+        "E": "Extensão do território (navios e aviões brasileiros)",
+        "A": "Aeronaves e embarcações estrangeiras no Brasil também podem seguir a lei brasileira"
+      },
+      "resumo": "Se lembrar de TEA, lembrará que a regra é a territorialidade, com extensão para determinadas aeronaves e embarcações e aplicação da lei brasileira nas hipóteses previstas nos §§ 1º e 2º."
+    }
+  }
+},
+{
+  "id": "exp_art_06",
+  "artigo": "Art. 6º",
+  "rubrica": "Lugar do Crime",
+  "textoLegal": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado.",
+  "explicacao": {
+    "titulo": "O que significa?",
+    "texto": "Para o Direito Penal, o crime pode ser considerado praticado no lugar onde ocorreu a ação, no lugar onde ocorreu a omissão, no lugar onde o resultado aconteceu ou no lugar onde o resultado deveria acontecer. Não é necessário que todos esses fatos ocorram no mesmo local."
+  },
+  "divisao": [
+    {
+      "titulo": "1ª parte",
+      "trecho": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão...",
+      "explicacao": "O crime é considerado praticado no local onde o agente agiu ou deixou de agir.",
+      "exemplo": {
+        "situacao": "João, em Fortaleza, envia um e-mail fraudulento para uma vítima em Recife.",
+        "pergunta": "Onde ocorreu a ação?",
+        "resposta": "Em Fortaleza. Esse local é considerado lugar do crime."
+      }
+    },
+    {
+      "titulo": "Continuação",
+      "trecho": "...no todo ou em parte...",
+      "explicacao": "Mesmo que apenas uma parte da conduta aconteça em determinado local, esse lugar também será considerado lugar do crime.",
+      "exemplo": {
+        "situacao": "Pedro começa um golpe pela internet em São Paulo e finaliza a fraude no Rio de Janeiro.",
+        "pergunta": "Onde é o lugar do crime?",
+        "resposta": "Nos dois locais. Parte da ação ocorreu em São Paulo e parte ocorreu no Rio de Janeiro."
+      }
+    },
+    {
+      "titulo": "2ª parte",
+      "trecho": "...bem como onde se produziu ou deveria produzir-se o resultado.",
+      "explicacao": "O crime também é considerado praticado no local onde ocorreu o resultado ou onde ele deveria ocorrer.",
+      "exemplo": {
+        "situacao": "Carlos dispara uma arma em Minas Gerais contra uma vítima que está em Goiás. A vítima morre em Goiás.",
+        "pergunta": "Qual é o lugar do crime?",
+        "resposta": "Minas Gerais e Goiás. Minas Gerais porque ocorreu a ação e Goiás porque ocorreu o resultado."
+      }
+    },
+    {
+      "titulo": "Resultado que deveria ocorrer",
+      "trecho": "O local onde o resultado deveria produzir-se também é considerado lugar do crime.",
+      "explicacao": "Mesmo que o resultado não aconteça, considera-se o local onde ele deveria ocorrer.",
+      "exemplo": {
+        "situacao": "Uma pessoa envia uma carta-bomba de um estado para outro, mas a polícia intercepta a encomenda antes da explosão.",
+        "pergunta": "Onde é considerado o lugar do crime?",
+        "resposta": "No local da ação e também no local onde a explosão deveria ocorrer."
+      }
+    }
+  ],
+  "exemploCotidiano": {
+    "titulo": "Exemplo do dia a dia",
+    "situacao": [
+      "Uma pessoa realiza uma compra pela internet em Fortaleza.",
+      "A entrega deveria acontecer em Salvador.",
+      "Mesmo que o produto nunca chegue, a operação envolve os dois locais."
+    ],
+    "conclusao": "No Direito Penal ocorre algo semelhante: considera-se tanto o local da ação quanto o local do resultado ou daquele que deveria acontecer."
+  },
+  "teoria": {
+    "nome": "Teoria da Ubiquidade (ou Teoria Mista)",
+    "descricao": "O lugar do crime pode ser o da ação ou omissão e também o do resultado ou do local onde ele deveria ocorrer. Não é necessário escolher apenas um deles."
+  },
+  "questaoConcurso": {
+    "titulo": "Exemplo de concurso",
+    "situacao": "Maria envia um vírus de computador de Brasília para um servidor localizado em Curitiba. O sistema é danificado em Curitiba.",
+    "pergunta": "Qual é o lugar do crime?",
+    "resposta": "Brasília e Curitiba. Brasília porque foi o local da ação e Curitiba porque foi o local do resultado."
+  },
+  "pegadinhas": [
+    {
+      "afirmacao": "O lugar do crime é apenas onde ocorreu o resultado.",
+      "gabarito": "Errado",
+      "explicacao": "O Código Penal considera tanto o local da ação ou omissão quanto o local do resultado."
+    },
+    {
+      "afirmacao": "Se o resultado não acontecer, não existe lugar do crime.",
+      "gabarito": "Errado",
+      "explicacao": "O artigo também considera o local onde o resultado deveria produzir-se."
+    },
+    {
+      "afirmacao": "Tempo do crime e lugar do crime seguem a mesma teoria.",
+      "gabarito": "Errado",
+      "explicacao": "O art. 4º adota a Teoria da Atividade, enquanto o art. 6º adota a Teoria da Ubiquidade."
+    }
+  ],
+  "bizu": {
+    "frases": [
+      "Onde agiu e onde aconteceu, ali é o lugar do crime.",
+      "Ação + resultado = lugar do crime."
+    ],
+    "mnemonico": {
+      "sigla": "AUR",
+      "significado": {
+        "A": "Ação ou omissão",
+        "U": "Ubiquidade (teoria adotada)",
+        "R": "Resultado ou onde deveria ocorrer"
+      },
+      "resumo": "Se lembrar de AUR, lembrará que o Código Penal adota a Teoria da Ubiquidade, considerando como lugar do crime tanto o local da ação ou omissão quanto o local do resultado ou onde ele deveria produzir-se."
+    }
+  }
+},{
+  "id": "exp_art_07",
+  "artigo": "Art. 7º",
+  "rubrica": "Extraterritorialidade",
+  "textoLegal": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro.",
+  "explicacao": {
+    "titulo": "O que significa?",
+    "texto": "Em regra, a lei brasileira só é aplicada aos crimes cometidos no Brasil. Porém, existem situações em que um crime praticado no exterior também será julgado pela lei brasileira. Isso é chamado de extraterritorialidade."
+  },
+  "estrutura": {
+    "titulo": "Dividindo o artigo",
+    "grupos": [
+      "Extraterritorialidade incondicionada",
+      "Extraterritorialidade condicionada",
+      "Crime praticado por estrangeiro contra brasileiro"
+    ]
+  },
+  "divisao": [
+    {
+      "titulo": "1º Grupo - Extraterritorialidade Incondicionada",
+      "explicacao": "São situações em que a lei brasileira será aplicada automaticamente. Não importa se houve julgamento no exterior ou se existe outro processo.",
+      "precisaCondicoes": false,
+      "crimes": [
+        "Contra a vida ou a liberdade do Presidente da República.",
+        "Contra o patrimônio ou a fé pública da União, dos Estados, dos Municípios, do Distrito Federal, das autarquias, das fundações públicas, das empresas públicas e das sociedades de economia mista.",
+        "Contra a administração pública praticado por quem está a seu serviço.",
+        "Genocídio praticado por brasileiro ou domiciliado no Brasil."
+      ],
+      "exemplo": {
+        "situacao": "Um servidor brasileiro desvia dinheiro público enquanto trabalha em uma embaixada no exterior.",
+        "resposta": "Mesmo que o fato tenha ocorrido fora do Brasil, aplica-se a lei brasileira."
+      }
+    },
+    {
+      "titulo": "§ 1º",
+      "explicacao": "Mesmo que o agente tenha sido absolvido ou condenado no exterior, a lei brasileira continua podendo ser aplicada nos casos do inciso I.",
+      "exemplo": {
+        "situacao": "Um brasileiro pratica genocídio em outro país e é absolvido lá.",
+        "resposta": "Mesmo assim, poderá responder perante a Justiça brasileira."
+      }
+    },
+    {
+      "titulo": "2º Grupo - Extraterritorialidade Condicionada",
+      "explicacao": "A lei brasileira somente será aplicada se todos os requisitos do § 2º forem preenchidos.",
+      "precisaCondicoes": true,
+      "crimes": [
+        "Crimes que o Brasil se comprometeu a reprimir por tratado ou convenção.",
+        "Crimes praticados por brasileiro.",
+        "Crimes praticados em aeronaves ou embarcações brasileiras privadas no exterior quando não forem julgados naquele país."
+      ],
+      "exemplo": {
+        "situacao": "João, brasileiro, pratica um crime na Argentina e retorna ao Brasil.",
+        "resposta": "Somente poderá responder no Brasil se todos os requisitos do § 2º forem atendidos."
+      }
+    },
+    {
+      "titulo": "§ 2º",
+      "explicacao": "Para aplicar a lei brasileira nos casos do inciso II, todos os requisitos devem estar presentes.",
+      "requisitos": [
+        "O agente entrar no Brasil.",
+        "O fato também ser crime no país onde ocorreu.",
+        "O crime admitir extradição.",
+        "O agente não ter sido absolvido nem cumprido pena no exterior.",
+        "O agente não ter sido perdoado nem extinta sua punibilidade pela lei mais favorável."
+      ],
+      "exemplo": {
+        "situacao": "Um brasileiro pratica um furto em Portugal, retorna ao Brasil, o furto também é crime em Portugal e ele não foi julgado nem cumpriu pena lá.",
+        "resposta": "Nesse caso, a lei brasileira poderá ser aplicada."
+      }
+    },
+    {
+      "titulo": "3º Grupo - Crime praticado por estrangeiro contra brasileiro",
+      "explicacao": "Também pode ser aplicada a lei brasileira, desde que sejam preenchidos os requisitos do § 2º e mais dois requisitos do § 3º.",
+      "requisitosAdicionais": [
+        "Não ter sido pedida ou ter sido negada a extradição.",
+        "Haver requisição do Ministro da Justiça."
+      ],
+      "exemplo": {
+        "situacao": "Um estrangeiro pratica um crime contra um turista brasileiro na França, passa a morar no Brasil, a extradição é negada e o Ministro da Justiça faz a requisição.",
+        "resposta": "Nesse caso, poderá ser aplicada a lei brasileira."
+      }
+    }
+  ],
+  "resumo": {
+    "titulo": "Resumo",
+    "tabela": [
+      {
+        "situacao": "Inciso I",
+        "condicoes": "Não precisa de condições"
+      },
+      {
+        "situacao": "Inciso II",
+        "condicoes": "Precisa dos requisitos do § 2º"
+      },
+      {
+        "situacao": "Estrangeiro contra brasileiro",
+        "condicoes": "Precisa dos requisitos do § 2º e do § 3º"
+      }
+    ]
+  },
+  "questaoConcurso": {
+    "titulo": "Exemplo de concurso",
+    "situacao": "Um brasileiro pratica um crime no exterior previsto no inciso II do art. 7º e retorna ao Brasil.",
+    "pergunta": "A lei brasileira será aplicada automaticamente?",
+    "resposta": "Não. Será necessária a presença de todos os requisitos previstos no § 2º."
+  },
+  "pegadinhas": [
+    {
+      "afirmacao": "Inciso I depende dos requisitos do § 2º.",
+      "gabarito": "Errado",
+      "explicacao": "O inciso I trata da extraterritorialidade incondicionada."
+    },
+    {
+      "afirmacao": "Inciso II aplica automaticamente a lei brasileira.",
+      "gabarito": "Errado",
+      "explicacao": "O inciso II exige o preenchimento de todos os requisitos do § 2º."
+    },
+    {
+      "afirmacao": "Crime praticado por estrangeiro contra brasileiro exige apenas os requisitos do § 2º.",
+      "gabarito": "Errado",
+      "explicacao": "Além dos requisitos do § 2º, são necessários os requisitos previstos no § 3º."
+    }
+  ],
+  "bizu": {
+    "frases": [
+      "Primeiro veja o grupo. Depois veja as condições."
+    ],
+    "mnemonico": {
+      "sigla": "1-0-2",
+      "significado": {
+        "1º grupo": "Zero condições (extraterritorialidade incondicionada)",
+        "2º grupo": "Condições do § 2º",
+        "3º grupo": "Condições do § 2º mais os requisitos do § 3º"
+      },
+      "resumo": "Primeiro identifique o grupo e depois verifique se há necessidade de requisitos para aplicação da lei brasileira."
+    }
+  }
+}
+]

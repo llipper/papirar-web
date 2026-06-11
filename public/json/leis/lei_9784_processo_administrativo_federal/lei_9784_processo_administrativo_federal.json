@@ -1,0 +1,1667 @@
+{
+    "id": "Lei_9784_Processo_Administrativo_Federal",
+    "titulo": "Lei 9784 Processo Administrativo Federal",
+    "apelido": "Lei 9784 Processo Administrativo Federal.",
+    "sigla": "",
+    "fonte": "Lei_9784_Processo_Administrativo_Federal.txt",
+    "fonteHtmlLocal": "leis/Lei_9784_Processo_Administrativo_Federal/l9784.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 9.784 , DE 29 DE JANEIRO DE 1999.",
+            "linha": 1
+        },
+        {
+            "texto": "Regula o processo administrativo no âmbito da Administração Pública Federal.",
+            "linha": 4
+        },
+        {
+            "texto": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+            "linha": 6
+        },
+        {
+            "texto": "CAPÍTULO I",
+            "linha": 8
+        },
+        {
+            "texto": "DAS DISPOSIÇÕES GERAIS",
+            "linha": 9
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 11,
+            "artigos": [
+                {
+                    "numero": "1º",
+                    "rotulo": "Art. 1º",
+                    "linha": 11,
+                    "caput": "Esta Lei estabelece normas básicas sobre o processo administrativo no âmbito da Administração Federal direta e indireta, visando, em especial, à proteção dos direitos dos administrados e ao melhor cumprimento dos fins da Administração.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 13,
+                            "texto": "Os preceitos desta Lei também se aplicam aos órgãos dos Poderes Legislativo e Judiciário da União, quando no desempenho de função administrativa."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 15,
+                            "texto": "Para os fins desta Lei, consideram-se:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 17,
+                                    "texto": "órgão - a unidade de atuação integrante da estrutura da Administração direta e da estrutura da Administração indireta;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 19,
+                                    "texto": "entidade - a unidade de atuação dotada de personalidade jurídica;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 21,
+                                    "texto": "autoridade - o servidor ou agente público dotado de poder de decisão."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 23,
+                    "caput": "A Administração Pública obedecerá, dentre outros, aos princípios da legalidade, finalidade, motivação, razoabilidade, proporcionalidade, moralidade, ampla defesa, contraditório, segurança jurídica, interesse público e eficiência.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 25,
+                            "texto": "Nos processos administrativos serão observados, entre outros, os critérios de:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 27,
+                                    "texto": "atuação conforme a lei e o Direito;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 29,
+                                    "texto": "atendimento a fins de interesse geral, vedada a renúncia total ou parcial de poderes ou competências, salvo autorização em lei;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 31,
+                                    "texto": "objetividade no atendimento do interesse público, vedada a promoção pessoal de agentes ou autoridades;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 33,
+                                    "texto": "atuação segundo padrões éticos de probidade, decoro e boa-fé;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 35,
+                                    "texto": "divulgação oficial dos atos administrativos, ressalvadas as hipóteses de sigilo previstas na Constituição;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 37,
+                                    "texto": "adequação entre meios e fins, vedada a imposição de obrigações, restrições e sanções em medida superior àquelas estritamente necessárias ao atendimento do interesse público;"
+                                },
+                                {
+                                    "numero": "VII",
+                                    "rotulo": "VII",
+                                    "linha": 39,
+                                    "texto": "indicação dos pressupostos de fato e de direito que determinarem a decisão;"
+                                },
+                                {
+                                    "numero": "VIII",
+                                    "rotulo": "VIII",
+                                    "linha": 41,
+                                    "texto": "observância das formalidades essenciais à garantia dos direitos dos administrados;"
+                                },
+                                {
+                                    "numero": "IX",
+                                    "rotulo": "IX",
+                                    "linha": 43,
+                                    "texto": "adoção de formas simples, suficientes para propiciar adequado grau de certeza, segurança e respeito aos direitos dos administrados;"
+                                },
+                                {
+                                    "numero": "X",
+                                    "rotulo": "X",
+                                    "linha": 45,
+                                    "texto": "garantia dos direitos à comunicação, à apresentação de alegações finais, à produção de provas e à interposição de recursos, nos processos de que possam resultar sanções e nas situações de litígio;"
+                                },
+                                {
+                                    "numero": "XI",
+                                    "rotulo": "XI",
+                                    "linha": 47,
+                                    "texto": "proibição de cobrança de despesas processuais, ressalvadas as previstas em lei;"
+                                },
+                                {
+                                    "numero": "XII",
+                                    "rotulo": "XII",
+                                    "linha": 49,
+                                    "texto": "impulsão, de ofício, do processo administrativo, sem prejuízo da atuação dos interessados;"
+                                },
+                                {
+                                    "numero": "XIII",
+                                    "rotulo": "XIII",
+                                    "linha": 51,
+                                    "texto": "interpretação da norma administrativa da forma que melhor garanta o atendimento do fim público a que se dirige, vedada aplicação retroativa de nova interpretação."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO II",
+            "linha": 53,
+            "artigos": [
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 56,
+                    "caput": "O administrado tem os seguintes direitos perante a Administração, sem prejuízo de outros que lhe sejam assegurados:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 58,
+                            "texto": "ser tratado com respeito pelas autoridades e servidores, que deverão facilitar o exercício de seus direitos e o cumprimento de suas obrigações;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 60,
+                            "texto": "ter ciência da tramitação dos processos administrativos em que tenha a condição de interessado, ter vista dos autos, obter cópias de documentos neles contidos e conhecer as decisões proferidas;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 62,
+                            "texto": "formular alegações e apresentar documentos antes da decisão, os quais serão objeto de consideração pelo órgão competente;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 64,
+                            "texto": "fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DOS DIREITOS DOS ADMINISTRADOS",
+            "linhaTitulo": 54
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO III",
+            "linha": 66,
+            "artigos": [
+                {
+                    "numero": "4º",
+                    "rotulo": "Art. 4º",
+                    "linha": 69,
+                    "caput": "São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 71,
+                            "texto": "expor os fatos conforme a verdade;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 73,
+                            "texto": "proceder com lealdade, urbanidade e boa-fé;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 75,
+                            "texto": "não agir de modo temerário;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 77,
+                            "texto": "prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DOS DEVERES DO ADMINISTRADO",
+            "linhaTitulo": 67
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IV",
+            "linha": 79,
+            "artigos": [
+                {
+                    "numero": "5º",
+                    "rotulo": "Art. 5º",
+                    "linha": 82,
+                    "caput": "O processo administrativo pode iniciar-se de ofício ou a pedido de interessado."
+                },
+                {
+                    "numero": "6º",
+                    "rotulo": "Art. 6º",
+                    "linha": 84,
+                    "caput": "O requerimento inicial do interessado, salvo casos em que for admitida solicitação oral, deve ser formulado por escrito e conter os seguintes dados:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 96,
+                            "texto": "É vedada à Administração a recusa imotivada de recebimento de documentos, devendo o servidor orientar o interessado quanto ao suprimento de eventuais falhas."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 86,
+                            "texto": "órgão ou autoridade administrativa a que se dirige;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 88,
+                            "texto": "identificação do interessado ou de quem o represente;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 90,
+                            "texto": "domicílio do requerente ou local para recebimento de comunicações;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 92,
+                            "texto": "formulação do pedido, com exposição dos fatos e de seus fundamentos;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 94,
+                            "texto": "data e assinatura do requerente ou de seu representante."
+                        }
+                    ]
+                },
+                {
+                    "numero": "7º",
+                    "rotulo": "Art. 7º",
+                    "linha": 98,
+                    "caput": "Os órgãos e entidades administrativas deverão elaborar modelos ou formulários padronizados para assuntos que importem pretensões equivalentes."
+                },
+                {
+                    "numero": "8º",
+                    "rotulo": "Art. 8º",
+                    "linha": 100,
+                    "caput": "Quando os pedidos de uma pluralidade de interessados tiverem conteúdo e fundamentos idênticos, poderão ser formulados em um único requerimento, salvo preceito legal em contrário."
+                }
+            ],
+            "titulo": "DO INÍCIO DO PROCESSO",
+            "linhaTitulo": 80
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO V",
+            "linha": 102,
+            "artigos": [
+                {
+                    "numero": "9º",
+                    "rotulo": "Art. 9º",
+                    "linha": 105,
+                    "caput": "São legitimados como interessados no processo administrativo:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 107,
+                            "texto": "pessoas físicas ou jurídicas que o iniciem como titulares de direitos ou interesses individuais ou no exercício do direito de representação;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 109,
+                            "texto": "aqueles que, sem terem iniciado o processo, têm direitos ou interesses que possam ser afetados pela decisão a ser adotada;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 111,
+                            "texto": "as organizações e associações representativas, no tocante a direitos e interesses coletivos;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 113,
+                            "texto": "as pessoas ou as associações legalmente constituídas quanto a direitos ou interesses difusos."
+                        }
+                    ]
+                },
+                {
+                    "numero": "10",
+                    "rotulo": "Art. 10.",
+                    "linha": 115,
+                    "caput": "São capazes, para fins de processo administrativo, os maiores de dezoito anos, ressalvada previsão especial em ato normativo próprio."
+                }
+            ],
+            "titulo": "DOS INTERESSADOS",
+            "linhaTitulo": 103
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VI",
+            "linha": 117,
+            "artigos": [
+                {
+                    "numero": "11",
+                    "rotulo": "Art. 11.",
+                    "linha": 120,
+                    "caput": "A competência é irrenunciável e se exerce pelos órgãos administrativos a que foi atribuída como própria, salvo os casos de delegação e avocação legalmente admitidos."
+                },
+                {
+                    "numero": "12",
+                    "rotulo": "Art. 12.",
+                    "linha": 122,
+                    "caput": "Um órgão administrativo e seu titular poderão, se não houver impedimento legal, delegar parte da sua competência a outros órgãos ou titulares, ainda que estes não lhe sejam hierarquicamente subordinados, quando for conveniente, em razão de circunstâncias de índole técnica, social, econômica, jurídica ou territorial.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 124,
+                            "texto": "O disposto no caput deste artigo aplica-se à delegação de competência dos órgãos colegiados aos respectivos presidentes."
+                        }
+                    ]
+                },
+                {
+                    "numero": "13",
+                    "rotulo": "Art. 13.",
+                    "linha": 126,
+                    "caput": "Não podem ser objeto de delegação:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 128,
+                            "texto": "a edição de atos de caráter normativo;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 130,
+                            "texto": "a decisão de recursos administrativos;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 132,
+                            "texto": "as matérias de competência exclusiva do órgão ou autoridade."
+                        }
+                    ]
+                },
+                {
+                    "numero": "14",
+                    "rotulo": "Art. 14.",
+                    "linha": 134,
+                    "caput": "O ato de delegação e sua revogação deverão ser publicados no meio oficial.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 136,
+                            "texto": "O ato de delegação especificará as matérias e poderes transferidos, os limites da atuação do delegado, a duração e os objetivos da delegação e o recurso cabível, podendo conter ressalva de exercício da atribuição delegada."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 138,
+                            "texto": "O ato de delegação é revogável a qualquer tempo pela autoridade delegante."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 140,
+                            "texto": "As decisões adotadas por delegação devem mencionar explicitamente esta qualidade e considerar-se-ão editadas pelo delegado."
+                        }
+                    ]
+                },
+                {
+                    "numero": "15",
+                    "rotulo": "Art. 15.",
+                    "linha": 142,
+                    "caput": "Será permitida, em caráter excepcional e por motivos relevantes devidamente justificados, a avocação temporária de competência atribuída a órgão hierarquicamente inferior."
+                },
+                {
+                    "numero": "16",
+                    "rotulo": "Art. 16.",
+                    "linha": 144,
+                    "caput": "Os órgãos e entidades administrativas divulgarão publicamente os locais das respectivas sedes e, quando conveniente, a unidade fundacional competente em matéria de interesse especial."
+                },
+                {
+                    "numero": "17",
+                    "rotulo": "Art. 17.",
+                    "linha": 146,
+                    "caput": "Inexistindo competência legal específica, o processo administrativo deverá ser iniciado perante a autoridade de menor grau hierárquico para decidir."
+                }
+            ],
+            "titulo": "DA COMPETÊNCIA",
+            "linhaTitulo": 118
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VII",
+            "linha": 148,
+            "artigos": [
+                {
+                    "numero": "18",
+                    "rotulo": "Art. 18.",
+                    "linha": 151,
+                    "caput": "É impedido de atuar em processo administrativo o servidor ou autoridade que:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 153,
+                            "texto": "tenha interesse direto ou indireto na matéria;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 155,
+                            "texto": "tenha participado ou venha a participar como perito, testemunha ou representante, ou se tais situações ocorrem quanto ao cônjuge, companheiro ou parente e afins até o terceiro grau;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 157,
+                            "texto": "esteja litigando judicial ou administrativamente com o interessado ou respectivo cônjuge ou companheiro."
+                        }
+                    ]
+                },
+                {
+                    "numero": "19",
+                    "rotulo": "Art. 19.",
+                    "linha": 159,
+                    "caput": "A autoridade ou servidor que incorrer em impedimento deve comunicar o fato à autoridade competente, abstendo-se de atuar.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 161,
+                            "texto": "A omissão do dever de comunicar o impedimento constitui falta grave, para efeitos disciplinares."
+                        }
+                    ]
+                },
+                {
+                    "numero": "20",
+                    "rotulo": "Art. 20.",
+                    "linha": 163,
+                    "caput": "Pode ser argüida a suspeição de autoridade ou servidor que tenha amizade íntima ou inimizade notória com algum dos interessados ou com os respectivos cônjuges, companheiros, parentes e afins até o terceiro grau."
+                },
+                {
+                    "numero": "21",
+                    "rotulo": "Art. 21.",
+                    "linha": 165,
+                    "caput": "O indeferimento de alegação de suspeição poderá ser objeto de recurso, sem efeito suspensivo."
+                }
+            ],
+            "titulo": "DOS IMPEDIMENTOS E DA SUSPEIÇÃO",
+            "linhaTitulo": 149
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO VIII",
+            "linha": 167,
+            "artigos": [
+                {
+                    "numero": "22",
+                    "rotulo": "Art. 22.",
+                    "linha": 170,
+                    "caput": "Os atos do processo administrativo não dependem de forma determinada senão quando a lei expressamente a exigir.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 172,
+                            "texto": "Os atos do processo devem ser produzidos por escrito, em vernáculo, com a data e o local de sua realização e a assinatura da autoridade responsável."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 174,
+                            "texto": "Salvo imposição legal, o reconhecimento de firma somente será exigido quando houver dúvida de autenticidade."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 176,
+                            "texto": "A autenticação de documentos exigidos em cópia poderá ser feita pelo órgão administrativo."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 178,
+                            "texto": "O processo deverá ter suas páginas numeradas seqüencialmente e rubricadas."
+                        }
+                    ]
+                },
+                {
+                    "numero": "23",
+                    "rotulo": "Art. 23.",
+                    "linha": 180,
+                    "caput": "Os atos do processo devem realizar-se em dias úteis, no horário normal de funcionamento da repartição na qual tramitar o processo.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 182,
+                            "texto": "Serão concluídos depois do horário normal os atos já iniciados, cujo adiamento prejudique o curso regular do procedimento ou cause dano ao interessado ou à Administração."
+                        }
+                    ]
+                },
+                {
+                    "numero": "24",
+                    "rotulo": "Art. 24.",
+                    "linha": 184,
+                    "caput": "Inexistindo disposição específica, os atos do órgão ou autoridade responsável pelo processo e dos administrados que dele participem devem ser praticados no prazo de cinco dias, salvo motivo de força maior.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 186,
+                            "texto": "O prazo previsto neste artigo pode ser dilatado até o dobro, mediante comprovada justificação."
+                        }
+                    ]
+                },
+                {
+                    "numero": "25",
+                    "rotulo": "Art. 25.",
+                    "linha": 188,
+                    "caput": "Os atos do processo devem realizar-se preferencialmente na sede do órgão, cientificando-se o interessado se outro for o local de realização."
+                }
+            ],
+            "titulo": "DA FORMA, TEMPO E LUGAR DOS ATOS DO PROCESSO",
+            "linhaTitulo": 168
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO IX",
+            "linha": 190,
+            "artigos": [
+                {
+                    "numero": "26",
+                    "rotulo": "Art. 26.",
+                    "linha": 193,
+                    "caput": "O órgão competente perante o qual tramita o processo administrativo determinará a intimação do interessado para ciência de decisão ou a efetivação de diligências.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 195,
+                            "texto": "A intimação deverá conter:",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 197,
+                                    "texto": "identificação do intimado e nome do órgão ou entidade administrativa;"
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 199,
+                                    "texto": "finalidade da intimação;"
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 201,
+                                    "texto": "data, hora e local em que deve comparecer;"
+                                },
+                                {
+                                    "numero": "IV",
+                                    "rotulo": "IV",
+                                    "linha": 203,
+                                    "texto": "se o intimado deve comparecer pessoalmente, ou fazer-se representar;"
+                                },
+                                {
+                                    "numero": "V",
+                                    "rotulo": "V",
+                                    "linha": 205,
+                                    "texto": "informação da continuidade do processo independentemente do seu comparecimento;"
+                                },
+                                {
+                                    "numero": "VI",
+                                    "rotulo": "VI",
+                                    "linha": 207,
+                                    "texto": "indicação dos fatos e fundamentos legais pertinentes."
+                                }
+                            ]
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 209,
+                            "texto": "A intimação observará a antecedência mínima de três dias úteis quanto à data de comparecimento."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 211,
+                            "texto": "A intimação pode ser efetuada por ciência no processo, por via postal com aviso de recebimento, por telegrama ou outro meio que assegure a certeza da ciência do interessado."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 213,
+                            "texto": "No caso de interessados indeterminados, desconhecidos ou com domicílio indefinido, a intimação deve ser efetuada por meio de publicação oficial."
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 215,
+                            "texto": "As intimações serão nulas quando feitas sem observância das prescrições legais, mas o comparecimento do administrado supre sua falta ou irregularidade."
+                        }
+                    ]
+                },
+                {
+                    "numero": "27",
+                    "rotulo": "Art. 27.",
+                    "linha": 217,
+                    "caput": "O desatendimento da intimação não importa o reconhecimento da verdade dos fatos, nem a renúncia a direito pelo administrado.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 219,
+                            "texto": "No prosseguimento do processo, será garantido direito de ampla defesa ao interessado."
+                        }
+                    ]
+                },
+                {
+                    "numero": "28",
+                    "rotulo": "Art. 28.",
+                    "linha": 221,
+                    "caput": "Devem ser objeto de intimação os atos do processo que resultem para o interessado em imposição de deveres, ônus, sanções ou restrição ao exercício de direitos e atividades e os atos de outra natureza, de seu interesse."
+                }
+            ],
+            "titulo": "DA COMUNICAÇÃO DOS ATOS",
+            "linhaTitulo": 191
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO X",
+            "linha": 223,
+            "artigos": [
+                {
+                    "numero": "29",
+                    "rotulo": "Art. 29.",
+                    "linha": 226,
+                    "caput": "As atividades de instrução destinadas a averiguar e comprovar os dados necessários à tomada de decisão realizam-se de ofício ou mediante impulsão do órgão responsável pelo processo, sem prejuízo do direito dos interessados de propor atuações probatórias.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 228,
+                            "texto": "O órgão competente para a instrução fará constar dos autos os dados necessários à decisão do processo."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 230,
+                            "texto": "Os atos de instrução que exijam a atuação dos interessados devem realizar-se do modo menos oneroso para estes."
+                        }
+                    ]
+                },
+                {
+                    "numero": "30",
+                    "rotulo": "Art. 30.",
+                    "linha": 232,
+                    "caput": "São inadmissíveis no processo administrativo as provas obtidas por meios ilícitos."
+                },
+                {
+                    "numero": "31",
+                    "rotulo": "Art. 31.",
+                    "linha": 234,
+                    "caput": "Quando a matéria do processo envolver assunto de interesse geral, o órgão competente poderá, mediante despacho motivado, abrir período de consulta pública para manifestação de terceiros, antes da decisão do pedido, se não houver prejuízo para a parte interessada.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 236,
+                            "texto": "A abertura da consulta pública será objeto de divulgação pelos meios oficiais, a fim de que pessoas físicas ou jurídicas possam examinar os autos, fixando-se prazo para oferecimento de alegações escritas."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 238,
+                            "texto": "O comparecimento à consulta pública não confere, por si, a condição de interessado do processo, mas confere o direito de obter da Administração resposta fundamentada, que poderá ser comum a todas as alegações substancialmente iguais."
+                        }
+                    ]
+                },
+                {
+                    "numero": "32",
+                    "rotulo": "Art. 32.",
+                    "linha": 240,
+                    "caput": "Antes da tomada de decisão, a juízo da autoridade, diante da relevância da questão, poderá ser realizada audiência pública para debates sobre a matéria do processo."
+                },
+                {
+                    "numero": "33",
+                    "rotulo": "Art. 33.",
+                    "linha": 242,
+                    "caput": "Os órgãos e entidades administrativas, em matéria relevante, poderão estabelecer outros meios de participação de administrados, diretamente ou por meio de organizações e associações legalmente reconhecidas."
+                },
+                {
+                    "numero": "34",
+                    "rotulo": "Art. 34.",
+                    "linha": 244,
+                    "caput": "Os resultados da consulta e audiência pública e de outros meios de participação de administrados deverão ser apresentados com a indicação do procedimento adotado."
+                },
+                {
+                    "numero": "35",
+                    "rotulo": "Art. 35.",
+                    "linha": 246,
+                    "caput": "Quando necessária à instrução do processo, a audiência de outros órgãos ou entidades administrativas poderá ser realizada em reunião conjunta, com a participação de titulares ou representantes dos órgãos competentes, lavrando-se a respectiva ata, a ser juntada aos autos."
+                },
+                {
+                    "numero": "36",
+                    "rotulo": "Art. 36.",
+                    "linha": 248,
+                    "caput": "Cabe ao interessado a prova dos fatos que tenha alegado, sem prejuízo do dever atribuído ao órgão competente para a instrução e do disposto no art. 37 desta Lei."
+                },
+                {
+                    "numero": "37",
+                    "rotulo": "Art. 37.",
+                    "linha": 250,
+                    "caput": "Quando o interessado declarar que fatos e dados estão registrados em documentos existentes na própria Administração responsável pelo processo ou em outro órgão administrativo, o órgão competente para a instrução proverá, de ofício, à obtenção dos documentos ou das respectivas cópias."
+                },
+                {
+                    "numero": "38",
+                    "rotulo": "Art. 38.",
+                    "linha": 252,
+                    "caput": "O interessado poderá, na fase instrutória e antes da tomada da decisão, juntar documentos e pareceres, requerer diligências e perícias, bem como aduzir alegações referentes à matéria objeto do processo.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 254,
+                            "texto": "Os elementos probatórios deverão ser considerados na motivação do relatório e da decisão."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 256,
+                            "texto": "Somente poderão ser recusadas, mediante decisão fundamentada, as provas propostas pelos interessados quando sejam ilícitas, impertinentes, desnecessárias ou protelatórias."
+                        }
+                    ]
+                },
+                {
+                    "numero": "39",
+                    "rotulo": "Art. 39.",
+                    "linha": 258,
+                    "caput": "Quando for necessária a prestação de informações ou a apresentação de provas pelos interessados ou terceiros, serão expedidas intimações para esse fim, mencionando-se data, prazo, forma e condições de atendimento.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 260,
+                            "texto": "Não sendo atendida a intimação, poderá o órgão competente, se entender relevante a matéria, suprir de ofício a omissão, não se eximindo de proferir a decisão."
+                        }
+                    ]
+                },
+                {
+                    "numero": "40",
+                    "rotulo": "Art. 40.",
+                    "linha": 262,
+                    "caput": "Quando dados, atuações ou documentos solicitados ao interessado forem necessários à apreciação de pedido formulado, o não atendimento no prazo fixado pela Administração para a respectiva apresentação implicará arquivamento do processo."
+                },
+                {
+                    "numero": "41",
+                    "rotulo": "Art. 41.",
+                    "linha": 264,
+                    "caput": "Os interessados serão intimados de prova ou diligência ordenada, com antecedência mínima de três dias úteis, mencionando-se data, hora e local de realização."
+                },
+                {
+                    "numero": "42",
+                    "rotulo": "Art. 42.",
+                    "linha": 266,
+                    "caput": "Quando deva ser obrigatoriamente ouvido um órgão consultivo, o parecer deverá ser emitido no prazo máximo de quinze dias, salvo norma especial ou comprovada necessidade de maior prazo.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 268,
+                            "texto": "Se um parecer obrigatório e vinculante deixar de ser emitido no prazo fixado, o processo não terá seguimento até a respectiva apresentação, responsabilizando-se quem der causa ao atraso."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 270,
+                            "texto": "Se um parecer obrigatório e não vinculante deixar de ser emitido no prazo fixado, o processo poderá ter prosseguimento e ser decidido com sua dispensa, sem prejuízo da responsabilidade de quem se omitiu no atendimento."
+                        }
+                    ]
+                },
+                {
+                    "numero": "43",
+                    "rotulo": "Art. 43.",
+                    "linha": 272,
+                    "caput": "Quando por disposição de ato normativo devam ser previamente obtidos laudos técnicos de órgãos administrativos e estes não cumprirem o encargo no prazo assinalado, o órgão responsável pela instrução deverá solicitar laudo técnico de outro órgão dotado de qualificação e capacidade técnica equivalentes."
+                },
+                {
+                    "numero": "44",
+                    "rotulo": "Art. 44.",
+                    "linha": 274,
+                    "caput": "Encerrada a instrução, o interessado terá o direito de manifestar-se no prazo máximo de dez dias, salvo se outro prazo for legalmente fixado."
+                },
+                {
+                    "numero": "45",
+                    "rotulo": "Art. 45.",
+                    "linha": 276,
+                    "caput": "Em caso de risco iminente, a Administração Pública poderá motivadamente adotar providências acauteladoras sem a prévia manifestação do interessado."
+                },
+                {
+                    "numero": "46",
+                    "rotulo": "Art. 46.",
+                    "linha": 278,
+                    "caput": "Os interessados têm direito à vista do processo e a obter certidões ou cópias reprográficas dos dados e documentos que o integram, ressalvados os dados e documentos de terceiros protegidos por sigilo ou pelo direito à privacidade, à honra e à imagem."
+                },
+                {
+                    "numero": "47",
+                    "rotulo": "Art. 47.",
+                    "linha": 280,
+                    "caput": "O órgão de instrução que não for competente para emitir a decisão final elaborará relatório indicando o pedido inicial, o conteúdo das fases do procedimento e formulará proposta de decisão, objetivamente justificada, encaminhando o processo à autoridade competente."
+                }
+            ],
+            "titulo": "DA INSTRUÇÃO",
+            "linhaTitulo": 224
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XI",
+            "linha": 282,
+            "artigos": [
+                {
+                    "numero": "48",
+                    "rotulo": "Art. 48.",
+                    "linha": 285,
+                    "caput": "A Administração tem o dever de explicitamente emitir decisão nos processos administrativos e sobre solicitações ou reclamações, em matéria de sua competência."
+                },
+                {
+                    "numero": "49",
+                    "rotulo": "Art. 49.",
+                    "linha": 287,
+                    "caput": "Concluída a instrução de processo administrativo, a Administração tem o prazo de até trinta dias para decidir, salvo prorrogação por igual período expressamente motivada."
+                }
+            ],
+            "titulo": "DO DEVER DE DECIDIR",
+            "linhaTitulo": 283
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XI-A",
+            "linha": 289,
+            "artigos": [
+                {
+                    "numero": "49-A",
+                    "rotulo": "Art. 49-A.",
+                    "linha": 295,
+                    "caput": "No âmbito da Administração Pública federal, as decisões administrativas que exijam a participação de 3 (três) ou mais setores, órgãos ou entidades poderão ser tomadas mediante decisão coordenada, sempre que: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 301,
+                            "texto": "Para os fins desta Lei, considera-se decisão coordenada a instância de natureza interinstitucional ou intersetorial que atua de forma compartilhada com a finalidade de simplificar o processo administrativo mediante participação concomitante de todas as autoridades e agentes decisórios e dos responsáveis pela instrução técnico-jurídica, observada a natureza do objeto e a compatibilidade do procedimento e de sua formalização com a legislação pertinente. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 303,
+                            "texto": "(VETADO). "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 305,
+                            "texto": "(VETADO). "
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 307,
+                            "texto": "A decisão coordenada não exclui a responsabilidade originária de cada órgão ou autoridade envolvida. "
+                        },
+                        {
+                            "numero": "5º",
+                            "rotulo": "§ 5º",
+                            "linha": 309,
+                            "texto": "A decisão coordenada obedecerá aos princípios da legalidade, da eficiência e da transparência, com utilização, sempre que necessário, da simplificação do procedimento e da concentração das instâncias decisórias. "
+                        },
+                        {
+                            "numero": "6º",
+                            "rotulo": "§ 6º",
+                            "linha": 311,
+                            "texto": "Não se aplica a decisão coordenada aos processos administrativos: ",
+                            "incisos": [
+                                {
+                                    "numero": "I",
+                                    "rotulo": "I",
+                                    "linha": 313,
+                                    "texto": "de licitação; "
+                                },
+                                {
+                                    "numero": "II",
+                                    "rotulo": "II",
+                                    "linha": 315,
+                                    "texto": "relacionados ao poder sancionador; ou "
+                                },
+                                {
+                                    "numero": "III",
+                                    "rotulo": "III",
+                                    "linha": 317,
+                                    "texto": "em que estejam envolvidas autoridades de Poderes distintos. "
+                                }
+                            ]
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 297,
+                            "texto": "for justificável pela relevância da matéria; e "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 299,
+                            "texto": "houver discordância que prejudique a celeridade do processo administrativo decisório. "
+                        }
+                    ],
+                    "rubrica": "",
+                    "linhaRubrica": 293
+                },
+                {
+                    "numero": "49-B",
+                    "rotulo": "Art. 49-B.",
+                    "linha": 319,
+                    "caput": "Poderão habilitar-se a participar da decisão coordenada, na qualidade de ouvintes, os interessados de que trata o art. 9º desta Lei. ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 321,
+                            "texto": "A participação na reunião, que poderá incluir direito a voz, será deferida por decisão irrecorrível da autoridade responsável pela convocação da decisão coordenada. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "49-C",
+                    "rotulo": "Art. 49-C.",
+                    "linha": 323,
+                    "caput": "(VETADO). "
+                },
+                {
+                    "numero": "49-D",
+                    "rotulo": "Art. 49-D.",
+                    "linha": 325,
+                    "caput": "Os participantes da decisão coordenada deverão ser intimados na forma do art. 26 desta Lei. "
+                },
+                {
+                    "numero": "49-E",
+                    "rotulo": "Art. 49-E.",
+                    "linha": 327,
+                    "caput": "Cada órgão ou entidade participante é responsável pela elaboração de documento específico sobre o tema atinente à respectiva competência, a fim de subsidiar os trabalhos e integrar o processo da decisão coordenada. ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 329,
+                            "texto": "O documento previsto no caput deste artigo abordará a questão objeto da decisão coordenada e eventuais precedentes. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "49-F",
+                    "rotulo": "Art. 49-F.",
+                    "linha": 331,
+                    "caput": "Eventual dissenso na solução do objeto da decisão coordenada deverá ser manifestado durante as reuniões, de forma fundamentada, acompanhado das propostas de solução e de alteração necessárias para a resolução da questão. ",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 333,
+                            "texto": "Não poderá ser arguida matéria estranha ao objeto da convocação. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "49-G",
+                    "rotulo": "Art. 49-G.",
+                    "linha": 335,
+                    "caput": "A conclusão dos trabalhos da decisão coordenada será consolidada em ata, que conterá as seguintes informações: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 349,
+                            "texto": "Até a assinatura da ata, poderá ser complementada a fundamentação da decisão da autoridade ou do agente a respeito de matéria de competência do órgão ou da entidade representada. "
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 351,
+                            "texto": "(VETADO). "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 353,
+                            "texto": "A ata será publicada por extrato no Diário Oficial da União, do qual deverão constar, além do registro referido no inciso IV do caput deste artigo, os dados identificadores da decisão coordenada e o órgão e o local em que se encontra a ata em seu inteiro teor, para conhecimento dos interessados. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 337,
+                            "texto": "relato sobre os itens da pauta; "
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 339,
+                            "texto": "síntese dos fundamentos aduzidos; "
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 341,
+                            "texto": "síntese das teses pertinentes ao objeto da convocação; "
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 343,
+                            "texto": "registro das orientações, das diretrizes, das soluções ou das propostas de atos governamentais relativos ao objeto da convocação; "
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 345,
+                            "texto": "posicionamento dos participantes para subsidiar futura atuação governamental em matéria idêntica ou similar; e "
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 347,
+                            "texto": "decisão de cada órgão ou entidade relativa à matéria sujeita à sua competência. "
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DA DECISÃO COORDENADA",
+            "linhaTitulo": 291
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XII",
+            "linha": 355,
+            "artigos": [
+                {
+                    "numero": "50",
+                    "rotulo": "Art. 50.",
+                    "linha": 358,
+                    "caput": "Os atos administrativos deverão ser motivados, com indicação dos fatos e dos fundamentos jurídicos, quando:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 376,
+                            "texto": "A motivação deve ser explícita, clara e congruente, podendo consistir em declaração de concordância com fundamentos de anteriores pareceres, informações, decisões ou propostas, que, neste caso, serão parte integrante do ato."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 378,
+                            "texto": "Na solução de vários assuntos da mesma natureza, pode ser utilizado meio mecânico que reproduza os fundamentos das decisões, desde que não prejudique direito ou garantia dos interessados."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 380,
+                            "texto": "A motivação das decisões de órgãos colegiados e comissões ou de decisões orais constará da respectiva ata ou de termo escrito."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 360,
+                            "texto": "neguem, limitem ou afetem direitos ou interesses;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 362,
+                            "texto": "imponham ou agravem deveres, encargos ou sanções;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 364,
+                            "texto": "decidam processos administrativos de concurso ou seleção pública;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 366,
+                            "texto": "dispensem ou declarem a inexigibilidade de processo licitatório;"
+                        },
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 368,
+                            "texto": "decidam recursos administrativos;"
+                        },
+                        {
+                            "numero": "VI",
+                            "rotulo": "VI",
+                            "linha": 370,
+                            "texto": "decorram de reexame de ofício;"
+                        },
+                        {
+                            "numero": "VII",
+                            "rotulo": "VII",
+                            "linha": 372,
+                            "texto": "deixem de aplicar jurisprudência firmada sobre a questão ou discrepem de pareceres, laudos, propostas e relatórios oficiais;"
+                        },
+                        {
+                            "numero": "VIII",
+                            "rotulo": "VIII",
+                            "linha": 374,
+                            "texto": "importem anulação, revogação, suspensão ou convalidação de ato administrativo."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DA MOTIVAÇÃO",
+            "linhaTitulo": 356
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XIII",
+            "linha": 382,
+            "artigos": [
+                {
+                    "numero": "51",
+                    "rotulo": "Art. 51.",
+                    "linha": 385,
+                    "caput": "O interessado poderá, mediante manifestação escrita, desistir total ou parcialmente do pedido formulado ou, ainda, renunciar a direitos disponíveis.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 387,
+                            "texto": "Havendo vários interessados, a desistência ou renúncia atinge somente quem a tenha formulado."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 389,
+                            "texto": "A desistência ou renúncia do interessado, conforme o caso, não prejudica o prosseguimento do processo, se a Administração considerar que o interesse público assim o exige."
+                        }
+                    ]
+                },
+                {
+                    "numero": "52",
+                    "rotulo": "Art. 52.",
+                    "linha": 391,
+                    "caput": "O órgão competente poderá declarar extinto o processo quando exaurida sua finalidade ou o objeto da decisão se tornar impossível, inútil ou prejudicado por fato superveniente."
+                }
+            ],
+            "titulo": "DA DESISTÊNCIA E OUTROS CASOS DE EXTINÇÃO DO PROCESSO",
+            "linhaTitulo": 383
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XIV",
+            "linha": 393,
+            "artigos": [
+                {
+                    "numero": "53",
+                    "rotulo": "Art. 53.",
+                    "linha": 396,
+                    "caput": "A Administração deve anular seus próprios atos, quando eivados de vício de legalidade, e pode revogá-los por motivo de conveniência ou oportunidade, respeitados os direitos adquiridos."
+                },
+                {
+                    "numero": "54",
+                    "rotulo": "Art. 54.",
+                    "linha": 398,
+                    "caput": "O direito da Administração de anular os atos administrativos de que decorram efeitos favoráveis para os destinatários decai em cinco anos, contados da data em que foram praticados, salvo comprovada má-fé.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 400,
+                            "texto": "No caso de efeitos patrimoniais contínuos, o prazo de decadência contar-se-á da percepção do primeiro pagamento."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 402,
+                            "texto": "Considera-se exercício do direito de anular qualquer medida de autoridade administrativa que importe impugnação à validade do ato."
+                        }
+                    ]
+                },
+                {
+                    "numero": "55",
+                    "rotulo": "Art. 55.",
+                    "linha": 404,
+                    "caput": "Em decisão na qual se evidencie não acarretarem lesão ao interesse público nem prejuízo a terceiros, os atos que apresentarem defeitos sanáveis poderão ser convalidados pela própria Administração."
+                }
+            ],
+            "titulo": "DA ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO",
+            "linhaTitulo": 394
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XV",
+            "linha": 406,
+            "artigos": [
+                {
+                    "numero": "56",
+                    "rotulo": "Art. 56.",
+                    "linha": 409,
+                    "caput": "Das decisões administrativas cabe recurso, em face de razões de legalidade e de mérito.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 411,
+                            "texto": "O recurso será dirigido à autoridade que proferiu a decisão, a qual, se não a reconsiderar no prazo de cinco dias, o encaminhará à autoridade superior."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 413,
+                            "texto": "Salvo exigência legal, a interposição de recurso administrativo independe de caução."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 415,
+                            "texto": "Se o recorrente alegar que a decisão administrativa contraria enunciado da súmula vinculante, caberá à autoridade prolatora da decisão impugnada, se não a reconsiderar, explicitar, antes de encaminhar o recurso à autoridade superior, as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. . Vigência"
+                        }
+                    ]
+                },
+                {
+                    "numero": "57",
+                    "rotulo": "Art. 57.",
+                    "linha": 417,
+                    "caput": "O recurso administrativo tramitará no máximo por três instâncias administrativas, salvo disposição legal diversa."
+                },
+                {
+                    "numero": "58",
+                    "rotulo": "Art. 58.",
+                    "linha": 419,
+                    "caput": "Têm legitimidade para interpor recurso administrativo:",
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 421,
+                            "texto": "os titulares de direitos e interesses que forem parte no processo;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 423,
+                            "texto": "aqueles cujos direitos ou interesses forem indiretamente afetados pela decisão recorrida;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 425,
+                            "texto": "as organizações e associações representativas, no tocante a direitos e interesses coletivos;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 427,
+                            "texto": "os cidadãos ou associações, quanto a direitos ou interesses difusos."
+                        }
+                    ]
+                },
+                {
+                    "numero": "59",
+                    "rotulo": "Art. 59.",
+                    "linha": 429,
+                    "caput": "Salvo disposição legal específica, é de dez dias o prazo para interposição de recurso administrativo, contado a partir da ciência ou divulgação oficial da decisão recorrida.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 431,
+                            "texto": "Quando a lei não fixar prazo diferente, o recurso administrativo deverá ser decidido no prazo máximo de trinta dias, a partir do recebimento dos autos pelo órgão competente."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 433,
+                            "texto": "O prazo mencionado no parágrafo anterior poderá ser prorrogado por igual período, ante justificativa explícita."
+                        }
+                    ]
+                },
+                {
+                    "numero": "60",
+                    "rotulo": "Art. 60.",
+                    "linha": 435,
+                    "caput": "O recurso interpõe-se por meio de requerimento no qual o recorrente deverá expor os fundamentos do pedido de reexame, podendo juntar os documentos que julgar convenientes."
+                },
+                {
+                    "numero": "61",
+                    "rotulo": "Art. 61.",
+                    "linha": 437,
+                    "caput": "Salvo disposição legal em contrário, o recurso não tem efeito suspensivo.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 439,
+                            "texto": "Havendo justo receio de prejuízo de difícil ou incerta reparação decorrente da execução, a autoridade recorrida ou a imediatamente superior poderá, de ofício ou a pedido, dar efeito suspensivo ao recurso."
+                        }
+                    ]
+                },
+                {
+                    "numero": "62",
+                    "rotulo": "Art. 62.",
+                    "linha": 441,
+                    "caput": "Interposto o recurso, o órgão competente para dele conhecer deverá intimar os demais interessados para que, no prazo de cinco dias úteis, apresentem alegações."
+                },
+                {
+                    "numero": "63",
+                    "rotulo": "Art. 63.",
+                    "linha": 443,
+                    "caput": "O recurso não será conhecido quando interposto:",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 453,
+                            "texto": "Na hipótese do inciso II, será indicada ao recorrente a autoridade competente, sendo-lhe devolvido o prazo para recurso."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 455,
+                            "texto": "O não conhecimento do recurso não impede a Administração de rever de ofício o ato ilegal, desde que não ocorrida preclusão administrativa."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 445,
+                            "texto": "fora do prazo;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 447,
+                            "texto": "perante órgão incompetente;"
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 449,
+                            "texto": "por quem não seja legitimado;"
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 451,
+                            "texto": "após exaurida a esfera administrativa."
+                        }
+                    ]
+                },
+                {
+                    "numero": "64",
+                    "rotulo": "Art. 64.",
+                    "linha": 457,
+                    "caput": "O órgão competente para decidir o recurso poderá confirmar, modificar, anular ou revogar, total ou parcialmente, a decisão recorrida, se a matéria for de sua competência.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 459,
+                            "texto": "Se da aplicação do disposto neste artigo puder decorrer gravame à situação do recorrente, este deverá ser cientificado para que formule suas alegações antes da decisão."
+                        }
+                    ]
+                },
+                {
+                    "numero": "64-A",
+                    "rotulo": "Art. 64-A.",
+                    "linha": 461,
+                    "caput": "Se o recorrente alegar violação de enunciado da súmula vinculante, o órgão competente para decidir o recurso explicitará as razões da aplicabilidade ou inaplicabilidade da súmula, conforme o caso. . Vigência"
+                },
+                {
+                    "numero": "64-B",
+                    "rotulo": "Art. 64-B.",
+                    "linha": 463,
+                    "caput": "Acolhida pelo Supremo Tribunal Federal a reclamação fundada em violação de enunciado da súmula vinculante, dar-se-á ciência à autoridade prolatora e ao órgão competente para o julgamento do recurso, que deverão adequar as futuras decisões administrativas em casos semelhantes, sob pena de responsabilização pessoal nas esferas cível, administrativa e penal. . Vigência"
+                },
+                {
+                    "numero": "65",
+                    "rotulo": "Art. 65.",
+                    "linha": 465,
+                    "caput": "Os processos administrativos de que resultem sanções poderão ser revistos, a qualquer tempo, a pedido ou de ofício, quando surgirem fatos novos ou circunstâncias relevantes suscetíveis de justificar a inadequação da sanção aplicada.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 467,
+                            "texto": "Da revisão do processo não poderá resultar agravamento da sanção."
+                        }
+                    ]
+                }
+            ],
+            "titulo": "DO RECURSO ADMINISTRATIVO E DA REVISÃO",
+            "linhaTitulo": 407
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XVI",
+            "linha": 469,
+            "artigos": [
+                {
+                    "numero": "66",
+                    "rotulo": "Art. 66.",
+                    "linha": 472,
+                    "caput": "Os prazos começam a correr a partir da data da cientificação oficial, excluindo-se da contagem o dia do começo e incluindo-se o do vencimento.",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 474,
+                            "texto": "Considera-se prorrogado o prazo até o primeiro dia útil seguinte se o vencimento cair em dia em que não houver expediente ou este for encerrado antes da hora normal."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 476,
+                            "texto": "Os prazos expressos em dias contam-se de modo contínuo."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 478,
+                            "texto": "Os prazos fixados em meses ou anos contam-se de data a data. Se no mês do vencimento não houver o dia equivalente àquele do início do prazo, tem-se como termo o último dia do mês."
+                        }
+                    ]
+                },
+                {
+                    "numero": "67",
+                    "rotulo": "Art. 67.",
+                    "linha": 480,
+                    "caput": "Salvo motivo de força maior devidamente comprovado, os prazos processuais não se suspendem."
+                }
+            ],
+            "titulo": "DOS PRAZOS",
+            "linhaTitulo": 470
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XVII",
+            "linha": 482,
+            "artigos": [
+                {
+                    "numero": "68",
+                    "rotulo": "Art. 68.",
+                    "linha": 485,
+                    "caput": "As sanções, a serem aplicadas por autoridade competente, terão natureza pecuniária ou consistirão em obrigação de fazer ou de não fazer, assegurado sempre o direito de defesa."
+                }
+            ],
+            "titulo": "DAS SANÇÕES",
+            "linhaTitulo": 483
+        },
+        {
+            "tipo": "capitulo",
+            "rotulo": "CAPÍTULO XVIII",
+            "linha": 487,
+            "artigos": [
+                {
+                    "numero": "69",
+                    "rotulo": "Art. 69.",
+                    "linha": 490,
+                    "caput": "Os processos administrativos específicos continuarão a reger-se por lei própria, aplicando-se-lhes apenas subsidiariamente os preceitos desta Lei."
+                },
+                {
+                    "numero": "69-A",
+                    "rotulo": "Art. 69-A.",
+                    "linha": 492,
+                    "caput": "Terão prioridade na tramitação, em qualquer órgão ou instância, os procedimentos administrativos em que figure como parte ou interessado: .",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 502,
+                            "texto": "A pessoa interessada na obtenção do benefício, juntando prova de sua condição, deverá requerê-lo à autoridade administrativa competente, que determinará as providências a serem cumpridas. ."
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 504,
+                            "texto": "Deferida a prioridade, os autos receberão identificação própria que evidencie o regime de tramitação prioritária. ."
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 506,
+                            "texto": "(VETADO) ."
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 508,
+                            "texto": "(VETADO) ."
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 494,
+                            "texto": "pessoa com idade igual ou superior a 60 (sessenta) anos; ."
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 496,
+                            "texto": "pessoa portadora de deficiência, física ou mental; ."
+                        },
+                        {
+                            "numero": "III",
+                            "rotulo": "III",
+                            "linha": 498,
+                            "texto": "(VETADO) ."
+                        },
+                        {
+                            "numero": "IV",
+                            "rotulo": "IV",
+                            "linha": 500,
+                            "texto": "pessoa portadora de tuberculose ativa, esclerose múltipla, neoplasia maligna, hanseníase, paralisia irreversível e incapacitante, cardiopatia grave, doença de Parkinson, espondiloartrose anquilosante, nefropatia grave, hepatopatia grave, estados avançados da doença de Paget (osteíte deformante), contaminação por radiação, síndrome de imunodeficiência adquirida, ou outra doença grave, com base em conclusão da medicina especializada, mesmo que a doença tenha sido contraída após o início do processo. ."
+                        }
+                    ]
+                },
+                {
+                    "numero": "70",
+                    "rotulo": "Art. 70.",
+                    "linha": 510,
+                    "caput": "Esta Lei entra em vigor na data de sua publicação."
+                }
+            ],
+            "titulo": "DAS DISPOSIÇÕES FINAIS",
+            "linhaTitulo": 488
+        },
+        {
+            "tipo": "fecho",
+            "linha": 512,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília 29 de janeiro de 1999; 178o da Independência e 111o da República.",
+                    "linha": 512
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "FERNANDO HENRIQUE CARDOSO",
+                    "linha": 514
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Renan Calheiros",
+                    "linha": 515
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Paulo Paiva",
+                    "linha": 516
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 1.2.1999 e retificado em 11.3.1999",
+                    "linha": 518
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "*",
+                    "linha": 520
+                }
+            ]
+        }
+    ]
+}

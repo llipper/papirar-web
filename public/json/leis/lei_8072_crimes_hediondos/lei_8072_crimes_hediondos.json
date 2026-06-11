@@ -1,0 +1,301 @@
+{
+    "id": "Lei_8072_Crimes_Hediondos",
+    "titulo": "Lei 8072 Crimes Hediondos",
+    "apelido": "Lei 8072 Crimes Hediondos.",
+    "sigla": "",
+    "fonte": "Lei_8072_Crimes_Hediondos.txt",
+    "fonteHtmlLocal": "leis/Lei_8072_Crimes_Hediondos/l8072.htm",
+    "preambulo": [
+        {
+            "texto": "LEI Nº 8.072, DE 25 DE JULHO DE 1990.",
+            "linha": 1
+        },
+        {
+            "texto": "Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Constituição Federal, e determina outras providências.",
+            "linha": 3
+        },
+        {
+            "texto": "O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:",
+            "linha": 5
+        },
+        {
+            "texto": "Art. 1o São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados:  ",
+            "linha": 8
+        }
+    ],
+    "divisoes": [
+        {
+            "tipo": "texto",
+            "rotulo": "TEXTO",
+            "linha": 78,
+            "artigos": [
+                {
+                    "numero": "2º",
+                    "rotulo": "Art. 2º",
+                    "linha": 78,
+                    "caput": "Os crimes hediondos, a prática da tortura, o tráfico ilícito de entorpecentes e drogas afins e o terrorismo são insuscetíveis de: ",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 85,
+                            "texto": "A pena por crime previsto neste artigo será cumprida inicialmente em regime fechado. "
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 91,
+                            "texto": "Em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade. ",
+                            "rubrica": "",
+                            "linhaRubrica": 89
+                        },
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 93,
+                            "texto": "A prisão temporária, sobre a qual dispõe a Lei no 7.960, de 21 de dezembro de 1989, nos crimes previstos neste artigo, terá o prazo de 30 (trinta) dias, prorrogável por igual período em caso de extrema e comprovada necessidade. "
+                        }
+                    ],
+                    "incisos": [
+                        {
+                            "numero": "I",
+                            "rotulo": "I",
+                            "linha": 80,
+                            "texto": "anistia, graça e indulto;"
+                        },
+                        {
+                            "numero": "II",
+                            "rotulo": "II",
+                            "linha": 83,
+                            "texto": "fiança. "
+                        }
+                    ]
+                },
+                {
+                    "numero": "3º",
+                    "rotulo": "Art. 3º",
+                    "linha": 95,
+                    "caput": "A União manterá estabelecimentos penais, de segurança máxima, destinados ao cumprimento de penas impostas a condenados de alta periculosidade, cuja permanência em presídios estaduais ponha em risco a ordem ou incolumidade pública."
+                },
+                {
+                    "numero": "4º",
+                    "rotulo": "Art. 4º",
+                    "linha": 97,
+                    "caput": "(Vetado)."
+                },
+                {
+                    "numero": "5º",
+                    "rotulo": "Art. 5º",
+                    "linha": 99,
+                    "caput": "Ao art. 83 do Código Penal é acrescido o seguinte inciso:",
+                    "incisos": [
+                        {
+                            "numero": "V",
+                            "rotulo": "V",
+                            "linha": 105,
+                            "texto": "cumprido mais de dois terços da pena, nos casos de condenação por crime hediondo, prática da tortura, tráfico ilícito de entorpecentes e drogas afins, e terrorismo, se o apenado não for reincidente específico em crimes dessa natureza.\"",
+                            "rubrica": "\"Art. 83.",
+                            "linhaRubrica": 101
+                        }
+                    ]
+                },
+                {
+                    "numero": "6º",
+                    "rotulo": "Art. 6º",
+                    "linha": 107,
+                    "caput": "Os arts. 157, § 3º; 159, caput e seus §§ 1º, 2º e 3º; 213; 214; 223, caput e seu parágrafo único; 267, caput e 270; caput, todos do Código Penal, passam a vigorar com a seguinte redação:",
+                    "paragrafos": [
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 111,
+                            "texto": "Se da violência resulta lesão corporal grave, a pena é de reclusão, de cinco a quinze anos, além da multa; se resulta morte, a reclusão é de vinte a trinta anos, sem prejuízo da multa.",
+                            "rubrica": "\"Art. 157.",
+                            "linhaRubrica": 109
+                        }
+                    ]
+                },
+                {
+                    "numero": "159",
+                    "rotulo": "Art. 159.",
+                    "linha": 115,
+                    "caput": "",
+                    "paragrafos": [
+                        {
+                            "numero": "1º",
+                            "rotulo": "§ 1º",
+                            "linha": 119,
+                            "texto": "",
+                            "rubrica": "Pena - reclusão, de oito a quinze anos.",
+                            "linhaRubrica": 117
+                        },
+                        {
+                            "numero": "2º",
+                            "rotulo": "§ 2º",
+                            "linha": 123,
+                            "texto": "",
+                            "rubrica": "Pena - reclusão, de doze a vinte anos.",
+                            "linhaRubrica": 121
+                        },
+                        {
+                            "numero": "3º",
+                            "rotulo": "§ 3º",
+                            "linha": 127,
+                            "texto": "",
+                            "rubrica": "Pena - reclusão, de dezesseis a vinte e quatro anos.",
+                            "linhaRubrica": 125
+                        }
+                    ]
+                },
+                {
+                    "numero": "213",
+                    "rotulo": "Art. 213.",
+                    "linha": 133,
+                    "caput": "",
+                    "rubrica": "Pena - reclusão, de vinte e quatro a trinta anos.",
+                    "linhaRubrica": 129
+                },
+                {
+                    "numero": "214",
+                    "rotulo": "Art. 214.",
+                    "linha": 137,
+                    "caput": "",
+                    "rubrica": "Pena - reclusão, de seis a dez anos.",
+                    "linhaRubrica": 135
+                },
+                {
+                    "numero": "223",
+                    "rotulo": "Art. 223.",
+                    "linha": 143,
+                    "caput": "",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 147,
+                            "texto": "",
+                            "rubrica": "Pena - reclusão, de oito a doze anos.",
+                            "linhaRubrica": 145
+                        }
+                    ],
+                    "rubrica": "Pena - reclusão, de seis a dez anos.",
+                    "linhaRubrica": 139
+                },
+                {
+                    "numero": "267",
+                    "rotulo": "Art. 267.",
+                    "linha": 153,
+                    "caput": "",
+                    "rubrica": "Pena - reclusão, de doze a vinte e cinco anos.",
+                    "linhaRubrica": 149
+                },
+                {
+                    "numero": "270",
+                    "rotulo": "Art. 270.",
+                    "linha": 159,
+                    "caput": "",
+                    "rubrica": "Pena - reclusão, de dez a quinze anos.",
+                    "linhaRubrica": 155
+                },
+                {
+                    "numero": "7º",
+                    "rotulo": "Art. 7º",
+                    "linha": 165,
+                    "caput": "Ao art. 159 do Código Penal fica acrescido o seguinte parágrafo:",
+                    "paragrafos": [
+                        {
+                            "numero": "4º",
+                            "rotulo": "§ 4º",
+                            "linha": 171,
+                            "texto": "Se o crime é cometido por quadrilha ou bando, o co-autor que denunciá-lo à autoridade, facilitando a libertação do seqüestrado, terá sua pena reduzida de um a dois terços.\"",
+                            "rubrica": "\"Art. 159.",
+                            "linhaRubrica": 167
+                        }
+                    ],
+                    "rubrica": "Pena - reclusão, de dez a quinze anos.",
+                    "linhaRubrica": 161
+                },
+                {
+                    "numero": "8º",
+                    "rotulo": "Art. 8º",
+                    "linha": 173,
+                    "caput": "Será de três a seis anos de reclusão a pena prevista no art. 288 do Código Penal, quando se tratar de crimes hediondos, prática da tortura, tráfico ilícito de entorpecentes e drogas afins ou terrorismo.",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 175,
+                            "texto": "O participante e o associado que denunciar à autoridade o bando ou quadrilha, possibilitando seu desmantelamento, terá a pena reduzida de um a dois terços."
+                        }
+                    ]
+                },
+                {
+                    "numero": "9º",
+                    "rotulo": "Art. 9º",
+                    "linha": 177,
+                    "caput": "As penas fixadas no art. 6º para os crimes capitulados nos arts. 157, § 3º, 158, § 2º, 159, caput e seus §§ 1º, 2º e 3º, 213, caput e sua combinação com o art. 223, caput e parágrafo único, 214 e sua combinação com o art. 223, caput e parágrafo único, todos do Código Penal, são acrescidas de metade, respeitado o limite superior de trinta anos de reclusão, estando a vítima em qualquer das hipóteses referidas no art. 224 também do Código Penal."
+                },
+                {
+                    "numero": "10",
+                    "rotulo": "Art. 10.",
+                    "linha": 179,
+                    "caput": "O art. 35 da Lei nº 6.368, de 21 de outubro de 1976, passa a vigorar acrescido de parágrafo único, com a seguinte redação:",
+                    "paragrafos": [
+                        {
+                            "numero": "único",
+                            "rotulo": "Parágrafo único",
+                            "linha": 183,
+                            "texto": "Os prazos procedimentais deste capítulo serão contados em dobro quando se tratar dos crimes previstos nos arts. 12, 13 e 14.\"",
+                            "rubrica": "\"Art. 35.",
+                            "linhaRubrica": 181
+                        }
+                    ]
+                },
+                {
+                    "numero": "11",
+                    "rotulo": "Art. 11.",
+                    "linha": 185,
+                    "caput": "(Vetado)."
+                },
+                {
+                    "numero": "12",
+                    "rotulo": "Art. 12.",
+                    "linha": 187,
+                    "caput": "Esta lei entra em vigor na data de sua publicação."
+                },
+                {
+                    "numero": "13",
+                    "rotulo": "Art. 13.",
+                    "linha": 189,
+                    "caput": "Revogam-se as disposições em contrário."
+                }
+            ]
+        },
+        {
+            "tipo": "fecho",
+            "linha": 191,
+            "itens": [
+                {
+                    "tipo": "texto",
+                    "texto": "Brasília, 25 de julho de 1990; 169º da Independência e 102º da República.",
+                    "linha": 191
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "FERNANDO COLLOR",
+                    "linha": 193
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Bernardo Cabral",
+                    "linha": 194
+                },
+                {
+                    "tipo": "texto",
+                    "texto": "Este texto não substitui o publicado no DOU de 26.7.1990",
+                    "linha": 196
+                }
+            ]
+        }
+    ]
+}

@@ -127,3 +127,157 @@
     @apply font-sans;
     }
 }
+
+/* ==========================================================================
+   Letra da Lei CSS overrides for Planalto HTML
+   ========================================================================== */
+
+.letra-da-lei {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+.letra-da-lei p {
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+  text-align: justify;
+  line-height: 1.8;
+  color: inherit !important;
+  font-family: inherit !important;
+}
+
+/* Reset planalto legacy font and span stylings to inherit from reader controls */
+.letra-da-lei font,
+.letra-da-lei span {
+  font-family: inherit !important;
+  font-size: inherit !important;
+  color: inherit !important;
+  background-color: transparent !important;
+}
+
+/* Stylings for strong, b and sub-headers */
+.letra-da-lei strong,
+.letra-da-lei b {
+  font-weight: 700;
+  color: inherit !important;
+}
+
+/* Muted look for revoked/altered sections of the law */
+.letra-da-lei strike,
+.letra-da-lei del,
+.letra-da-lei s {
+  color: #a3a3a3 !important; /* Neutral gray */
+  text-decoration: line-through;
+  text-decoration-color: currentColor;
+  opacity: 0.6;
+  font-weight: normal;
+  transition: opacity 0.2s ease;
+}
+
+.dark .letra-da-lei strike,
+.dark .letra-da-lei del,
+.dark .letra-da-lei s {
+  color: #525252 !important;
+  opacity: 0.7;
+}
+
+/* Clean animations and hides when hide-revogados toggle is active */
+.letra-da-lei.hide-revogados strike,
+.letra-da-lei.hide-revogados del,
+.letra-da-lei.hide-revogados s {
+  display: none !important;
+}
+
+/* Clean premium links for references */
+.letra-da-lei a {
+  color: #2563eb !important; /* premium blue */
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+  transition: color 0.15s ease;
+}
+
+.letra-da-lei a:hover {
+  color: #1d4ed8 !important;
+}
+
+.dark .letra-da-lei a {
+  color: #60a5fa !important;
+}
+
+.dark .letra-da-lei a:hover {
+  color: #93c5fd !important;
+}
+
+/* Responsive and styled tables for list-style layout elements */
+.letra-da-lei table {
+  width: 100% !important;
+  border-collapse: collapse;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.95em;
+}
+
+.letra-da-lei td,
+.letra-da-lei th {
+  padding: 0.75rem 1rem;
+  vertical-align: top;
+  border: 1px solid #e5e7eb;
+  color: inherit !important;
+}
+
+.dark .letra-da-lei td,
+.dark .letra-da-lei th {
+  border-color: #262626;
+}
+
+/* Alignments and layout fixes */
+.letra-da-lei p[align="center"],
+.letra-da-lei p[align="CENTER"],
+.letra-da-lei div[align="center"],
+.letra-da-lei div[align="CENTER"] {
+  text-align: center !important;
+}
+
+.letra-da-lei p[align="right"],
+.letra-da-lei p[align="RIGHT"],
+.letra-da-lei div[align="right"],
+.letra-da-lei div[align="RIGHT"] {
+  text-align: right !important;
+}
+
+.letra-da-lei p[align="justify"],
+.letra-da-lei p[align="JUSTIFY"],
+.letra-da-lei div[align="justify"],
+.letra-da-lei div[align="JUSTIFY"] {
+  text-align: justify !important;
+}
+
+.letra-da-lei center,
+.letra-da-lei center p {
+  text-align: center !important;
+  display: block;
+}
+
+/* Planalto HTML uses ul/li elements for layout indentations, not list bullets */
+.letra-da-lei ul,
+.letra-da-lei ol,
+.letra-da-lei li {
+  list-style: none !important;
+  list-style-type: none !important;
+}
+
+.letra-da-lei li {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  color: inherit !important;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
