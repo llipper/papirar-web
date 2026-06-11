@@ -1,9 +1,10 @@
 "use client"
 
 import Link from "next/link"
+import Image from "next/image"
 import { useRouter } from "next/navigation"
 import { useState, type FormEvent } from "react"
-import { RiBookOpenLine, RiEyeCloseLine, RiEyeLine } from "@remixicon/react"
+import { RiEyeCloseLine, RiEyeLine } from "@remixicon/react"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -64,8 +65,15 @@ export function LoginForm({
         <FieldGroup>
           <div className="flex flex-col items-center gap-2 text-center">
             <Link href="/" className="flex flex-col items-center gap-2 font-medium">
-              <div className="flex size-9 items-center justify-center rounded-lg border bg-background">
-                <RiBookOpenLine className="size-5" />
+              <div className="flex size-12 items-center justify-center rounded-xl border bg-background p-2 shadow-sm">
+                <Image
+                  src="/logo/logo.png"
+                  alt="Papirar"
+                  width={32}
+                  height={32}
+                  priority
+                  className="size-8 object-contain"
+                />
               </div>
               <span className="sr-only">Papirar</span>
             </Link>
