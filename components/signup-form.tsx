@@ -1,8 +1,9 @@
 "use client"
 
 import Link from "next/link"
+import { useRouter } from "next/navigation"
 import { useState, type FormEvent } from "react"
-import { RiBookOpenLine } from "@remixicon/react"
+import { RiBookOpenLine, RiEyeCloseLine, RiEyeLine } from "@remixicon/react"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -13,6 +14,12 @@ import {
   FieldLabel,
 } from "@/components/ui/field"
 import { Input } from "@/components/ui/input"
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupButton,
+  InputGroupInput,
+} from "@/components/ui/input-group"
 import { createSupabaseBrowserClient } from "@/lib/supabase/client"
 import { cn } from "@/lib/utils"
 
@@ -20,14 +27,15 @@ export function SignupForm({
   className,
   ...props
 }: React.ComponentProps<"div">) {
+  const router = useRouter()
   const [error, setError] = useState("")
-  const [message, setMessage] = useState("")
   const [loading, setLoading] = useState(false)
+  const [showPassword, setShowPassword] = useState(false)
+  const [showConfirmPassword, setShowConfirmPassword] = useState(false)
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
     setError("")
-    setMessage("")
 
     const formData = new FormData(event.currentTarget)
     const displayName = String(formData.get("displayName") || "").trim()
@@ -69,8 +77,8 @@ export function SignupForm({
       return
     }
 
-    setMessage("Conta criada. Verifique seu email para confirmar o acesso.")
-    event.currentTarget.reset()
+    router.replace("/login")
+    router.refresh()
   }
 
   return (
@@ -118,34 +126,61 @@ export function SignupForm({
 
           <Field>
             <FieldLabel htmlFor="password">Senha</FieldLabel>
-            <Input
-              id="password"
-              name="password"
-              type="password"
-              autoComplete="new-password"
-              minLength={6}
-              required
-            />
+            <InputGroup>
+              <InputGroupInput
+                id="password"
+                name="password"
+                type={showPassword ? "text" : "password"}
+                autoComplete="new-password"
+                minLength={6}
+                required
+              />
+              <InputGroupAddon align="inline-end">
+                <InputGroupButton
+                  size="icon-xs"
+                  aria-label={showPassword ? "Ocultar senha" : "Mostrar senha"}
+                  onClick={() => setShowPassword((value) => !value)}
+                >
+                  {showPassword ? (
+                    <RiEyeCloseLine className="size-4" />
+                  ) : (
+                    <RiEyeLine className="size-4" />
+                  )}
+                </InputGroupButton>
+              </InputGroupAddon>
+            </InputGroup>
           </Field>
 
           <Field>
             <FieldLabel htmlFor="confirmPassword">Confirmar senha</FieldLabel>
-            <Input
-              id="confirmPassword"
-              name="confirmPassword"
-              type="password"
-              autoComplete="new-password"
-              minLength={6}
-              required
-            />
+            <InputGroup>
+              <InputGroupInput
+                id="confirmPassword"
+                name="confirmPassword"
+                type={showConfirmPassword ? "text" : "password"}
+                autoComplete="new-password"
+                minLength={6}
+                required
+              />
+              <InputGroupAddon align="inline-end">
+                <InputGroupButton
+                  size="icon-xs"
+                  aria-label={
+                    showConfirmPassword ? "Ocultar senha" : "Mostrar senha"
+                  }
+                  onClick={() => setShowConfirmPassword((value) => !value)}
+                >
+                  {showConfirmPassword ? (
+                    <RiEyeCloseLine className="size-4" />
+                  ) : (
+                    <RiEyeLine className="size-4" />
+                  )}
+                </InputGroupButton>
+              </InputGroupAddon>
+            </InputGroup>
           </Field>
 
           {error && <FieldError>{error}</FieldError>}
-          {message && (
-            <FieldDescription className="rounded-lg border border-emerald-500/30 bg-emerald-500/10 p-3 text-emerald-700 dark:text-emerald-300">
-              {message}
-            </FieldDescription>
-          )}
 
           <Field>
             <Button type="submit" disabled={loading}>

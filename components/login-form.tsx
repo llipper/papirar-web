@@ -3,7 +3,7 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { useState, type FormEvent } from "react"
-import { RiBookOpenLine } from "@remixicon/react"
+import { RiBookOpenLine, RiEyeCloseLine, RiEyeLine } from "@remixicon/react"
 
 import { Button } from "@/components/ui/button"
 import {
@@ -14,6 +14,12 @@ import {
   FieldLabel,
 } from "@/components/ui/field"
 import { Input } from "@/components/ui/input"
+import {
+  InputGroup,
+  InputGroupAddon,
+  InputGroupButton,
+  InputGroupInput,
+} from "@/components/ui/input-group"
 import { createSupabaseBrowserClient } from "@/lib/supabase/client"
 import { cn } from "@/lib/utils"
 
@@ -24,6 +30,7 @@ export function LoginForm({
   const router = useRouter()
   const [error, setError] = useState("")
   const [loading, setLoading] = useState(false)
+  const [showPassword, setShowPassword] = useState(false)
 
   async function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault()
@@ -82,14 +89,29 @@ export function LoginForm({
 
           <Field>
             <FieldLabel htmlFor="password">Senha</FieldLabel>
-            <Input
-              id="password"
-              name="password"
-              type="password"
-              autoComplete="current-password"
-              minLength={6}
-              required
-            />
+            <InputGroup>
+              <InputGroupInput
+                id="password"
+                name="password"
+                type={showPassword ? "text" : "password"}
+                autoComplete="current-password"
+                minLength={6}
+                required
+              />
+              <InputGroupAddon align="inline-end">
+                <InputGroupButton
+                  size="icon-xs"
+                  aria-label={showPassword ? "Ocultar senha" : "Mostrar senha"}
+                  onClick={() => setShowPassword((value) => !value)}
+                >
+                  {showPassword ? (
+                    <RiEyeCloseLine className="size-4" />
+                  ) : (
+                    <RiEyeLine className="size-4" />
+                  )}
+                </InputGroupButton>
+              </InputGroupAddon>
+            </InputGroup>
           </Field>
 
           {error && <FieldError>{error}</FieldError>}
