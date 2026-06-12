@@ -3,8 +3,15 @@
 import Link from "next/link"
 import { useRouter } from "next/navigation"
 import { MouseEvent, useEffect, useMemo, useRef, useState } from "react"
-import { BookOpen, ChevronLeft, ChevronRight, Search } from "lucide-react"
+import {
+  BookOpen,
+  ChevronLeft,
+  ChevronRight,
+  Search,
+  UserRound,
+} from "lucide-react"
 
+import { Button } from "@/components/ui/button"
 import { createSupabaseBrowserClient } from "@/lib/supabase/client"
 
 export type LeiItem = {
@@ -178,8 +185,17 @@ export default function LeisClient() {
   return (
     <main className="min-h-screen bg-white text-neutral-950">
       <div className="mx-auto max-w-6xl px-6 py-14">
+        <div className="mb-8 flex justify-end">
+          <Button variant="outline" asChild>
+            <Link href="/perfil">
+              <UserRound className="size-4" />
+              Perfil
+            </Link>
+          </Button>
+        </div>
+
         <header className="mx-auto mb-16 max-w-3xl text-center">
-          <p className="mb-3 text-[10px] font-bold uppercase tracking-[0.45em] text-indigo-500">
+          <p className="mb-3 text-[10px] font-bold tracking-[0.45em] text-indigo-500 uppercase">
             Minha Legislação
           </p>
 
@@ -260,7 +276,7 @@ export default function LeisClient() {
                 onMouseMove={onMouseMove}
                 onMouseUp={stopDragging}
                 onMouseLeave={stopDragging}
-                className="no-scrollbar flex cursor-grab select-none gap-8 overflow-x-auto scroll-smooth pb-7 active:cursor-grabbing"
+                className="no-scrollbar flex cursor-grab gap-8 overflow-x-auto scroll-smooth pb-7 select-none active:cursor-grabbing"
               >
                 {itens.map((lei) => (
                   <Link
@@ -282,15 +298,17 @@ export default function LeisClient() {
                     >
                       <div className="absolute inset-x-0 top-0 h-8 bg-white/15" />
 
-                      <p className="mb-6 mt-2 text-[10px] font-bold uppercase tracking-[0.28em] text-white/70">
+                      <p className="mt-2 mb-6 text-[10px] font-bold tracking-[0.28em] text-white/70 uppercase">
                         {categoria}
                       </p>
 
-                      <h3 className="font-serif text-[16px] font-black leading-[1.05] text-white">
-                        {lei.apelido || lei.titulo || lei.slug.replaceAll("_", " ")}
+                      <h3 className="font-serif text-[16px] leading-[1.05] font-black text-white">
+                        {lei.apelido ||
+                          lei.titulo ||
+                          lei.slug.replaceAll("_", " ")}
                       </h3>
 
-                      <div className="absolute bottom-0 left-0 right-0 flex h-14 items-center justify-between bg-white/18 px-5 backdrop-blur-[1px]">
+                      <div className="absolute right-0 bottom-0 left-0 flex h-14 items-center justify-between bg-white/18 px-5 backdrop-blur-[1px]">
                         <p className="max-w-[130px] truncate text-[11px] font-medium text-white/60">
                           {lei.slug}
                         </p>
