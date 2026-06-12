@@ -29,7 +29,6 @@ Da Classificação
 
 Art. 5º - Os condenados serão classificados, segundo os seus antecedentes e personalidade, para orientar a individualização da execução penal.
 
-
 Art. 6o A classificação será feita por Comissão Técnica de Classificação que elaborará o programa individualizador da pena privativa de liberdade adequada ao condenado ou preso provisório.                     
 
 Art. 7º - A Comissão Técnica de Classificação, existente em cada estabelecimento, será presidida pelo Diretor e composta, no mínimo, por dois chefes de serviço, um psiquiatra, um psicólogo e um assistente social, quando se tratar de condenado à pena privativa de liberdade.
@@ -48,7 +47,6 @@ II - requisitar, de repartições ou estabelecimentos privados, dados e informa�
 
 III - realizar outras diligências e exames necessários.
 
-
 Art. 9º-A. O condenado à pena de reclusão em regime inicial fechado será submetido obrigatoriamente à identificação do perfil genético, mediante extração de DNA (ácido desoxirribonucleico), por técnica adequada e indolor, por ocasião do ingresso no estabelecimento prisional.        
 
 § 1o  A identificação do perfil genético será armazenada em banco de dados sigiloso, conforme regulamento a ser expedido pelo Poder Executivo.   
@@ -61,12 +59,9 @@ Art. 9º-A. O condenado à pena de reclusão em regime inicial fechado será sub
 
 § 4º O condenado pelos crimes previstos no caput deste artigo que não tiver sido submetido à identificação do perfil genético por ocasião do ingresso no estabelecimento prisional deverá ser submetido ao procedimento durante o cumprimento da pena.             
 
-
 § 5º A amostra biológica coletada só poderá ser utilizada para o único e exclusivo fim de permitir a identificação pelo perfil genético, não estando autorizadas as práticas de fenotipagem genética.           
 
-
 § 6º Uma vez identificado o perfil genético, a amostra biológica recolhida nos termos do caput deste artigo deverá ser correta e imediatamente descartada, guardando-se material suficiente para a eventualidade de nova perícia, nos termos do regulamento, vedada a sua utilização para qualquer outro fim.        
-
 
 § 7º A coleta da amostra biológica será realizada por agente público treinado e respeitará os procedimentos de cadeia de custódia definidos pela legislação em vigor e complementados pelo órgão de perícia oficial de natureza criminal.          
 
@@ -116,8 +111,6 @@ Da assistência à saúde
 
 Art. 14 - A assistência à saúde do preso e do internado, de caráter preventivo e curativo, compreenderá atendimento médico, farmacêutico e odontológico.
 
-§ 1º - (Vetado).
-
 § 2º - Quando o estabelecimento penal não estiver aparelhado para prover a assistência médica necessária, esta será prestada em outro local, mediante autorização da direção do estabelecimento.
 
 § 3o  Será assegurado acompanhamento médico à mulher, principalmente no pré-natal e no pós-parto, extensivo ao recém-nascido.     
@@ -129,7 +122,6 @@ Seção IV
 Da assistência jurídica
 
 Art. 15 - A assistência jurídica é destinada aos presos e aos internados sem recursos financeiros para constituir advogado.
-
 
 Art. 16.  As Unidades da Federação deverão ter serviços de assistência jurídica, integral e gratuita, pela Defensoria Pública, dentro e fora dos estabelecimentos penais.     
 
@@ -467,12 +459,6 @@ II - retardar, injustificadamente, o cumprimento da obrigação imposta;
 
 III - inobservar os deveres previstos nos incisos II e V do artigo 39 desta lei.
 
-
-
-
-
-
-
 Art. 52. A prática de fato previsto como crime doloso constitui falta grave e, quando ocasionar subversão da ordem ou disciplina internas, sujeitará o preso provisório, ou condenado, nacional ou estrangeiro, sem prejuízo da sanção penal, ao regime disciplinar diferenciado, com as seguintes características:  
 
 I - duração máxima de até 2 (dois) anos, sem prejuízo de repetição da sanção por nova falta grave de mesma espécie;    
@@ -495,12 +481,6 @@ I - que apresentem alto risco para a ordem e a segurança do estabelecimento pen
 
 II - sob os quais recaiam fundadas suspeitas de envolvimento ou participação, a qualquer título, em organização criminosa, associação criminosa ou milícia privada, independentemente da prática de falta grave.  
 
-III - (VETADO);    
-
-IV - (VETADO).    
-
-§ 2º (Revogado).    
-
 § 3º Existindo indícios de que o preso exerce liderança em organização criminosa, associação criminosa ou milícia privada, ou que tenha atuação criminosa em 2 (dois) ou mais Estados da Federação, o regime disciplinar diferenciado será obrigatoriamente cumprido em estabelecimento prisional federal.   
 
 § 4º Na hipótese dos parágrafos anteriores, o regime disciplinar diferenciado poderá ser prorrogado sucessivamente, por períodos de 1 (um) ano, existindo indícios de que o preso:   
@@ -511,15 +491,11 @@ II - mantém os vínculos com organização criminosa, associação criminosa ou
 
 § 5º Na hipótese prevista no § 3º deste artigo, o regime disciplinar diferenciado deverá contar com alta segurança interna e externa, principalmente no que diz respeito à necessidade de se evitar contato do preso com membros de sua organização criminosa, associação criminosa ou milícia privada, ou de grupos rivais.   
 
-
 § 6º A visita de que trata o inciso III do caput deste artigo será gravada em sistema de áudio ou de áudio e vídeo, com autorização judicial, e acompanhada por policial penal.     
 
 § 7º Após os primeiros 6 (seis) meses de regime disciplinar diferenciado, o preso que não receber a visita de que trata o inciso III do caput deste artigo poderá, após prévio agendamento, ter contato telefônico, que será gravado, com uma pessoa da família, 2 (duas) vezes por mês e por 10 (dez) minutos.    
 
-
 § 8º Também estará sujeito ao regime disciplinar diferenciado, nos termos do caput deste artigo, o preso que, tendo cometido crime de violência doméstica e familiar contra a mulher, ameace ou pratique violência contra a vítima ou seus familiares.   
-
-§ 9º (VETADO).   
 
 § 10. Desde a data de recolhimento do preso provisório ou condenado e, presentes os pressupostos legais, o diretor do estabelecimento ou outra autoridade administrativa ou o órgão do Ministério Público poderá solicitar ao juiz sua inclusão no regime disciplinar diferenciado.   
 
@@ -539,11 +515,9 @@ IV - isolamento na própria cela, ou em local adequado, nos estabelecimentos que
 
 V - inclusão no regime disciplinar diferenciado.                        
 
-
 Art. 54. As sanções dos incisos I a IV do art. 53 serão aplicadas por ato motivado do diretor do estabelecimento e a do inciso V, por prévio e fundamentado despacho do juiz competente.       
 
 § 1o A autorização para a inclusão do preso em regime disciplinar dependerá de requerimento circunstanciado elaborado pelo diretor do estabelecimento ou outra autoridade administrativa.       
-
 
 § 2º O juiz decidirá liminarmente sobre o pedido de inclusão de preso em regime disciplinar diferenciado e prolatará decisão final no prazo máximo de 15 (quinze) dias, após manifestação do Ministério Público e da defesa.   
 
@@ -563,11 +537,9 @@ SUBSEÇÃO IV
 
 Da Aplicação das Sanções
 
-
 Art. 57. Na aplicação das sanções disciplinares, levar-se-ão em conta a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão.                   
 
 Parágrafo único. Nas faltas graves, aplicam-se as sanções previstas nos incisos III a V do art. 53 desta Lei.                      
-
 
 Art. 58. O isolamento, a suspensão e a restrição de direitos não poderão exceder a trinta dias, ressalvada a hipótese do regime disciplinar diferenciado.                       
 
@@ -580,7 +552,6 @@ Do Procedimento Disciplinar
 Art. 59. Praticada a falta disciplinar, deverá ser instaurado o procedimento para sua apuração, conforme regulamento, assegurado o direito de defesa.
 
 Parágrafo único. A decisão será motivada.
-
 
 Art. 60. A autoridade administrativa poderá decretar o isolamento preventivo do faltoso pelo prazo de até dez dias. A inclusão do preso no regime disciplinar diferenciado, no interesse da disciplina e da averiguação do fato, dependerá de despacho do juiz competente.                      
 
@@ -742,7 +713,6 @@ Art. 69. O Conselho Penitenciário é órgão consultivo e fiscalizador da execu
 
 Art. 70. Incumbe ao Conselho Penitenciário:
 
-
 I - emitir parecer sobre indulto e comutação de pena, excetuada a hipótese de pedido de indulto com base no estado de saúde do preso;                   
 
 II - inspecionar os estabelecimentos e serviços penais;
@@ -831,7 +801,6 @@ CAPÍTULO VIII
 
 Do Conselho da Comunidade
 
-
 Art. 80.  Haverá, em cada comarca, um Conselho da Comunidade composto, no mínimo, por 1 (um) representante de associação comercial ou industrial, 1 (um) advogado indicado pela Seção da Ordem dos Advogados do Brasil, 1 (um) Defensor Público indicado pelo Defensor Público Geral e 1 (um) assistente social escolhido pela Delegacia Seccional do Conselho Nacional de Assistentes Sociais.                      
 
 Parágrafo único. Na falta da representação prevista neste artigo, ficará a critério do Juiz da execução a escolha dos integrantes do Conselho.
@@ -902,7 +871,6 @@ Disposições Gerais
 
 Art. 82. Os estabelecimentos penais destinam-se ao condenado, ao submetido à medida de segurança, ao preso provisório e ao egresso.
 
-
 § 1° A mulher e o maior de sessenta anos, separadamente, serão recolhidos a estabelecimento próprio e adequado à sua condição pessoal.                         
 
 § 2º - O mesmo conjunto arquitetônico poderá abrigar estabelecimentos de destinação diversa desde que devidamente isolados.
@@ -910,7 +878,6 @@ Art. 82. Os estabelecimentos penais destinam-se ao condenado, ao submetido à me
 Art. 83. O estabelecimento penal, conforme a sua natureza, deverá contar em suas dependências com áreas e serviços destinados a dar assistência, educação, trabalho, recreação e prática esportiva.
 
 § 1º Haverá instalação destinada a estágio de estudantes universitários.                     
-
 
 § 2o  Os estabelecimentos penais destinados a mulheres serão dotados de berçário, onde as condenadas possam cuidar de seus filhos, inclusive amamentá-los, no mínimo, até 6 (seis) meses de idade.                     
 
@@ -942,7 +909,6 @@ IV - transporte de presos para órgãos do Poder Judiciário, hospitais e outros
 
 Art. 84. O preso provisório ficará separado do condenado por sentença transitada em julgado.
 
-
 § 1o  Os presos provisórios ficarão separados de acordo com os seguintes critérios:                      
 
 I - acusados pela prática de crimes hediondos ou equiparados;                   
@@ -971,13 +937,11 @@ Parágrafo único. O Conselho Nacional de Política Criminal e Penitenciária de
 
 Art. 86. As penas privativas de liberdade aplicadas pela Justiça de uma Unidade Federativa podem ser executadas em outra     unidade, em estabelecimento local ou da União.
 
-
 § 1o A União Federal poderá construir estabelecimento penal em local distante da condenação para recolher os condenados, quando a medida se justifique no interesse da segurança pública ou do próprio condenado.  
 
 § 2° Conforme a natureza do estabelecimento, nele poderão trabalhar os liberados ou egressos que se dediquem a obras públicas ou ao aproveitamento de terras ociosas.
 
 § 3º Caberá ao juiz competente, no prazo de 24 (vinte e quatro) horas, a requerimento da administração penitenciária, definir o estabelecimento prisional adequado para abrigar o preso provisório ou condenado, em atenção ao regime e aos requisitos estabelecidos.   
-
 
 § 4º Será transferido para estabelecimento penal localizado em outra unidade federativa, inclusive da União, o condenado ou preso provisório que, tendo cometido crime de violência doméstica e familiar contra a mulher, ameace ou pratique violência contra a vítima ou seus familiares durante o cumprimento da pena.
 
@@ -998,7 +962,6 @@ Parágrafo único. São requisitos básicos da unidade celular:
 a) salubridade do ambiente pela concorrência dos fatores de aeração, insolação e condicionamento térmico adequado à existência humana;
 
 b) área mínima de 6,00m2 (seis metros quadrados).
-
 
 Art. 89.  Além dos requisitos referidos no art. 88, a penitenciária de mulheres será dotada de seção para gestante e parturiente e de creche para abrigar crianças maiores de 6 (seis) meses e menores de 7 (sete) anos, com a finalidade de assistir a criança desamparada cuja responsável estiver presa.                
 
@@ -1124,31 +1087,21 @@ Art. 111. Quando houver condenação por mais de um crime, no mesmo processo ou 
 
 Parágrafo único. Sobrevindo condenação no curso da execução, somar-se-á a pena ao restante da que está sendo cumprida, para determinação do regime.
 
-
-
-
-
 Art. 112. A pena privativa de liberdade será executada de forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime anterior e seu mérito indicar a progressão, observadas as seguintes exceções: 
-
 
 I – se o apenado for primário e for condenado pela prática de crime mediante o exercício de violência ou grave ameaça, salvo em relação aos crimes previstos no Título XII da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), deverão ser cumpridos ao menos 25% (vinte e cinco por cento) da pena;     
 
-
 II – se o apenado for reincidente e for condenado pela prática de crime mediante o exercício de violência ou grave ameaça, salvo em relação aos crimes previstos no Título XII da Parte Especial do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), deverão ser cumpridos ao menos 30% (trinta por cento) da pena;     
-
 
 III – se o apenado for reincidente em crime diverso dos crimes referidos nos incisos I e II do caput deste artigo, deverão ser cumpridos ao menos 20% (vinte por cento) da pena;    
 
 IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;            
 
-
 V - 70% (setenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;      
-
 
 VI - 75% (setenta e cinco por cento) da pena, se o apenado for:     
 
 a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;            
-
 
 b) condenado por exercer o comando, individual ou coletivo, de organização criminosa ultraviolenta estruturada para a prática de crime hediondo ou equiparado, vedado o livramento condicional;    
 
@@ -1156,21 +1109,9 @@ c) condenado pela prática do crime de constituição de milícia privada;
 
 d) condenado pela prática de feminicídio, se for primário, vedado o livramento condicional;    
 
-
-VI-A - (revogado);    
-
-
 VII - 80% (oitenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;    
 
-
 VIII - 85% (oitenta e cinco por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional.    
-
-IX – (VETADO);   
-
-X – (VETADO).   
-
-
-
 
 § 1º Em todos os casos, o apenado somente terá direito à progressão de regime se ostentar boa conduta carcerária, comprovada pelo diretor do estabelecimento, e pelos resultados do exame criminológico, respeitadas as normas que vedam a progressão.   
 
@@ -1194,7 +1135,6 @@ V - não ter integrado organização criminosa.
 
 § 6º O cometimento de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena, caso em que o reinício da contagem do requisito objetivo terá como base a pena remanescente.             
 
-
 § 7º O bom comportamento é readquirido após 1 (um) ano da ocorrência do fato, ou antes, após o cumprimento do requisito temporal exigível para a obtenção do direito.                  
 
 Art. 113. O ingresso do condenado em regime aberto supõe a aceitação de seu programa e das condições impostas pelo Juiz.
@@ -1202,8 +1142,6 @@ Art. 113. O ingresso do condenado em regime aberto supõe a aceitação de seu p
 Art. 114. Somente poderá ingressar no regime aberto o condenado que:
 
 I - estiver trabalhando ou comprovar a possibilidade de fazê-lo imediatamente;
-
-II - apresentar, pelos seus antecedentes e pelos resultados do exame criminológico, fundados indícios de que irá ajustar-se, com autodisciplina, baixa periculosidade e senso de responsabilidade, ao novo regime.  
 
 Parágrafo único. Poderão ser dispensadas do trabalho as pessoas referidas no artigo 117 desta Lei.
 
@@ -1267,16 +1205,9 @@ Da Saída Temporária
 
 Art. 122. Os condenados que cumprem pena em regime semi-aberto poderão obter autorização para saída temporária do estabelecimento, sem vigilância direta, nos seguintes casos:
 
-
-I - (revogado); 
-
 II - freqüência a curso supletivo profissionalizante, bem como de instrução do 2º grau ou superior, na Comarca do Juízo da Execução;
 
-
-III - (revogado).  
-
 § 1º  A ausência de vigilância direta não impede a utilização de equipamento de monitoração eletrônica pelo condenado, quando assim determinar o juiz da execução.    
-
 
 § 2º Não terá direito à saída temporária de que trata o caput deste artigo ou a trabalho externo sem vigilância direta o condenado que cumpre pena por praticar crime hediondo ou com violência ou grave ameaça contra pessoa.   
 
@@ -1290,22 +1221,6 @@ II - cumprimento mínimo de 1/6 (um sexto) da pena, se o condenado for primário
 
 III - compatibilidade do benefício com os objetivos da pena.
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 Art. 125. O benefício será automaticamente revogado quando o condenado praticar fato definido como crime doloso, for punido por falta grave, desatender as condições impostas na autorização ou revelar baixo grau de aproveitamento do curso.
 
 Parágrafo único. A recuperação do direito à saída temporária dependerá da absolvição no processo penal, do cancelamento da punição disciplinar ou da demonstração do merecimento do condenado.
@@ -1314,9 +1229,7 @@ Seção IV
 
 Da Remição
 
-
 Art. 126.  O condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.                  .
-
 
 § 1o  A contagem de tempo referida no caput será feita à razão de:                  
 
@@ -1340,14 +1253,9 @@ II - 1 (um) dia de pena a cada 3 (três) dias de trabalho.
 
 § 9º O cumprimento da pena restritiva de liberdade em regime domiciliar não impede a remição da pena.   
 
-
 Art. 127.  Em caso de falta grave, o juiz poderá revogar até 1/3 (um terço) do tempo remido, observado o disposto no art. 57, recomeçando a contagem a partir da data da infração disciplinar.                  
 
-
 Art. 128.  O tempo remido será computado como pena cumprida, para todos os efeitos.                    
-
-
-
 
 Art. 129.  A autoridade administrativa encaminhará mensalmente ao juízo da execução cópia do registro de todos os condenados que estejam trabalhando ou estudando, com informação dos dias de trabalho ou das horas de frequência escolar ou de atividades de ensino de cada um deles.                 
 
@@ -1435,7 +1343,6 @@ Art. 142. No caso de revogação por outro motivo, não se computará na pena o 
 
 Art. 143. A revogação será decretada a requerimento do Ministério Público, mediante representação do Conselho Penitenciário, ou, de ofício, pelo Juiz, ouvido o liberado.
 
-
 Art. 144.  O Juiz, de ofício, a requerimento do Ministério Público, da Defensoria Pública ou mediante representação do Conselho Penitenciário, e ouvido o liberado, poderá modificar as condições especificadas na sentença, devendo o respectivo ato decisório ser lido ao liberado por uma das autoridades ou funcionários indicados no inciso I do caput do art. 137 desta Lei, observado o disposto nos incisos II e III e §§ 1o e 2o do mesmo artigo.           
 
 Art. 145. Praticada pelo liberado outra infração penal, o Juiz poderá ordenar a sua prisão, ouvidos o Conselho Penitenciário e o Ministério Público, suspendendo o curso do livramento condicional, cuja revogação, entretanto, ficará dependendo da decisão final.
@@ -1483,7 +1390,6 @@ Art. 146-D.  A monitoração eletrônica poderá ser revogada:
 I - quando se tornar desnecessária ou inadequada;                 
 
 II - se o acusado ou condenado violar os deveres a que estiver sujeito durante a sua vigência ou cometer falta grave.              
-
 
 Art. 146-E. O condenado por crime contra a mulher por razões da condição do sexo feminino, nos termos do § 1º do art. 121-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), ou por crimes contra a dignidade sexual, ao usufruir de qualquer benefício em que ocorra a sua saída de estabelecimento penal, será fiscalizado por meio de monitoração eletrônica.   
 
@@ -1709,13 +1615,6 @@ e) sofrer condenação por outro crime à pena privativa de liberdade, cuja exec
 
 § 3º A pena de interdição temporária de direitos será convertida quando o condenado exercer, injustificadamente, o direito interditado ou se ocorrer qualquer das hipóteses das letras "a" e "e", do § 1º, deste artigo.
 
-Art. 182. .            
-
-§ 1º             
-
-§ 2º            
-
-
 Art. 183.  Quando, no curso da execução da pena privativa de liberdade, sobrevier doença mental ou perturbação da saúde mental, o Juiz, de ofício, a requerimento do Ministério Público, da Defensoria Pública ou da autoridade administrativa, poderá determinar a substituição da pena por medida de segurança.         
 
 Art. 184. O tratamento ambulatorial poderá ser convertido em internação se o agente revelar incompatibilidade com a medida.
@@ -1802,5 +1701,3 @@ Brasília, 11 de julho de 1984; 163º da Independência e 96º da República.
 
 JOÃO FIGUEIREDO
 Ibrahim Abi-Ackel
-
-Este texto não substitui o publicado no DOU de 13.7.1984

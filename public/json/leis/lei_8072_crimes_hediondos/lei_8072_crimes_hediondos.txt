@@ -4,9 +4,7 @@ Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Cons
 
 O PRESIDENTE DA REPÚBLICA, faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
 
-
 Art. 1o São considerados hediondos os seguintes crimes, todos tipificados no Decreto-Lei no 2.848, de 7 de dezembro de 1940 - Código Penal, consumados ou tentados:      
-
 
 I - homicídio (art. 121), quando praticado em atividade típica de grupo de extermínio, ainda que cometido por 1 (um) só agente, e homicídio qualificado (art. 121, § 2º);     
 
@@ -34,15 +32,11 @@ III - extorsão qualificada pela restrição da liberdade da vítima, ocorrênci
 
 IV - extorsão mediante seqüestro e na forma qualificada (art. 159, caput, e §§ lo, 2o e 3o);          
 
-
 V - estupro (art. 213, caput e §§ 1o e 2o);            
-
 
 VI - estupro de vulnerável (art. 217-A, caput e §§ 1o, 2o, 3o e 4o);                
 
 VII - epidemia com resultado morte (art. 267, § 1o).                  
-
-VII-A – (VETADO)                   
 
 VII-B - falsificação, corrupção, adulteração ou alteração de produto destinado a fins terapêuticos ou medicinais (art. 273, caput e § 1o, § 1o-A e § 1o-B, com a redação dada pela Lei no 9.677, de 2 de julho de 1998).          
 
@@ -52,10 +46,9 @@ IX - furto qualificado pelo emprego de explosivo ou de artefato análogo que cau
 
 X - induzimento, instigação ou auxílio a suicídio ou a automutilação realizados por meio da rede de computadores, de rede social ou transmitidos em tempo real (art. 122, caput e § 4º);  
 
-XI - sequestro e cárcere privado cometido contra menor de 18 (dezoito) anos (art. 148, § 1º, inciso IV);  
+XI - sequestro e cárcere privado cometido contra menor de 18 (dezoito) anos (art. 148, § 1º, inciso IV);   (Incluído pela Lei 14.811, de 2024)
 
 XII - tráfico de pessoas cometido contra criança ou adolescente (art. 149-A, caput, incisos I a V, e § 1º, inciso II).  
-
 
 Parágrafo único. Consideram-se também hediondos, tentados ou consumados:   
 
@@ -79,14 +72,7 @@ Art. 2º Os crimes hediondos, a prática da tortura, o tráfico ilícito de ento
 
 I - anistia, graça e indulto;
 
-
 II - fiança.                 
-
-§ 1o  A pena por crime previsto neste artigo será cumprida inicialmente em regime fechado.                  
-
- 
-
-     
 
 § 3o  Em caso de sentença condenatória, o juiz decidirá fundamentadamente se o réu poderá apelar em liberdade.              
 
@@ -188,5 +174,3 @@ Brasília, 25 de julho de 1990; 169º da Independência e 102º da República.
 
 FERNANDO COLLOR
 Bernardo Cabral
-
-Este texto não substitui o publicado no DOU de 26.7.1990

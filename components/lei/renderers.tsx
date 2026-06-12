@@ -132,6 +132,66 @@ export function RenderTexto({ item }: { item: any }) {
   );
 }
 
+export function RenderTabelas({ tabelas }: { tabelas?: any[] }) {
+  const itens = arr(tabelas);
+  if (!itens.length) return null;
+
+  return (
+    <div className="mt-5 space-y-5">
+      {itens.map((tabela: any, index: number) => {
+        const colunas = arr(tabela?.colunas).map((coluna: unknown) => String(coluna ?? ""));
+        const linhas = arr(tabela?.linhas);
+
+        if (!colunas.length || !linhas.length) return null;
+
+        return (
+          <div key={`${tabela?.id ?? ""}-${index}`} className="overflow-x-auto rounded-md border">
+            {texto(tabela?.titulo) && (
+              <div className="border-b bg-muted/40 px-4 py-3 text-sm font-semibold text-foreground">
+                {tabela.titulo}
+              </div>
+            )}
+
+            <table className="min-w-full border-collapse text-left text-sm">
+              <thead className="bg-muted/50 text-foreground">
+                <tr>
+                  {colunas.map((coluna, colunaIndex) => (
+                    <th
+                      key={`${coluna}-${colunaIndex}`}
+                      className="border-b px-4 py-3 align-top font-semibold"
+                    >
+                      {coluna}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+
+              <tbody className="text-muted-foreground">
+                {linhas.map((linha: any, linhaIndex: number) => (
+                  <tr key={`${tabela?.id ?? ""}-linha-${linhaIndex}`} className="border-b last:border-b-0">
+                    {colunas.map((_, colunaIndex) => {
+                      const valor = String(arr(linha)[colunaIndex] ?? "");
+
+                      return (
+                        <td
+                          key={`${tabela?.id ?? ""}-linha-${linhaIndex}-coluna-${colunaIndex}`}
+                          className="whitespace-pre-line px-4 py-3 align-top leading-6"
+                        >
+                          {valor}
+                        </td>
+                      );
+                    })}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
 export function RenderAlinea({ alinea }: { alinea: any }) {
   const rotulo = rotuloAlinea(alinea);
   const valor = textoPrincipal(alinea);
@@ -224,6 +284,7 @@ export function RenderArtigo({ artigo }: { artigo: any }) {
 
       <CardContent>
         <RenderTexto item={artigo} />
+        <RenderTabelas tabelas={artigo.tabelas} />
 
         {arr(artigo.incisos).map((i: any, index: number) => (
           <RenderInciso key={`${i?.id ?? ""}-${index}`} inciso={i} />

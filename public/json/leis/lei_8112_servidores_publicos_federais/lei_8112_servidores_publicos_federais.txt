@@ -64,10 +64,6 @@ I - nomeação;
 
 II - promoção;
 
-            
-
-              
-
 V - readaptação;
 
 VI - reversão;
@@ -86,9 +82,7 @@ Art. 9o  A nomeação far-se-á:
 
 I - em caráter efetivo, quando se tratar de cargo isolado de provimento efetivo ou de carreira;
 
-
 II - em comissão, inclusive na condição de interino, para cargos de confiança vagos.                
-
 
 Parágrafo único.  O servidor ocupante de cargo em comissão ou de natureza especial poderá ser nomeado para ter exercício, interinamente, em outro cargo de confiança, sem prejuízo das atribuições do que atualmente ocupa, hipótese em que deverá optar pela remuneração de um deles durante o período da interinidade.                 
 
@@ -99,7 +93,6 @@ Parágrafo único.  Os demais requisitos para o ingresso e o desenvolvimento do 
 Seção III
 
 Do Concurso Público
-
 
 Art. 11.  O concurso será de provas ou de provas e títulos, podendo ser realizado em duas etapas, conforme dispuserem a lei e o regulamento do respectivo plano de carreira, condicionada a inscrição do candidato ao pagamento do valor fixado no edital, quando indispensável ao seu custeio, e ressalvadas as hipóteses de isenção nele expressamente previstas.                  
 
@@ -114,8 +107,6 @@ Seção IV
 Da Posse e do Exercício
 
 Art. 13.  A posse dar-se-á pela assinatura do respectivo termo, no qual deverão constar as atribuições, os deveres, as responsabilidades e os direitos inerentes ao cargo ocupado, que não poderão ser alterados unilateralmente, por qualquer das partes, ressalvados os atos de ofício previstos em lei.
-
-
 
 § 1o  A posse ocorrerá no prazo de trinta dias contados da publicação do ato de provimento.              
 
@@ -133,10 +124,6 @@ Art. 14.  A posse em cargo público dependerá de prévia inspeção médica ofi
 
 Parágrafo único.  Só poderá ser empossado aquele que for julgado apto física e mentalmente para o exercício do cargo.
 
-
-
-
-
 Art. 15.  Exercício é o efetivo desempenho das atribuições do cargo público ou da função de confiança.                 
 
 § 1o  É de quinze dias o prazo para o servidor empossado em cargo público entrar em exercício, contados da data da posse.              
@@ -153,29 +140,17 @@ Parágrafo único.  Ao entrar em exercício, o servidor apresentará ao órgão 
 
 Art. 17.  A promoção não interrompe o tempo de exercício, que é contado no novo posicionamento na carreira a partir da data de publicação do ato que promover o servidor.                
 
-
-
 Art. 18.  O servidor que deva ter exercício em outro município em razão de ter sido removido, redistribuído, requisitado, cedido ou posto em exercício provisório terá, no mínimo, dez e, no máximo, trinta dias de prazo, contados da publicação do ato, para a retomada do efetivo desempenho das atribuições do cargo, incluído nesse prazo o tempo necessário para o deslocamento para a nova sede.             
 
 § 1o  Na hipótese de o servidor encontrar-se em licença ou afastado legalmente, o prazo a que se refere este artigo será contado a partir do término do impedimento.             
 
 § 2o  É facultado ao servidor declinar dos prazos estabelecidos no caput.              
 
-
-
 Art. 19.  Os servidores cumprirão jornada de trabalho fixada em razão das atribuições pertinentes aos respectivos cargos, respeitada a duração máxima do trabalho semanal de quarenta horas e observados os limites mínimo e máximo de seis horas e oito horas diárias, respectivamente.               
-
 
 § 1o  O ocupante de cargo em comissão ou função de confiança submete-se a regime de integral dedicação ao serviço, observado o disposto no art. 120, podendo ser convocado sempre que houver interesse da Administração.              
 
 § 2o  O disposto neste artigo não se aplica a duração de trabalho estabelecida em leis especiais.                
-
-
-
-
-
-
-
 
 Art. 20.  Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo ficará sujeito a estágio probatório por período de 24 (vinte e quatro) meses, durante o qual a sua aptidão e capacidade serão objeto de avaliação para o desempenho do cargo, observados os seguinte fatores:                
 
@@ -188,8 +163,6 @@ III - capacidade de iniciativa;
 IV - produtividade;
 
 V- responsabilidade.
-
-
 
 § 1o  4 (quatro) meses antes de findo o período do estágio probatório, será submetida à homologação da autoridade competente a avaliação do desempenho do servidor, realizada por comissão constituída para essa finalidade, de acordo com o que dispuser a lei ou o regulamento da respectiva carreira ou cargo, sem prejuízo da continuidade de apuração dos fatores enumerados nos incisos I a V do caput deste artigo.           
 
@@ -205,7 +178,7 @@ Seção V
 
 Da Estabilidade
 
-Art. 21.  O servidor habilitado em concurso público e empossado em cargo de provimento efetivo adquirirá estabilidade no serviço público ao completar 2 (dois) anos de efetivo exercício.                
+Art. 21.  O servidor habilitado em concurso público e empossado em cargo de provimento efetivo adquirirá estabilidade no serviço público ao completar 2 (dois) anos de efetivo exercício.                (prazo 3 anos - vide EMC nº 19)
 
 Art. 22.  O servidor estável só perderá o cargo em virtude de sentença judicial transitada em julgado ou de processo administrativo disciplinar no qual lhe seja assegurada ampla defesa.
 
@@ -213,17 +186,11 @@ Seção VI
 
 Da Transferência
 
-
-
-             
-
 Seção VII
 
 Da Readaptação
 
 Art. 24.  Readaptação é a investidura do servidor em cargo de atribuições e responsabilidades compatíveis com a limitação que tenha sofrido em sua capacidade física ou mental verificada em inspeção médica.
-
-§ 1o  Se julgado incapaz para o serviço público, o readaptando será aposentado.
 
 § 2o  A readaptação será efetivada em cargo de atribuições afins, respeitada a habilitação exigida, nível de escolaridade e equivalência de vencimentos e, na hipótese de inexistência de cargo vago, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.                 
 
@@ -232,10 +199,7 @@ Seção VIII
 Da Reversão
 
 
-
  Art. 25.  Reversão é o retorno à atividade de servidor aposentado:                
-
-I - por invalidez, quando junta médica oficial declarar insubsistentes os motivos da aposentadoria; ou                   
 
 II - no interesse da administração, desde que:                  
 
@@ -260,10 +224,6 @@ e) haja cargo vago.
 § 5o  O servidor de que trata o inciso II somente terá os proventos calculados com base nas regras atuais se permanecer pelo menos cinco anos no cargo.                     
 
 § 6o  O Poder Executivo regulamentará o disposto neste artigo.                  
-
-                
-
-                   
 
 Art. 27.  Não poderá reverter o aposentado que já tiver completado 70 (setenta) anos de idade.
 
@@ -313,10 +273,6 @@ II - demissão;
 
 III - promoção;
 
-                
-
-                  
-
 VI - readaptação;
 
 VII - aposentadoria;
@@ -338,20 +294,6 @@ Art. 35.  A exoneração de cargo em comissão e a dispensa de função de confi
 I - a juízo da autoridade competente;
 
 II - a pedido do próprio servidor.
-
-               
-
-               
-
-                
-
-                  
-
-                  
-
-                 
-
-                 
 
 Capítulo III
 
@@ -381,10 +323,6 @@ Seção II
 
 Da Redistribuição
 
-
-
-
-
 Art. 37.  Redistribuição é o deslocamento de cargo de provimento efetivo, ocupado ou vago no âmbito do quadro geral de pessoal, para outro órgão ou entidade do mesmo Poder, com prévia apreciação do órgão central do SIPEC,     observados os seguintes preceitos:                 
 
 I - interesse da administração;                 
@@ -411,14 +349,7 @@ Capítulo IV
 
 Da Substituição
 
-
 Art. 38.  Os servidores investidos em cargo ou função de direção ou chefia e os ocupantes de cargo de Natureza Especial terão substitutos indicados no regimento interno ou, no caso de omissão, previamente designados pelo dirigente máximo do órgão ou entidade.                
-
-
-§ 1o  O substituto assumirá automática e cumulativamente, sem prejuízo do cargo que ocupa, o exercício do cargo ou função de direção ou chefia e os de Natureza Especial, nos afastamentos, impedimentos legais ou regulamentares do titular e na vacância do cargo, hipóteses em que deverá optar pela remuneração de um deles durante o respectivo período.                  
-
-
-§ 2o  O substituto fará jus à retribuição pelo exercício do cargo ou função de direção ou chefia ou de cargo de Natureza Especial, nos casos dos afastamentos ou impedimentos legais do titular, superiores a trinta dias consecutivos, paga na proporção dos dias de efetiva substituição, que excederem o referido período.                
 
 Art. 39.  O disposto no artigo anterior aplica-se aos titulares de unidades administrativas organizadas em nível de assessoria.
 
@@ -431,8 +362,6 @@ Capítulo I
 Do Vencimento e da Remuneração
 
 Art. 40.  Vencimento é a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei.
-
-               .                  
 
  Art. 41.  Remuneração é o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei.
 
@@ -450,13 +379,7 @@ Art. 42.  Nenhum servidor poderá perceber, mensalmente, a título de remuneraç
 
 Parágrafo único.  Excluem-se do teto de remuneração as vantagens previstas nos incisos II a VII do art. 61.
 
-                            
-
 Art. 44.  O servidor perderá:
-
-
-
-I
 
 I - a remuneração do dia em que faltar ao serviço, sem motivo justificado;                  
 
@@ -466,35 +389,13 @@ Parágrafo único.  As faltas justificadas decorrentes de caso fortuito ou de fo
 
 Art. 45.  Salvo por imposição legal, ou mandado judicial, nenhum desconto incidirá sobre a remuneração ou provento.                                                                             
 
-
-§               
-
-
-      
-
-  
-
-
-
-
-
-
- 
-
 Art. 46.  As reposições e indenizações ao erário, atualizadas até 30 de junho de 1994, serão previamente comunicadas ao servidor ativo, aposentado ou ao pensionista, para pagamento, no prazo máximo de trinta dias, podendo ser parceladas, a pedido do interessado.                     
-
-§ 1o  O valor de cada parcela não poderá ser inferior ao correspondente a dez por cento da remuneração, provento ou pensão.                
 
 § 2o  Quando o pagamento indevido houver ocorrido no mês anterior ao do processamento da folha, a reposição será feita imediatamente, em uma única parcela.                 
 
 § 3o  Na hipótese de valores recebidos em decorrência de cumprimento a decisão liminar, a tutela antecipada ou a sentença que venha a ser revogada ou rescindida, serão eles atualizados até a data da reposição.                
 
-
-
-
  Art. 47.  O servidor em débito com o erário, que for demitido, exonerado ou que tiver sua aposentadoria ou disponibilidade cassada, terá o prazo de sessenta dias para quitar o débito.                
-
-Parágrafo único.  A não quitação do débito no prazo previsto implicará sua inscrição em dívida ativa.                 
 
 Art. 48.  O vencimento, a remuneração e o provento não serão objeto de arresto, seqüestro ou penhora, exceto nos casos de prestação de alimentos resultante de decisão judicial.
 
@@ -530,7 +431,6 @@ III - transporte.
 
 IV - auxílio-moradia.                 
 
-
 Art. 52.  Os valores das indenizações estabelecidas nos incisos I a III do art. 51, assim como as condições para a sua concessão, serão estabelecidos em regulamento.               
 
 Subseção I
@@ -543,11 +443,7 @@ Art. 53.  A ajuda de custo destina-se a compensar as despesas de instalação do
 
 § 2o  À família do servidor que falecer na nova sede são assegurados ajuda de custo e transporte para a localidade de origem, dentro do prazo de 1 (um) ano, contado do óbito.
 
-
 § 3o  Não será concedida ajuda de custo nas hipóteses de remoção previstas nos incisos II e III do parágrafo único do art. 36.                    
-
-
-           
 
  Art. 54.  A ajuda de custo é calculada sobre a remuneração do servidor, conforme se dispuser em regulamento, não podendo exceder a importância correspondente a 3 (três) meses.
 
@@ -562,8 +458,6 @@ Parágrafo único.  No afastamento previsto no inciso I do art. 93, a ajuda de c
 Subseção II
 
 Das Diárias
-
-
 
 Art. 58.  O servidor que, a serviço, afastar-se da sede em caráter eventual ou transitório para outro ponto do território nacional ou para o exterior, fará jus a passagens e diárias destinadas a indenizar as parcelas de despesas extraordinária com pousada, alimentação e locomoção urbana, conforme dispuser em regulamento.                
 
@@ -589,9 +483,6 @@ Subseção IV
 
 Do Auxílio-Moradia
 
-
-     
-
 Art. 60-A.  O auxílio-moradia consiste no ressarcimento das despesas comprovadamente realizadas pelo servidor com aluguel de moradia ou com meio de hospedagem administrado por empresa hoteleira, no prazo de um mês após a comprovação da despesa pelo servidor.                
 
 Art. 60-B.  Conceder-se-á auxílio-moradia ao servidor se atendidos os seguintes requisitos:                
@@ -616,29 +507,9 @@ IX - o deslocamento tenha ocorrido após 30 de junho de 2006.
 
 Parágrafo único.  Para fins do inciso VII, não será considerado o prazo no qual o servidor estava ocupando outro cargo em comissão relacionado no inciso V.              
 
- 
-
-
- 
-
-                 
-
-
-
-      
-
 Art. 60-D.  O valor mensal do auxílio-moradia é limitado a 25% (vinte e cinco por cento) do valor do cargo em comissão, função comissionada ou cargo de Ministro de Estado ocupado.               
 
-§ 1o  O valor do auxílio-moradia não poderá superar 25% (vinte e cinco por cento) da remuneração de Ministro de Estado.                 
-
-     
-
 § 2o  Independentemente do valor do cargo em comissão ou função comissionada, fica garantido a todos os que preencherem os requisitos o ressarcimento até o valor de R$ 1.800,00 (mil e oitocentos reais).                    
-
-     
-
-
-    
 
 Art. 60-E.  No caso de falecimento, exoneração, colocação de imóvel funcional à disposição do servidor ou aquisição de imóvel, o auxílio-moradia continuará sendo pago por um mês.           
 
@@ -646,15 +517,9 @@ Seção II
 
 Das Gratificações e Adicionais
 
-
 Art. 61.  Além do vencimento e das vantagens previstas nesta Lei, serão deferidos aos servidores as seguintes retribuições, gratificações e adicionais:             
 
-
-I - retribuição pelo exercício de função de direção, chefia e assessoramento;               
-
 II - gratificação natalina;
-
-             
 
 IV - adicional pelo exercício de atividades insalubres, perigosas ou penosas;
 
@@ -671,12 +536,6 @@ IX - gratificação por encargo de curso ou concurso.
 Subseção I
 
 Da Retribuição pelo Exercício de Função de Direção, Chefia e Assessoramento
-
-
-
-
-
-
 
 
 Art. 62.  Ao servidor ocupante de cargo efetivo investido em função de direção, chefia ou assessoramento, cargo de provimento em comissão ou de Natureza Especial é devida retribuição pelo seu exercício.             
@@ -705,22 +564,11 @@ Subseção III
 
 Do Adicional por Tempo de Serviço
 
-
-             
-
-
-                                 
-
 Subseção IV
 
 Dos Adicionais de Insalubridade, Periculosidade ou Atividades Penosas
 
 Art. 68.  Os servidores que trabalhem com habitualidade em locais insalubres ou em contato permanente com substâncias tóxicas, radioativas ou com risco de vida, fazem jus a um adicional sobre o vencimento do cargo efetivo.
-
-
-
-
-
 
 § 1o  O servidor que fizer jus aos adicionais de insalubridade e de periculosidade deverá optar por um deles.
 
@@ -784,9 +632,7 @@ II - a retribuição não poderá ser superior ao equivalente a 120 (cento e vin
 
 III - o valor máximo da hora trabalhada corresponderá aos seguintes percentuais, incidentes sobre o maior vencimento básico da administração pública federal:                   
 
-
 a) 2,2% (dois inteiros e dois décimos por cento), em se tratando de atividades previstas nos incisos I e II do caput deste artigo;                  
-
 
 b) 1,2% (um inteiro e dois décimos por cento), em se tratando de atividade prevista nos incisos III e IV do caput deste artigo.               
 
@@ -808,9 +654,6 @@ Art. 77.  O servidor fará jus a trinta dias de férias, que podem ser acumulada
 
 Art. 78.  O pagamento da remuneração das férias será efetuado até 2 (dois) dias antes do início do respectivo período, observando-se o disposto no § 1o deste artigo.                 
 
-
-                   
-
 § 3o  O servidor exonerado do cargo efetivo, ou em comissão, perceberá indenização relativa ao período das férias a que tiver direito e ao incompleto, na proporção de um doze avos por mês de efetivo exercício, ou fração superior a quatorze dias.                   
 
 § 4o  A indenização será calculada com base na remuneração do mês em que for publicado o ato exoneratório.                   
@@ -818,8 +661,6 @@ Art. 78.  O pagamento da remuneração das férias será efetuado até 2 (dois) 
 § 5o  Em caso de parcelamento, o servidor receberá o valor adicional previsto no inciso XVII do art. 7o da Constituição Federal quando da utilização do primeiro período.                  
 
 Art. 79.  O servidor que opera direta e permanentemente com Raios X ou substâncias radioativas gozará 20 (vinte) dias consecutivos de férias, por semestre de atividade profissional, proibida em qualquer hipótese a acumulação.
-
-                  
 
 Art. 80.  As férias somente poderão ser interrompidas por motivo de calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, ou por necessidade do serviço declarada pela autoridade máxima do órgão ou entidade.                                     
 
@@ -849,11 +690,7 @@ VI - para tratar de interesses particulares;
 
 VII - para desempenho de mandato classista.
 
-
-
 § 1o  A licença prevista no inciso I do caput deste artigo bem como cada uma de suas prorrogações serão precedidas de exame por perícia médica oficial, observado o disposto no art. 204 desta Lei.              
-
-                      
 
 § 3o  É vedado o exercício de atividade remunerada durante o período da licença prevista no inciso I deste artigo.
 
@@ -863,19 +700,7 @@ Seção II
 
 Da Licença por Motivo de Doença em Pessoa da Família
 
-
-
-
-
-
 Art. 83.  Poderá ser concedida licença ao servidor por motivo de doença do cônjuge ou companheiro, dos pais, dos filhos, do padrasto ou madrasta e enteado, ou dependente que viva a suas expensas e conste do seu assentamento funcional, mediante comprovação por perícia médica oficial.
-
-§ 1o  A licença somente será deferida se a assistência direta do servidor for indispensável e não puder ser prestada simultaneamente com o exercício do cargo ou mediante compensação de horário, na forma do disposto no inciso II do art. 44.                   
-
-
-
-
-
 
 § 2o  A licença de que trata o caput, incluídas as prorrogações, poderá ser concedida a cada período de doze meses nas seguintes condições:                  
 
@@ -895,7 +720,6 @@ Art. 84.  Poderá ser concedida licença ao servidor para acompanhar cônjuge ou
 
 § 1o  A licença será por prazo indeterminado e sem remuneração.
 
-
 § 2o  No deslocamento de servidor cujo cônjuge ou companheiro também seja servidor público, civil ou militar, de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, poderá haver exercício provisório em órgão ou entidade da Administração Federal direta, autárquica ou fundacional, desde que para o exercício de atividade compatível com o seu cargo.                  
 
 Seção IV
@@ -912,56 +736,23 @@ Da Licença para Atividade Política
 
 Art. 86.  O servidor terá direito a licença, sem remuneração, durante o período que mediar entre a sua escolha em convenção partidária, como candidato a cargo eletivo, e a véspera do registro de sua candidatura perante a Justiça Eleitoral.
 
-
 § 1o  O servidor candidato a cargo eletivo na localidade onde desempenha suas funções e que exerça cargo de direção, chefia, assessoramento, arrecadação ou fiscalização, dele será afastado, a partir do dia imediato ao do registro de sua candidatura perante a Justiça Eleitoral, até o décimo dia seguinte ao do pleito.                 
-
 
 § 2o  A partir do registro da candidatura e até o décimo dia seguinte ao da eleição, o servidor fará jus à licença, assegurados os vencimentos do cargo efetivo, somente pelo período de três meses.                     
 
 Seção VI
 
-
 Da Licença para Capacitação
-
-
-
-
 
 Art. 87.  Após cada qüinqüênio de efetivo exercício, o servidor poderá, no interesse da Administração, afastar-se do exercício do cargo efetivo, com a respectiva remuneração, por até três meses, para participar de curso de capacitação profissional.                            
 
 Parágrafo único.  Os períodos de licença de que trata o caput não são acumuláveis.              
 
-               
-
-              
-
-             
-
-              
-
-            
-
-             
-
-             
-
-                 
-
-                     
-
 Seção VII
 
 Da Licença para Tratar de Interesses Particulares
 
-
-
 Art. 91.  A critério da Administração, poderão ser concedidas ao servidor ocupante de cargo efetivo, desde que não esteja em estágio probatório, licenças para o trato de assuntos particulares pelo prazo de até três anos consecutivos, sem remuneração.                  
-
-
-
-
-
-                   
 
 Parágrafo único.  A licença poderá ser interrompida, a qualquer tempo, a pedido do servidor ou no interesse do serviço.                  
 
@@ -969,26 +760,9 @@ Parágrafo único.  A licença poderá ser interrompida, a qualquer tempo, a ped
 
 Da Licença para o Desempenho de Mandato Classista
 
-
-        
-
-
-
-
-
-
-
-Art. 92. É assegurado ao servidor o direito à licença sem remuneração para o desempenho de mandato em confederação, federação, associação de classe de âmbito nacional, sindicato representativo da categoria ou entidade fiscalizadora da profissão ou, ainda, para participar de gerência ou administração em sociedade cooperativa constituída por servidores públicos para prestar serviços a seus membros, observado o disposto na alínea c do inciso VIII do art. 102 desta Lei, conforme disposto em regulamento e observados os seguintes limites:                    
+Art. 92. É assegurado ao servidor o direito à licença sem remuneração para o desempenho de mandato em confederação, federação, associação de classe de âmbito nacional, sindicato representativo da categoria ou entidade fiscalizadora da profissão ou, ainda, para participar de gerência ou administração em sociedade cooperativa constituída por servidores públicos para prestar serviços a seus membros, observado o disposto na alínea c do inciso VIII do art. 102 desta Lei, conforme disposto em regulamento e observados os seguintes limites:                 
 
 I - para entidades com até 5.000 (cinco mil) associados, 2 (dois) servidores;                   
-
-II - para entidades com 5.001 (cinco mil e um) a 30.000 (trinta mil) associados, 4 (quatro) servidores;                 
-
-III - para entidades com mais de 30.000 (trinta mil) associados, 8 (oito) servidores.                  
-
-§ 1o  Somente poderão ser licenciados os servidores eleitos para cargos de direção ou de representação nas referidas entidades, desde que cadastradas no órgão competente.                 
-
-§ 2o  A licença terá duração igual à do mandato, podendo ser renovada, no caso de reeleição.                  
 
 Capítulo V
 
@@ -998,41 +772,17 @@ Seção I
 
 Do Afastamento para Servir a Outro Órgão ou Entidade
 
-
-
-
-Art. 93. O servidor poderá ser cedido para ter exercício em outro órgão ou entidade dos Poderes da União, dos Estados, ou do Distrito Federal e dos Municípios, nas seguintes hipóteses:                                 
-
-
-
-
 I - para exercício de cargo em comissão ou função de confiança;                 
-
 
 II - em casos previstos em leis específicas.                 
 
-
-
-
 § 1o  Na hipótese do inciso I, sendo a cessão para órgãos ou entidades dos Estados, do Distrito Federal ou dos Municípios, o ônus da remuneração será do órgão ou entidade cessionária, mantido o ônus para o cedente nos demais casos.                   
 
-
-
-
-
 § 2º  Na hipótese de o servidor cedido a empresa pública ou sociedade de economia mista, nos termos das respectivas normas, optar pela remuneração do cargo efetivo ou pela remuneração do cargo efetivo acrescida de percentual da retribuição do cargo em comissão, a entidade cessionária efetuará o reembolso das despesas realizadas pelo órgão ou entidade de origem.                     
-
 
 § 3o  A cessão far-se-á mediante Portaria publicada no Diário Oficial da União.                  
 
 § 4o  Mediante autorização expressa do Presidente da República, o servidor do Poder Executivo poderá ter exercício em outro órgão da Administração Federal direta que não tenha quadro próprio de pessoal, para fim determinado e a prazo certo.                 
-
-
-§ 5 Aplica-se à União, em se tratando de empregado ou servidor por ela requisitado, as disposições dos §§ 1 e 2 deste artigo.                   
-
-§ 6 As cessões de empregados de empresa pública ou de sociedade de economia mista, que receba recursos de Tesouro Nacional para o custeio total ou parcial da sua folha de pagamento de pessoal, independem das disposições contidas nos incisos I e II e §§ 1 e 2 deste artigo, ficando o exercício do empregado cedido condicionado a autorização específica do Ministério do Planejamento, Orçamento e Gestão, exceto nos casos de ocupação de cargo em comissão ou função gratificada.                      
-
-§ 7 O Ministério do Planejamento, Orçamento e Gestão, com a finalidade de promover a composição da força de trabalho dos órgãos e entidades da Administração Pública Federal, poderá determinar a lotação ou o exercício de empregado ou servidor, independentemente da observância do constante no inciso I e nos §§ 1 e 2 deste artigo.                                       
 
 Seção II
 
@@ -1070,12 +820,6 @@ Art. 95.  O servidor não poderá ausentar-se do País para estudo ou missão of
 
 Art. 96.  O afastamento de servidor para servir em organismo internacional de que o Brasil participe ou com o qual coopere dar-se-á com perda total da remuneração.                
 
-
-
-
-
-
-
 Seção IV
 
 Do Afastamento para Participação em Programa de Pós-Graduação Stricto Sensu no País
@@ -1085,7 +829,6 @@ Art. 96-A.  O servidor poderá, no interesse da Administração, e desde que a p
 § 1o  Ato do dirigente máximo do órgão ou entidade definirá, em conformidade com a legislação vigente, os programas de capacitação e os critérios para participação em programas de pós-graduação no País, com ou sem afastamento do servidor, que serão avaliados por um comitê constituído para este fim.                        
 
 § 2o  Os afastamentos para realização de programas de mestrado e doutorado somente serão concedidos aos servidores titulares de cargos efetivos no respectivo órgão ou entidade há pelo menos 3 (três) anos para mestrado e 4 (quatro) anos para doutorado, incluído o período de estágio probatório, que não tenham se afastado por licença para tratar de assuntos particulares para gozo de licença capacitação ou com fundamento neste artigo nos 2 (dois) anos anteriores à data da solicitação de afastamento.                      
-
 
 § 3o  Os afastamentos para realização de programas de pós-doutorado somente serão concedidos aos servidores titulares de cargos efetivo no respectivo órgão ou entidade há pelo menos quatro anos, incluído o período de estágio probatório, e que não tenham se afastado por licença para tratar de assuntos particulares ou com fundamento neste artigo, nos quatro anos anteriores à data da solicitação de afastamento.                   
 
@@ -1101,13 +844,9 @@ Capítulo VI
 
 Das Concessões
 
-
-
 Art. 97.  Sem qualquer prejuízo, poderá o servidor ausentar-se do serviço:
 
 I - por 1 (um) dia, para doação de sangue;
-
-
 
 II - pelo período comprovadamente necessário para alistamento ou recadastramento eleitoral, limitado, em qualquer caso, a 2 (dois) dias;                       
 
@@ -1119,14 +858,11 @@ b) falecimento do cônjuge, companheiro, pais, madrasta ou padrasto, filhos, ent
 
 Art. 98.  Será concedido horário especial ao servidor estudante, quando comprovada a incompatibilidade entre o horário escolar e o da repartição, sem prejuízo do exercício do cargo.
 
-
 § 1o  Para efeito do disposto neste artigo, será exigida a compensação de horário no órgão ou entidade que tiver exercício, respeitada a duração semanal do trabalho.                  
 
 § 2o  Também será concedido horário especial ao servidor portador de deficiência, quando comprovada a necessidade por junta médica oficial, independentemente de compensação de horário.                   
 
-
 § 3o  As disposições constantes do § 2o são extensivas ao servidor que tenha cônjuge, filho ou dependente com deficiência.                    
-
 
 § 4o  Será igualmente concedido horário especial, vinculado à compensação de horário a ser efetivada no prazo de até 1 (um) ano, ao servidor que desempenhe atividade prevista nos incisos I e II do caput do art. 76-A desta Lei.                   
 
@@ -1142,8 +878,6 @@ Art. 100.  É contado para todos os efeitos o tempo de serviço público federal
 
 Art. 101.  A apuração do tempo de serviço será feita em dias, que serão convertidos em anos, considerado o ano como de trezentos e sessenta e cinco dias.
 
-                
-
 Art. 102.  Além das ausências ao serviço previstas no art. 97, são considerados como de efetivo exercício os afastamentos em virtude de:                 
 
 I - férias;
@@ -1151,11 +885,6 @@ I - férias;
 II - exercício de cargo em comissão ou equivalente, em órgão ou entidade dos Poderes da União, dos Estados, Municípios e Distrito Federal;
 
 III - exercício de cargo ou função de governo ou administração, em qualquer parte do território nacional, por nomeação do Presidente da República;
-
-
-                 
-
-           
 
 IV - participação em programa de treinamento regularmente instituído ou em programa de pós-graduação stricto sensu no País, conforme dispuser o regulamento;                 
 
@@ -1170,7 +899,6 @@ VIII - licença:
 a) à gestante, à adotante e à paternidade;
 
 b) para tratamento da própria saúde, até o limite de vinte e quatro meses, cumulativo ao longo do tempo de serviço público prestado à União, em cargo de provimento efetivo;                   
-
 
 c) para o desempenho de mandato classista ou participação de gerência ou administração em sociedade cooperativa constituída por servidores para prestar serviços a seus membros, exceto para efeito de promoção por merecimento;               
 
@@ -1189,8 +917,6 @@ XI - afastamento para servir em organismo internacional de que o Brasil particip
 Art. 103.  Contar-se-á apenas para efeito de aposentadoria e disponibilidade:
 
 I - o tempo de serviço público prestado aos Estados, Municípios e Distrito Federal;
-
-
 
 II - a licença para tratamento de saúde de pessoal da família do servidor, com remuneração, que exceder a 30 (trinta) dias em período de 12 (doze) meses.                     
 
@@ -1282,7 +1008,6 @@ b) à expedição de certidões requeridas para defesa de direito ou esclarecime
 
 c) às requisições para a defesa da Fazenda Pública.
 
-
 VI - levar as irregularidades de que tiver ciência em razão do cargo ao conhecimento da autoridade superior ou, quando houver suspeita de envolvimento desta, ao conhecimento de outra autoridade competente para apuração;                  
 
 VII - zelar pela economia do material e a conservação do patrimônio público;
@@ -1323,12 +1048,7 @@ VIII - manter sob sua chefia imediata, em cargo ou função de confiança, cônj
 
 IX - valer-se do cargo para lograr proveito pessoal ou de outrem, em detrimento da dignidade da função pública;
 
-
-
-
-
 X - participar de gerência ou administração de sociedade privada, personificada ou não personificada, exercer o comércio, exceto na qualidade de acionista, cotista ou comanditário;                      
-
 
 XI - atuar, como procurador ou intermediário, junto a repartições públicas, salvo quando se tratar de benefícios previdenciários ou assistenciais de parentes até o segundo grau, e de cônjuge ou companheiro;
 
@@ -1348,14 +1068,9 @@ XVIII - exercer quaisquer atividades que sejam incompatíveis com o exercício d
 
 XIX - recusar-se a atualizar seus dados cadastrais quando solicitado.              
 
-
 Parágrafo único.  A vedação de que trata o inciso X do caput deste artigo não se aplica nos seguintes casos:                  
 
-
-
-
 I - participação nos conselhos de administração e fiscal de empresas ou entidades em que a União detenha, direta ou indiretamente, participação no capital social ou em sociedade cooperativa constituída para prestar serviços a seus membros; e    
-
 
 II - gozo de licença para o trato de interesses particulares, na forma do art. 91 desta Lei, observada a legislação sobre conflito de interesses.  
 
@@ -1371,9 +1086,7 @@ Art. 118.  Ressalvados os casos previstos na Constituição, é vedada a acumula
 
 § 3o  Considera-se acumulação proibida a percepção de vencimento de cargo ou emprego público efetivo com proventos da inatividade, salvo quando os cargos de que decorram essas remunerações forem acumuláveis na atividade.                  
 
-
 Art. 119.  O servidor não poderá exercer mais de um cargo em comissão, exceto no caso previsto no parágrafo único do art. 9o, nem ser remunerado pela participação em órgão de deliberação coletiva.               
-
 
 Parágrafo único.  O disposto neste artigo não se aplica à remuneração devida pela participação em conselhos de administração e fiscal das empresas públicas e sociedades de economia mista, suas subsidiárias e controladas, bem como quaisquer empresas ou entidades em que a União, direta ou indiretamente, detenha participação no capital social, observado o que, a respeito, dispuser legislação específica.                
 
@@ -1465,52 +1178,23 @@ XII - acumulação ilegal de cargos, empregos ou funções públicas;
 
 XIII - transgressão dos incisos IX a XVI do art. 117.
 
-
-
-
 Art. 133.  Detectada a qualquer tempo a acumulação ilegal de cargos, empregos ou funções públicas, a autoridade a que se refere o art. 143 notificará o servidor, por intermédio de sua chefia imediata, para apresentar opção no prazo improrrogável de dez dias, contados da data da ciência e, na hipótese de omissão, adotará procedimento sumário para a sua apuração e regularização imediata, cujo processo administrativo disciplinar se desenvolverá nas seguintes fases:                   
 
-I - instauração, com a publicação do ato que constituir a comissão, a ser composta por dois servidores estáveis, e simultaneamente indicar a autoria e a materialidade da transgressão objeto da apuração                   
-
-II - instrução sumária, que compreende indiciação, defesa e relatório;                  
-
 III - julgamento.               
-
-§ 1o  A indicação da autoria de que trata o inciso I dar-se-á pelo nome e matrícula do servidor, e a materialidade pela descrição dos cargos, empregos ou funções públicas em situação de acumulação ilegal, dos órgãos ou entidades de vinculação, das datas de ingresso, do horário de trabalho e do correspondente regime jurídico.                   
-
-§ 2o  A comissão lavrará, até três dias após a publicação do ato que a constituiu, termo de indiciação em que serão transcritas as informações de que trata o parágrafo anterior, bem como promoverá a citação pessoal do servidor indiciado, ou por intermédio de sua chefia imediata, para, no prazo de cinco dias, apresentar defesa escrita, assegurando-se-lhe vista do processo na repartição, observado o disposto nos arts. 163 e 164.                 
-
-§ 3o  Apresentada a defesa, a comissão elaborará relatório conclusivo quanto à inocência ou à responsabilidade do servidor, em que resumirá as peças principais dos autos, opinará sobre a licitude da acumulação em exame, indicará o respectivo dispositivo legal e remeterá o processo à autoridade instauradora, para julgamento.                    
-
-§ 4o  No prazo de cinco dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão, aplicando-se, quando for o caso, o disposto no § 3o do art. 167.                 
-
-§ 5o  A opção pelo servidor até o último dia de prazo para defesa configurará sua boa-fé, hipótese em que se converterá automaticamente em pedido de exoneração do outro cargo.                    
-
-§ 6o  Caracterizada a acumulação ilegal e provada a má-fé, aplicar-se-á a pena de demissão, destituição ou cassação de aposentadoria ou disponibilidade em relação aos cargos, empregos ou funções públicas em regime de acumulação ilegal, hipótese em que os órgãos ou entidades de vinculação serão comunicados.                    
-
-§ 7o  O prazo para a conclusão do processo administrativo disciplinar submetido ao rito sumário não excederá trinta dias, contados da data de publicação do ato que constituir a comissão, admitida a sua prorrogação por até quinze dias, quando as circunstâncias o exigirem.                  
-
-§ 8o  O procedimento sumário rege-se pelas disposições deste artigo, observando-se, no que lhe for aplicável, subsidiariamente, as disposições dos Títulos IV e V desta Lei.                  
 
 Art. 134.  Será cassada a aposentadoria ou a disponibilidade do inativo que houver praticado, na atividade, falta punível com a demissão.       
 
 Art. 135.  A destituição de cargo em comissão exercido por não ocupante de cargo efetivo será aplicada nos casos de infração sujeita às penalidades de suspensão e de demissão.
 
-Parágrafo único.  Constatada a hipótese de que trata este artigo, a exoneração efetuada nos termos do art. 35 será convertida em destituição de cargo em comissão.
-
 Art. 136.  A demissão ou a destituição de cargo em comissão, nos casos dos incisos IV, VIII, X e XI do art. 132, implica a indisponibilidade dos bens e o ressarcimento ao erário, sem prejuízo da ação penal cabível.
 
 Art. 137.  A demissão ou a destituição de cargo em comissão, por infringência do art. 117, incisos IX e XI, incompatibiliza o ex-servidor para nova investidura em cargo público federal, pelo prazo de 5 (cinco) anos.        
-
-Parágrafo único.  Não poderá retornar ao serviço público federal o servidor que for demitido ou destituído do cargo em comissão por infringência do art. 132, incisos I, IV, VIII, X e XI.
 
 Art. 138.  Configura abandono de cargo a ausência intencional do servidor ao serviço por mais de trinta dias consecutivos.
 
 Art. 139.  Entende-se por inassiduidade habitual a falta ao serviço, sem causa justificada, por sessenta dias, interpoladamente, durante o período de doze meses.
 
 Art. 140.  Na apuração de abandono de cargo ou inassiduidade habitual, também será adotado o procedimento sumário a que se refere o art. 133, observando-se especialmente que:                
-
-I - a indicação da materialidade dar-se-á:                
 
 a) na hipótese de abandono de cargo, pela indicação precisa do período de ausência intencional do servidor ao serviço superior a trinta dias;                    
 
@@ -1668,7 +1352,6 @@ Art. 164.  Considerar-se-á revel o indiciado que, regularmente citado, não apr
 
 § 1o  A revelia será declarada, por termo, nos autos do processo e devolverá o prazo para a defesa.
 
-
 § 2o  Para defender o indiciado revel, a autoridade instauradora do processo designará um servidor como defensor dativo, que deverá ser ocupante de cargo efetivo superior ou de mesmo nível, ou ter nível de escolaridade igual ou superior ao do indiciado.                  
 
 Art. 165.  Apreciada a defesa, a comissão elaborará relatório minucioso, onde resumirá as peças principais dos autos e mencionará as provas em que se baseou para formar a sua convicção.
@@ -1696,7 +1379,6 @@ Art. 167. No prazo de 20 (vinte) dias, contados do recebimento do processo, a au
 Art. 168.  O julgamento acatará o relatório da comissão, salvo quando contrário às provas dos autos.
 
 Parágrafo único.  Quando o relatório da comissão contrariar as provas dos autos, a autoridade julgadora poderá, motivadamente, agravar a penalidade proposta, abrandá-la ou isentar o servidor de responsabilidade.
-
 
 Art. 169.  Verificada a ocorrência de vício insanável, a autoridade que determinou a instauração do processo ou outra de hierarquia superior declarará a sua nulidade, total ou parcial, e ordenará, no mesmo ato, a constituição de outra comissão para instauração de novo processo.                    
 
@@ -1762,15 +1444,9 @@ Disposições Gerais
 
 Art. 183.  A União manterá Plano de Seguridade Social para o servidor e sua família.
 
-
 § 1o O servidor ocupante de cargo em comissão que não seja, simultaneamente, ocupante de cargo ou emprego efetivo na administração pública direta, autárquica e fundacional não terá direito aos benefícios do Plano de Seguridade Social, com exceção da assistência à saúde.                    
 
-             
-
 § 2o O servidor afastado ou licenciado do cargo efetivo, sem direito à remuneração, inclusive para servir em organismo oficial internacional do qual o Brasil seja membro efetivo ou com o qual coopere, ainda que contribua para regime de previdência social no exterior, terá suspenso o seu vínculo com o regime do Plano de Seguridade Social do Servidor Público enquanto durar o afastamento ou a licença, não lhes assistindo, neste período, os benefícios do mencionado regime de previdência.                   
-
-
-  
 
 § 3o Será assegurada ao servidor licenciado ou afastado sem remuneração a manutenção da vinculação ao regime do Plano de Seguridade Social do Servidor Público, mediante o recolhimento mensal da respectiva contribuição, no mesmo percentual devido pelos servidores em atividade, incidente sobre a remuneração total do cargo a que faz jus no exercício de suas atribuições, computando-se, para esse efeito, inclusive, as vantagens pessoais.               
 
@@ -1860,9 +1536,7 @@ Art. 188.  A aposentadoria voluntária ou por invalidez vigorará a partir da da
 
 § 3o  O lapso de tempo compreendido entre o término da licença e a publicação do ato da aposentadoria será considerado como de prorrogação da licença.
 
-
 § 4o  Para os fins do disposto no § 1o deste artigo, serão consideradas apenas as licenças motivadas pela enfermidade ensejadora da invalidez ou doenças correlacionadas.                 
-
 
 § 5o  A critério da Administração, o servidor em licença para tratamento de saúde ou aposentado por invalidez poderá ser convocado a qualquer momento, para avaliação das condições que ensejaram o afastamento ou a aposentadoria.                    
 
@@ -1870,25 +1544,9 @@ Art. 189.  O provento da aposentadoria será calculado com observância do dispo
 
 Parágrafo único.  São estendidos aos inativos quaisquer benefícios ou vantagens posteriormente concedidas aos servidores em atividade, inclusive quando decorrentes de transformação ou reclassificação do cargo ou função em que se deu a aposentadoria.
 
-
-
 Art. 190.  O servidor aposentado com provento proporcional ao tempo de serviço se acometido de qualquer das moléstias especificadas no § 1o do art. 186 desta Lei e, por esse motivo, for considerado inválido por junta médica oficial passará a perceber provento integral, calculado com base no fundamento legal de concessão da aposentadoria.                
 
 Art. 191.  Quando proporcional ao tempo de serviço, o provento não será inferior a 1/3 (um terço) da remuneração da atividade.
-
-
-               
-
-                    
-
-                  
-
-
-                  
-
-              
-
-          
 
 Art. 194.  Ao servidor aposentado será paga a gratificação natalina, até o dia vinte do mês de dezembro, em valor equivalente ao respectivo provento, deduzido o adiantamento recebido.
 
@@ -1900,29 +1558,15 @@ Do Auxílio-Natalidade
 
 Art. 196.  O auxílio-natalidade é devido à servidora por motivo de nascimento de filho, em quantia equivalente ao menor vencimento do serviço público, inclusive no caso de natimorto.
 
-§ 1o  Na hipótese de parto múltiplo, o valor será acrescido de 50% (cinqüenta por cento), por nascituro.
-
-§ 2o  O auxílio será pago ao cônjuge ou companheiro servidor público, quando a parturiente não for servidora.
-
 Seção III
 
 Do Salário-Família
 
 Art. 197.  O salário-família é devido ao servidor ativo ou ao inativo, por dependente econômico.
 
-Parágrafo único.  Consideram-se dependentes econômicos para efeito de percepção do salário-família:
-
-I - o cônjuge ou companheiro e os filhos, inclusive os enteados até 21 (vinte e um) anos de idade ou, se estudante, até 24 (vinte e quatro) anos ou, se inválido, de qualquer idade;
-
-II - o menor de 21 (vinte e um) anos que, mediante autorização judicial, viver na companhia e às expensas do servidor, ou do inativo;
-
-III - a mãe e o pai sem economia própria.
-
 Art. 198.  Não se configura a dependência econômica quando o beneficiário do salário-família perceber rendimento do trabalho ou de qualquer outra fonte, inclusive pensão ou provento da aposentadoria, em valor igual ou superior ao salário-mínimo.
 
 Art. 199.  Quando o pai e mãe forem servidores públicos e viverem em comum, o salário-família será pago a um deles; quando separados, será pago a um e outro, de acordo com a distribuição dos dependentes.
-
-Parágrafo único.  Ao pai e à mãe equiparam-se o padrasto, a madrasta e, na falta destes, os representantes legais dos incapazes.
 
 Art. 200.  O salário-família não está sujeito a qualquer tributo, nem servirá de base para qualquer contribuição, inclusive para a Previdência Social.
 
@@ -1934,38 +1578,17 @@ Da Licença para Tratamento de Saúde
 
 Art. 202.  Será concedida ao servidor licença para tratamento de saúde, a pedido ou de ofício, com base em perícia médica, sem prejuízo da remuneração a que fizer jus.
 
-
-
 Art. 203.  A licença de que trata o art. 202 desta Lei será concedida com base em perícia oficial.                
-
-§ 1o  Sempre que necessário, a inspeção médica será realizada na residência do servidor ou no estabelecimento hospitalar onde se encontrar internado.
-
 
 § 2o  Inexistindo médico no órgão ou entidade no local onde se encontra ou tenha exercício em caráter permanente o servidor, e não se configurando as hipóteses previstas nos parágrafos do art. 230, será aceito atestado passado por médico particular.                 
 
-
-
-
 § 3o  No caso do § 2o deste artigo, o atestado somente produzirá efeitos depois de recepcionado pela unidade de recursos humanos do órgão ou entidade.                
-
-
-
-§ 4o  A licença que exceder o prazo de 120 (cento e vinte) dias no período de 12 (doze) meses a contar do primeiro dia de afastamento será concedida mediante avaliação por junta médica oficial.                 
-
-
-§ 5o  A perícia oficial para concessão da licença de que trata o caput deste artigo, bem como nos demais casos de perícia oficial previstos nesta Lei, será efetuada por cirurgiões-dentistas, nas hipóteses em que abranger o campo de atuação da odontologia.    
-
-
-
-Art. 204.  A licença para tratamento de saúde inferior a 15 (quinze) dias, dentro de 1 (um) ano, poderá ser dispensada de perícia oficial, na forma definida em regulamento.                  
 
 Art. 205.  O atestado e o laudo da junta médica não se referirão ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço, doença profissional ou qualquer das doenças especificadas no art. 186, § 1o.
 
 Art. 206.  O servidor que apresentar indícios de lesões orgânicas ou funcionais será submetido a inspeção médica.
 
-
 Art. 206-A.  O servidor será submetido a exames médicos periódicos, nos termos e condições definidos em regulamento.                  
-
 
 Parágrafo único.  Para os fins do disposto no caput, a União e suas entidades autárquicas e fundacionais poderão:              
 
@@ -2023,36 +1646,13 @@ Seção VII
 
 Da Pensão
 
-
 Art. 215.  Por morte do servidor, os seus dependentes, nas hipóteses legais, fazem jus à pensão por morte, observados os limites estabelecidos no inciso XI do caput do art. 37 da Constituição Federal e no art. 2º da Lei nº 10.887, de 18 de junho de 2004.                  
-
-                  
-
-   
-
-                                        
 
 Art. 217.  São beneficiários das pensões:
 
-
-
-
-
-
-
-.
-
 I - o cônjuge;             
 
-
-
 II - o cônjuge divorciado ou separado judicialmente ou de fato, com percepção de pensão alimentícia estabelecida judicialmente;   
-
-b) (Revogada);                  
-
-c) Revogada);                 
-
-d) (Revogada);                    
 
 III - o companheiro ou companheira que comprove união estável como entidade familiar;                   
 
@@ -2070,28 +1670,13 @@ V - a mãe e o pai que comprovem dependência econômica do servidor; e
 
 VI - o irmão de qualquer condição que comprove dependência econômica do servidor e atenda a um dos requisitos previstos no inciso IV.                   
 
-
-
-
-
 § 1o  A concessão de pensão aos beneficiários de que tratam os incisos I a IV do caput exclui os beneficiários referidos nos incisos V e VI.                 
 
 § 2o  A concessão de pensão aos beneficiários de que trata o inciso V do caput exclui o beneficiário referido no inciso VI.                
 
-
-
-
 § 3o  O enteado e o menor tutelado equiparam-se a filho mediante declaração do servidor e desde que comprovada dependência econômica, na forma estabelecida em regulamento.                   
 
-
-
-
-
-
 Art. 218.  Ocorrendo habilitação de vários titulares à pensão, o seu valor será distribuído em partes iguais entre os beneficiários habilitados.                      
-
-
-
 
 Art. 219.  A pensão por morte será devida ao conjunto dos dependentes do segurado que falecer, aposentado ou não, a contar da data:                  
 
@@ -2105,13 +1690,11 @@ III - da decisão judicial, na hipótese de morte presumida.
 
 § 2º Ajuizada a ação judicial para reconhecimento da condição de dependente, este poderá requerer a sua habilitação provisória ao benefício de pensão por morte, exclusivamente para fins de rateio dos valores com outros dependentes, vedado o pagamento da respectiva cota até o trânsito em julgado da respectiva ação, ressalvada a existência de decisão judicial em contrário.                   
 
-
 § 3º Nas ações em que for parte o ente público responsável pela concessão da pensão por morte, este poderá proceder de ofício à habilitação excepcional da referida pensão, apenas para efeitos de rateio, descontando-se os valores referentes a esta habilitação das demais cotas, vedado o pagamento da respectiva cota até o trânsito em julgado da respectiva ação, ressalvada a existência de decisão judicial em contrário.                
 
 § 4º Julgada improcedente a ação prevista no § 2º ou § 3º deste artigo, o valor retido será corrigido pelos índices legais de reajustamento e será pago de forma proporcional aos demais dependentes, de acordo com as suas cotas e o tempo de duração de seus benefícios.               
 
 § 5º Em qualquer hipótese, fica assegurada ao órgão concessor da pensão por morte a cobrança dos valores indevidamente pagos em função de nova habilitação.                 
-
 
 Art. 220.  Perde o direito à pensão por morte:                   
 
@@ -2135,20 +1718,12 @@ I - o seu falecimento;
 
 II - a anulação do casamento, quando a decisão ocorrer após a concessão da pensão ao cônjuge;
 
-
 III - a cessação da invalidez, em se tratando de beneficiário inválido, ou o afastamento da deficiência, em se tratando de beneficiário com deficiência, respeitados os períodos mínimos decorrentes da aplicação das alíneas a e b do inciso VII do caput deste artigo;                
-
 
 IV - o implemento da idade de 21 (vinte e um) anos, pelo filho ou irmão;                 
 V - a acumulação de pensão na forma do art. 225;
 
-
-
 VI - a renúncia expressa; e                
-
-VII - em relação aos beneficiários de que tratam os incisos I a III do caput do art. 217:                     
-
-a) o decurso de 4 (quatro) meses, se o óbito ocorrer sem que o servidor tenha vertido 18 (dezoito) contribuições mensais ou se o casamento ou a união estável tiverem sido iniciados em menos de 2 (dois) anos antes do óbito do servidor;   
 
 b) o decurso dos seguintes períodos, estabelecidos de acordo com a idade do pensionista na data de óbito do servidor, depois de vertidas 18 (dezoito) contribuições mensais e pelo menos 2 (dois) anos após o início do casamento ou da união estável:                     
 
@@ -2163,9 +1738,6 @@ b) o decurso dos seguintes períodos, estabelecidos de acordo com a idade do pen
 5) 20 (vinte) anos, entre 41 (quarenta e um) e 43 (quarenta e três) anos de idade;                     
 
 6) vitalícia, com 44 (quarenta e quatro) ou mais anos de idade.                    
-
-
-
 
 § 1o  A critério da administração, o beneficiário de pensão cuja preservação seja motivada por invalidez, por incapacidade ou por deficiência poderá ser convocado a qualquer momento para avaliação das referidas condições.                  
 
@@ -2183,15 +1755,9 @@ b) o decurso dos seguintes períodos, estabelecidos de acordo com a idade do pen
 
 § 8º No ato de requerimento de benefícios previdenciários, não será exigida apresentação de termo de curatela de titular ou de beneficiário com deficiência, observados os procedimentos a serem estabelecidos em regulamento.               
 
-
-
-
-
 Art. 223.  Por morte ou perda da qualidade de beneficiário, a respectiva cota reverterá para os cobeneficiários.                       
 
          Art. 224.  As pensões serão automaticamente atualizadas na mesma data e na mesma proporção dos reajustes dos vencimentos dos servidores, aplicando-se o disposto no parágrafo único do art. 189.
-
-
 
 Art. 225.  Ressalvado o direito de opção, é vedada a percepção cumulativa de pensão deixada por mais de um cônjuge ou companheiro ou companheira e de mais de 2 (duas) pensões.                    
 
@@ -2229,8 +1795,6 @@ Capítulo III
 
 Da Assistência à Saúde
 
-
-
 Art. 230.  A assistência à saúde do servidor, ativo ou inativo, e de sua família compreende assistência médica, hospitalar, odontológica, psicológica e farmacêutica, terá como diretriz básica o implemento de ações preventivas voltadas para a promoção da saúde e será prestada pelo Sistema Único de Saúde – SUS, diretamente pelo órgão ou entidade ao qual estiver vinculado o servidor, ou mediante convênio ou contrato, ou ainda na forma de auxílio, mediante ressarcimento parcial do valor despendido pelo servidor, ativo ou inativo, e seus dependentes ou  pensionistas com planos ou seguros privados de assistência à saúde, na forma estabelecida em regulamento.  
 
 § 1o  Nas hipóteses previstas nesta Lei em que seja exigida perícia, avaliação ou inspeção médica, na ausência de médico ou junta médica oficial, para a sua realização o órgão ou entidade celebrará, preferencialmente, convênio com unidades de atendimento do sistema público de saúde, entidades sem fins lucrativos declaradas de utilidade pública, ou com o Instituto Nacional do Seguro Social - INSS.                    
@@ -2244,6 +1808,16 @@ I - celebrar convênios exclusivamente para a  prestação de serviços de assis
 II - contratar, mediante licitação, na forma da Lei no 8.666, de 21 de junho de 1993, operadoras de planos e seguros privados de assistência à saúde que possuam autorização de funcionamento do órgão regulador;  
 
 § 5o  O valor do ressarcimento fica limitado ao total despendido pelo servidor ou pensionista civil com plano ou seguro privado de assistência à saúde.                
+
+Capítulo IV
+
+Do Custeio
+
+ Título VII
+
+Capítulo Único
+
+Da Contratação Temporária de Excepcional Interesse Público
 
 Título VIII
 
@@ -2269,14 +1843,7 @@ a) de ser representado pelo sindicato, inclusive como substituto processual;
 
 b) de inamovibilidade do dirigente sindical, até um ano após o final do mandato, exceto se a pedido;
 
-                        
-
 c) de descontar em folha, sem ônus para a entidade sindical a que for filiado, o valor das mensalidades e contribuições definidas em assembléia geral da categoria.
-
-                     
-
-
-                  
 
 Art. 241.  Consideram-se da família do servidor, além do cônjuge e filhos, quaisquer pessoas que vivam às suas expensas e constem do seu assentamento individual.
 
@@ -2312,18 +1879,13 @@ Art. 244.  Os adicionais por tempo de serviço, já concedidos aos servidores ab
 
 Art. 245.  A licença especial disciplinada pelo art. 116 da Lei nº 1.711, de 1952, ou por outro diploma legal, fica transformada em licença-prêmio por assiduidade, na forma prevista nos arts. 87 a 90.
 
-
 Art. 247.  Para efeito do disposto no Título VI desta Lei, haverá ajuste de contas com a Previdência Social, correspondente ao período de contribuição por parte dos servidores celetistas abrangidos pelo art. 243.              
 
 Art. 248.  As pensões estatutárias, concedidas até a vigência desta Lei, passam a ser mantidas pelo órgão ou entidade de origem do servidor.
 
 Art. 249.  Até a edição da lei prevista no § 1o do art. 231, os servidores abrangidos por esta Lei contribuirão na forma e nos percentuais atualmente estabelecidos para o servidor civil da União conforme regulamento próprio.
 
-   
-
-Art. 250. O servidor que já tiver satisfeito ou vier a satisfazer, dentro de 1 (um) ano, as condições necessárias para a aposentadoria nos termos do inciso II do art. 184 do antigo Estatuto dos Funcionários Públicos Civis da União, Lei n° 1.711, de 28 de outubro de 1952, aposentar-se-á com a vantagem prevista naquele dispositivo.                 (Mantido pelo Congresso Nacional)
-
-                 
+Art. 250. O servidor que já tiver satisfeito ou vier a satisfazer, dentro de 1 (um) ano, as condições necessárias para a aposentadoria nos termos do inciso II do art. 184 do antigo Estatuto dos Funcionários Públicos Civis da União, Lei n° 1.711, de 28 de outubro de 1952, aposentar-se-á com a vantagem prevista naquele dispositivo.                 
 
 Art. 252.  Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros a partir do primeiro dia do mês subseqüente.
 
@@ -2333,12 +1895,6 @@ Brasília, 11 de dezembro de 1990; 169o da Independência e 102o da República.
 
 FERNANDO COLLOR
 Jarbas Passarinho
-
-Este texto não substitui o publicado no DOU de 12.12.1990 e republicado em 18.3.1998
-
- 
-
- 
 
  LEI Nº 8.112, DE 11 DE DEZEMBRO DE 1990
 
@@ -2392,5 +1948,3 @@ Faço saber que o CONGRESSO NACIONAL manteve, e eu, MAURO BENEVIDES, Presidente 
 Senado Federal, 18 de abril de 1991. 170° da Independência e 103° da República.
 
     MAURO BENEVIDES
-
-Este texto não substitui o publicado no DOU de 19.4.1991

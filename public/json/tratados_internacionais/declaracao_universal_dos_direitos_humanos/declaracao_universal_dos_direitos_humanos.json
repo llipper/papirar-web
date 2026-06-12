@@ -1,503 +1,655 @@
 {
   "documento": {
-    "id": "doc_declaracao_universal_direitos_humanos",
+    "id": "doc_declaracao_universal_dos_direitos_humanos",
     "tipo": "declaracao_internacional",
     "titulo": "Declaração Universal dos Direitos Humanos",
-    "apelido": "DUDH",
-    "audioId": "audio_dudh",
-    "explicacaoId": "exp_dudh",
-    "questoesId": [],
-    "preâmbulo": {
-      "id": "preambulo_dudh",
+    "audioId": "audio_doc_declaracao_universal_dos_direitos_humanos",
+    "explicacaoId": "exp_doc_declaracao_universal_dos_direitos_humanos",
+    "questoesId": [
+      "q_doc_declaracao_universal_dos_direitos_humanos_001"
+    ],
+    "preambulo": {
+      "id": "doc_preambulo",
       "titulo": "Preâmbulo",
-      "audioId": "audio_preambulo_dudh",
-      "explicacaoId": "exp_preambulo_dudh",
-      "questoesId": [],
+      "audioId": "audio_doc_preambulo",
+      "explicacaoId": "exp_doc_preambulo",
+      "questoesId": [
+        "q_doc_preambulo_001"
+      ],
       "considerandos": [
         {
-          "id": "preambulo_dudh_cons_01",
-          "texto": "Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e de seus direitos iguais e inalienáveis é o fundamento da liberdade, da justiça e da paz no mundo,"
+          "id": "doc_pre_cons_01",
+          "texto": "Adotada e proclamada pela Assembleia Geral das Nações Unidas (resolução 217 A III) em 10 de dezembro 1948.",
+          "audioId": "audio_doc_pre_cons_01",
+          "explicacaoId": "exp_doc_pre_cons_01"
         },
         {
-          "id": "preambulo_dudh_cons_02",
-          "texto": "Considerando que o desprezo e o desrespeito pelos direitos humanos resultaram em atos bárbaros que ultrajaram a consciência da humanidade e que o advento de um mundo em que mulheres e homens gozem de liberdade de palavra, de crença e da liberdade de viverem a salvo do temor e da necessidade foi proclamado como a mais alta aspiração do ser humano comum,"
+          "id": "doc_pre_cons_02",
+          "texto": "Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e de seus direitos iguais e inalienáveis é o fundamento da liberdade, da justiça e da paz no mundo,",
+          "audioId": "audio_doc_pre_cons_02",
+          "explicacaoId": "exp_doc_pre_cons_02"
         },
         {
-          "id": "preambulo_dudh_cons_03",
-          "texto": "Considerando ser essencial que os direitos humanos sejam protegidos pelo império da lei, para que o ser humano não seja compelido, como último recurso, à rebelião contra a tirania e a opressão,"
+          "id": "doc_pre_cons_03",
+          "texto": "Considerando que o desprezo e o desrespeito pelos direitos humanos resultaram em atos bárbaros que ultrajaram a consciência da humanidade e que o advento de um mundo em que mulheres e homens gozem de liberdade de palavra, de crença e da liberdade de viverem a salvo do temor e da necessidade foi proclamado como a mais alta aspiração do ser humano comum,",
+          "audioId": "audio_doc_pre_cons_03",
+          "explicacaoId": "exp_doc_pre_cons_03"
         },
         {
-          "id": "preambulo_dudh_cons_04",
-          "texto": "Considerando ser essencial promover o desenvolvimento de relações amistosas entre as nações,"
+          "id": "doc_pre_cons_04",
+          "texto": "Considerando ser essencial que os direitos humanos sejam protegidos pelo império da lei, para que o ser humano não seja compelido, como último recurso, à rebelião contra a tirania e a opressão,",
+          "audioId": "audio_doc_pre_cons_04",
+          "explicacaoId": "exp_doc_pre_cons_04"
         },
         {
-          "id": "preambulo_dudh_cons_05",
-          "texto": "Considerando que os povos das Nações Unidas reafirmaram, na Carta, sua fé nos direitos fundamentais do ser humano, na dignidade e no valor da pessoa humana e na igualdade de direitos do homem e da mulher e que decidiram promover o progresso social e melhores condições de vida em uma liberdade mais ampla,"
+          "id": "doc_pre_cons_05",
+          "texto": "Considerando ser essencial promover o desenvolvimento de relações amistosas entre as nações,",
+          "audioId": "audio_doc_pre_cons_05",
+          "explicacaoId": "exp_doc_pre_cons_05"
         },
         {
-          "id": "preambulo_dudh_cons_06",
-          "texto": "Considerando que os Países-Membros se comprometeram a promover, em cooperação com as Nações Unidas, o respeito universal aos direitos e liberdades fundamentais do ser humano e a observância desses direitos e liberdades,"
+          "id": "doc_pre_cons_06",
+          "texto": "Considerando que os povos das Nações Unidas reafirmaram, na Carta, sua fé nos direitos fundamentais do ser humano, na dignidade e no valor da pessoa humana e na igualdade de direitos do homem e da mulher e que decidiram promover o progresso social e melhores condições de vida em uma liberdade mais ampla,",
+          "audioId": "audio_doc_pre_cons_06",
+          "explicacaoId": "exp_doc_pre_cons_06"
         },
         {
-          "id": "preambulo_dudh_cons_07",
-          "texto": "Considerando que uma compreensão comum desses direitos e liberdades é da mais alta importância para o pleno cumprimento desse compromisso,"
+          "id": "doc_pre_cons_07",
+          "texto": "Considerando que os Países-Membros se comprometeram a promover, em cooperação com as Nações Unidas, o respeito universal aos direitos e liberdades fundamentais do ser humano e a observância desses direitos e liberdades,",
+          "audioId": "audio_doc_pre_cons_07",
+          "explicacaoId": "exp_doc_pre_cons_07"
+        },
+        {
+          "id": "doc_pre_cons_08",
+          "texto": "Considerando que uma compreensão comum desses direitos e liberdades é da mais alta importância para o pleno cumprimento desse compromisso,",
+          "audioId": "audio_doc_pre_cons_08",
+          "explicacaoId": "exp_doc_pre_cons_08"
+        },
+        {
+          "id": "doc_pre_cons_09",
+          "texto": "Agora portanto a Assembleia Geral proclama a presente Declaração Universal dos Direitos Humanos como o ideal comum a ser atingido por todos os povos e todas as nações, com o objetivo de que cada indivíduo e cada órgão da sociedade tendo sempre em mente esta Declaração, esforce-se, por meio do ensino e da educação, por promover o respeito a esses direitos e liberdades, e, pela adoção de medidas progressivas de caráter nacional e internacional, por assegurar o seu reconhecimento e a sua observância universais e efetivos, tanto entre os povos dos próprios Países-Membros quanto entre os povos dos territórios sob sua jurisdição.",
+          "audioId": "audio_doc_pre_cons_09",
+          "explicacaoId": "exp_doc_pre_cons_09"
         }
-      ],
-      "texto": "Agora portanto a Assembleia Geral proclama a presente Declaração Universal dos Direitos Humanos como o ideal comum a ser atingido por todos os povos e todas as nações, com o objetivo de que cada indivíduo e cada órgão da sociedade tendo sempre em mente esta Declaração, esforce-se, por meio do ensino e da educação, por promover o respeito a esses direitos e liberdades, e, pela adoção de medidas progressivas de caráter nacional e internacional, por assegurar o seu reconhecimento e a sua observância universais e efetivos, tanto entre os povos dos próprios Países-Membros quanto entre os povos dos territórios sob sua jurisdição."
+      ]
     },
-    "artigos": [
+    "partes": [
       {
-        "id": "art_01",
-        "numero": 1,
-        "titulo": "Artigo 1",
-        "audioId": "audio_art_01",
-        "explicacaoId": "exp_art_01",
-        "questoesId": [],
-        "texto": "Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade."
-      },
-      {
-        "id": "art_02",
-        "numero": 2,
-        "titulo": "Artigo 2",
-        "audioId": "audio_art_02",
-        "explicacaoId": "exp_art_02",
-        "questoesId": [],
-        "paragrafos": [
+        "id": "parte_declara_o_universal_dos_direitos_humanos",
+        "titulo": "Declaração Universal dos Direitos Humanos",
+        "audioId": "audio_parte_declara_o_universal_dos_direitos_humanos",
+        "explicacaoId": "exp_parte_declara_o_universal_dos_direitos_humanos",
+        "questoesId": [
+          "q_parte_declara_o_universal_dos_direitos_humanos_001"
+        ],
+        "artigos": [
           {
-            "id": "art_02_p1",
+            "id": "art_01",
             "numero": 1,
-            "texto": "Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração, sem distinção de qualquer espécie, seja de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição."
+            "audioId": "audio_art_01",
+            "explicacaoId": "exp_art_01",
+            "questoesId": [
+              "q_art_01_001"
+            ],
+            "texto": "Todos os seres humanos nascem livres e iguais em dignidade e direitos. São dotados de razão e consciência e devem agir em relação uns aos outros com espírito de fraternidade."
           },
           {
-            "id": "art_02_p2",
+            "id": "art_02",
             "numero": 2,
-            "texto": "Não será também feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de um território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania."
-          }
-        ]
-      },
-      {
-        "id": "art_03",
-        "numero": 3,
-        "titulo": "Artigo 3",
-        "audioId": "audio_art_03",
-        "explicacaoId": "exp_art_03",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito à vida, à liberdade e à segurança pessoal."
-      },
-      {
-        "id": "art_04",
-        "numero": 4,
-        "titulo": "Artigo 4",
-        "audioId": "audio_art_04",
-        "explicacaoId": "exp_art_04",
-        "questoesId": [],
-        "texto": "Ninguém será mantido em escravidão ou servidão; a escravidão e o tráfico de escravos serão proibidos em todas as suas formas."
-      },
-      {
-        "id": "art_05",
-        "numero": 5,
-        "titulo": "Artigo 5",
-        "audioId": "audio_art_05",
-        "explicacaoId": "exp_art_05",
-        "questoesId": [],
-        "texto": "Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante."
-      }
-    ,      {
-        "id": "art_06",
-        "numero": 6,
-        "titulo": "Artigo 6",
-        "audioId": "audio_art_06",
-        "explicacaoId": "exp_art_06",
-        "questoesId": [],
-        "texto": "Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei."
-      },
-      {
-        "id": "art_07",
-        "numero": 7,
-        "titulo": "Artigo 7",
-        "audioId": "audio_art_07",
-        "explicacaoId": "exp_art_07",
-        "questoesId": [],
-        "texto": "Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei. Todos têm direito a igual proteção contra qualquer discriminação que viole a presente Declaração e contra qualquer incitamento a tal discriminação."
-      },
-      {
-        "id": "art_08",
-        "numero": 8,
-        "titulo": "Artigo 8",
-        "audioId": "audio_art_08",
-        "explicacaoId": "exp_art_08",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei."
-      },
-      {
-        "id": "art_09",
-        "numero": 9,
-        "titulo": "Artigo 9",
-        "audioId": "audio_art_09",
-        "explicacaoId": "exp_art_09",
-        "questoesId": [],
-        "texto": "Ninguém será arbitrariamente preso, detido ou exilado."
-      },
-      {
-        "id": "art_10",
-        "numero": 10,
-        "titulo": "Artigo 10",
-        "audioId": "audio_art_10",
-        "explicacaoId": "exp_art_10",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial, para decidir seus direitos e deveres ou fundamento de qualquer acusação criminal contra ele."
-      },
-      {
-        "id": "art_11",
-        "numero": 11,
-        "titulo": "Artigo 11",
-        "audioId": "audio_art_11",
-        "explicacaoId": "exp_art_11",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_11_p1",
-            "numero": 1,
-            "texto": "Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as garantias necessárias à sua defesa."
+            "audioId": "audio_art_02",
+            "explicacaoId": "exp_art_02",
+            "questoesId": [
+              "q_art_02_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_02_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem capacidade para gozar os direitos e as liberdades estabelecidos nesta Declaração, sem distinção de qualquer espécie, seja de raça, cor, sexo, língua, religião, opinião política ou de outra natureza, origem nacional ou social, riqueza, nascimento, ou qualquer outra condição.",
+                "audioId": "audio_art_02_inc_01",
+                "explicacaoId": "exp_art_02_inc_01"
+              },
+              {
+                "id": "art_02_inc_02",
+                "numero": 2,
+                "texto": "Não será também feita nenhuma distinção fundada na condição política, jurídica ou internacional do país ou território a que pertença uma pessoa, quer se trate de um território independente, sob tutela, sem governo próprio, quer sujeito a qualquer outra limitação de soberania.",
+                "audioId": "audio_art_02_inc_02",
+                "explicacaoId": "exp_art_02_inc_02"
+              }
+            ]
           },
           {
-            "id": "art_11_p2",
-            "numero": 2,
-            "texto": "Ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituíam delito perante o direito nacional ou internacional. Também não será imposta pena mais forte de que aquela que, no momento da prática, era aplicável ao ato delituoso."
-          }
-        ]
-      },
-      {
-        "id": "art_12",
-        "numero": 12,
-        "titulo": "Artigo 12",
-        "audioId": "audio_art_12",
-        "explicacaoId": "exp_art_12",
-        "questoesId": [],
-        "texto": "Ninguém será sujeito à interferência na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataque à sua honra e reputação. Todo ser humano tem direito à proteção da lei contra tais interferências ou ataques."
-      },
-      {
-        "id": "art_13",
-        "numero": 13,
-        "titulo": "Artigo 13",
-        "audioId": "audio_art_13",
-        "explicacaoId": "exp_art_13",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_13_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito à liberdade de locomoção e residência dentro das fronteiras de cada Estado."
-          },
-          {
-            "id": "art_13_p2",
-            "numero": 2,
-            "texto": "Todo ser humano tem o direito de deixar qualquer país, inclusive o próprio e a esse regressar."
-          }
-        ]
-      },
-      {
-        "id": "art_14",
-        "numero": 14,
-        "titulo": "Artigo 14",
-        "audioId": "audio_art_14",
-        "explicacaoId": "exp_art_14",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_14_p1",
-            "numero": 1,
-            "texto": "Todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar asilo em outros países."
-          },
-          {
-            "id": "art_14_p2",
-            "numero": 2,
-            "texto": "Esse direito não pode ser invocado em caso de perseguição legitimamente motivada por crimes de direito comum ou por atos contrários aos objetivos e princípios das Nações Unidas."
-          }
-        ]
-      },
-      {
-        "id": "art_15",
-        "numero": 15,
-        "titulo": "Artigo 15",
-        "audioId": "audio_art_15",
-        "explicacaoId": "exp_art_15",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_15_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito a uma nacionalidade."
-          },
-          {
-            "id": "art_15_p2",
-            "numero": 2,
-            "texto": "Ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade."
-          }
-        ]
-      },
-            {
-        "id": "art_16",
-        "numero": 16,
-        "titulo": "Artigo 16",
-        "audioId": "audio_art_16",
-        "explicacaoId": "exp_art_16",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_16_p1",
-            "numero": 1,
-            "texto": "Os homens e mulheres de maior idade, sem qualquer restrição de raça, nacionalidade ou religião, têm o direito de contrair matrimônio e fundar uma família. Gozam de iguais direitos em relação ao casamento, sua duração e sua dissolução."
-          },
-          {
-            "id": "art_16_p2",
-            "numero": 2,
-            "texto": "O casamento não será válido senão com o livre e pleno consentimento dos nubentes."
-          },
-          {
-            "id": "art_16_p3",
+            "id": "art_03",
             "numero": 3,
-            "texto": "A família é o núcleo natural e fundamental da sociedade e tem direito à proteção da sociedade e do Estado."
-          }
-        ]
-      },
-      {
-        "id": "art_17",
-        "numero": 17,
-        "titulo": "Artigo 17",
-        "audioId": "audio_art_17",
-        "explicacaoId": "exp_art_17",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_17_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito à propriedade, só ou em sociedade com outros."
+            "audioId": "audio_art_03",
+            "explicacaoId": "exp_art_03",
+            "questoesId": [
+              "q_art_03_001"
+            ],
+            "texto": "Todo ser humano tem direito à vida, à liberdade e à segurança pessoal."
           },
           {
-            "id": "art_17_p2",
-            "numero": 2,
-            "texto": "Ninguém será arbitrariamente privado de sua propriedade."
-          }
-        ]
-      },
-      {
-        "id": "art_18",
-        "numero": 18,
-        "titulo": "Artigo 18",
-        "audioId": "audio_art_18",
-        "explicacaoId": "exp_art_18",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito à liberdade de pensamento, consciência e religião; esse direito inclui a liberdade de mudar de religião ou crença e a liberdade de manifestar essa religião ou crença pelo ensino, pela prática, pelo culto em público ou em particular."
-      },
-      {
-        "id": "art_19",
-        "numero": 19,
-        "titulo": "Artigo 19",
-        "audioId": "audio_art_19",
-        "explicacaoId": "exp_art_19",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito à liberdade de opinião e expressão; esse direito inclui a liberdade de, sem interferência, ter opiniões e de procurar, receber e transmitir informações e ideias por quaisquer meios e independentemente de fronteiras."
-      },
-      {
-        "id": "art_20",
-        "numero": 20,
-        "titulo": "Artigo 20",
-        "audioId": "audio_art_20",
-        "explicacaoId": "exp_art_20",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_20_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito à liberdade de reunião e associação pacífica."
-          },
-          {
-            "id": "art_20_p2",
-            "numero": 2,
-            "texto": "Ninguém pode ser obrigado a fazer parte de uma associação."
-          }
-        ]
-      },
-      {
-        "id": "art_21",
-        "numero": 21,
-        "titulo": "Artigo 21",
-        "audioId": "audio_art_21",
-        "explicacaoId": "exp_art_21",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_21_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem o direito de tomar parte no governo de seu país diretamente ou por intermédio de representantes livremente escolhidos."
-          },
-          {
-            "id": "art_21_p2",
-            "numero": 2,
-            "texto": "Todo ser humano tem igual direito de acesso ao serviço público do seu país."
-          },
-          {
-            "id": "art_21_p3",
-            "numero": 3,
-            "texto": "A vontade do povo será a base da autoridade do governo; essa vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto."
-          }
-        ]
-      },
-      {
-        "id": "art_22",
-        "numero": 22,
-        "titulo": "Artigo 22",
-        "audioId": "audio_art_22",
-        "explicacaoId": "exp_art_22",
-        "questoesId": [],
-        "texto": "Todo ser humano, como membro da sociedade, tem direito à segurança social, à realização pelo esforço nacional, pela cooperação internacional e de acordo com a organização e recursos de cada Estado, dos direitos econômicos, sociais e culturais indispensáveis à sua dignidade e ao livre desenvolvimento da sua personalidade."
-      },
-      {
-        "id": "art_23",
-        "numero": 23,
-        "titulo": "Artigo 23",
-        "audioId": "audio_art_23",
-        "explicacaoId": "exp_art_23",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_23_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego."
-          },
-          {
-            "id": "art_23_p2",
-            "numero": 2,
-            "texto": "Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho."
-          },
-          {
-            "id": "art_23_p3",
-            "numero": 3,
-            "texto": "Todo ser humano que trabalha tem direito a uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana e a que se acrescentarão, se necessário, outros meios de proteção social."
-          },
-          {
-            "id": "art_23_p4",
+            "id": "art_04",
             "numero": 4,
-            "texto": "Todo ser humano tem direito a organizar sindicatos e a neles ingressar para proteção de seus interesses."
+            "audioId": "audio_art_04",
+            "explicacaoId": "exp_art_04",
+            "questoesId": [
+              "q_art_04_001"
+            ],
+            "texto": "Ninguém será mantido em escravidão ou servidão; a escravidão e o tráfico de escravos serão proibidos em todas as suas formas."
+          },
+          {
+            "id": "art_05",
+            "numero": 5,
+            "audioId": "audio_art_05",
+            "explicacaoId": "exp_art_05",
+            "questoesId": [
+              "q_art_05_001"
+            ],
+            "texto": "Ninguém será submetido à tortura, nem a tratamento ou castigo cruel, desumano ou degradante."
+          },
+          {
+            "id": "art_06",
+            "numero": 6,
+            "audioId": "audio_art_06",
+            "explicacaoId": "exp_art_06",
+            "questoesId": [
+              "q_art_06_001"
+            ],
+            "texto": "Todo ser humano tem o direito de ser, em todos os lugares, reconhecido como pessoa perante a lei."
+          },
+          {
+            "id": "art_07",
+            "numero": 7,
+            "audioId": "audio_art_07",
+            "explicacaoId": "exp_art_07",
+            "questoesId": [
+              "q_art_07_001"
+            ],
+            "texto": "Todos são iguais perante a lei e têm direito, sem qualquer distinção, a igual proteção da lei. Todos têm direito a igual proteção contra qualquer discriminação que viole a presente Declaração e contra qualquer incitamento a tal discriminação."
+          },
+          {
+            "id": "art_08",
+            "numero": 8,
+            "audioId": "audio_art_08",
+            "explicacaoId": "exp_art_08",
+            "questoesId": [
+              "q_art_08_001"
+            ],
+            "texto": "Todo ser humano tem direito a receber dos tribunais nacionais competentes remédio efetivo para os atos que violem os direitos fundamentais que lhe sejam reconhecidos pela constituição ou pela lei."
+          },
+          {
+            "id": "art_09",
+            "numero": 9,
+            "audioId": "audio_art_09",
+            "explicacaoId": "exp_art_09",
+            "questoesId": [
+              "q_art_09_001"
+            ],
+            "texto": "Ninguém será arbitrariamente preso, detido ou exilado."
+          },
+          {
+            "id": "art_10",
+            "numero": 10,
+            "audioId": "audio_art_10",
+            "explicacaoId": "exp_art_10",
+            "questoesId": [
+              "q_art_10_001"
+            ],
+            "texto": "Todo ser humano tem direito, em plena igualdade, a uma justa e pública audiência por parte de um tribunal independente e imparcial, para decidir seus direitos e deveres ou fundamento de qualquer acusação criminal contra ele."
+          },
+          {
+            "id": "art_11",
+            "numero": 11,
+            "audioId": "audio_art_11",
+            "explicacaoId": "exp_art_11",
+            "questoesId": [
+              "q_art_11_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_11_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano acusado de um ato delituoso tem o direito de ser presumido inocente até que a sua culpabilidade tenha sido provada de acordo com a lei, em julgamento público no qual lhe tenham sido asseguradas todas as garantias necessárias à sua defesa.",
+                "audioId": "audio_art_11_inc_01",
+                "explicacaoId": "exp_art_11_inc_01"
+              },
+              {
+                "id": "art_11_inc_02",
+                "numero": 2,
+                "texto": "Ninguém poderá ser culpado por qualquer ação ou omissão que, no momento, não constituíam delito perante o direito nacional ou internacional. Também não será imposta pena mais forte de que aquela que, no momento da prática, era aplicável ao ato delituoso.",
+                "audioId": "audio_art_11_inc_02",
+                "explicacaoId": "exp_art_11_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_12",
+            "numero": 12,
+            "audioId": "audio_art_12",
+            "explicacaoId": "exp_art_12",
+            "questoesId": [
+              "q_art_12_001"
+            ],
+            "texto": "Ninguém será sujeito à interferência na sua vida privada, na sua família, no seu lar ou na sua correspondência, nem a ataque à sua honra e reputação. Todo ser humano tem direito à proteção da lei contra tais interferências ou ataques."
+          },
+          {
+            "id": "art_13",
+            "numero": 13,
+            "audioId": "audio_art_13",
+            "explicacaoId": "exp_art_13",
+            "questoesId": [
+              "q_art_13_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_13_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito à liberdade de locomoção e residência dentro das fronteiras de cada Estado.",
+                "audioId": "audio_art_13_inc_01",
+                "explicacaoId": "exp_art_13_inc_01"
+              },
+              {
+                "id": "art_13_inc_02",
+                "numero": 2,
+                "texto": "Todo ser humano tem o direito de deixar qualquer país, inclusive o próprio e a esse regressar.",
+                "audioId": "audio_art_13_inc_02",
+                "explicacaoId": "exp_art_13_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_14",
+            "numero": 14,
+            "audioId": "audio_art_14",
+            "explicacaoId": "exp_art_14",
+            "questoesId": [
+              "q_art_14_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_14_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano, vítima de perseguição, tem o direito de procurar e de gozar asilo em outros países.",
+                "audioId": "audio_art_14_inc_01",
+                "explicacaoId": "exp_art_14_inc_01"
+              },
+              {
+                "id": "art_14_inc_02",
+                "numero": 2,
+                "texto": "Esse direito não pode ser invocado em caso de perseguição legitimamente motivada por crimes de direito comum ou por atos contrários aos objetivos e princípios das Nações Unidas.",
+                "audioId": "audio_art_14_inc_02",
+                "explicacaoId": "exp_art_14_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_15",
+            "numero": 15,
+            "audioId": "audio_art_15",
+            "explicacaoId": "exp_art_15",
+            "questoesId": [
+              "q_art_15_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_15_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito a uma nacionalidade.",
+                "audioId": "audio_art_15_inc_01",
+                "explicacaoId": "exp_art_15_inc_01"
+              },
+              {
+                "id": "art_15_inc_02",
+                "numero": 2,
+                "texto": "Ninguém será arbitrariamente privado de sua nacionalidade, nem do direito de mudar de nacionalidade.",
+                "audioId": "audio_art_15_inc_02",
+                "explicacaoId": "exp_art_15_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_16",
+            "numero": 16,
+            "audioId": "audio_art_16",
+            "explicacaoId": "exp_art_16",
+            "questoesId": [
+              "q_art_16_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_16_inc_01",
+                "numero": 1,
+                "texto": "Os homens e mulheres de maior idade, sem qualquer restrição de raça, nacionalidade ou religião, têm o direito de contrair matrimônio e fundar uma família. Gozam de iguais direitos em relação ao casamento, sua duração e sua dissolução.",
+                "audioId": "audio_art_16_inc_01",
+                "explicacaoId": "exp_art_16_inc_01"
+              },
+              {
+                "id": "art_16_inc_02",
+                "numero": 2,
+                "texto": "O casamento não será válido senão com o livre e pleno consentimento dos nubentes.",
+                "audioId": "audio_art_16_inc_02",
+                "explicacaoId": "exp_art_16_inc_02"
+              },
+              {
+                "id": "art_16_inc_03",
+                "numero": 3,
+                "texto": "A família é o núcleo natural e fundamental da sociedade e tem direito à proteção da sociedade e do Estado.",
+                "audioId": "audio_art_16_inc_03",
+                "explicacaoId": "exp_art_16_inc_03"
+              }
+            ]
+          },
+          {
+            "id": "art_17",
+            "numero": 17,
+            "audioId": "audio_art_17",
+            "explicacaoId": "exp_art_17",
+            "questoesId": [
+              "q_art_17_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_17_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito à propriedade, só ou em sociedade com outros.",
+                "audioId": "audio_art_17_inc_01",
+                "explicacaoId": "exp_art_17_inc_01"
+              },
+              {
+                "id": "art_17_inc_02",
+                "numero": 2,
+                "texto": "Ninguém será arbitrariamente privado de sua propriedade.",
+                "audioId": "audio_art_17_inc_02",
+                "explicacaoId": "exp_art_17_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_18",
+            "numero": 18,
+            "audioId": "audio_art_18",
+            "explicacaoId": "exp_art_18",
+            "questoesId": [
+              "q_art_18_001"
+            ],
+            "texto": "Todo ser humano tem direito à liberdade de pensamento, consciência e religião; esse direito inclui a liberdade de mudar de religião ou crença e a liberdade de manifestar essa religião ou crença pelo ensino, pela prática, pelo culto em público ou em particular."
+          },
+          {
+            "id": "art_19",
+            "numero": 19,
+            "audioId": "audio_art_19",
+            "explicacaoId": "exp_art_19",
+            "questoesId": [
+              "q_art_19_001"
+            ],
+            "texto": "Todo ser humano tem direito à liberdade de opinião e expressão; esse direito inclui a liberdade de, sem interferência, ter opiniões e de procurar, receber e transmitir informações e idéias por quaisquer meios e independentemente de fronteiras."
+          },
+          {
+            "id": "art_20",
+            "numero": 20,
+            "audioId": "audio_art_20",
+            "explicacaoId": "exp_art_20",
+            "questoesId": [
+              "q_art_20_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_20_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito à liberdade de reunião e associação pacífica.",
+                "audioId": "audio_art_20_inc_01",
+                "explicacaoId": "exp_art_20_inc_01"
+              },
+              {
+                "id": "art_20_inc_02",
+                "numero": 2,
+                "texto": "Ninguém pode ser obrigado a fazer parte de uma associação.",
+                "audioId": "audio_art_20_inc_02",
+                "explicacaoId": "exp_art_20_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_21",
+            "numero": 21,
+            "audioId": "audio_art_21",
+            "explicacaoId": "exp_art_21",
+            "questoesId": [
+              "q_art_21_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_21_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem o direito de tomar parte no governo de seu país diretamente ou por intermédio de representantes livremente escolhidos.",
+                "audioId": "audio_art_21_inc_01",
+                "explicacaoId": "exp_art_21_inc_01"
+              },
+              {
+                "id": "art_21_inc_02",
+                "numero": 2,
+                "texto": "Todo ser humano tem igual direito de acesso ao serviço público do seu país.",
+                "audioId": "audio_art_21_inc_02",
+                "explicacaoId": "exp_art_21_inc_02"
+              },
+              {
+                "id": "art_21_inc_03",
+                "numero": 3,
+                "texto": "A vontade do povo será a base da autoridade do governo; essa vontade será expressa em eleições periódicas e legítimas, por sufrágio universal, por voto secreto ou processo equivalente que assegure a liberdade de voto.",
+                "audioId": "audio_art_21_inc_03",
+                "explicacaoId": "exp_art_21_inc_03"
+              }
+            ]
+          },
+          {
+            "id": "art_22",
+            "numero": 22,
+            "audioId": "audio_art_22",
+            "explicacaoId": "exp_art_22",
+            "questoesId": [
+              "q_art_22_001"
+            ],
+            "texto": "Todo ser humano, como membro da sociedade, tem direito à segurança social, à realização pelo esforço nacional, pela cooperação internacional e de acordo com a organização e recursos de cada Estado, dos direitos econômicos, sociais e culturais indispensáveis à sua dignidade e ao livre desenvolvimento da sua personalidade."
+          },
+          {
+            "id": "art_23",
+            "numero": 23,
+            "audioId": "audio_art_23",
+            "explicacaoId": "exp_art_23",
+            "questoesId": [
+              "q_art_23_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_23_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito ao trabalho, à livre escolha de emprego, a condições justas e favoráveis de trabalho e à proteção contra o desemprego.",
+                "audioId": "audio_art_23_inc_01",
+                "explicacaoId": "exp_art_23_inc_01"
+              },
+              {
+                "id": "art_23_inc_02",
+                "numero": 2,
+                "texto": "Todo ser humano, sem qualquer distinção, tem direito a igual remuneração por igual trabalho.",
+                "audioId": "audio_art_23_inc_02",
+                "explicacaoId": "exp_art_23_inc_02"
+              },
+              {
+                "id": "art_23_inc_03",
+                "numero": 3,
+                "texto": "Todo ser humano que trabalha tem direito a uma remuneração justa e satisfatória que lhe assegure, assim como à sua família, uma existência compatível com a dignidade humana e a que se acrescentarão, se necessário, outros meios de proteção social.",
+                "audioId": "audio_art_23_inc_03",
+                "explicacaoId": "exp_art_23_inc_03"
+              },
+              {
+                "id": "art_23_inc_04",
+                "numero": 4,
+                "texto": "Todo ser humano tem direito a organizar sindicatos e a neles ingressar para proteção de seus interesses.",
+                "audioId": "audio_art_23_inc_04",
+                "explicacaoId": "exp_art_23_inc_04"
+              }
+            ]
+          },
+          {
+            "id": "art_24",
+            "numero": 24,
+            "audioId": "audio_art_24",
+            "explicacaoId": "exp_art_24",
+            "questoesId": [
+              "q_art_24_001"
+            ],
+            "texto": "Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas."
+          },
+          {
+            "id": "art_25",
+            "numero": 25,
+            "audioId": "audio_art_25",
+            "explicacaoId": "exp_art_25",
+            "questoesId": [
+              "q_art_25_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_25_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito a um padrão de vida capaz de assegurar a si e à sua família saúde, bem-estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis e direito à segurança em caso de desemprego, doença invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência em circunstâncias fora de seu controle.",
+                "audioId": "audio_art_25_inc_01",
+                "explicacaoId": "exp_art_25_inc_01"
+              },
+              {
+                "id": "art_25_inc_02",
+                "numero": 2,
+                "texto": "A maternidade e a infância têm direito a cuidados e assistência especiais. Todas as crianças, nascidas dentro ou fora do matrimônio, gozarão da mesma proteção social.",
+                "audioId": "audio_art_25_inc_02",
+                "explicacaoId": "exp_art_25_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_26",
+            "numero": 26,
+            "audioId": "audio_art_26",
+            "explicacaoId": "exp_art_26",
+            "questoesId": [
+              "q_art_26_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_26_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem direito à instrução. A instrução será gratuita, pelo menos nos graus elementares e fundamentais. A instrução elementar será obrigatória. A instrução técnico-profissional será acessível a todos, bem como a instrução superior, esta baseada no mérito.",
+                "audioId": "audio_art_26_inc_01",
+                "explicacaoId": "exp_art_26_inc_01"
+              },
+              {
+                "id": "art_26_inc_02",
+                "numero": 2,
+                "texto": "A instrução será orientada no sentido do pleno desenvolvimento da personalidade humana e do fortalecimento do respeito pelos direitos do ser humano e pelas liberdades fundamentais. A instrução promoverá a compreensão, a tolerância e a amizade entre todas as nações e grupos raciais ou religiosos e coadjuvará as atividades das Nações Unidas em prol da manutenção da paz.",
+                "audioId": "audio_art_26_inc_02",
+                "explicacaoId": "exp_art_26_inc_02"
+              },
+              {
+                "id": "art_26_inc_03",
+                "numero": 3,
+                "texto": "Os pais têm prioridade de direito na escolha do gênero de instrução que será ministrada a seus filhos.",
+                "audioId": "audio_art_26_inc_03",
+                "explicacaoId": "exp_art_26_inc_03"
+              }
+            ]
+          },
+          {
+            "id": "art_27",
+            "numero": 27,
+            "audioId": "audio_art_27",
+            "explicacaoId": "exp_art_27",
+            "questoesId": [
+              "q_art_27_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_27_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico e de seus benefícios.",
+                "audioId": "audio_art_27_inc_01",
+                "explicacaoId": "exp_art_27_inc_01"
+              },
+              {
+                "id": "art_27_inc_02",
+                "numero": 2,
+                "texto": "Todo ser humano tem direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica literária ou artística da qual seja autor.",
+                "audioId": "audio_art_27_inc_02",
+                "explicacaoId": "exp_art_27_inc_02"
+              }
+            ]
+          },
+          {
+            "id": "art_28",
+            "numero": 28,
+            "audioId": "audio_art_28",
+            "explicacaoId": "exp_art_28",
+            "questoesId": [
+              "q_art_28_001"
+            ],
+            "texto": "Todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades estabelecidos na presente Declaração possam ser plenamente realizados."
+          },
+          {
+            "id": "art_29",
+            "numero": 29,
+            "audioId": "audio_art_29",
+            "explicacaoId": "exp_art_29",
+            "questoesId": [
+              "q_art_29_001"
+            ],
+            "texto": "",
+            "incisos": [
+              {
+                "id": "art_29_inc_01",
+                "numero": 1,
+                "texto": "Todo ser humano tem deveres para com a comunidade, na qual o livre e pleno desenvolvimento de sua personalidade é possível.",
+                "audioId": "audio_art_29_inc_01",
+                "explicacaoId": "exp_art_29_inc_01"
+              },
+              {
+                "id": "art_29_inc_02",
+                "numero": 2,
+                "texto": "No exercício de seus direitos e liberdades, todo ser humano estará sujeito apenas às limitações determinadas pela lei, exclusivamente com o fim de assegurar o devido reconhecimento e respeito dos direitos e liberdades de outrem e de satisfazer as justas exigências da moral, da ordem pública e do bem-estar de uma sociedade democrática.",
+                "audioId": "audio_art_29_inc_02",
+                "explicacaoId": "exp_art_29_inc_02"
+              },
+              {
+                "id": "art_29_inc_03",
+                "numero": 3,
+                "texto": "Esses direitos e liberdades não podem, em hipótese alguma, ser exercidos contrariamente aos objetivos e princípios das Nações Unidas.",
+                "audioId": "audio_art_29_inc_03",
+                "explicacaoId": "exp_art_29_inc_03"
+              }
+            ]
+          },
+          {
+            "id": "art_30",
+            "numero": 30,
+            "audioId": "audio_art_30",
+            "explicacaoId": "exp_art_30",
+            "questoesId": [
+              "q_art_30_001"
+            ],
+            "texto": "Nenhuma disposição da presente Declaração pode ser interpretada como o reconhecimento a qualquer Estado, grupo ou pessoa, do direito de exercer qualquer atividade ou praticar qualquer ato destinado à destruição de quaisquer dos direitos e liberdades aqui estabelecidos."
           }
         ]
-      },
-      {
-        "id": "art_24",
-        "numero": 24,
-        "titulo": "Artigo 24",
-        "audioId": "audio_art_24",
-        "explicacaoId": "exp_art_24",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito a repouso e lazer, inclusive a limitação razoável das horas de trabalho e a férias remuneradas periódicas."
-      },      {
-        "id": "art_25",
-        "numero": 25,
-        "titulo": "Artigo 25",
-        "audioId": "audio_art_25",
-        "explicacaoId": "exp_art_25",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_25_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito a um padrão de vida capaz de assegurar a si e à sua família saúde, bem-estar, inclusive alimentação, vestuário, habitação, cuidados médicos e os serviços sociais indispensáveis e direito à segurança em caso de desemprego, doença, invalidez, viuvez, velhice ou outros casos de perda dos meios de subsistência em circunstâncias fora de seu controle."
-          },
-          {
-            "id": "art_25_p2",
-            "numero": 2,
-            "texto": "A maternidade e a infância têm direito a cuidados e assistência especiais. Todas as crianças, nascidas dentro ou fora do matrimônio, gozarão da mesma proteção social."
-          }
-        ]
-      },
-      {
-        "id": "art_26",
-        "numero": 26,
-        "titulo": "Artigo 26",
-        "audioId": "audio_art_26",
-        "explicacaoId": "exp_art_26",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_26_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem direito à instrução. A instrução será gratuita, pelo menos nos graus elementares e fundamentais. A instrução elementar será obrigatória. A instrução técnico-profissional será acessível a todos, bem como a instrução superior, esta baseada no mérito."
-          },
-          {
-            "id": "art_26_p2",
-            "numero": 2,
-            "texto": "A instrução será orientada no sentido do pleno desenvolvimento da personalidade humana e do fortalecimento do respeito pelos direitos do ser humano e pelas liberdades fundamentais. A instrução promoverá a compreensão, a tolerância e a amizade entre todas as nações e grupos raciais ou religiosos e coadjuvará as atividades das Nações Unidas em prol da manutenção da paz."
-          },
-          {
-            "id": "art_26_p3",
-            "numero": 3,
-            "texto": "Os pais têm prioridade de direito na escolha do gênero de instrução que será ministrada a seus filhos."
-          }
-        ]
-      },
-      {
-        "id": "art_27",
-        "numero": 27,
-        "titulo": "Artigo 27",
-        "audioId": "audio_art_27",
-        "explicacaoId": "exp_art_27",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_27_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem o direito de participar livremente da vida cultural da comunidade, de fruir as artes e de participar do progresso científico e de seus benefícios."
-          },
-          {
-            "id": "art_27_p2",
-            "numero": 2,
-            "texto": "Todo ser humano tem direito à proteção dos interesses morais e materiais decorrentes de qualquer produção científica, literária ou artística da qual seja autor."
-          }
-        ]
-      },
-      {
-        "id": "art_28",
-        "numero": 28,
-        "titulo": "Artigo 28",
-        "audioId": "audio_art_28",
-        "explicacaoId": "exp_art_28",
-        "questoesId": [],
-        "texto": "Todo ser humano tem direito a uma ordem social e internacional em que os direitos e liberdades estabelecidos na presente Declaração possam ser plenamente realizados."
-      },
-      {
-        "id": "art_29",
-        "numero": 29,
-        "titulo": "Artigo 29",
-        "audioId": "audio_art_29",
-        "explicacaoId": "exp_art_29",
-        "questoesId": [],
-        "paragrafos": [
-          {
-            "id": "art_29_p1",
-            "numero": 1,
-            "texto": "Todo ser humano tem deveres para com a comunidade, na qual o livre e pleno desenvolvimento de sua personalidade é possível."
-          },
-          {
-            "id": "art_29_p2",
-            "numero": 2,
-            "texto": "No exercício de seus direitos e liberdades, todo ser humano estará sujeito apenas às limitações determinadas pela lei, exclusivamente com o fim de assegurar o devido reconhecimento e respeito dos direitos e liberdades de outrem e de satisfazer as justas exigências da moral, da ordem pública e do bem-estar de uma sociedade democrática."
-          },
-          {
-            "id": "art_29_p3",
-            "numero": 3,
-            "texto": "Esses direitos e liberdades não podem, em hipótese alguma, ser exercidos contrariamente aos objetivos e princípios das Nações Unidas."
-          }
-        ]
-      },
-      {
-        "id": "art_30",
-        "numero": 30,
-        "titulo": "Artigo 30",
-        "audioId": "audio_art_30",
-        "explicacaoId": "exp_art_30",
-        "questoesId": [],
-        "texto": "Nenhuma disposição da presente Declaração pode ser interpretada como o reconhecimento a qualquer Estado, grupo ou pessoa, do direito de exercer qualquer atividade ou praticar qualquer ato destinado à destruição de quaisquer dos direitos e liberdades aqui estabelecidos."
       }
     ]
   }

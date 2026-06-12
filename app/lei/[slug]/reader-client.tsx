@@ -319,6 +319,84 @@ function getDocumentoTitulo(json: unknown) {
   return typeof documento.titulo === "string" ? documento.titulo : ""
 }
 
+function mapRemoteReaderActions(
+  highlights: HighlightRow[] = [],
+  notes: NoteRow[] = []
+) {
+  return [
+    ...highlights.map((item) => ({
+      id: item.id,
+      createdAt: item.created_at,
+      type: "highlight" as const,
+      text: item.selected_text,
+      startOffset: item.start_offset,
+      endOffset: item.end_offset,
+      color: item.color,
+      label: getHighlightLabel(item.color),
+    })),
+    ...notes.map((item) => ({
+      id: item.id,
+      createdAt: item.created_at,
+      type: "note" as const,
+      text: item.selected_text,
+      startOffset: item.start_offset,
+      endOffset: item.end_offset,
+      note: item.note,
+    })),
+  ]
+}
+
+function readLocalReaderActions(storageKey: string) {
+  try {
+    const stored = localStorage.getItem(storageKey)
+    return stored ? (JSON.parse(stored) as ReaderAction[]) : []
+  } catch {
+    return []
+  }
+}
+
+function mergeReaderActions(
+  storageKey: string,
+  remoteActions: ReaderAction[],
+  includeLocal = true
+) {
+  const mergedActions = new Map<string, ReaderAction>()
+  const localActions = includeLocal ? readLocalReaderActions(storageKey) : []
+
+  for (const action of [...localActions, ...remoteActions]) {
+    mergedActions.set(action.id, action)
+  }
+
+  const actions = normalizeReaderActions(Array.from(mergedActions.values()))
+  localStorage.setItem(storageKey, JSON.stringify(actions))
+
+  return actions
+}
+
+async function loadRemoteReaderActions(
+  supabase: ReturnType<typeof createSupabaseBrowserClient>,
+  slug: string
+) {
+  const { data: highlights, error: highlightsError } = await supabase
+    .from("lei_highlights")
+    .select("id,color,selected_text,start_offset,end_offset,created_at")
+    .eq("lei_id", slug)
+    .order("created_at", { ascending: true })
+
+  const { data: notes, error: notesError } = await supabase
+    .from("lei_notes")
+    .select("id,selected_text,note,start_offset,end_offset,created_at")
+    .eq("lei_id", slug)
+    .order("created_at", { ascending: true })
+
+  if (highlightsError || notesError) return null
+
+  return mapRemoteReaderActions(
+    (highlights || []) as HighlightRow[],
+    (notes || []) as NoteRow[]
+  )
+}
+
 export default function LeiReaderClient({ slug }: { slug: string }) {
   const router = useRouter()
   const readerRef = useRef<HTMLDivElement>(null)
@@ -410,62 +488,67 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       setLeiTitle(getDocumentoTitulo(json))
       setCarregando(false)
 
-      const { data: highlights } = await supabase
-        .from("lei_highlights")
-        .select("id,color,selected_text,start_offset,end_offset,created_at")
-        .eq("lei_id", slug)
-        .order("created_at", { ascending: true })
-
-      const { data: notes } = await supabase
-        .from("lei_notes")
-        .select("id,selected_text,note,start_offset,end_offset,created_at")
-        .eq("lei_id", slug)
-        .order("created_at", { ascending: true })
-
-      const remoteActions = [
-        ...((highlights || []) as HighlightRow[]).map((item) => ({
-          id: item.id,
-          createdAt: item.created_at,
-          type: "highlight" as const,
-          text: item.selected_text,
-          startOffset: item.start_offset,
-          endOffset: item.end_offset,
-          color: item.color,
-          label: getHighlightLabel(item.color),
-        })),
-        ...((notes || []) as NoteRow[]).map((item) => ({
-          id: item.id,
-          createdAt: item.created_at,
-          type: "note" as const,
-          text: item.selected_text,
-          startOffset: item.start_offset,
-          endOffset: item.end_offset,
-          note: item.note,
-        })),
-      ]
-      let localActions: ReaderAction[] = []
-
-      try {
-        const stored = localStorage.getItem(storageKey)
-        localActions = stored ? (JSON.parse(stored) as ReaderAction[]) : []
-      } catch {
-        localActions = []
+      const remoteActions = await loadRemoteReaderActions(supabase, slug)
+      if (remoteActions) {
+        setReaderActions(mergeReaderActions(storageKey, remoteActions, false))
       }
-
-      const mergedActions = new Map<string, ReaderAction>()
-
-      for (const action of [...localActions, ...remoteActions]) {
-        mergedActions.set(action.id, action)
-      }
-
-      const actions = normalizeReaderActions(Array.from(mergedActions.values()))
-
-      localStorage.setItem(storageKey, JSON.stringify(actions))
-      setReaderActions(actions)
     }
 
     void carregarLei()
   }, [router, slug, storageKey])
+
+  useEffect(() => {
+    if (!userId) return
+
+    const supabase = createSupabaseBrowserClient()
+    let disposed = false
+    let reloadTimeout: number | undefined
+
+    async function reloadReaderActions() {
+      const remoteActions = await loadRemoteReaderActions(supabase, slug)
+      if (!remoteActions) return
+      if (disposed) return
+
+      setReaderActions(mergeReaderActions(storageKey, remoteActions, false))
+    }
+
+    function scheduleReload() {
+      if (reloadTimeout) window.clearTimeout(reloadTimeout)
+      reloadTimeout = window.setTimeout(() => {
+        void reloadReaderActions()
+      }, 180)
+    }
+
+    const channel = supabase
+      .channel(`lei-actions:${slug}:${userId}`)
+      .on(
+        "postgres_changes",
+        {
+          event: "*",
+          schema: "public",
+          table: "lei_highlights",
+          filter: `lei_id=eq.${slug}`,
+        },
+        scheduleReload
+      )
+      .on(
+        "postgres_changes",
+        {
+          event: "*",
+          schema: "public",
+          table: "lei_notes",
+          filter: `lei_id=eq.${slug}`,
+        },
+        scheduleReload
+      )
+      .subscribe()
+
+    return () => {
+      disposed = true
+      if (reloadTimeout) window.clearTimeout(reloadTimeout)
+      void supabase.removeChannel(channel)
+    }
+  }, [slug, storageKey, userId])
 
   useEffect(() => {
     if (!actionMessage) return
@@ -532,9 +615,10 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       const endOffset = startOffset + text.length
       const startNode = getBoundary(nodes, startOffset, "start")
       const endNode = getBoundary(nodes, endOffset, "end")
-      const option = action.type === "highlight" && action.color
-        ? highlightOptions.find((item) => item.color === action.color)
-        : undefined
+      const option =
+        action.type === "highlight" && action.color
+          ? highlightOptions.find((item) => item.color === action.color)
+          : undefined
 
       if (!startNode || !endNode) continue
 
@@ -585,7 +669,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
     }
   }, [lei, readerActions])
 
-  async function saveReaderAction(action: Omit<ReaderAction, "id" | "createdAt">) {
+  async function saveReaderAction(
+    action: Omit<ReaderAction, "id" | "createdAt">
+  ) {
     const startOffset = Math.max(0, action.startOffset)
     const endOffset = Math.max(startOffset + 1, action.endOffset)
     const selectedText = action.text.slice(0, 2000)
@@ -612,7 +698,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         startOffset,
         endOffset,
       }
-      const overlappingIds = new Set(overlappingHighlights.map((item) => item.id))
+      const overlappingIds = new Set(
+        overlappingHighlights.map((item) => item.id)
+      )
       const actions = normalizeReaderActions([
         ...readerActions.filter((item) => !overlappingIds.has(item.id)),
         nextAction,
@@ -790,7 +878,10 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
 
     setSelectionMenu({
       text: position.text,
-      x: Math.min(Math.max(rect.left + rect.width / 2, 12), window.innerWidth - 12),
+      x: Math.min(
+        Math.max(rect.left + rect.width / 2, 12),
+        window.innerWidth - 12
+      ),
       y: Math.max(rect.top - 12, 8),
       startOffset: position.startOffset,
       endOffset: position.endOffset,
@@ -809,7 +900,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       label: option.label,
       text: selectionMenu?.text || "",
       startOffset: selectionMenu?.startOffset || 0,
-      endOffset: selectionMenu?.endOffset || Math.max(1, selectionMenu?.text.length || 1),
+      endOffset:
+        selectionMenu?.endOffset ||
+        Math.max(1, selectionMenu?.text.length || 1),
     })
     setActionMessage(
       savedRemote
@@ -862,11 +955,18 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         }),
       })
 
-      const data = (await response.json()) as { explanation?: string; error?: string }
+      const data = (await response.json()) as {
+        explanation?: string
+        error?: string
+      }
 
-      setExplanation(data.explanation || data.error || "Nao foi possivel explicar o trecho.")
+      setExplanation(
+        data.explanation || data.error || "Nao foi possivel explicar o trecho."
+      )
     } catch {
-      setExplanation("Nao foi possivel conectar ao servico de explicacao agora.")
+      setExplanation(
+        "Nao foi possivel conectar ao servico de explicacao agora."
+      )
     } finally {
       setExplainLoading(false)
     }
@@ -949,12 +1049,15 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         type="button"
         variant="outline"
         onClick={() => setAnnotationsOpen(true)}
-        className="fixed bottom-5 right-5 z-40 shadow-lg"
+        className="fixed right-5 bottom-5 z-40 shadow-lg"
       >
         <RiStickyNoteLine className="size-4" />
         Estudo
         {readerActions.length > 0 && (
-          <Badge variant="secondary" className="ml-1 h-5 min-w-5 rounded-full px-1.5">
+          <Badge
+            variant="secondary"
+            className="ml-1 h-5 min-w-5 rounded-full px-1.5"
+          >
             {readerActions.length}
           </Badge>
         )}
@@ -1005,7 +1108,10 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                       .slice()
                       .reverse()
                       .map((action) => (
-                        <article key={action.id} className="rounded-lg border p-3 text-sm">
+                        <article
+                          key={action.id}
+                          className="rounded-lg border p-3 text-sm"
+                        >
                           <div className="mb-2 flex items-start justify-between gap-3">
                             <div className="min-w-0">
                               <div className="flex items-center gap-2">
@@ -1056,7 +1162,10 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                       .slice()
                       .reverse()
                       .map((action) => (
-                        <article key={action.id} className="rounded-lg border p-3 text-sm">
+                        <article
+                          key={action.id}
+                          className="rounded-lg border p-3 text-sm"
+                        >
                           <div className="mb-2 flex items-start justify-between gap-3">
                             <div className="min-w-0">
                               <div className="flex items-center gap-2">
@@ -1127,7 +1236,11 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
             </div>
 
             <DialogFooter>
-              <Button variant="outline" type="button" onClick={() => setNoteOpen(false)}>
+              <Button
+                variant="outline"
+                type="button"
+                onClick={() => setNoteOpen(false)}
+              >
                 Cancelar
               </Button>
               <Button type="button" onClick={saveNote}>
@@ -1160,7 +1273,7 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
             <ScrollArea className="max-h-[62vh]">
               <div className="space-y-6 px-6 py-5">
                 <section className="space-y-3">
-                  <div className="flex items-center gap-2 text-xs font-medium uppercase tracking-wide text-muted-foreground">
+                  <div className="flex items-center gap-2 text-xs font-medium tracking-wide text-muted-foreground uppercase">
                     <RiStickyNoteLine className="size-4" />
                     Trecho selecionado
                   </div>
@@ -1222,21 +1335,26 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                               "O que significa?"}
                           </h3>
                         </div>
-                        <p className="max-w-prose whitespace-pre-line text-sm leading-8 text-muted-foreground">
+                        <p className="max-w-prose text-sm leading-8 whitespace-pre-line text-muted-foreground">
                           {explanationData.explicacao?.texto ||
                             "Nao foi possivel explicar este trecho."}
                         </p>
                         {explanationData.passoAPasso &&
                           explanationData.passoAPasso.length > 0 && (
                             <ol className="space-y-2 text-sm text-muted-foreground">
-                              {explanationData.passoAPasso.map((step, index) => (
-                                <li key={`${step}-${index}`} className="flex gap-3">
-                                  <span className="mt-0.5 flex size-5 shrink-0 items-center justify-center rounded-full border text-xs">
-                                    {index + 1}
-                                  </span>
-                                  <span className="leading-7">{step}</span>
-                                </li>
-                              ))}
+                              {explanationData.passoAPasso.map(
+                                (step, index) => (
+                                  <li
+                                    key={`${step}-${index}`}
+                                    className="flex gap-3"
+                                  >
+                                    <span className="mt-0.5 flex size-5 shrink-0 items-center justify-center rounded-full border text-xs">
+                                      {index + 1}
+                                    </span>
+                                    <span className="leading-7">{step}</span>
+                                  </li>
+                                )
+                              )}
                             </ol>
                           )}
                       </article>
@@ -1248,21 +1366,28 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                           <span className="flex size-9 items-center justify-center rounded-lg border bg-muted text-muted-foreground">
                             <RiBookOpenLine className="size-4" />
                           </span>
-                          <h3 className="text-base font-semibold">Termos importantes</h3>
+                          <h3 className="text-base font-semibold">
+                            Termos importantes
+                          </h3>
                         </div>
                         {explanationData.termosImportantes &&
                         explanationData.termosImportantes.length > 0 ? (
                           <div className="space-y-3">
-                            {explanationData.termosImportantes.map((item, index) => (
-                              <div key={`${item.termo}-${index}`} className="border-l-2 pl-4">
-                                <p className="text-sm font-medium">
-                                  {item.termo || "Termo"}
-                                </p>
-                                <p className="mt-1 text-sm leading-7 text-muted-foreground">
-                                  {item.significado || "Sem explicacao."}
-                                </p>
-                              </div>
-                            ))}
+                            {explanationData.termosImportantes.map(
+                              (item, index) => (
+                                <div
+                                  key={`${item.termo}-${index}`}
+                                  className="border-l-2 pl-4"
+                                >
+                                  <p className="text-sm font-medium">
+                                    {item.termo || "Termo"}
+                                  </p>
+                                  <p className="mt-1 text-sm leading-7 text-muted-foreground">
+                                    {item.significado || "Sem explicacao."}
+                                  </p>
+                                </div>
+                              )
+                            )}
                           </div>
                         ) : (
                           <p className="text-sm text-muted-foreground">
@@ -1320,7 +1445,8 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                             <RiCheckLine className="size-4" />
                           </span>
                           <h3 className="text-base font-semibold">
-                            {explanationData.memorize?.titulo || "Para memorizar"}
+                            {explanationData.memorize?.titulo ||
+                              "Para memorizar"}
                           </h3>
                         </div>
                         <p className="max-w-prose text-sm leading-8 text-muted-foreground">
@@ -1349,7 +1475,7 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
                     </TabsContent>
                   </Tabs>
                 ) : (
-                  <p className="max-w-prose whitespace-pre-line text-sm leading-8 text-muted-foreground">
+                  <p className="max-w-prose text-sm leading-8 whitespace-pre-line text-muted-foreground">
                     {explanation}
                   </p>
                 )}

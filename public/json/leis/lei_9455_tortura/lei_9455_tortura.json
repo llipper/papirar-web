@@ -1,83 +1,253 @@
 {
-    "id": "Lei_9455_Tortura",
-    "titulo": "Lei 9455 Tortura",
-    "apelido": "Lei 9455 Tortura.",
+  "documento": {
+    "id": "doc_lei_9455_tortura",
+    "tipo": "lei_nacional",
+    "titulo": "Define os crimes de tortura e dá outras providências",
+    "apelido": "Lei 9455 Tortura",
     "sigla": "",
-    "fonte": "Lei_9455_Tortura.txt",
-    "fonteHtmlLocal": "leis/Lei_9455_Tortura/l9455.htm",
-    "preambulo": [
+    "lei": {
+      "numero": "9.455",
+      "data": "7 DE ABRIL DE 1997",
+      "sancionadoPor": "Presidente da República",
+      "audioId": "audio_lei_9_455",
+      "explicacaoId": "exp_lei_9_455",
+      "questoesId": [
+        "q_lei_001",
+        "q_lei_002",
+        "q_lei_003"
+      ]
+    },
+    "fontes": {
+      "texto": "lei_9455_tortura.txt",
+      "htmlLocal": "l9455.htm"
+    },
+    "preambulo": {
+      "id": "preambulo",
+      "titulo": "Preâmbulo",
+      "audioId": "audio_preambulo",
+      "explicacaoId": "exp_preambulo",
+      "questoesId": [
+        "q_preambulo_001"
+      ],
+      "considerandos": [
         {
-            "texto": "LEI Nº 9.455, DE 7 DE ABRIL DE 1997.",
-            "linha": 1
+          "id": "preambulo_01",
+          "texto": "LEI Nº 9.455, DE 7 DE ABRIL DE 1997.",
+          "audioId": "audio_preambulo_01",
+          "explicacaoId": "exp_preambulo_01"
         },
         {
-            "texto": "Define os crimes de tortura e dá outras providências.",
-            "linha": 3
+          "id": "preambulo_02",
+          "texto": "Define os crimes de tortura e dá outras providências.",
+          "audioId": "audio_preambulo_02",
+          "explicacaoId": "exp_preambulo_02"
         },
         {
-            "texto": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
-            "linha": 5
-        },
-        {
-            "texto": "Art. 1º Constitui crime de tortura:",
-            "linha": 7
-        },
-        {
-            "texto": "I - constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental:",
-            "linha": 9
+          "id": "preambulo_03",
+          "texto": "O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+          "audioId": "audio_preambulo_03",
+          "explicacaoId": "exp_preambulo_03"
         }
+      ]
+    },
+    "partes": [
+      {
+        "id": "parte_unica",
+        "numero": "ÚNICA",
+        "titulo": "Parte Única",
+        "questoesId": [
+          "q_parte_unica_001"
+        ],
+        "audioId": "audio_parte_unica",
+        "explicacaoId": "exp_parte_unica",
+        "artigos": [
+          {
+            "id": "art_1o",
+            "numero": "1º",
+            "rotulo": "Art. 1º",
+            "audioId": "audio_art_1o",
+            "explicacaoId": "exp_art_1o",
+            "questoesId": [
+              "q_art_1o_001"
+            ],
+            "texto": "Constitui crime de tortura:",
+            "incisos": [
+              {
+                "id": "art_1o_inc_i",
+                "numero": "I",
+                "rotulo": "I -",
+                "audioId": "audio_art_1o_inc_i",
+                "explicacaoId": "exp_art_1o_inc_i",
+                "texto": "constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental:",
+                "alineas": [
+                  {
+                    "id": "art_1o_inc_i_al_a",
+                    "letra": "a",
+                    "rotulo": "a)",
+                    "audioId": "audio_art_1o_inc_i_al_a",
+                    "explicacaoId": "exp_art_1o_inc_i_al_a",
+                    "texto": "com o fim de obter informação, declaração ou confissão da vítima ou de terceira pessoa;"
+                  },
+                  {
+                    "id": "art_1o_inc_i_al_b",
+                    "letra": "b",
+                    "rotulo": "b)",
+                    "audioId": "audio_art_1o_inc_i_al_b",
+                    "explicacaoId": "exp_art_1o_inc_i_al_b",
+                    "texto": "para provocar ação ou omissão de natureza criminosa;"
+                  },
+                  {
+                    "id": "art_1o_inc_i_al_c",
+                    "letra": "c",
+                    "rotulo": "c)",
+                    "audioId": "audio_art_1o_inc_i_al_c",
+                    "explicacaoId": "exp_art_1o_inc_i_al_c",
+                    "texto": "em razão de discriminação racial ou religiosa;"
+                  }
+                ]
+              },
+              {
+                "id": "art_1o_inc_ii",
+                "numero": "II",
+                "rotulo": "II -",
+                "audioId": "audio_art_1o_inc_ii",
+                "explicacaoId": "exp_art_1o_inc_ii",
+                "texto": "submeter alguém, sob sua guarda, poder ou autoridade, com emprego de violência ou grave ameaça, a intenso sofrimento físico ou mental, como forma de aplicar castigo pessoal ou medida de caráter preventivo. III – submeter mulher, reiteradamente, a intenso sofrimento físico ou mental, no contexto de violência doméstica e familiar, sem prejuízo da aplicação das penas correspondentes a outras infrações penais. Pena - reclusão, de dois a oito anos."
+              }
+            ],
+            "paragrafos": [
+              {
+                "id": "art_1o_p_1o",
+                "tipo": "numerado",
+                "rotulo": "§ 1º",
+                "audioId": "audio_art_1o_p_1o",
+                "explicacaoId": "exp_art_1o_p_1o",
+                "numero": "1º",
+                "texto": "Na mesma pena incorre quem submete pessoa presa ou sujeita a medida de segurança a sofrimento físico ou mental, por intermédio da prática de ato não previsto em lei ou não resultante de medida legal."
+              },
+              {
+                "id": "art_1o_p_2o",
+                "tipo": "numerado",
+                "rotulo": "§ 2º",
+                "audioId": "audio_art_1o_p_2o",
+                "explicacaoId": "exp_art_1o_p_2o",
+                "numero": "2º",
+                "texto": "Aquele que se omite em face dessas condutas, quando tinha o dever de evitá-las ou apurá-las, incorre na pena de detenção de um a quatro anos."
+              },
+              {
+                "id": "art_1o_p_3o",
+                "tipo": "numerado",
+                "rotulo": "§ 3º",
+                "audioId": "audio_art_1o_p_3o",
+                "explicacaoId": "exp_art_1o_p_3o",
+                "numero": "3º",
+                "texto": "Se resulta lesão corporal de natureza grave ou gravíssima, a pena é de reclusão de quatro a dez anos; se resulta morte, a reclusão é de oito a dezesseis anos."
+              },
+              {
+                "id": "art_1o_p_4o",
+                "tipo": "numerado",
+                "rotulo": "§ 4º",
+                "audioId": "audio_art_1o_p_4o",
+                "explicacaoId": "exp_art_1o_p_4o",
+                "numero": "4º",
+                "texto": "Aumenta-se a pena de um sexto até um terço:",
+                "incisos": [
+                  {
+                    "id": "art_1o_p_4o_inc_i",
+                    "numero": "I",
+                    "rotulo": "I -",
+                    "audioId": "audio_art_1o_p_4o_inc_i",
+                    "explicacaoId": "exp_art_1o_p_4o_inc_i",
+                    "texto": "se o crime é cometido por agente público; II – se o crime é cometido contra criança, gestante, portador de deficiência, adolescente ou maior de 60 (sessenta) anos; '"
+                  },
+                  {
+                    "id": "art_1o_p_4o_inc_iii",
+                    "numero": "III",
+                    "rotulo": "III -",
+                    "audioId": "audio_art_1o_p_4o_inc_iii",
+                    "explicacaoId": "exp_art_1o_p_4o_inc_iii",
+                    "texto": "se o crime é cometido mediante seqüestro."
+                  }
+                ]
+              },
+              {
+                "id": "art_1o_p_5o",
+                "tipo": "numerado",
+                "rotulo": "§ 5º",
+                "audioId": "audio_art_1o_p_5o",
+                "explicacaoId": "exp_art_1o_p_5o",
+                "numero": "5º",
+                "texto": "A condenação acarretará a perda do cargo, função ou emprego público e a interdição para seu exercício pelo dobro do prazo da pena aplicada."
+              },
+              {
+                "id": "art_1o_p_6o",
+                "tipo": "numerado",
+                "rotulo": "§ 6º",
+                "audioId": "audio_art_1o_p_6o",
+                "explicacaoId": "exp_art_1o_p_6o",
+                "numero": "6º",
+                "texto": "O crime de tortura é inafiançável e insuscetível de graça ou anistia."
+              },
+              {
+                "id": "art_1o_p_7o",
+                "tipo": "numerado",
+                "rotulo": "§ 7º",
+                "audioId": "audio_art_1o_p_7o",
+                "explicacaoId": "exp_art_1o_p_7o",
+                "numero": "7º",
+                "texto": "O condenado por crime previsto nesta Lei, salvo a hipótese do § 2º, iniciará o cumprimento da pena em regime fechado."
+              }
+            ]
+          },
+          {
+            "id": "art_2o",
+            "numero": "2º",
+            "rotulo": "Art. 2º",
+            "audioId": "audio_art_2o",
+            "explicacaoId": "exp_art_2o",
+            "questoesId": [
+              "q_art_2o_001"
+            ],
+            "texto": "O disposto nesta Lei aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a vítima brasileira ou encontrando-se o agente em local sob jurisdição brasileira."
+          },
+          {
+            "id": "art_3o",
+            "numero": "3º",
+            "rotulo": "Art. 3º",
+            "audioId": "audio_art_3o",
+            "explicacaoId": "exp_art_3o",
+            "questoesId": [
+              "q_art_3o_001"
+            ],
+            "texto": "Esta Lei entra em vigor na data de sua publicação."
+          },
+          {
+            "id": "art_4o",
+            "numero": "4º",
+            "rotulo": "Art. 4º",
+            "audioId": "audio_art_4o",
+            "explicacaoId": "exp_art_4o",
+            "questoesId": [
+              "q_art_4o_001"
+            ],
+            "texto": "Revoga-se o art. 233 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente."
+          }
+        ]
+      }
     ],
-    "divisoes": [
-        {
-            "tipo": "texto",
-            "rotulo": "TEXTO",
-            "linha": 44,
-            "artigos": [
-                {
-                    "numero": "2º",
-                    "rotulo": "Art. 2º",
-                    "linha": 44,
-                    "caput": "O disposto nesta Lei aplica-se ainda quando o crime não tenha sido cometido em território nacional, sendo a vítima brasileira ou encontrando-se o agente em local sob jurisdição brasileira."
-                },
-                {
-                    "numero": "3º",
-                    "rotulo": "Art. 3º",
-                    "linha": 46,
-                    "caput": "Esta Lei entra em vigor na data de sua publicação."
-                },
-                {
-                    "numero": "4º",
-                    "rotulo": "Art. 4º",
-                    "linha": 48,
-                    "caput": "Revoga-se o art. 233 da Lei nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente."
-                }
-            ]
-        },
-        {
-            "tipo": "fecho",
-            "linha": 50,
-            "itens": [
-                {
-                    "tipo": "texto",
-                    "texto": "Brasília, 7 de abril de 1997; 176º da Independência e 109º da República.",
-                    "linha": 50
-                },
-                {
-                    "tipo": "texto",
-                    "texto": "FERNANDO HENRIQUE CARDOSO",
-                    "linha": 52
-                },
-                {
-                    "tipo": "texto",
-                    "texto": "Nelson A. Jobim",
-                    "linha": 53
-                },
-                {
-                    "tipo": "texto",
-                    "texto": "Este texto não substitui o publicado no D.O.U. de 8.4.1997",
-                    "linha": 55
-                }
-            ]
-        }
+    "fechamento": [
+      {
+        "id": "fechamento_01",
+        "texto": "Brasília, 7 de abril de 1997; 176º da Independência e 109º da República."
+      },
+      {
+        "id": "fechamento_02",
+        "texto": "FERNANDO HENRIQUE CARDOSO"
+      },
+      {
+        "id": "fechamento_03",
+        "texto": "Nelson A. Jobim"
+      }
     ]
+  }
 }

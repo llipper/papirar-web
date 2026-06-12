@@ -24,8 +24,6 @@ Disposições Preliminares
 
         I - os de carreira;
 
-       
-
         II - os temporários, incorporados às Forças Armadas para prestação de serviço militar, obrigatório ou voluntário, durante os prazos previstos na legislação que trata do serviço militar ou durante as prorrogações desses prazos;       
 
         III - os componentes da reserva das Forças Armadas quando convocados, reincluídos, designados ou mobilizados;
@@ -40,17 +38,9 @@ Disposições Preliminares
 
         II - os reformados, quando, tendo passado por uma das situações anteriores estejam dispensados, definitivamente, da prestação de serviço na ativa, mas continuem a perceber remuneração da União.
 
-       
-
-              
-
         III - os da reserva remunerada e, excepcionalmente, os reformados, que estejam executando tarefa por tempo certo, segundo regulamentação para cada Força Armada.       
 
-       
-
         § 2º  Os militares de carreira são aqueles da ativa que, no desempenho voluntário e permanente do serviço militar, tenham vitaliciedade, assegurada ou presumida, ou estabilidade adquirida nos termos da alínea “a” do inciso IV do caput do art. 50 desta Lei.       
-
-        § 3º  Os militares temporários não adquirem estabilidade e passam a compor a reserva não remunerada das Forças Armadas após serem desligados do serviço ativo.       
 
         Art. 4º São considerados reserva das Forças Armadas:
 
@@ -75,8 +65,6 @@ Disposições Preliminares
         § 1º A carreira militar é privativa do pessoal da ativa, inicia-se com o ingresso nas Forças Armadas e obedece às diversas seqüências de graus hierárquicos.
 
         § 2º São privativas de brasileiro nato as carreiras de oficial da Marinha, do Exército e da Aeronáutica.
-
-       
 
         Art. 6o  São equivalentes as expressões "na ativa", "da ativa", "em serviço ativo", "em serviço na ativa", "em serviço", "em atividade" ou "em atividade militar", conferidas aos militares no desempenho de cargo, comissão, encargo, incumbência ou missão, serviço ou atividade militar ou considerada de natureza militar nas organizações militares das Forças Armadas, bem como na Presidência da República, na Vice-Presidência da República, no Ministério da Defesa e nos demais órgãos quando previsto em lei, ou quando incorporados às Forças Armadas.                    
 
@@ -174,8 +162,6 @@ Da Hierarquia Militar e da Disciplina
 
         I - os Guardas-Marinha e os Aspirantes-a-Oficial são hierarquicamente superiores às demais praças;
 
-       
-
         II - os Aspirantes da Escola Naval, os Cadetes da Academia Militar das Agulhas Negras e da Academia da Força Aérea e os alunos do Instituto Tecnológico de Aeronáutica, do Instituto Militar de Engenharia e das demais instituições de graduação de oficiais da Marinha e do Exército são hierarquicamente superiores aos Suboficiais e aos Subtenentes;       
 
         III - os alunos de Escola Preparatória de Cadetes e do Colégio Naval têm precedência sobre os Terceiros-Sargentos, aos quais são equiparados;
@@ -212,8 +198,6 @@ Do Cargo e da Função Militares
         Art. 23. Função militar é o exercício das obrigações inerentes ao cargo militar.
 
         Art. 24. Dentro de uma mesma organização militar, a seqüência de substituições para assumir cargo ou responder por funções, bem como as normas, atribuições e responsabilidades relativas, são as estabelecidas na legislação ou regulamentação específicas, respeitadas a precedência e a qualificação exigidas para o cargo ou o exercício da função.
-
-       
 
         Art. 25.  O militar ocupante de cargo da estrutura das Forças Armadas, provido em caráter efetivo ou interino, observado o disposto no parágrafo único do art. 21 desta Lei, faz jus aos direitos correspondentes ao cargo, conforme previsto em lei.       
 
@@ -447,9 +431,6 @@ Enumeração
 
         I-A. - a proteção social, nos termos do art. 50-A desta Lei;       
 
-       
-
-
         II - o provento calculado com base no soldo integral do posto ou da graduação que possuía por ocasião da transferência para a inatividade remunerada:       
 
 a) por contar mais de 35 (trinta e cinco) anos de serviço;       
@@ -460,15 +441,9 @@ c) por estar enquadrado em uma das hipóteses previstas nos incisos VIII ou IX d
 
 d) por ter sido incluído em quota compulsória unicamente em razão do disposto na alínea “c” do inciso III do caput do art. 101 desta Lei;       
 
-
-
         III - o provento calculado com base em tantas quotas de soldo do posto ou da graduação quantos forem os anos de serviço, até o limite de 35 (trinta e cinco) anos, quando tiver sido abrangido pela quota compulsória, ressalvado o disposto na alínea “d” do inciso II do caput deste artigo;       
 
-       
-
         IV - nas condições ou nas limitações impostas por legislação e regulamentação específicas, os seguintes:       
-
-       
 
         a) a estabilidade, somente se praça de carreira com 10 (dez) anos ou mais de tempo de efetivo serviço;       
 
@@ -492,8 +467,6 @@ d) por ter sido incluído em quota compulsória unicamente em razão do disposto
 
         2 - habitação para si e seus dependentes; em imóvel sob a responsabilidade da União, de acordo com a disponibilidade existente.
 
-                            
-
         l) a constituição de pensão militar;
 
         m) a promoção;
@@ -510,16 +483,6 @@ d) por ter sido incluído em quota compulsória unicamente em razão do disposto
 
         s) outros direitos previstos em leis específicas.
 
-                        
-
-               
-
-           
-
-             
-
-       
-
 § 2º   São considerados dependentes do militar, desde que assim declarados por ele na organização militar competente:       
 
 I - o cônjuge ou o companheiro com quem viva em união estável, na constância do vínculo;       
@@ -530,8 +493,6 @@ a) menor de 21 (vinte e um) anos de idade;
 
 b) inválido;       
 
-       
-
 § 3º  Podem, ainda, ser considerados dependentes do militar, desde que não recebam rendimentos e sejam declarados por ele na organização militar competente:                   
 
 I - o filho ou o enteado estudante menor de 24 (vinte e quatro) anos de idade;       
@@ -539,8 +500,6 @@ I - o filho ou o enteado estudante menor de 24 (vinte e quatro) anos de idade;
 II - o pai e a mãe;       
 
 III - o tutelado ou o curatelado inválido ou menor de 18 (dezoito) anos de idade que viva sob a sua guarda por decisão judicial.       
-
-       
 
 § 5º  Após o falecimento do militar, manterão os direitos previstos nas alíneas “e”, “f” e “s” do inciso IV do caput deste artigo, enquanto conservarem os requisitos de dependência, mediante participação nos custos e no pagamento das contribuições devidas, conforme estabelecidos em regulamento:       
 
@@ -560,15 +519,9 @@ Art. 50-A.  O Sistema de Proteção Social dos Militares das Forças Armadas é 
 
         a) em 15 (quinze) dias corridos, a contar do recebimento da comunicação oficial, quanto a ato que decorra de inclusão em quota compulsória ou de composição de Quadro de Acesso; e
 
-       
-
         b) em 45 (quarenta e cinco) dias, nas demais hipóteses.       
 
         § 2º O pedido de reconsideração, a queixa e a representação não podem ser feitos coletivamente.
-
-       
-
-        § 3º         
 
         Art. 52. Os militares são alistáveis, como eleitores, desde que oficiais, guardas-marinha ou aspirantes-a-oficial, suboficiais ou subtenentes, sargentos ou alunos das escolas militares de nível superior para formação de oficiais.
 
@@ -580,8 +533,6 @@ Art. 50-A.  O Sistema de Proteção Social dos Militares das Forças Armadas é 
 
 SEÇÃO II
 Da Remuneração
-
-                                                                       
 
         Art. 53.  A remuneração dos militares será estabelecida em legislação específica, comum às Forças Armadas.                  
 
@@ -601,11 +552,7 @@ Art. 53-A.  A remuneração dos militares ativos e inativos é encargo financeir
 
           Art. 55. O valor do soldo é igual para o militar da ativa, da reserva remunerada ou reformado, de um mesmo grau hierárquico, ressalvado o disposto no item II, do caput , do artigo 50.
 
-        
-
          Art. 56.  Por ocasião de sua passagem para a inatividade, o militar terá direito a tantas quotas de soldo quantos forem os anos de serviço computáveis para a inatividade, até o máximo de 35 (trinta e cinco) anos, ressalvado o disposto nas alíneas “b”, “c” e “d” do inciso II do caput do  art. 50 desta Lei.       
-
-Parágrafo único..       
 
         Art. 57. Nos termos do § 9º, do artigo 93, da Constituição, a proibição de acumular proventos de inatividade não se aplica aos militares da reserva remunerada e aos reformados quanto ao exercício de mandato eletivo, quanto ao de função de magistério ou de cargo em comissão ou quanto ao contrato para prestação de serviços técnicos ou especializados.
 
@@ -640,8 +587,6 @@ Da Promoção
 
         VI - Capitães-de-Corveta e Majores - no mínimo 1/20 (um vinte avos) dos respectivos Corpos, Quadros, Armas ou Serviços; e
 
-               
-
         VII - Oficiais dos 3 (três) últimos postos dos Quadros de que trata a alínea b do inciso I do art. 98, 1/4 para o último posto, no mínimo 1/10 para o penúltimo posto, e no mínimo 1/15 para o antepenúltimo posto, dos respectivos Quadros, exceto quando o último e o penúltimo postos forem Capitão-Tenente ou capitão e 1º Tenente, caso em que as proporções serão no mínimo 1/10 e 1/20, respectivamente.                  
 
         § 1º O número de vagas para promoção obrigatória em cada ano-base para os postos relativos aos itens IV, V, VI e VII deste artigo será fixado, para cada Força, em decretos separados, até o dia 15 (quinze) de janeiro do ano seguinte.
@@ -668,13 +613,9 @@ Temporários do Serviço
 
         § 2º Compete aos Ministros Militares regulamentar a concessão de férias.
 
-       
-
         § 3o  A concessão de férias não é prejudicada pelo gozo anterior de licença para tratamento de saúde, nem por punição anterior decorrente de contravenção ou transgressão disciplinar, ou pelo estado de guerra, ou para que sejam cumpridos atos em serviço, bem como não anula o direito àquela licença.                 
 
         § 4º Somente em casos de interesse da segurança nacional, de manutenção da ordem, de extrema necessidade do serviço, de transferência para a inatividade, ou para cumprimento de punição decorrente de contravenção ou de transgressão disciplinar de natureza grave e em caso de baixa a hospital, os militares terão interrompido ou deixarão de gozar na época prevista o período de férias a que tiverem direito, registrando-se o fato em seus assentamentos.
-
-                         
 
         Art. 64. Os militares têm direito, ainda, aos seguintes períodos de afastamento total do serviço, obedecidas às disposições legais e regulamentares, por motivo de:
 
@@ -697,15 +638,11 @@ Das Licenças
 
         § 1º A licença pode ser:
 
-                    
-
         b) para tratar de interesse particular;
 
         c) para tratamento de saúde de pessoa da família; e
 
         d) para tratamento de saúde própria.
-
-       
 
         e) para acompanhar cônjuge ou companheiro;           
 
@@ -713,27 +650,11 @@ Das Licenças
 
         § 2º A remuneração do militar licenciado será regulada em legislação específica.
 
-       
-
         § 3o  A concessão da licença é regulada pelo Comandante da Força.               
-
-                          
-
-.             
-
-                 
-
-.                
-
-.                
-
-                        
 
         Art. 69. Licença para tratar de interesse particular é a autorização para o afastamento total do serviço, concedida ao militar, com mais de 10 (dez) anos de efetivo serviço, que a requeira com aquela finalidade.
 
         Parágrafo único. A licença de que trata este artigo será sempre concedida com prejuízo da remuneração e da contagem de tempo de efetivo serviço, exceto, quanto a este último, para fins de indicação para a quota compulsória.
-
-       
 
         Art. 69-A.  A licença para acompanhar cônjuge ou companheiro é a autorização para o afastamento total do serviço concedida a militar de carreira que a requeira para acompanhar cônjuge ou companheiro servidor público da União ou militar das Forças Armadas que for, de ofício, exercer atividade em órgão da administração pública federal situado em outro ponto do território nacional ou no exterior, diverso da localização da organização militar do requerente.          
 
@@ -749,10 +670,6 @@ Das Licenças
 
         Art. 70. As licenças poderão ser interrompidas a pedido ou nas condições estabelecidas neste artigo.
 
-       
-
-       
-
         § 1o A interrupção da licença especial, da licença para tratar de interesse particular e da licença para acompanhar cônjuge ou companheiro(a) poderá ocorrer:                     
 
         a) em caso de mobilização e estado de guerra;
@@ -761,13 +678,9 @@ Das Licenças
 
         c) para cumprimento de sentença que importe em restrição da liberdade individual;
 
-       
-
         d) para cumprimento de punição disciplinar, conforme regulamentação de cada Força.                 
 
         e) em caso de denúncia ou de pronúncia em processo criminal ou indiciação em inquérito militar, a juízo da autoridade que efetivou a denúncia, a pronúncia ou a indiciação.
-
-       
 
         § 2o  A interrupção da licença para tratar de interesse particular e da licença para acompanhar cônjuge ou companheiro(a) será definitiva quando o militar for reformado ou transferido, de ofício, para a reserva remunerada.                 
 
@@ -856,10 +769,6 @@ Da Agregação
 
         I - for nomeado para cargo, militar ou considerado de natureza militar, estabelecido em lei ou decreto, no País ou no estrangeiro, não-previsto nos Quadros de Organização ou Tabelas de Lotação da respectiva Força Armada, exceção feita aos membros das comissões de estudo ou de aquisição de material, aos observadores de guerra e aos estagiários para aperfeiçoamento de conhecimentos militares em organizações militares ou industriais no estrangeiro;
 
-       
-
-       II - for posto à disposição exclusiva do Ministério da Defesa ou de Força Armada diversa daquela a que pertença, para ocupar cargo militar ou considerado de natureza militar;                  
-
         III - aguardar transferência ex officio para a reserva, por ter sido enquadrado em quaisquer dos requisitos que a motivaram;
 
         IV - o órgão competente para formalizar o respectivo processo tiver conhecimento oficial do pedido de transferência do militar para a reserva; e
@@ -879,8 +788,6 @@ Da Agregação
         I - ter sido julgado incapaz temporariamente, após 1 (um) ano contínuo de tratamento;
 
         II - haver ultrapassado 1 (um) ano contínuo em licença para tratamento de saúde própria;
-
-       
 
         III - haver ultrapassado 6 (seis) meses contínuos em licença para tratar de interesse particular ou em licença para acompanhar cônjuge ou companheiro(a);                  
 
@@ -1036,41 +943,21 @@ Da Transferência para a Reserva Remunerada
 
         Parágrafo único. A transferência do militar para a reserva remunerada pode ser suspensa na vigência do estado de guerra, estado de sítio, estado de emergência ou em caso de mobilização.
 
-       
-
         Art. 97. A transferência para a reserva remunerada, a pedido, será concedida, por meio de requerimento, ao militar de carreira que contar, no mínimo, 35 (trinta e cinco) anos de serviço, dos quais:            
 
 I - no mínimo, 30 (trinta) anos de exercício de atividade de natureza militar nas Forças Armadas, para os oficiais formados na Escola Naval, na Academia Militar das Agulhas Negras, na Academia da Força Aérea, no Instituto Militar de Engenharia, no Instituto Tecnológico de Aeronáutica e em escola ou centro de formação de oficiais oriundos de carreira de praça e para as praças; ou            
 
 II - no mínimo, 25 (vinte e cinco) anos de exercício de atividade de natureza militar nas Forças Armadas, para os oficiais não enquadrados na hipótese prevista no inciso I do caput deste artigo.            
 
-       
-
         § 1º O oficial de carreira da ativa pode pleitear transferência para a reserva remunerada por meio de inclusão voluntária na quota compulsória, nos termos do art. 101 desta Lei.             
-
-       
 
         § 2º Na hipótese de o militar haver realizado qualquer curso ou estágio de duração superior a 6 (seis) meses custeado pela União, no exterior ou no País fora das instituições militares, sem que tenham decorridos 3 (três) anos de seu término, a transferência para a reserva será concedida após a indenização de todas as despesas correspondentes à realização do referido curso ou estágio, inclusive as diferenças de vencimentos, no caso de cursos no exterior, e o cálculo de indenização será efetuado pela respectiva Força Armada, conforme estabelecido em regulamento pelo Ministério da Defesa.             
 
         § 3º O disposto no parágrafo anterior não se aplica aos oficiais que deixem de ser incluídos em Lista de Escolha, quando nela tenha entrado oficial mais moderno do seu respectivo Corpo, Quadro, Arma ou Serviço.
 
-       
-
-§ 4º .              
-
-a) (revogada);              
-
-b) (revogada).              
-
 § 5º O valor correspondente à indenização referida no § 2º deste artigo poderá ser descontado diretamente da remuneração do militar.            
 
-        
-
          Art. 98. A transferência de ofício para a reserva remunerada ocorrerá sempre que o militar se enquadrar em uma das seguintes hipóteses:              
-
-
-
-          
 
 I - atingir as seguintes idades-limites:              
 
@@ -1090,11 +977,6 @@ a) na Marinha, no Exército e na Aeronáutica, para todos os oficiais-generais e
 
 7. 55 (cinquenta e cinco) anos, nos postos de Capitão-Tenente, Capitão e oficiais subalternos;              
 
-
-
-
- 
-
 b) na Marinha, para os oficiais do Quadro de Cirurgiões-Dentistas (CD) e do Quadro de Apoio à Saúde (S), integrantes do Corpo de Saúde da Marinha, e do Quadro Técnico (T), do Quadro Auxiliar da Armada (AA) e do Quadro Auxiliar de Fuzileiros Navais (AFN), integrantes do Corpo Auxiliar da Marinha; no Exército, para os oficiais do Quadro Complementar de Oficiais (QCO), do Quadro Auxiliar de Oficiais (QAO), do Quadro de Oficiais Médicos (QOM), do Quadro de Oficiais Farmacêuticos (QOF) e do Quadro de Oficiais Dentistas (QOD); na Aeronáutica, para os oficiais do Quadro de Oficiais Médicos (QOMed), do Quadro de Oficiais Farmacêuticos (QOFarm), do Quadro de Oficiais Dentistas (QODent), dos Quadros de Oficiais Especialistas em Aviões (QOEAv), em Comunicações (QOECom), em Armamento (QOEArm), em Fotografia (QOEFot), em Meteorologia (QOEMet), em Controle de Tráfego Aéreo (QOECTA), e em Suprimento Técnico (QOESup), do Quadro de Oficiais Especialistas da Aeronáutica (QOEA) e do Quadro de Oficiais de Apoio (QOAp):               
 
 1. 67 (sessenta e sete) anos, nos postos de Capitão de Mar e Guerra e Coronel;                
@@ -1104,9 +986,6 @@ b) na Marinha, para os oficiais do Quadro de Cirurgiões-Dentistas (CD) e do Qua
 3. 64 (sessenta e quatro) anos, nos postos de Capitão de Corveta e Major;                
 
 4. 63 (sessenta e três) anos, nos postos de Capitão-Tenente, Capitão e oficiais subalternos;                
-
-
-   
 
  
 
@@ -1124,10 +1003,6 @@ c) na Marinha, no Exército e na Aeronáutica, para praças:
 
 6. 50 (cinquenta) anos, nas graduações de Marinheiro, Soldado e Soldado de Primeira Classe;                
 
-
-       
-
-
         II - completar o Oficial-General 4 (quatro) anos no último posto da hierarquia, em tempo de paz, prevista para cada Corpo ou Quadro da respectiva Força.                    
 
         III - completar os seguintes tempos de serviço como Oficial-General:
@@ -1144,39 +1019,23 @@ IV - ultrapassar o oficial 6 (seis) anos de permanência no último posto da hie
 
         VI - for a praça abrangida pela quota compulsória, na forma regulada em decreto, para cada Força Singular;              
 
-       
-
 VII - for o militar considerado não habilitado para o acesso em caráter definitivo, no momento em que vier a ser objeto de apreciação para ingresso em quadro de acesso ou lista de escolha;            
 
         VIII - deixar o Oficial-General, o Capitão-de-Mar-e-Guerra ou o Coronel de integrar a Lista de Escolha a ser apresentada ao Presidente da República, pelo número de vezes fixado pela Lei de Promoções de Oficiais da Ativa das Forças Armadas, quando na referida Lista de Escolha tenha entrado oficial mais moderno do seu respectivo Corpo, Quadro, Arma ou Serviço;
 
-       
-
 IX - for o Capitão de Mar e Guerra ou o Coronel inabilitado para o acesso por não possuir os requisitos para a promoção ao primeiro posto de oficial-general, ultrapassado 2 (duas) vezes, consecutivas ou não, por oficial mais moderno do respectivo Corpo, Quadro, Arma ou Serviço que tenha sido incluído em lista de escolha;            
 
-       
-
 X - deixar o oficial do penúltimo posto de Quadro, Arma ou Serviço, cujo último posto seja de oficial superior, de ingressar em Quadro de Acesso por Merecimento pelo número de vezes estabelecido pela Lei nº 5.821, de 10 de novembro de 1972, quando nele tenha entrado oficial mais moderno do respectivo Quadro, Arma ou Serviço;            
-
-       
 
         XII - ultrapassar 2 (dois) anos, contínuos ou não, em licença para tratar de interesse particular;
 
         XIII - ultrapassar 2 (dois) anos contínuos em licença para tratamento de saúde de pessoa de sua família;
 
-                            
-
         XV - ultrapassar 2 (dois) anos de afastamento, contínuos ou não, agregado em virtude de ter passado a exercer cargo ou emprego público civil temporário, não-eletivo, inclusive da administração indireta; e
 
         XVI - ser diplomado em cargo eletivo, na forma da letra b , do parágrafo único, do artigo 52.
 
-       
-
 § 1º A transferência para a reserva será processada quando o militar for enquadrado em uma das hipóteses previstas neste artigo, exceto quanto ao disposto no inciso V do caput deste artigo, situação em que será processada na primeira quinzena de março, e quanto ao disposto no inciso VIII do caput deste artigo, situação em que será processada na data prevista para aquela promoção.            
-
-                      
-
-       
 
         § 3° A nomeação ou admissão do militar para os cargos ou empregos públicos de que trata o inciso XV deste artigo somente poderá ser feita se:                    
 
@@ -1214,8 +1073,6 @@ X - deixar o oficial do penúltimo posto de Quadro, Arma ou Serviço, cujo últi
 
         § 4º As quotas compulsórias só serão aplicadas quando houver, no posto imediatamente abaixo, oficiais que satisfaçam às condições de acesso.
 
-       
-
 Art. 101. Para a indicação dos oficiais que integrarão a quota compulsória, será observado, sempre respeitada a conveniência da Administração Militar, o seguinte:            
 
 II - em cada posto, a referida quota será composta pelos oficiais que:            
@@ -1231,8 +1088,6 @@ a) contarem, no mínimo, o seguinte tempo de efetivo serviço:
 4. 20 (vinte) anos, se Capitão de Corveta ou Major;          
 
         b) possuírem interstício para promoção, quando for o caso;
-
-       
 
 c) estiverem compreendidos nos limites quantitativos de antiguidade que definem a faixa daqueles que concorrem à composição dos Quadros de Acesso por Antiguidade, Merecimento ou Escolha;           
 
@@ -1271,19 +1126,11 @@ c) os de mais idade e, no caso da mesma idade, os mais modernos.
 SEÇÃO III
 Da Reforma
 
-       
-
 Art. 104. A passagem do militar à situação de inatividade por reforma será efetuada de ofício.          
-
-                   
-
-       
 
 Art. 106. A reforma será aplicada ao militar que:           
 
         I - atingir as seguintes idades-limite de permanência na reserva:
-
-       
 
 a) para oficial-general, 75 (setenta e cinco) anos;           
 
@@ -1292,8 +1139,6 @@ b) para oficial superior, 72 (setenta e dois) anos;
 c) para Capitão-Tenente, Capitão e oficial subalterno, 68 (sessenta e oito) anos;            
 
 d) para praças, 68 (sessenta e oito) anos;            
-
-       
 
 II - se de carreira, for julgado incapaz, definitivamente, para o serviço ativo das Forças Armadas;           
 
@@ -1309,11 +1154,7 @@ b) for julgado incapaz, definitivamente, para o serviço ativo das Forças Armad
 
         V - sendo oficial, a tiver determinada em julgado do Superior Tribunal Militar, efetuado em conseqüência de Conselho de Justificação a que foi submetido; e
 
-       
-
 VI - se Guarda-Marinha, Aspirante a Oficial ou praça com estabilidade assegurada, for a ela indicado ao Comandante de Força Singular respectiva, em julgamento de Conselho de Disciplina.           
-
-       
 
 § 1º O militar reformado na forma prevista nos incisos V ou VI do caput deste artigo só poderá readquirir a situação militar anterior:          
 
@@ -1337,8 +1178,6 @@ II - na hipótese prevista no inciso VI do caput deste artigo, por decisão do C
 
         IV - doença, moléstia ou enfermidade adquirida em tempo de paz, com relação de causa e efeito a condições inerentes ao serviço;
 
-       
-
         V - tuberculose ativa, alienação mental, esclerose múltipla, neoplasia maligna, cegueira, lepra, paralisia irreversível e incapacitante, cardiopatia grave, mal de Parkinson, pênfigo, espondiloartrose anquilosante, nefropatia grave e outras moléstias que a lei indicar com base nas conclusões da medicina especializada; e              
 
         VI - acidente ou doença, moléstia ou enfermidade, sem relação de causa e efeito com o serviço.
@@ -1347,8 +1186,6 @@ II - na hipótese prevista no inciso VI do caput deste artigo, por decisão do C
 
         § 2º Os militares julgados incapazes por um dos motivos constantes do item V deste artigo somente poderão ser reformados após a homologação, por Junta Superior de Saúde, da inspeção de saúde que concluiu pela incapacidade definitiva, obedecida à regulamentação específica de cada Força Singular.
 
-       
-
 Art. 109. O militar de carreira julgado incapaz definitivamente para a atividade militar por uma das hipóteses previstas nos incisos I, II, III, IV e V do caput do art. 108 desta Lei será reformado com qualquer tempo de serviço.        
 
 § 1º O disposto neste artigo aplica-se ao militar temporário enquadrado em uma das hipóteses previstas nos incisos I e II do caput do art. 108 desta Lei.           
@@ -1356,8 +1193,6 @@ Art. 109. O militar de carreira julgado incapaz definitivamente para a atividade
 § 2º O disposto neste artigo aplica-se ao militar temporário enquadrado em uma das hipóteses previstas nos incisos III, IV e V do caput do art. 108 desta Lei se, concomitantemente, for considerado inválido por estar impossibilitado total e permanentemente para qualquer atividade laboral, pública ou privada.           
 
 § 3º O militar temporário que estiver enquadrado em uma das hipóteses previstas nos incisos III, IV e V do caput do art. 108 desta Lei, mas não for considerado inválido por não estar impossibilitado total e permanentemente para qualquer atividade laboral, pública ou privada, será licenciado ou desincorporado na forma prevista na legislação do serviço militar.           
-
-       
 
         Art. 110. O militar da ativa ou da reserva remunerada, julgado incapaz definitivamente por um dos motivos constantes dos incisos I e II do art. 108, será reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuir ou que possuía na ativa, respectivamente.                  
 
@@ -1372,9 +1207,6 @@ Art. 109. O militar de carreira julgado incapaz definitivamente para a atividade
         c) o de Terceiro-Sargento, para Cabo e demais praças constantes do Quadro a que se refere o artigo 16.
 
         § 3º Aos benefícios previstos neste artigo e seus parágrafos poderão ser acrescidos outros relativos à remuneração, estabelecidos em leis especiais, desde que o militar, ao ser reformado, já satisfaça às condições por elas exigidas.
-
-                           
-                          
 
         Art. 111. O militar da ativa julgado incapaz definitivamente por um dos motivos constantes do item VI do artigo 108 será reformado:
 
@@ -1412,8 +1244,6 @@ Art. 112-A. O militar reformado por incapacidade definitiva para o serviço ativ
 
         Art. 114. Para fins de passagem à situação de inatividade, mediante reforma ex officio , as praças especiais, constantes do Quadro a que se refere o artigo 16, são consideradas como:
 
-       
-
 I - Segundo-Tenente: os Guardas-Marinha e os Aspirantes a Oficial;            
 
 II - Guarda-Marinha ou Aspirante a Oficial: os Aspirantes, os Cadetes e os alunos do Instituto Tecnológico de Aeronáutica, do Instituto Militar de Engenharia e das demais instituições de graduação de oficiais da Marinha e do Exército, conforme o caso específico;             
@@ -1437,32 +1267,21 @@ Da Demissão
 
         Art . 116 A demissão a pedido será concedida mediante requerimento do interessado:
 
-       
-
-
 I - sem indenização das despesas efetuadas pela União com a sua preparação, formação ou adaptação, quando contar mais de 3 (três) anos de oficialato;             
 
 II - com indenização das despesas efetuadas pela União com a sua preparação, formação ou adaptação, quando contar menos de 3 (três) anos de oficialato.            
-
-       
 
 § 1º O oficial de carreira que requerer demissão deverá indenizar o erário pelas despesas que a União tiver realizado com os demais cursos ou estágios frequentados no País ou no exterior, acrescidas, se for o caso, daquelas previstas no inciso II do caput deste artigo, quando não decorridos:          
 
         a) 2 (dois) anos, para curso ou estágio de duração igual ou superior a 2 (dois) meses e inferior a 6 (seis) meses;
 
-       
-
 b) 3 (três) anos, para curso ou estágio de duração igual ou superior a 6 (seis) meses;           
-
-       
 
 § 2º A forma e o cálculo das indenizações a que se referem o inciso II do caput e o § 1º deste artigo serão estabelecidos em ato do Ministro de Estado da Defesa, cabendo o cálculo aos Comandos da Marinha, do Exército ou da Aeronáutica.            
 
         § 3º O oficial demissionário, a pedido, ingressará na reserva, onde permanecerá sem direito a qualquer remuneração. O ingresso na reserva será no mesmo posto que tinha no serviço ativo e sua situação, inclusive promoções, será regulada pelo Regulamento do Corpo de Oficiais da Reserva da respectiva Força.
 
         § 4º O direito à demissão a pedido pode ser suspenso na vigência de estado de guerra, estado de emergência, estado de sítio ou em caso de mobilização.
-
-       
 
         Art. 117. O oficial da ativa que passar a exercer cargo ou emprego público permanente, estranho à sua carreira, será imediatamente demitido ex officio e transferido para a reserva não remunerada, onde ingressará com o posto que possuía na ativa e com as obrigações estabelecidas na legislação do serviço militar, obedecidos os preceitos do art. 116 no que se refere às indenizações.                 
 
@@ -1522,8 +1341,6 @@ II - 3 (três) anos, para curso ou estágio com duração igual ou superior a 6 
 
         a) por conclusão de tempo de serviço ou de estágio;
 
-       
-
 b) por conveniência do serviço;            
 
 c) a bem da disciplina;            
@@ -1533,10 +1350,6 @@ d) por outros casos previstos em lei.
         § 4º O militar licenciado não tem direito a qualquer remuneração e, exceto o licenciado ex officio a bem da disciplina, deve ser incluído ou reincluído na reserva.
 
         § 5° O licenciado ex officio a bem da disciplina receberá o certificado de isenção do serviço militar, previsto na legislação que trata do serviço militar.
-
-       
-
-       
 
 Art. 122. Os Guardas-Marinha, os Aspirantes a Oficial e as demais praças empossados em cargos ou empregos públicos permanentes estranhos à sua carreira serão imediatamente, por meio de licenciamento de ofício, transferidos para a reserva não remunerada, com as obrigações estabelecidas na legislação do serviço militar, observado o disposto no art. 121 desta Lei quanto às indenizações.          
 
@@ -1652,27 +1465,15 @@ Do Tempo de Serviço
 
         I - tempo de serviço público federal, estadual ou municipal, prestado pelo militar anteriormente à sua incorporação, matrícula, nomeação ou reinclusão em qualquer organização militar;
 
-        II -                         
-
         III - tempo de serviço computável durante o período matriculado como aluno de órgão de formação da reserva;
-
-                               
-                                 
-
-       
 
         VI - 1/3 (um terço) para cada período consecutivo ou não de 2 (dois) anos de efetivo serviço passados pelo militar nas guarnições especiais da Categoria "A", a partir da vigência da Lei nº 5.774, de 23 de dezembro de 1971.                      
 
         § 1º Os acréscimos a que se referem os itens I, III e VI serão computados somente no momento da passagem do militar à situação de inatividade e para esse fim.
 
-                                
-                                   
-
         § 4º Não é computável para efeito algum, salvo para fins de indicação para a quota compulsória, o tempo:
 
         a) que ultrapassar de 1 (um) ano, contínuo ou não, em licença para tratamento de saúde de pessoa da família;
-
-       
 
         b) passado em licença para tratar de interesse particular ou para acompanhar cônjuge ou companheiro(a);                       
 
@@ -1681,8 +1482,6 @@ Do Tempo de Serviço
         d) decorrido em cumprimento de pena de suspensão do exercício do posto, graduação, cargo ou função por sentença transitada em julgado; e
 
         e) decorrido em cumprimento de pena restritiva da liberdade, por sentença transitada em julgado, desde que não tenha sido concedida suspensão condicional de pena, quando, então, o tempo correspondente ao período da pena será computado apenas para fins de indicação para a quota compulsória e o que dele exceder, para todos os efeitos, caso as condições estipuladas na sentença não o impeçam.
-
-                                
 
         Art. 139. O tempo que o militar passou ou vier a passar afastado do exercício de suas funções, em conseqüência de ferimentos recebidos em acidente quando em serviço, combate, na defesa da Pátria e na garantia dos poderes constituídos, da lei e da ordem, ou de moléstia adquirida no exercício de qualquer função militar, será computado como se o tivesse passado no exercício efetivo daquelas funções.
 
@@ -1701,15 +1500,11 @@ Do Casamento
 
         Art. 144. O militar da ativa pode contrair matrimônio, desde que observada a legislação civil específica.
 
-       
-
 § 4º O militar que contrair matrimônio ou constituir união estável com pessoa estrangeira deverá comunicar o fato ao Comandante da Força a que pertence, para fins de registro.            
 
 Art. 144-A. Não ter filhos ou dependentes e não ser casado ou haver constituído união estável, por incompatibilidade com o regime exigido para formação ou graduação, constituem condições essenciais para ingresso e permanência nos órgãos de formação ou graduação de oficiais e de praças que os mantenham em regime de internato, de dedicação exclusiva e de disponibilidade permanente peculiar à carreira militar.           
 
 Parágrafo único. As praças especiais assumirão expressamente o compromisso de que atendem, no momento da matrícula, e de que continuarão a atender, ao longo de sua formação ou graduação, as condições essenciais de que trata o caput deste artigo, e o descumprimento desse compromisso ensejará o cancelamento da matrícula e o licenciamento do serviço ativo, conforme estabelecido no regulamento de cada Força Armada.           
-
-       
 
 Art. 145. As praças especiais que contraírem matrimônio serão excluídas do serviço ativo, sem direito a qualquer remuneração ou indenização.           
 
@@ -1765,8 +1560,6 @@ Disposições Gerais, Transitórias e Finais
 
         Art. 155. Aos Cabos que, na data da vigência desta Lei, tenham adquirido estabilidade será permitido permanecer no serviço ativo, em caráter excepcional, de acordo com o interesse da respectiva Força Singular, até completarem 50 (cinqüenta) anos de idade, ressalvadas outras disposições legais.
 
-                             
-
          Art. 157. As disposições deste Estatuto não retroagem para alcançar situações definidas anteriormente à data de sua vigência.
 
          Art. 158. Após a vigência do presente Estatuto serão a ele ajustadas todas as disposições legais e regulamentares que com ele tenham ou venham a ter pertinência.
@@ -1775,8 +1568,6 @@ Disposições Gerais, Transitórias e Finais
 
          Parágrafo único. Até a entrada em vigor do disposto no item IV do artigo 98, permanecerão em vigor as disposições constantes dos itens IV e V do artigo 102 da Lei n° 5.774, de 23 de dezembro de 1971.
 
-            
-
         Brasília, em 09 de dezembro de 1980; 159º da Independência e 92º da República.
 
 JOÃO FIGUEIREDO
@@ -1784,8 +1575,6 @@ Maximiano Fonseca
 Ernani Ayrosa da Silva
 Délio Jardim de Mattos
 José Ferraz da Rocha
-
-Este texto não substitui o publicado no DOU de 11.12.1980
 
 ANEXO I
 
@@ -1971,3 +1760,25 @@ Aprendiz-Marinheiro, Grumete e Aluno de órgão de formação de Praças da Rese
 
 Aluno de órgão de formação de Praças da Reserva
 
+
+*
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
