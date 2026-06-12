@@ -33,7 +33,17 @@ import {
 import { Skeleton } from "@/components/ui/skeleton"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Textarea } from "@/components/ui/textarea"
-import RenderDocumento from "@/components/lei/renderers"
+import { TextoMarcado } from "@/components/lei/renderers"
+import { arr, pegarConteudo, pegarDocumento, texto } from "@/lib/lei-core"
+import {
+  rotuloAlinea,
+  rotuloArtigo,
+  rotuloInciso,
+  rotuloParagrafo,
+  separarTituloHierarquico,
+  textoPrincipal,
+  tituloRubrica,
+} from "@/lib/lei-format"
 import { createSupabaseBrowserClient } from "@/lib/supabase/client"
 
 type LegalDocumentRow = {
@@ -47,6 +57,9 @@ type SelectionMenu = {
   text: string
   x: number
   y: number
+  anchorId?: string
+  blocoIndex: number
+  partIndex: number
   startOffset: number
   endOffset: number
 }
@@ -58,6 +71,9 @@ type ReaderAction = {
   createdAt: string
   type: "highlight" | "note"
   text: string
+  anchorId?: string
+  blocoIndex: number
+  partIndex: number
   startOffset: number
   endOffset: number
   color?: HighlightColor
@@ -69,6 +85,9 @@ type HighlightRow = {
   id: string
   color: HighlightColor
   selected_text: string
+  anchor_id?: string | null
+  bloco_index: number
+  part_index: number
   start_offset: number
   end_offset: number
   created_at: string
@@ -78,6 +97,9 @@ type NoteRow = {
   id: string
   selected_text: string
   note: string
+  anchor_id?: string | null
+  bloco_index: number
+  part_index: number
   start_offset: number
   end_offset: number
   created_at: string
@@ -172,19 +194,29 @@ function getBoundary(
   }
 }
 
-function getSelectionPosition(root: HTMLElement, range: Range) {
+function getReaderPartElement(node: Node | null) {
+  const element =
+    node instanceof HTMLElement ? node : node?.parentElement || null
+
+  return element?.closest<HTMLElement>("[data-reader-block-index]") || null
+}
+
+function getSelectionPosition(partElement: HTMLElement, range: Range) {
   const rawText = range.toString()
   const text = rawText.trim()
   const leadingTrimmed = rawText.length - rawText.trimStart().length
   const before = range.cloneRange()
 
-  before.selectNodeContents(root)
+  before.selectNodeContents(partElement)
   before.setEnd(range.startContainer, range.startOffset)
 
   const startOffset = before.toString().length + leadingTrimmed
 
   return {
     text,
+    anchorId: partElement.dataset.readerAnchorId || undefined,
+    blocoIndex: Number(partElement.dataset.readerBlockIndex || 0),
+    partIndex: Number(partElement.dataset.readerPartIndex || 0),
     startOffset,
     endOffset: startOffset + text.length,
   }
@@ -242,6 +274,10 @@ function normalizeReaderActions(actions: ReaderAction[]) {
       const overlappingIndex = normalized.findIndex(
         (item) =>
           item.type === "highlight" &&
+          (action.anchorId && item.anchorId
+            ? item.anchorId === action.anchorId
+            : item.blocoIndex === action.blocoIndex &&
+              item.partIndex === action.partIndex) &&
           rangesOverlap(
             action.startOffset,
             action.endOffset,
@@ -319,6 +355,483 @@ function getDocumentoTitulo(json: unknown) {
   return typeof documento.titulo === "string" ? documento.titulo : ""
 }
 
+type ReaderBlockType =
+  | "corpo"
+  | "preambulo"
+  | "parte"
+  | "livro"
+  | "titulo"
+  | "capitulo"
+  | "secao"
+  | "subsecao"
+  | "artigo"
+  | "rubrica"
+
+type ReaderBlock = {
+  text: string
+  type: ReaderBlockType
+  anchorIds?: string[]
+}
+
+function normalizarTextoLei(value: unknown) {
+  let textValue = String(value ?? "")
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+
+  if (textValue.includes("\\n")) {
+    textValue = textValue.replace(/\\n\\n/g, "\n\n").replace(/\\n/g, "\n")
+  }
+
+  return textValue
+    .replace(
+      /\s*\((?:Reda[cç][aã]o|Inclu[ií]do|Inclu[ií]da|Vig[eê]ncia|Vigencia|Par[aá]grafo com reda[cç][aã]o|Vide)[^)]*\)/gi,
+      ""
+    )
+    .trim()
+}
+
+function textoVetadoLei(value: string) {
+  const normalized = value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[().]/g, "")
+    .trim()
+
+  return normalized === "vetado"
+}
+
+function itemVetadoLei(item: unknown) {
+  if (!item || typeof item !== "object") return false
+  const value = normalizarTextoLei(textoPrincipal(item))
+
+  return value ? textoVetadoLei(value) : false
+}
+
+function addReaderBlock(
+  blocks: ReaderBlock[],
+  value: unknown,
+  type: ReaderBlockType = "corpo",
+  anchorIds?: string[]
+) {
+  const blockText = normalizarTextoLei(value)
+  if (!blockText) return
+
+  blocks.push({ text: blockText, type, anchorIds })
+}
+
+function nodeAnchor(item: any, fallback: string) {
+  if (typeof item?.id === "string" && item.id.trim()) return item.id.trim()
+  if (item?.numero !== undefined && item?.numero !== null) {
+    return `${fallback}_${String(item.numero).trim().toLowerCase()}`
+  }
+  if (item?.letra)
+    return `${fallback}_${String(item.letra).replace(/\W+/g, "")}`
+  return fallback
+}
+
+function joinAnchor(parent: string, child: string) {
+  return parent ? `${parent}/${child}` : child
+}
+
+function tituloComNumero(
+  item: any,
+  label: "PARTE" | "TÍTULO" | "CAPÍTULO" | "SEÇÃO"
+) {
+  const title = normalizarTextoLei(item?.titulo)
+  const number = normalizarTextoLei(item?.numero)
+  if (!number) return title
+
+  const prefix = `${label} ${number}`
+  if (!title) return prefix
+
+  const titleAscii = title
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toUpperCase()
+  const prefixAscii = prefix
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toUpperCase()
+
+  return titleAscii.startsWith(prefixAscii) ? title : `${prefix} - ${title}`
+}
+
+function tipoTituloHierarquico(
+  value: string,
+  fallback: ReaderBlockType
+): ReaderBlockType {
+  const normalized = value
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .trim()
+
+  if (normalized.startsWith("livro ")) return "livro"
+  if (normalized.startsWith("titulo ")) return "titulo"
+  if (normalized.startsWith("capitulo ")) return "capitulo"
+  if (normalized.startsWith("secao ")) return "secao"
+  if (normalized.startsWith("subsecao ")) return "subsecao"
+
+  return fallback
+}
+
+function appendTituloHierarquico(
+  blocks: ReaderBlock[],
+  value: unknown,
+  fallback: ReaderBlockType
+) {
+  const title = normalizarTextoLei(value)
+  if (!title) return
+
+  for (const part of title.split("/")) {
+    const titlePart = normalizarTextoLei(part)
+    if (!titlePart) continue
+    addReaderBlock(
+      blocks,
+      titlePart,
+      tipoTituloHierarquico(titlePart, fallback)
+    )
+  }
+}
+
+type ReaderPart = {
+  text: string
+  anchorId: string
+}
+
+function appendDispositivos(
+  parts: ReaderPart[],
+  value: unknown,
+  label: (item: any) => string,
+  parentAnchor: string,
+  fallback: string
+) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object" || itemVetadoLei(item)) continue
+
+    const anchorId = joinAnchor(parentAnchor, nodeAnchor(item, fallback))
+    const lines: string[] = []
+    const rubrica = normalizarTextoLei(tituloRubrica(item))
+    if (rubrica) lines.push(rubrica)
+
+    const body = normalizarTextoLei(textoPrincipal(item))
+    const prefix = normalizarTextoLei(label(item))
+    if (body) lines.push(prefix ? `${prefix} ${body}`.trim() : body)
+
+    const nested: ReaderPart[] = []
+    appendDispositivos(nested, item.incisos, rotuloInciso, anchorId, "inciso")
+    appendDispositivos(
+      nested,
+      item.paragrafos,
+      rotuloParagrafo,
+      anchorId,
+      "paragrafo"
+    )
+    appendDispositivos(nested, item.alineas, rotuloAlinea, anchorId, "alinea")
+
+    if (lines.length) parts.push({ text: lines.join("\n\n"), anchorId })
+    parts.push(...nested)
+  }
+}
+
+function appendArtigos(blocks: ReaderBlock[], value: unknown) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object" || itemVetadoLei(item)) continue
+
+    const articleAnchor = nodeAnchor(item, "artigo")
+    addReaderBlock(blocks, rotuloArtigo(item), "artigo", [articleAnchor])
+    addReaderBlock(blocks, tituloRubrica(item), "rubrica", [
+      joinAnchor(articleAnchor, "rubrica"),
+    ])
+
+    const parts: ReaderPart[] = []
+    const body = normalizarTextoLei(textoPrincipal(item))
+    if (body) parts.push({ text: body, anchorId: articleAnchor })
+
+    appendDispositivos(
+      parts,
+      item.incisos,
+      rotuloInciso,
+      articleAnchor,
+      "inciso"
+    )
+    appendDispositivos(
+      parts,
+      item.paragrafos,
+      rotuloParagrafo,
+      articleAnchor,
+      "paragrafo"
+    )
+    appendDispositivos(
+      parts,
+      item.alineas,
+      rotuloAlinea,
+      articleAnchor,
+      "alinea"
+    )
+
+    if (parts.length) {
+      addReaderBlock(
+        blocks,
+        parts.map((part) => part.text).join("\n\n"),
+        "corpo",
+        parts.map((part) => part.anchorId)
+      )
+    }
+  }
+}
+
+function appendSecoes(blocks: ReaderBlock[], value: unknown) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object") continue
+    appendTituloHierarquico(blocks, tituloComNumero(item, "SEÇÃO"), "secao")
+    appendArtigos(blocks, item.artigos)
+  }
+}
+
+function appendCapitulos(blocks: ReaderBlock[], value: unknown) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object") continue
+    appendTituloHierarquico(
+      blocks,
+      tituloComNumero(item, "CAPÍTULO"),
+      "capitulo"
+    )
+    appendSecoes(blocks, item.secoes)
+    appendArtigos(blocks, item.artigos)
+  }
+}
+
+function appendTitulos(blocks: ReaderBlock[], value: unknown) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object") continue
+    appendTituloHierarquico(blocks, tituloComNumero(item, "TÍTULO"), "titulo")
+    appendCapitulos(blocks, item.capitulos)
+    appendSecoes(blocks, item.secoes)
+    appendArtigos(blocks, item.artigos)
+  }
+}
+
+function appendPartes(blocks: ReaderBlock[], value: unknown) {
+  for (const item of arr(value)) {
+    if (!item || typeof item !== "object") continue
+
+    addReaderBlock(blocks, tituloComNumero(item, "PARTE"), "parte")
+    appendTitulos(blocks, item.titulos)
+    appendCapitulos(blocks, item.capitulos)
+    appendSecoes(blocks, item.secoes)
+    appendArtigos(blocks, item.artigos)
+  }
+}
+
+function appendPreambulo(blocks: ReaderBlock[], value: unknown) {
+  if (!value || typeof value !== "object") return
+
+  addReaderBlock(blocks, (value as any).titulo, "preambulo")
+
+  for (const item of arr((value as any).considerandos)) {
+    addReaderBlock(blocks, textoPrincipal(item))
+  }
+}
+
+function appendDecreto(blocks: ReaderBlock[], value: unknown) {
+  if (!value || typeof value !== "object") return
+
+  appendArtigos(blocks, (value as any).artigos)
+}
+
+function getReaderBlocks(lei: unknown) {
+  const documento = pegarDocumento(lei)
+  const conteudo = pegarConteudo(lei)
+  const blocks: ReaderBlock[] = []
+  const rawBlocks = arr(conteudo?.blocos)
+
+  if (rawBlocks.length) {
+    for (const item of rawBlocks) {
+      if (item && typeof item === "object") {
+        const parts = arr((item as any).partes)
+          .map((part) => normalizarTextoLei(part))
+          .filter(Boolean)
+
+        if (parts.length) {
+          addReaderBlock(blocks, parts.join("\n\n"))
+          continue
+        }
+
+        addReaderBlock(blocks, (item as any).texto)
+      } else {
+        addReaderBlock(blocks, item)
+      }
+    }
+
+    return blocks
+  }
+
+  appendDecreto(blocks, documento?.decreto)
+  appendPreambulo(blocks, conteudo?.preambulo || documento?.preambulo)
+  appendPartes(blocks, conteudo?.partes)
+
+  if (conteudo !== documento) {
+    appendPartes(blocks, documento?.partes)
+  }
+
+  appendTitulos(blocks, conteudo?.titulos)
+  appendCapitulos(blocks, conteudo?.capitulos)
+  appendSecoes(blocks, conteudo?.secoes)
+  appendArtigos(blocks, conteudo?.artigos)
+
+  return blocks
+}
+
+function splitReaderParts(block: ReaderBlock) {
+  return block.text
+    .replace(/\r\n/g, "\n")
+    .replace(/\r/g, "\n")
+    .split(/\n\n+/)
+    .filter(Boolean)
+}
+
+function readerBlockClassName(type: ReaderBlockType) {
+  if (type === "parte")
+    return "my-10 text-center text-2xl font-bold uppercase tracking-widest text-foreground"
+  if (type === "livro" || type === "titulo")
+    return "mt-12 text-center text-lg font-bold uppercase tracking-[0.18em] text-foreground"
+  if (type === "capitulo")
+    return "mt-10 text-center text-base font-bold uppercase tracking-[0.18em] text-foreground"
+  if (type === "secao" || type === "subsecao")
+    return "mt-8 text-center text-sm font-bold uppercase tracking-[0.16em] text-foreground"
+  if (type === "preambulo")
+    return "mt-8 text-center text-lg font-bold uppercase tracking-widest text-foreground"
+  if (type === "artigo") return "mt-8 text-lg font-bold text-foreground"
+  if (type === "rubrica")
+    return "mt-3 inline-flex w-fit rounded-full bg-muted px-2.5 py-1 text-xs font-semibold text-foreground"
+
+  return "mt-4 text-base leading-8 text-muted-foreground"
+}
+
+function partClassName(type: ReaderBlockType, textValue: string) {
+  if (type !== "corpo") return readerBlockClassName(type)
+
+  const trimmed = textValue.trim()
+  if (/^(§\s*\d|Parágrafo único)/i.test(trimmed)) {
+    return "mt-5 border-l-2 pl-5 text-sm leading-7 text-muted-foreground"
+  }
+  if (/^[IVXLCDM]+\b/.test(trimmed)) {
+    return "mt-4 border-l pl-5 text-sm leading-7 text-muted-foreground"
+  }
+  if (/^[a-z]\)/.test(trimmed)) {
+    return "mt-3 border-l pl-5 text-sm leading-7 text-muted-foreground"
+  }
+
+  return readerBlockClassName(type)
+}
+
+function RenderCanonicalDocumento({ lei }: { lei: unknown }) {
+  const documento = pegarDocumento(lei)
+  const conteudo = pegarConteudo(lei)
+  const blocks = getReaderBlocks(lei)
+
+  return (
+    <>
+      <header className="mb-12 text-center">
+        <Badge variant="outline" className="mb-4">
+          Papirar
+        </Badge>
+
+        {texto(documento?.titulo) && (
+          <h1 className="text-3xl font-bold tracking-tight">
+            {documento.titulo}
+          </h1>
+        )}
+
+        {documento?.decreto?.numero && (
+          <p className="mt-3 text-sm text-muted-foreground">
+            Decreto n. {documento.decreto.numero}
+            {documento.decreto.data ? ` - ${documento.decreto.data}` : ""}
+          </p>
+        )}
+
+        {documento?.lei?.numero && (
+          <p className="mt-3 text-sm text-muted-foreground">
+            Lei n. {documento.lei.numero}
+            {documento.lei.data ? ` - ${documento.lei.data}` : ""}
+          </p>
+        )}
+
+        {texto(conteudo?.apelido) && (
+          <p className="mt-2 text-sm text-muted-foreground">
+            {conteudo.apelido}
+          </p>
+        )}
+      </header>
+
+      <Separator className="mb-10" />
+
+      <article className="mx-auto max-w-4xl">
+        {blocks.map((block, blocoIndex) => {
+          const parts = splitReaderParts(block)
+
+          return (
+            <div key={`${blocoIndex}-${block.text.slice(0, 16)}`}>
+              {parts.map((part, partIndex) => {
+                const className = partClassName(block.type, part)
+                const anchorId = block.anchorIds?.[partIndex]
+                const content =
+                  block.type === "parte" ||
+                  block.type === "livro" ||
+                  block.type === "titulo" ||
+                  block.type === "capitulo" ||
+                  block.type === "secao" ||
+                  block.type === "subsecao" ? (
+                    separarTituloHierarquico(part).map((title, index) => (
+                      <span key={`${title.texto}-${index}`} className="block">
+                        {title.rotulo || title.texto}
+                        {title.descricao && (
+                          <span className="mt-2 block text-sm tracking-[0.14em]">
+                            {title.descricao}
+                          </span>
+                        )}
+                      </span>
+                    ))
+                  ) : (
+                    <TextoMarcado valor={part} />
+                  )
+
+                if (block.type === "rubrica") {
+                  return (
+                    <span
+                      key={`${blocoIndex}-${partIndex}`}
+                      data-reader-block-index={blocoIndex}
+                      data-reader-part-index={partIndex}
+                      data-reader-anchor-id={anchorId}
+                      className={className}
+                    >
+                      {content}
+                    </span>
+                  )
+                }
+
+                return (
+                  <p
+                    key={`${blocoIndex}-${partIndex}`}
+                    data-reader-block-index={blocoIndex}
+                    data-reader-part-index={partIndex}
+                    data-reader-anchor-id={anchorId}
+                    className={className}
+                  >
+                    {content}
+                  </p>
+                )
+              })}
+            </div>
+          )
+        })}
+      </article>
+    </>
+  )
+}
+
 function mapRemoteReaderActions(
   highlights: HighlightRow[] = [],
   notes: NoteRow[] = []
@@ -329,6 +842,9 @@ function mapRemoteReaderActions(
       createdAt: item.created_at,
       type: "highlight" as const,
       text: item.selected_text,
+      anchorId: item.anchor_id || undefined,
+      blocoIndex: item.bloco_index,
+      partIndex: item.part_index,
       startOffset: item.start_offset,
       endOffset: item.end_offset,
       color: item.color,
@@ -339,6 +855,9 @@ function mapRemoteReaderActions(
       createdAt: item.created_at,
       type: "note" as const,
       text: item.selected_text,
+      anchorId: item.anchor_id || undefined,
+      blocoIndex: item.bloco_index,
+      partIndex: item.part_index,
       startOffset: item.start_offset,
       endOffset: item.end_offset,
       note: item.note,
@@ -379,13 +898,17 @@ async function loadRemoteReaderActions(
 ) {
   const { data: highlights, error: highlightsError } = await supabase
     .from("lei_highlights")
-    .select("id,color,selected_text,start_offset,end_offset,created_at")
+    .select(
+      "id,color,selected_text,anchor_id,bloco_index,part_index,start_offset,end_offset,created_at"
+    )
     .eq("lei_id", slug)
     .order("created_at", { ascending: true })
 
   const { data: notes, error: notesError } = await supabase
     .from("lei_notes")
-    .select("id,selected_text,note,start_offset,end_offset,created_at")
+    .select(
+      "id,selected_text,note,anchor_id,bloco_index,part_index,start_offset,end_offset,created_at"
+    )
     .eq("lei_id", slug)
     .order("created_at", { ascending: true })
 
@@ -527,7 +1050,6 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
           event: "*",
           schema: "public",
           table: "lei_highlights",
-          filter: `lei_id=eq.${slug}`,
         },
         scheduleReload
       )
@@ -537,7 +1059,6 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
           event: "*",
           schema: "public",
           table: "lei_notes",
-          filter: `lei_id=eq.${slug}`,
         },
         scheduleReload
       )
@@ -603,13 +1124,24 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
     const noteActions = readerActions.filter((action) => action.type === "note")
 
     for (const action of [...highlightActions, ...noteActions]) {
-      const { fullText, nodes } = getTextNodes(reader)
+      const partElement = action.anchorId
+        ? reader.querySelector<HTMLElement>(
+            `[data-reader-anchor-id="${CSS.escape(action.anchorId)}"]`
+          )
+        : reader.querySelector<HTMLElement>(
+            `[data-reader-block-index="${action.blocoIndex}"][data-reader-part-index="${action.partIndex}"]`
+          )
+      const markRoot = partElement || reader
+      const { fullText, nodes } = getTextNodes(markRoot)
       const text = action.text
       let startOffset =
         fullText.slice(action.startOffset, action.endOffset) === text
           ? action.startOffset
-          : fullText.indexOf(text, action.startOffset)
-      if (startOffset < 0) startOffset = fullText.indexOf(text)
+          : -1
+      if (!partElement && startOffset < 0) {
+        startOffset = fullText.indexOf(text, action.startOffset)
+        if (startOffset < 0) startOffset = fullText.indexOf(text)
+      }
       if (startOffset < 0) continue
 
       const endOffset = startOffset + text.length
@@ -680,6 +1212,10 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         ? readerActions.filter(
             (item) =>
               item.type === "highlight" &&
+              (action.anchorId && item.anchorId
+                ? item.anchorId === action.anchorId
+                : item.blocoIndex === action.blocoIndex &&
+                  item.partIndex === action.partIndex) &&
               rangesOverlap(
                 startOffset,
                 endOffset,
@@ -725,8 +1261,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         .insert({
           user_id: userId,
           lei_id: slug,
-          bloco_index: 0,
-          part_index: 0,
+          anchor_id: action.anchorId ?? null,
+          bloco_index: action.blocoIndex,
+          part_index: action.partIndex,
           start_offset: startOffset,
           end_offset: endOffset,
           color: action.color,
@@ -747,6 +1284,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
               id: data.id as string,
               createdAt: data.created_at as string,
               text: selectedText,
+              anchorId: action.anchorId,
+              blocoIndex: action.blocoIndex,
+              partIndex: action.partIndex,
               startOffset,
               endOffset,
             },
@@ -766,8 +1306,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
           user_id: userId,
           lei_id: slug,
           lei_title: leiTitle,
-          bloco_index: 0,
-          part_index: 0,
+          anchor_id: action.anchorId ?? null,
+          bloco_index: action.blocoIndex,
+          part_index: action.partIndex,
           start_offset: startOffset,
           end_offset: endOffset,
           selected_text: selectedText,
@@ -785,6 +1326,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
               id: data.id as string,
               createdAt: data.created_at as string,
               text: selectedText,
+              anchorId: action.anchorId,
+              blocoIndex: action.blocoIndex,
+              partIndex: action.partIndex,
               startOffset,
               endOffset,
             },
@@ -866,7 +1410,15 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       return
     }
 
-    const position = getSelectionPosition(readerRef.current, range)
+    const startPart = getReaderPartElement(range.startContainer)
+    const endPart = getReaderPartElement(range.endContainer)
+
+    if (!startPart || !endPart || startPart !== endPart) {
+      setSelectionMenu(null)
+      return
+    }
+
+    const position = getSelectionPosition(startPart, range)
 
     if (!position.text) {
       setSelectionMenu(null)
@@ -883,6 +1435,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         window.innerWidth - 12
       ),
       y: Math.max(rect.top - 12, 8),
+      anchorId: position.anchorId,
+      blocoIndex: position.blocoIndex,
+      partIndex: position.partIndex,
       startOffset: position.startOffset,
       endOffset: position.endOffset,
     })
@@ -899,6 +1454,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       color,
       label: option.label,
       text: selectionMenu?.text || "",
+      anchorId: selectionMenu?.anchorId,
+      blocoIndex: selectionMenu?.blocoIndex || 0,
+      partIndex: selectionMenu?.partIndex || 0,
       startOffset: selectionMenu?.startOffset || 0,
       endOffset:
         selectionMenu?.endOffset ||
@@ -925,6 +1483,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       type: "note",
       text: selectionMenu.text,
       note: noteText.trim(),
+      anchorId: selectionMenu.anchorId,
+      blocoIndex: selectionMenu.blocoIndex,
+      partIndex: selectionMenu.partIndex,
       startOffset: selectionMenu.startOffset,
       endOffset: selectionMenu.endOffset,
     })
@@ -1505,7 +2066,7 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         onTouchEnd={captureSelection}
         className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:py-14"
       >
-        <RenderDocumento lei={lei} />
+        <RenderCanonicalDocumento lei={lei} />
       </div>
     </main>
   )

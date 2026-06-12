@@ -15,6 +15,34 @@
         "q_decreto_001",
         "q_decreto_002",
         "q_decreto_003"
+      ],
+      "artigos": [
+        {
+          "id": "decreto_678_intro",
+          "rotulo": "DECRETO No 678, DE 6 DE NOVEMBRO DE 1992",
+          "titulo": "Promulga a Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica), de 22 de novembro de 1969.",
+          "texto": "O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso VIII, da Constituição, e\n\nConsiderando que a Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica), adotada no âmbito da Organização dos Estados Americanos, em São José da Costa Rica, em 22 de novembro de 1969, entrou em vigor internacional em 18 de julho de 1978, na forma do segundo parágrafo de seu art. 74;\n\nConsiderando que o Governo brasileiro depositou a Carta de Adesão a essa Convenção em 25 de setembro de 1992;\n\nConsiderando que a Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica) entrou em vigor, para o Brasil, em 25 de setembro de 1992, de conformidade com o disposto no segundo parágrafo de seu artigo 74;\n\nDECRETA:"
+        },
+        {
+          "id": "decreto_678_art_1",
+          "rotulo": "Art. 1°",
+          "texto": "A Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica), celebrada em São José da Costa Rica, em 22 de novembro de 1969, apensa por cópia ao presente Decreto, deverá ser cumprida tão inteiramente como nela se contém."
+        },
+        {
+          "id": "decreto_678_art_2",
+          "rotulo": "Art. 2°",
+          "texto": "Ao depositar a Carta de Adesão a esse ato internacional, em 25 de setembro de 1992, o Governo brasileiro fez a seguinte declaração interpretativa: \"O Governo do Brasil entende que os artigos 43 e 48, alínea \"d\", não incluem o direito automático de visitas e inspeções in loco da Comissão Interamericana de Direitos Humanos, as quais dependerão da anuência expressa do Estado\"."
+        },
+        {
+          "id": "decreto_678_art_3",
+          "rotulo": "Art. 3°",
+          "texto": "O presente Decreto entra em vigor na data de sua publicação."
+        },
+        {
+          "id": "decreto_678_assinatura",
+          "rotulo": "Assinatura",
+          "texto": "Brasília, 06 de novembro de 1992; 171° da Independência e 104° da República.\n\nITAMAR FRANCO\nFernando Henrique Cardoso"
+        }
       ]
     },
     "preambulo": {
