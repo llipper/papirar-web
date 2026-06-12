@@ -183,10 +183,14 @@ export default function LeisClient() {
   }
 
   return (
-    <main className="min-h-screen bg-white text-neutral-950">
+    <main className="min-h-screen bg-background text-foreground">
       <div className="mx-auto max-w-6xl px-6 py-14">
         <div className="mb-8 flex justify-end">
-          <Button variant="outline" asChild>
+          <Button
+            variant="outline"
+            className="hover:border-black hover:bg-black hover:text-white dark:hover:border-white dark:hover:bg-white dark:hover:text-black"
+            asChild
+          >
             <Link href="/perfil">
               <UserRound className="size-4" />
               Perfil
@@ -203,24 +207,24 @@ export default function LeisClient() {
             VADE MECUM
           </h1>
 
-          <p className="mt-4 text-sm text-neutral-500">
+          <p className="mt-4 text-sm text-muted-foreground">
             Escolha uma legislação para leitura organizada.
           </p>
 
-          <div className="mx-auto mt-8 flex h-12 max-w-md items-center gap-3 rounded-xl border border-neutral-200 bg-white px-4 shadow-sm">
-            <Search className="h-4 w-4 text-neutral-400" />
+          <div className="mx-auto mt-8 flex h-12 max-w-md items-center gap-3 rounded-xl border bg-card px-4 shadow-sm">
+            <Search className="h-4 w-4 text-muted-foreground" />
 
             <input
               value={busca}
               onChange={(e) => setBusca(e.target.value)}
               placeholder="Buscar lei..."
-              className="w-full bg-transparent text-sm outline-none placeholder:text-neutral-400"
+              className="w-full bg-transparent text-sm outline-none placeholder:text-muted-foreground"
             />
           </div>
         </header>
 
         {carregando && (
-          <p className="text-center text-sm text-neutral-500">
+          <p className="text-center text-sm text-muted-foreground">
             Carregando documentos...
           </p>
         )}
@@ -230,7 +234,7 @@ export default function LeisClient() {
         )}
 
         {!erro && !carregando && leis.length === 0 && (
-          <p className="text-center text-sm text-neutral-500">
+          <p className="text-center text-sm text-muted-foreground">
             Nenhum documento disponível para este usuário.
           </p>
         )}
@@ -244,7 +248,7 @@ export default function LeisClient() {
                     {categoria}
                   </h2>
 
-                  <p className="mt-1 text-sm text-neutral-400">
+                  <p className="mt-1 text-sm text-muted-foreground">
                     {itens.length} {itens.length === 1 ? "lei" : "leis"}
                   </p>
                 </div>
@@ -253,7 +257,7 @@ export default function LeisClient() {
                   <button
                     type="button"
                     onClick={() => scrollCategoria(categoria, "left")}
-                    className="flex h-8 w-8 items-center justify-center rounded-full border border-neutral-200 bg-white text-neutral-400 shadow-sm transition hover:text-neutral-950"
+                    className="flex h-8 w-8 items-center justify-center rounded-full border bg-card text-muted-foreground shadow-sm transition hover:bg-foreground hover:text-background"
                   >
                     <ChevronLeft className="h-4 w-4" />
                   </button>
@@ -261,7 +265,7 @@ export default function LeisClient() {
                   <button
                     type="button"
                     onClick={() => scrollCategoria(categoria, "right")}
-                    className="flex h-8 w-8 items-center justify-center rounded-full border border-neutral-200 bg-white text-neutral-400 shadow-sm transition hover:text-neutral-950"
+                    className="flex h-8 w-8 items-center justify-center rounded-full border bg-card text-muted-foreground shadow-sm transition hover:bg-foreground hover:text-background"
                   >
                     <ChevronRight className="h-4 w-4" />
                   </button>
