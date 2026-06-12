@@ -13,6 +13,7 @@ import {
 
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import {
   Dialog,
   DialogContent,
@@ -715,22 +716,116 @@ function partClassName(type: ReaderBlockType, textValue: string) {
 
   const trimmed = textValue.trim()
   if (/^(§\s*\d|Parágrafo único)/i.test(trimmed)) {
-    return "mt-5 border-l-2 pl-5 text-sm leading-7 text-muted-foreground"
+    return "mt-5 text-sm leading-7 text-muted-foreground"
   }
   if (/^[IVXLCDM]+\b/.test(trimmed)) {
-    return "mt-4 border-l pl-5 text-sm leading-7 text-muted-foreground"
+    return "mt-4 text-sm leading-7 text-muted-foreground"
   }
   if (/^[a-z]\)/.test(trimmed)) {
-    return "mt-3 border-l pl-5 text-sm leading-7 text-muted-foreground"
+    return "mt-3 text-sm leading-7 text-muted-foreground"
   }
 
   return readerBlockClassName(type)
+}
+
+function isArticleChildBlock(type: ReaderBlockType) {
+  return type === "corpo" || type === "rubrica"
 }
 
 function RenderCanonicalDocumento({ lei }: { lei: unknown }) {
   const documento = pegarDocumento(lei)
   const conteudo = pegarConteudo(lei)
   const blocks = getReaderBlocks(lei)
+
+  const sections: Array<
+    | { type: "block"; block: ReaderBlock; blocoIndex: number }
+    | {
+        type: "article"
+        titleBlock: ReaderBlock
+        titleIndex: number
+        children: Array<{ block: ReaderBlock; blocoIndex: number }>
+      }
+  > = []
+
+  for (let index = 0; index < blocks.length; index += 1) {
+    const block = blocks[index]
+
+    if (block.type !== "artigo") {
+      sections.push({ type: "block", block, blocoIndex: index })
+      continue
+    }
+
+    const children: Array<{ block: ReaderBlock; blocoIndex: number }> = []
+    let cursor = index + 1
+
+    while (cursor < blocks.length && isArticleChildBlock(blocks[cursor].type)) {
+      children.push({ block: blocks[cursor], blocoIndex: cursor })
+      cursor += 1
+    }
+
+    sections.push({
+      type: "article",
+      titleBlock: block,
+      titleIndex: index,
+      children,
+    })
+    index = cursor - 1
+  }
+
+  const renderBlockParts = (block: ReaderBlock, blocoIndex: number) => {
+    const parts = splitReaderParts(block)
+
+    return parts.map((part, partIndex) => {
+      const className = partClassName(block.type, part)
+      const anchorId = block.anchorIds?.[partIndex]
+      const content =
+        block.type === "parte" ||
+        block.type === "livro" ||
+        block.type === "titulo" ||
+        block.type === "capitulo" ||
+        block.type === "secao" ||
+        block.type === "subsecao" ? (
+          separarTituloHierarquico(part).map((title, index) => (
+            <span key={`${title.texto}-${index}`} className="block">
+              {title.rotulo || title.texto}
+              {title.descricao && (
+                <span className="mt-2 block text-sm tracking-[0.14em]">
+                  {title.descricao}
+                </span>
+              )}
+            </span>
+          ))
+        ) : (
+          <TextoMarcado valor={part} />
+        )
+
+      if (block.type === "rubrica") {
+        return (
+          <span
+            key={`${blocoIndex}-${partIndex}`}
+            data-reader-block-index={blocoIndex}
+            data-reader-part-index={partIndex}
+            data-reader-anchor-id={anchorId}
+            className={className}
+          >
+            {content}
+          </span>
+        )
+      }
+
+      return (
+        <p
+          key={`${blocoIndex}-${partIndex}`}
+          data-reader-block-index={blocoIndex}
+          data-reader-part-index={partIndex}
+          data-reader-anchor-id={anchorId}
+          className={className}
+        >
+          {content}
+        </p>
+      )
+    })
+  }
 
   return (
     <>
@@ -769,62 +864,55 @@ function RenderCanonicalDocumento({ lei }: { lei: unknown }) {
       <Separator className="mb-10" />
 
       <article className="mx-auto max-w-4xl">
-        {blocks.map((block, blocoIndex) => {
-          const parts = splitReaderParts(block)
+        {sections.map((section) => {
+          if (section.type === "block") {
+            return (
+              <div
+                key={`${section.blocoIndex}-${section.block.text.slice(0, 16)}`}
+              >
+                {renderBlockParts(section.block, section.blocoIndex)}
+              </div>
+            )
+          }
+
+          const titleParts = splitReaderParts(section.titleBlock)
 
           return (
-            <div key={`${blocoIndex}-${block.text.slice(0, 16)}`}>
-              {parts.map((part, partIndex) => {
-                const className = partClassName(block.type, part)
-                const anchorId = block.anchorIds?.[partIndex]
-                const content =
-                  block.type === "parte" ||
-                  block.type === "livro" ||
-                  block.type === "titulo" ||
-                  block.type === "capitulo" ||
-                  block.type === "secao" ||
-                  block.type === "subsecao" ? (
-                    separarTituloHierarquico(part).map((title, index) => (
-                      <span key={`${title.texto}-${index}`} className="block">
-                        {title.rotulo || title.texto}
-                        {title.descricao && (
-                          <span className="mt-2 block text-sm tracking-[0.14em]">
-                            {title.descricao}
-                          </span>
-                        )}
-                      </span>
-                    ))
-                  ) : (
-                    <TextoMarcado valor={part} />
-                  )
-
-                if (block.type === "rubrica") {
-                  return (
-                    <span
-                      key={`${blocoIndex}-${partIndex}`}
-                      data-reader-block-index={blocoIndex}
-                      data-reader-part-index={partIndex}
-                      data-reader-anchor-id={anchorId}
-                      className={className}
-                    >
-                      {content}
-                    </span>
-                  )
-                }
-
-                return (
-                  <p
-                    key={`${blocoIndex}-${partIndex}`}
-                    data-reader-block-index={blocoIndex}
+            <Card
+              key={`${section.titleIndex}-${section.titleBlock.text.slice(0, 16)}`}
+              className="mt-6 bg-transparent shadow-none ring-0"
+            >
+              <CardHeader>
+                {titleParts.map((part, partIndex) => (
+                  <CardTitle
+                    key={`${section.titleIndex}-${partIndex}`}
+                    data-reader-block-index={section.titleIndex}
                     data-reader-part-index={partIndex}
-                    data-reader-anchor-id={anchorId}
-                    className={className}
+                    data-reader-anchor-id={
+                      section.titleBlock.anchorIds?.[partIndex]
+                    }
+                    className="text-lg"
                   >
-                    {content}
-                  </p>
-                )
-              })}
-            </div>
+                    <TextoMarcado valor={part} />
+                  </CardTitle>
+                ))}
+                {section.children
+                  .filter(({ block }) => block.type === "rubrica")
+                  .flatMap(({ block, blocoIndex }) =>
+                    renderBlockParts(block, blocoIndex)
+                  )}
+              </CardHeader>
+
+              <CardContent>
+                {section.children
+                  .filter(({ block }) => block.type !== "rubrica")
+                  .map(({ block, blocoIndex }) => (
+                    <div key={`${blocoIndex}-${block.text.slice(0, 16)}`}>
+                      {renderBlockParts(block, blocoIndex)}
+                    </div>
+                  ))}
+              </CardContent>
+            </Card>
           )
         })}
       </article>
