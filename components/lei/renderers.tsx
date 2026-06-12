@@ -434,6 +434,10 @@ export default function RenderDocumento({ lei }: { lei: any }) {
 
       <Separator className="mb-10" />
 
+      {documento.decreto?.artigos && arr(documento.decreto.artigos).map((a: any, index: number) => (
+        <RenderArtigo key={`${a?.id ?? ""}-${index}`} artigo={a} />
+      ))}
+
       <RenderPreambulo preambulo={conteudo.preambulo || documento.preambulo} />
 
       {arr(conteudo.partes).map((p: any, index: number) => (

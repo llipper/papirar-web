@@ -23,7 +23,8 @@ export function rotuloInciso(inciso: any) {
 
 export function rotuloAlinea(alinea: any) {
   if (texto(alinea?.rotulo)) return alinea.rotulo;
-  if (alinea?.letra) return `${alinea.letra})`;
+  const marcador = texto(alinea?.letra ?? alinea?.numero);
+  if (marcador) return marcador.endsWith(")") ? marcador : `${marcador})`;
   return "";
 }
 

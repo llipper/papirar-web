@@ -34,7 +34,7 @@ import {
 import { Skeleton } from "@/components/ui/skeleton"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Textarea } from "@/components/ui/textarea"
-import { TextoMarcado } from "@/components/lei/renderers"
+import RenderDocumento, { TextoMarcado } from "@/components/lei/renderers"
 import { arr, pegarConteudo, pegarDocumento, texto } from "@/lib/lei-core"
 import {
   rotuloAlinea,
@@ -721,7 +721,7 @@ function partClassName(type: ReaderBlockType, textValue: string) {
   if (/^[IVXLCDM]+\b/.test(trimmed)) {
     return "mt-4 text-sm leading-7 text-muted-foreground"
   }
-  if (/^[a-z]\)/.test(trimmed)) {
+  if (/^[a-zA-Z]\)/.test(trimmed)) {
     return "mt-3 text-sm leading-7 text-muted-foreground"
   }
 
@@ -1188,6 +1188,25 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
     }
   }, [selectionMenu])
 
+  function createNoteButton(action: ReaderAction) {
+    const noteButton = document.createElement("button")
+    noteButton.type = "button"
+    noteButton.dataset.readerActionId = action.id
+    noteButton.dataset.leiNoteButton = "true"
+    noteButton.className =
+      "mx-1 inline-flex size-5 align-middle items-center justify-center rounded-full border bg-background text-[10px] text-muted-foreground shadow-sm hover:bg-muted hover:text-foreground"
+    noteButton.setAttribute("aria-label", "Abrir anotacao deste trecho")
+    noteButton.title = action.note || "Anotacao"
+    noteButton.innerHTML =
+      '<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M5 3H19C19.5523 3 20 3.44772 20 4V22L16 19H5C4.44772 19 4 18.5523 4 18V4C4 3.44772 4.44772 3 5 3ZM6 5V17H16.6667L18 18V5H6Z"/></svg>'
+    noteButton.addEventListener("click", () => {
+      setAnnotationsTab("notes")
+      setAnnotationsOpen(true)
+    })
+
+    return noteButton
+  }
+
   useEffect(() => {
     if (!readerRef.current) return
 
@@ -1270,21 +1289,7 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       }
 
       if (action.type === "note") {
-        const noteButton = document.createElement("button")
-        noteButton.type = "button"
-        noteButton.dataset.readerActionId = action.id
-        noteButton.dataset.leiNoteButton = "true"
-        noteButton.className =
-          "mx-1 inline-flex size-5 align-middle items-center justify-center rounded-full border bg-background text-[10px] text-muted-foreground shadow-sm hover:bg-muted hover:text-foreground"
-        noteButton.setAttribute("aria-label", "Abrir anotacao deste trecho")
-        noteButton.title = action.note || "Anotacao"
-        noteButton.innerHTML =
-          '<svg viewBox="0 0 24 24" width="12" height="12" fill="currentColor" aria-hidden="true"><path d="M5 3H19C19.5523 3 20 3.44772 20 4V22L16 19H5C4.44772 19 4 18.5523 4 18V4C4 3.44772 4.44772 3 5 3ZM6 5V17H16.6667L18 18V5H6Z"/></svg>'
-        noteButton.addEventListener("click", () => {
-          setAnnotationsTab("notes")
-          setAnnotationsOpen(true)
-        })
-        wrapper.after(noteButton)
+        wrapper.after(createNoteButton(action))
       }
     }
   }, [lei, readerActions])
@@ -1459,21 +1464,86 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
     setReaderActions(actions)
   }
 
-  function scrollToReaderAction(action: ReaderAction) {
-    const target = readerRef.current?.querySelector<HTMLElement>(
-      `[data-reader-action-id="${action.id}"]`
-    )
+  function findReaderActionTarget(action: ReaderAction) {
+    const reader = readerRef.current
+    if (!reader) return null
 
-    if (!target) {
-      setActionMessage("Trecho nao encontrado no texto carregado.")
-      return
+    const markedTarget = reader.querySelector<HTMLElement>(
+      `[data-reader-action-id="${CSS.escape(action.id)}"]`
+    )
+    if (markedTarget) return markedTarget
+
+    const anchorRoot = action.anchorId
+      ? reader.querySelector<HTMLElement>(
+          `[data-reader-anchor-id="${CSS.escape(action.anchorId)}"]`
+        )
+      : null
+    const searchRoot = anchorRoot || reader
+    const { fullText, nodes } = getTextNodes(searchRoot)
+    const text = action.text
+    let startOffset =
+      fullText.slice(action.startOffset, action.endOffset) === text
+        ? action.startOffset
+        : -1
+
+    if (startOffset < 0) {
+      startOffset = fullText.indexOf(text, action.startOffset)
+      if (startOffset < 0) startOffset = fullText.indexOf(text)
     }
 
-    target.scrollIntoView({ behavior: "smooth", block: "center" })
-    target.classList.add("ring-2", "ring-ring", "ring-offset-2")
-    window.setTimeout(() => {
-      target.classList.remove("ring-2", "ring-ring", "ring-offset-2")
-    }, 1600)
+    if (startOffset < 0) return null
+
+    const endOffset = startOffset + text.length
+    const startNode = getBoundary(nodes, startOffset, "start")
+    const endNode = getBoundary(nodes, endOffset, "end")
+    if (!startNode || !endNode) return null
+
+    const range = document.createRange()
+    range.setStart(startNode.node, startNode.offset)
+    range.setEnd(endNode.node, endNode.offset)
+
+    const wrapper =
+      action.type === "highlight"
+        ? document.createElement("mark")
+        : document.createElement("span")
+    wrapper.dataset.readerActionId = action.id
+    wrapper.className =
+      action.type === "highlight" && action.color
+        ? `${highlightOptions.find((item) => item.color === action.color)?.className || ""} scroll-mt-24 rounded px-0.5`
+        : "scroll-mt-24 rounded px-0.5 underline decoration-border decoration-dotted underline-offset-4"
+
+    try {
+      range.surroundContents(wrapper)
+    } catch {
+      const content = range.extractContents()
+      wrapper.appendChild(content)
+      range.insertNode(wrapper)
+    }
+
+    if (action.type === "note") {
+      wrapper.after(createNoteButton(action))
+    }
+
+    return wrapper
+  }
+
+  function scrollToReaderAction(action: ReaderAction) {
+    setAnnotationsOpen(false)
+
+    window.requestAnimationFrame(() => {
+      const target = findReaderActionTarget(action)
+
+      if (!target) {
+        setActionMessage("Trecho nao encontrado no texto carregado.")
+        return
+      }
+
+      target.scrollIntoView({ behavior: "smooth", block: "center" })
+      target.classList.add("ring-2", "ring-ring", "ring-offset-2")
+      window.setTimeout(() => {
+        target.classList.remove("ring-2", "ring-ring", "ring-offset-2")
+      }, 1600)
+    })
   }
 
   function clearSelection() {
@@ -1498,8 +1568,9 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
       return
     }
 
-    const startPart = getReaderPartElement(range.startContainer)
-    const endPart = getReaderPartElement(range.endContainer)
+    const startPart =
+      getReaderPartElement(range.startContainer) || readerRef.current
+    const endPart = getReaderPartElement(range.endContainer) || readerRef.current
 
     if (!startPart || !endPart || startPart !== endPart) {
       setSelectionMenu(null)
@@ -2154,7 +2225,7 @@ export default function LeiReaderClient({ slug }: { slug: string }) {
         onTouchEnd={captureSelection}
         className="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:py-14"
       >
-        <RenderCanonicalDocumento lei={lei} />
+        <RenderDocumento lei={lei} />
       </div>
     </main>
   )
